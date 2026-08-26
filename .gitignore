@@ -16,3 +16,5 @@ env/
 # Saídas geradas
 submission.csv
 *.log
+# reproduzível via: python main.py
+results/
