@@ -20,9 +20,7 @@ from collections import defaultdict
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE)
-sys.path.insert(0, os.path.join(BASE, "baseline_regra"))
 
-from resolver import Resolvedor          # noqa: E402
 import solucoes                          # noqa: E402
 
 IOU_MIN = 0.5
@@ -96,7 +94,7 @@ def avaliar(preds_por_doc, golden):
 
 def main():
     golden = carregar_golden(os.path.join(BASE, "goldenset.csv"))
-    ctx = {"resolvedor": Resolvedor(os.path.join(BASE, "desafio1_bracis.db"))}
+    ctx = {}
 
     docs = sorted(glob.glob(os.path.join(BASE, "txt", "*.txt")))
     resultados, resumo = {}, {}

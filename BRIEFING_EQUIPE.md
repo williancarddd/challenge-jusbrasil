@@ -35,7 +35,7 @@ txt/gen_n1_001.txt   →   [NOSSO CÓDIGO]   →   JSON por documento   →   su
 | `desafio1_bracis.db` | **Ferramenta de consulta.** 1.018 registros. É contra ele que uma citação é real ou inventada. **NÃO é dado de entrada.** |
 | `goldenset.csv` | **Gabarito (ground truth) da amostra de dev.** 225 citações. Serve para medir/depurar nossa solução. |
 | `json_to_submission.py` | Converte nossos JSONs no CSV de submissão. |
-| `baseline_regra/` + `main.py` + `solucoes.py` | Nossa solução de referência (determinística). |
+| `main.py` + `solucoes.py` | Orquestração e avaliação. `solucoes.REGISTRO` está vazio — o baseline de referência foi removido e precisa ser reimplementado. |
 
 **Importante:** não há dataset de treinamento clássico. São só 225 exemplos —
 a solução esperada é **regra + consulta ao banco**, não treinar um modelo do zero.
@@ -70,7 +70,11 @@ a solução esperada é **regra + consulta ao banco**, não treinar um modelo do
 
 ## 7. Estado atual do baseline (referência a superar)
 
-`python main.py` reproduz:
+O baseline de referência (extração + normalização + `Resolvedor` de consulta
+ao `.db`) foi removido do repositório e ainda não tem substituto. `python
+main.py` roda sem erro, mas com `solucoes.REGISTRO` vazio não produz nenhuma
+solução para avaliar. Os números abaixo são os últimos medidos com o baseline
+removido, mantidos aqui só como referência histórica do patamar a reproduzir:
 
 | nível | span-F1 | classe@match | id@real |
 |---|---|---|---|
