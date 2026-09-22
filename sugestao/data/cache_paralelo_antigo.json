@@ -1,0 +1,1524 @@
+{
+ "gen_n1_001": [
+  {
+   "start": 348,
+   "end": 380,
+   "text": "precedentes aplic\u00e1veis \u00e0 esp\u00e9cie",
+   "block_index": 3,
+   "confidence": 0.5
+  },
+  {
+   "start": 589,
+   "end": 652,
+   "text": "julgado do STF proferido em 2024 pela relatoria de Dias Toffoli",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 797,
+   "end": 820,
+   "text": "Reclama\u00e7\u00e3o n\u00ba 66.516/RO",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 951,
+   "end": 985,
+   "text": "AgInt 7557430-50.2018.7.00.0000/DF",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 1398,
+   "end": 1479,
+   "text": "julgado do STM proferido em 2023 pela relatoria de CARLOS AUGUSTO AMARAL OLIVEIRA",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1928,
+   "end": 1963,
+   "text": "APL n\u00ba 7000449-40.2023.7.00.0000/RS",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2463,
+   "end": 2508,
+   "text": "dispositivo constitucional invocado na origem",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2901,
+   "end": 2914,
+   "text": "Rcl 88.178/RS",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3058,
+   "end": 3114,
+   "text": "precedente do STM de 2023, da relatoria de Marco Antonio",
+   "block_index": 12,
+   "confidence": 0.9
+  },
+  {
+   "start": 3252,
+   "end": 3287,
+   "text": "RSE n\u00ba 7000592-58.2025.7.00.0000/DF",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_002": [
+  {
+   "start": 651,
+   "end": 709,
+   "text": "precedente do STF de 2026, da relatoria de CRISTIANO ZANIN",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 845,
+   "end": 898,
+   "text": "Reclama\u00e7\u00e3o do STF, de 2025, Rel. Min. CRISTIANO ZANIN",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1052,
+   "end": 1065,
+   "text": "Rcl 55.626/DF",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1464,
+   "end": 1501,
+   "text": "Recurso em Habeas Corpus n\u00ba 57.763/PR",
+   "block_index": 6,
+   "confidence": 0.99
+  },
+  {
+   "start": 1613,
+   "end": 1643,
+   "text": "AgInt no AREsp n\u00ba 1.996.496/RJ",
+   "block_index": 6,
+   "confidence": 0.99
+  },
+  {
+   "start": 2133,
+   "end": 2153,
+   "text": "S\u00famula Vinculante 10",
+   "block_index": 8,
+   "confidence": 1.0
+  },
+  {
+   "start": 2308,
+   "end": 2350,
+   "text": "Agravo em Recurso Especial n\u00ba 1.708.000/SP",
+   "block_index": 8,
+   "confidence": 1.0
+  },
+  {
+   "start": 2889,
+   "end": 2956,
+   "text": "dispositivo constitucional invocado na origem, de aplica\u00e7\u00e3o cogente",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 3364,
+   "end": 3396,
+   "text": "art. 1.134 da Lei n\u00ba 13.105/2015",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_003": [
+  {
+   "start": 577,
+   "end": 593,
+   "text": "AREsp 1576933/SP",
+   "block_index": 4,
+   "confidence": 0.99
+  },
+  {
+   "start": 1041,
+   "end": 1076,
+   "text": "jurisprud\u00eancia pac\u00edfica desta Corte",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1193,
+   "end": 1235,
+   "text": "art. 158 do C\u00f3digo de Defesa do Consumidor",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1677,
+   "end": 1695,
+   "text": "REsp n\u00ba 2020005/RJ",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2308,
+   "end": 2380,
+   "text": "Agravo em Recurso Especial do STJ, de 2023, Rel. Min. Assusete Magalh\u00e3es",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2480,
+   "end": 2522,
+   "text": "art. 185 do C\u00f3digo de Defesa do Consumidor",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 3034,
+   "end": 3060,
+   "text": "AgRg no AREsp 1.327.863/PR",
+   "block_index": 12,
+   "confidence": 0.99
+  },
+  {
+   "start": 3204,
+   "end": 3223,
+   "text": "art. 373, I, do CPC",
+   "block_index": 12,
+   "confidence": 0.99
+  }
+ ],
+ "gen_n1_004": [
+  {
+   "start": 964,
+   "end": 1013,
+   "text": "artigo correspondente do C\u00f3digo de Processo Civil",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1435,
+   "end": 1450,
+   "text": "RE 7.216.673/RS",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 1571,
+   "end": 1603,
+   "text": "APL 7000136-79.2023.7.00.0000/RS",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2005,
+   "end": 2040,
+   "text": "RSE n\u00ba 7000768-37.2025.7.00.0000/RS",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2508,
+   "end": 2540,
+   "text": "art. 290 do C\u00f3digo Penal Militar",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 2639,
+   "end": 2671,
+   "text": "RSE 7000082-11.2026.7.00.0000/RS",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_005": [
+  {
+   "start": 848,
+   "end": 874,
+   "text": "AgInt no REsp 1.599.910/PR",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 1532,
+   "end": 1558,
+   "text": "AgInt no REsp 1.664.893/PR",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 2039,
+   "end": 2104,
+   "text": "julgado do STF proferido em 2025 pela relatoria de ANDR\u00c9 MENDON\u00c7A",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2668,
+   "end": 2681,
+   "text": "Rcl 88.860/PE",
+   "block_index": 10,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_006": [
+  {
+   "start": 505,
+   "end": 536,
+   "text": "AgR-REspe 378-82.2016.6.05.0151",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1163,
+   "end": 1194,
+   "text": "REspe 0600530-94.2020.6.26.0171",
+   "block_index": 6,
+   "confidence": 1.0
+  },
+  {
+   "start": 1331,
+   "end": 1364,
+   "text": "Rcl de 2021, Rel. Min. Rosa Weber",
+   "block_index": 6,
+   "confidence": 1.0
+  },
+  {
+   "start": 1818,
+   "end": 1856,
+   "text": "art. 75 da Lei Complementar n\u00ba 64/1990",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 1991,
+   "end": 2051,
+   "text": "ac\u00f3rd\u00e3o do TSE julgado em 2020 sob relatoria de Edson Fachin",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2188,
+   "end": 2201,
+   "text": "Rcl 33.132/AC",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2684,
+   "end": 2712,
+   "text": "art. 462 do C\u00f3digo Eleitoral",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 3086,
+   "end": 3119,
+   "text": "AREspEI 0601514-91.2020.6.05.0000",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_007": [
+  {
+   "start": 531,
+   "end": 572,
+   "text": "art. 93, IX, da Constitui\u00e7\u00e3o da Rep\u00fablica",
+   "block_index": 3,
+   "confidence": 0.95
+  },
+  {
+   "start": 946,
+   "end": 968,
+   "text": "AgInt na Rcl 36.670/SP",
+   "block_index": 5,
+   "confidence": 0.95
+  },
+  {
+   "start": 1433,
+   "end": 1483,
+   "text": "STF proferido em 2021 pela relatoria de Rosa Weber",
+   "block_index": 7,
+   "confidence": 0.95
+  },
+  {
+   "start": 1636,
+   "end": 1652,
+   "text": "RHC n\u00ba 55.508/RS",
+   "block_index": 7,
+   "confidence": 0.95
+  },
+  {
+   "start": 1732,
+   "end": 1764,
+   "text": "art. 261 da Constitui\u00e7\u00e3o Federal",
+   "block_index": 7,
+   "confidence": 0.95
+  },
+  {
+   "start": 1902,
+   "end": 1937,
+   "text": "Rcl de 2025, Rel. Min. C\u00c1RMEN L\u00daCIA",
+   "block_index": 7,
+   "confidence": 0.95
+  },
+  {
+   "start": 2360,
+   "end": 2426,
+   "text": "ac\u00f3rd\u00e3o do STJ julgado em 2023 sob relatoria de Assusete Magalh\u00e3es",
+   "block_index": 9,
+   "confidence": 0.95
+  },
+  {
+   "start": 2892,
+   "end": 2909,
+   "text": "REsp 1.883.715/SP",
+   "block_index": 11,
+   "confidence": 0.99
+  },
+  {
+   "start": 3028,
+   "end": 3051,
+   "text": "Reclama\u00e7\u00e3o n\u00ba 11.125/SP",
+   "block_index": 11,
+   "confidence": 0.99
+  }
+ ],
+ "gen_n1_008": [
+  {
+   "start": 558,
+   "end": 603,
+   "text": "art. 477 da Consolida\u00e7\u00e3o das Leis do Trabalho",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 702,
+   "end": 746,
+   "text": "orienta\u00e7\u00e3o jurisprudencial da Corte Superior",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 888,
+   "end": 933,
+   "text": "processo n\u00ba TST-E-RR-173000-49.2008.5.15.0024",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 1341,
+   "end": 1378,
+   "text": "TST-ED-E-ED-RR-3400-05.2011.5.21.0009",
+   "block_index": 6,
+   "confidence": 0.99
+  },
+  {
+   "start": 1831,
+   "end": 1844,
+   "text": "Rcl 77.140/SP",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2332,
+   "end": 2347,
+   "text": "art. 818 da CLT",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2427,
+   "end": 2462,
+   "text": "verbete sumular aplic\u00e1vel \u00e0 esp\u00e9cie",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2952,
+   "end": 2996,
+   "text": "orienta\u00e7\u00e3o jurisprudencial da Corte Superior",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3099,
+   "end": 3116,
+   "text": "S\u00famula 331 do TST",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3238,
+   "end": 3251,
+   "text": "Rcl 88.696/RJ",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_009": [
+  {
+   "start": 447,
+   "end": 461,
+   "text": "AGRAVO INTERNO",
+   "block_index": 3,
+   "confidence": 0.95
+  },
+  {
+   "start": 616,
+   "end": 686,
+   "text": "Embargos de Declara\u00e7\u00e3o no Recurso em Mandado de Seguran\u00e7a n\u00ba 67.101/RJ",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1386,
+   "end": 1403,
+   "text": "REsp 1.501.000/RJ",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1921,
+   "end": 1934,
+   "text": "RHC 346037/PR",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2449,
+   "end": 2533,
+   "text": "Embargos de Declara\u00e7\u00e3o no Agravo Interno no Agravo em Recurso Especial n\u00ba 1904603/TO",
+   "block_index": 10,
+   "confidence": 0.99
+  },
+  {
+   "start": 2968,
+   "end": 2985,
+   "text": "S\u00famula 979 do STF",
+   "block_index": 12,
+   "confidence": 1.0
+  },
+  {
+   "start": 3065,
+   "end": 3098,
+   "text": "AgInt nos EDcl no REsp 2144995/RJ",
+   "block_index": 12,
+   "confidence": 1.0
+  },
+  {
+   "start": 3220,
+   "end": 3235,
+   "text": "REsp 5672508/RJ",
+   "block_index": 12,
+   "confidence": 1.0
+  },
+  {
+   "start": 3401,
+   "end": 3465,
+   "text": "Agravo Interno na Suspens\u00e3o de Liminar e de Senten\u00e7a n\u00ba 2.883/MA",
+   "block_index": 12,
+   "confidence": 1.0
+  },
+  {
+   "start": 3603,
+   "end": 3635,
+   "text": "EDcl no AgInt no REsp 1889127/SE",
+   "block_index": 12,
+   "confidence": 1.0
+  }
+ ],
+ "gen_n1_010": [
+  {
+   "start": 477,
+   "end": 494,
+   "text": "REsp 6.989.916/RS",
+   "block_index": 3,
+   "confidence": 1.0
+  },
+  {
+   "start": 933,
+   "end": 949,
+   "text": "RHC n\u00ba 88.033/RS",
+   "block_index": 5,
+   "confidence": 0.99
+  },
+  {
+   "start": 1612,
+   "end": 1629,
+   "text": "S\u00famula 443 do STJ",
+   "block_index": 7,
+   "confidence": 0.95
+  },
+  {
+   "start": 2140,
+   "end": 2172,
+   "text": "Recurso Especial n\u00ba 1.657.496/RS",
+   "block_index": 9,
+   "confidence": 0.95
+  },
+  {
+   "start": 2556,
+   "end": 2588,
+   "text": "Recurso Especial n\u00ba 1.718.894/SP",
+   "block_index": 11,
+   "confidence": 0.95
+  },
+  {
+   "start": 2748,
+   "end": 2777,
+   "text": "AgInt no REsp n\u00ba 1.944.552/RS",
+   "block_index": 11,
+   "confidence": 0.95
+  },
+  {
+   "start": 2918,
+   "end": 2931,
+   "text": "Rcl 33.235/RJ",
+   "block_index": 11,
+   "confidence": 0.95
+  },
+  {
+   "start": 3049,
+   "end": 3107,
+   "text": "Agravo Interno no Agravo em Recurso Especial n\u00ba 1807643/RS",
+   "block_index": 11,
+   "confidence": 0.95
+  },
+  {
+   "start": 3235,
+   "end": 3251,
+   "text": "Rcl n\u00ba 55.930/SP",
+   "block_index": 11,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_011": [
+  {
+   "start": 384,
+   "end": 401,
+   "text": "AGRAVO REGIMENTAL",
+   "block_index": 3,
+   "confidence": 0.9
+  },
+  {
+   "start": 502,
+   "end": 523,
+   "text": "S\u00famula Vinculante 182",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 600,
+   "end": 617,
+   "text": "ac\u00f3rd\u00e3o recorrido",
+   "block_index": 4,
+   "confidence": 0.7
+  },
+  {
+   "start": 670,
+   "end": 728,
+   "text": "precedente do STF de 2024, da relatoria de Cristiano Zanin",
+   "block_index": 4,
+   "confidence": 0.9
+  },
+  {
+   "start": 1216,
+   "end": 1242,
+   "text": "AgInt no REsp 1.820.970/SC",
+   "block_index": 6,
+   "confidence": 0.99
+  },
+  {
+   "start": 1710,
+   "end": 1746,
+   "text": "art. 5\u00ba, LV, da Constitui\u00e7\u00e3o Federal",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2204,
+   "end": 2220,
+   "text": "RHC n\u00ba 55.509/SC",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2363,
+   "end": 2421,
+   "text": "precedente do STF de 2026, da relatoria de CRISTIANO ZANIN",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2828,
+   "end": 2851,
+   "text": "Reclama\u00e7\u00e3o n\u00ba 33.125/SP",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_012": [
+  {
+   "start": 574,
+   "end": 605,
+   "text": "ED-E-ED-RR-65-63.2010.5.01.0075",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1119,
+   "end": 1143,
+   "text": "art. 896, \u00a7 1\u00ba-A, da CLT",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1218,
+   "end": 1243,
+   "text": "ARR-213-85.2010.5.02.0030",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1412,
+   "end": 1428,
+   "text": "Rcl n\u00ba 66.884/RJ",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1891,
+   "end": 1914,
+   "text": "Reclama\u00e7\u00e3o n\u00ba 22.357/PE",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2043,
+   "end": 2085,
+   "text": "processo n\u00ba TST-RR-79500-16.2009.5.15.0016",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2432,
+   "end": 2467,
+   "text": "orienta\u00e7\u00e3o dos tribunais superiores",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2970,
+   "end": 2986,
+   "text": "Rcl n\u00ba 68.244/SP",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3135,
+   "end": 3170,
+   "text": "Terceiro AG.REG na Rcl n\u00ba 62.425/SP",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3317,
+   "end": 3330,
+   "text": "Rcl 44.960/PE",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n1_013": [
+  {
+   "start": 327,
+   "end": 375,
+   "text": "Tribunal Regional Eleitoral DO RIO GRANDE DO SUL",
+   "block_index": 3,
+   "confidence": 0.95
+  },
+  {
+   "start": 548,
+   "end": 602,
+   "text": "reiterados precedentes do Superior Tribunal de Justi\u00e7a",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1041,
+   "end": 1064,
+   "text": "Reclama\u00e7\u00e3o n\u00ba 22.225/SP",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1629,
+   "end": 1676,
+   "text": "art. 1\u00ba, I, 'g', da Lei Complementar n\u00ba 64/1990",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2305,
+   "end": 2336,
+   "text": "julgamento da S\u00famula 168 do TSE",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2532,
+   "end": 2603,
+   "text": "Agravo Regimental no Agravo de Instrumento n\u00ba 0606252-11.2018.6.26.0000",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2973,
+   "end": 3002,
+   "text": "R-Rp n\u00ba 986-96.2010.6.00.0000",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_001": [
+  {
+   "start": 390,
+   "end": 407,
+   "text": "AGRAVO REGIMENTAL",
+   "block_index": 3,
+   "confidence": 0.9
+  },
+  {
+   "start": 544,
+   "end": 563,
+   "text": "RE n\u00ba\u00a05. 230.808-DF",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 972,
+   "end": 989,
+   "text": "RCL n\u00ba 33128 (GO)",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1194,
+   "end": 1244,
+   "text": "Reclama\u00e7\u00e3o do STF, de 2024, Rel. Min. C\u00e1rmen L\u00facia",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1707,
+   "end": 1742,
+   "text": "AgRg no Rec. Esp. n.\u00a01.522.200 (SC)",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2220,
+   "end": 2237,
+   "text": "S\u00famula 935 do STF",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2343,
+   "end": 2407,
+   "text": "julgado do STJ proferido em 2023 pela relatoria dc S\u00e9rgio Kukin\u00e3",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2528,
+   "end": 2566,
+   "text": "Recurso em Habeas Corpus n\u00ba 93967 - SC",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2976,
+   "end": 3045,
+   "text": "EDcl nos EDcl no AgInt no Agravo em Recurso Especial No  1145207 - SP",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_002": [
+  {
+   "start": 271,
+   "end": 491,
+   "text": "apela\u00e7\u00e3o interposta em face de senten\u00e7a que julgou improcedente o pedido inicial e condenou a parte autora ao pagamento das custas processuais e de honor\u00e1rlos advocat\u00edcios fixados em 10% sobre o valor atualizado da causa",
+   "block_index": 3,
+   "confidence": 0.0
+  },
+  {
+   "start": 670,
+   "end": 736,
+   "text": "ac\u00f3rd\u00e3o do STJ julgado em 2021 sob relatoria de Assusete Magalh\u00e3es",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1225,
+   "end": 1242,
+   "text": "5\u00famula 211 do STJ",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1399,
+   "end": 1441,
+   "text": "Rcl de 2022, Rel. Min. Alexandre De Moraes",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1901,
+   "end": 1970,
+   "text": "julgado do STJ proferido em 2023 pela relatoria de Assusete Mag\u00e3lh\u00e3es",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2508,
+   "end": 2529,
+   "text": "AgREsp N\u00ba  84690 - MG",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2995,
+   "end": 3038,
+   "text": "artigo 93, IX, da Constitui\u00e7\u00e3o da Rep\u00fablica",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3202,
+   "end": 3229,
+   "text": "Rec. Esp. No\u00a01.880.529 - SP",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_003": [
+  {
+   "start": 613,
+   "end": 668,
+   "text": "precedente do STF de 2024, da relatoria de C\u00e1rmen L\u00facia",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 736,
+   "end": 789,
+   "text": "Processo n\u00ba TST- ED - E-ED-RR-41200-79.2011.5.21.0005",
+   "block_index": 4,
+   "confidence": 0.9
+  },
+  {
+   "start": 1289,
+   "end": 1314,
+   "text": "RR-1835-06.2010.5.15.0042",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1726,
+   "end": 1745,
+   "text": "RE. n\u00ba\u00a03.647.129-RS",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 1847,
+   "end": 1863,
+   "text": "Rcl n\u00ba\u00a066698/ BA",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2559,
+   "end": 2578,
+   "text": "artigo 1.143 da CLT",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2988,
+   "end": 3027,
+   "text": "TST-ED-E-ED-ARR-1099-66.2011.5.02. 0251",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_004": [
+  {
+   "start": 1014,
+   "end": 1045,
+   "text": "artigo 172 da Lei n\u00ba 9.504/1997",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1463,
+   "end": 1478,
+   "text": "S\u00fam. 166 do TSE",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2055,
+   "end": 2092,
+   "text": "REspe. n\u00ba 0600216-46.2020- .6.14.0022",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2244,
+   "end": 2286,
+   "text": "EDs no AGR-RESPE n\u00ba\u00a0533-80. 2012.6.13.0029",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2390,
+   "end": 2418,
+   "text": "art 189 da Lei n\u00ba 9.504/1997",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2871,
+   "end": 2900,
+   "text": "dispositivo legal de reg\u00eancia",
+   "block_index": 12,
+   "confidence": 0.8
+  }
+ ],
+ "gen_n2_005": [
+  {
+   "start": 574,
+   "end": 601,
+   "text": "Reclama\u00e7\u00e3o n\u00ba\u00a033.- 474 (MA)",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 987,
+   "end": 1011,
+   "text": "ac\u00f3rd\u00e3o da Segunda Turma",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1122,
+   "end": 1175,
+   "text": "Reclama\u00e7\u00e3o do STF, de 2026, Rel. Min. CRISTIANO ZANIN",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1617,
+   "end": 1669,
+   "text": "Reclama\u00e7\u00e3o do STF, de 2020, Rel. Min. Celso De Mello",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 2388,
+   "end": 2466,
+   "text": "julgado do TST proferido em 2017 pela relatoria de Jos\u00e9 Roberto Freire Pimenta",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2959,
+   "end": 3011,
+   "text": "Processo n\u00ba TST- ED-E-ED-RR-160000-97.2010.5.21.0006",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3172,
+   "end": 3212,
+   "text": "artigo 7\u00ba, XXIX, da Constitui\u00e7\u00e3o Fedcral",
+   "block_index": 12,
+   "confidence": 0.9
+  }
+ ],
+ "gen_n2_006": [
+  {
+   "start": 494,
+   "end": 560,
+   "text": "julgado do STF profcrido em 2025 pela relatoria de CRISTIANO ZANIN",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 681,
+   "end": 708,
+   "text": "art 276 do C\u00f3digo Eleitoral",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 857,
+   "end": 891,
+   "text": "artigo 279 da Constitui\u00e7\u00e3o Federal",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 992,
+   "end": 1033,
+   "text": "ED no AgR-REspe No  0600316-4920206160182",
+   "block_index": 4,
+   "confidence": 0.9
+  },
+  {
+   "start": 1468,
+   "end": 1496,
+   "text": "AgR-AI\u00a00603026-6920186090000",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 2402,
+   "end": 2430,
+   "text": "Reclama\u00e7\u00e3o n.  44- .921 (PE)",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2893,
+   "end": 2947,
+   "text": "reiterados precedentes do Superior Tribunal de Justi\u00e7a",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 3026,
+   "end": 3097,
+   "text": "ac\u00f3rd\u00e3o do TSE julgado em 2016 sob relatoria de HENRIQUE NEVES DA SILVA",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_007": [
+  {
+   "start": 514,
+   "end": 547,
+   "text": "Ag. Int. No 7001184-1520197000000",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 955,
+   "end": 986,
+   "text": "art 290 da Constitui\u00e7\u00e3o Federal",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1416,
+   "end": 1451,
+   "text": "Rcl de 2024, Rel.  Min. Fl\u00e1vio Dino",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 1549,
+   "end": 1587,
+   "text": "RSE N\u00ba 7220273-- 23.2018.7.00.0000/ RS",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 1818,
+   "end": 1833,
+   "text": "RCL n\u00ba 88905-DF",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 1972,
+   "end": 2005,
+   "text": "APL  7000761-84 2021 7 00 0000/BA",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 2100,
+   "end": 2121,
+   "text": "S\u00famula Vinculante 188",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 2519,
+   "end": 2553,
+   "text": "RSE n.  7000171-3920237000000 (DF)",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2896,
+   "end": 2931,
+   "text": "verbete sumular aplic\u00e1vel \u00e0 esp\u00e9cie",
+   "block_index": 12,
+   "confidence": 0.8
+  }
+ ],
+ "gen_n2_008": [
+  {
+   "start": 259,
+   "end": 479,
+   "text": "apela\u00e7\u00e3o interposta em face de senten\u00e7a que julgou improcedente o pedido inicial e condenou a parte autora ao pagamento das custas processuais e de honor\u00e1rios advocat\u00edcios fixados em 10% sobre o valor atualizado da causa",
+   "block_index": 3,
+   "confidence": 0.0
+  },
+  {
+   "start": 1206,
+   "end": 1241,
+   "text": "Recurso Especial n\u00ba  2.467- .648-RS",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1898,
+   "end": 1932,
+   "text": "EDcl no AgInt no ARESP\u00a01980827/ RS",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 2384,
+   "end": 2400,
+   "text": "RCL n\u00ba 99.942-BA",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 3051,
+   "end": 3078,
+   "text": "AgRg no H.C. N\u00ba 891369 (RS)",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_009": [
+  {
+   "start": 539,
+   "end": 568,
+   "text": "Rec. Esp. n\u00ba  1. 570.531 - CE",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 725,
+   "end": 762,
+   "text": "EDcl no AgInt no ARESP  1 821 663/ SC",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 883,
+   "end": 915,
+   "text": "art. 303 da Constitui\u00e7\u00e3o Federal",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 1188,
+   "end": 1208,
+   "text": "A.REsp  555 700 (RS)",
+   "block_index": 4,
+   "confidence": 1.0
+  },
+  {
+   "start": 1771,
+   "end": 1786,
+   "text": "AR n. 2785 (SP)",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 2227,
+   "end": 2257,
+   "text": "AgInt no RESP n\u00ba 1.666.812/ PR",
+   "block_index": 8,
+   "confidence": 0.99
+  },
+  {
+   "start": 2658,
+   "end": 2693,
+   "text": "orienta\u00e7\u00e3o dos tribunais superiores",
+   "block_index": 10,
+   "confidence": 0.8
+  },
+  {
+   "start": 2727,
+   "end": 2775,
+   "text": "precedente firmado em sede de recurso repetitivo",
+   "block_index": 10,
+   "confidence": 0.8
+  },
+  {
+   "start": 3263,
+   "end": 3283,
+   "text": "REsp N\u00ba 1.632.479-RJ",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_010": [
+  {
+   "start": 344,
+   "end": 363,
+   "text": "autos em refer\u00eancia",
+   "block_index": 3,
+   "confidence": 0.5
+  },
+  {
+   "start": 579,
+   "end": 604,
+   "text": "Reclama\u00e7\u00e3o N\u00ba 77.872 - SC",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1164,
+   "end": 1194,
+   "text": "AgInt no ARESP N\u00ba 1.512.757-PR",
+   "block_index": 6,
+   "confidence": 0.99
+  },
+  {
+   "start": 1640,
+   "end": 1666,
+   "text": "artigo 186 do C\u00f3digo Civil",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2107,
+   "end": 2148,
+   "text": "art. 14 do C\u00f3digo de Defesa do Consumidor",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2841,
+   "end": 2873,
+   "text": "Recurso Especial n\u00ba  1377019/ SP",
+   "block_index": 12,
+   "confidence": 0.95
+  },
+  {
+   "start": 2963,
+   "end": 3007,
+   "text": "AgInt no Recurso Especial n\u00ba  1.597.443 - PR",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_011": [
+  {
+   "start": 451,
+   "end": 465,
+   "text": "AGRAVO INTERNO",
+   "block_index": 3,
+   "confidence": 0.95
+  },
+  {
+   "start": 671,
+   "end": 687,
+   "text": "S\u00daMULA 83 do STJ",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 802,
+   "end": 821,
+   "text": "ARESP No\u00a02178783/RS",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 968,
+   "end": 988,
+   "text": "RESP n.\u00a01 307 026/BA",
+   "block_index": 4,
+   "confidence": 0.95
+  },
+  {
+   "start": 1120,
+   "end": 1151,
+   "text": "Tem\u00e3 2.680 da repercuss\u00e3o geral",
+   "block_index": 4,
+   "confidence": 0.9
+  },
+  {
+   "start": 1270,
+   "end": 1289,
+   "text": "Recl. n\u00ba 6G.838/ BA",
+   "block_index": 4,
+   "confidence": 0.9
+  },
+  {
+   "start": 1871,
+   "end": 1888,
+   "text": "S\u00famula 928 do STF",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 2313,
+   "end": 2362,
+   "text": "EDcl no AgInt no Recurso Especial N\u00ba 170076O (SP)",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2473,
+   "end": 2517,
+   "text": "AgInt nos EDcl no Rec. Esp. n\u00ba  2.050.950-RJ",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 2934,
+   "end": 2972,
+   "text": "art. 1.105 do C\u00f3digo de Processo Civil",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 3430,
+   "end": 3462,
+   "text": "recentc ac\u00f3rd\u00e3o da Segunda Turma",
+   "block_index": 12,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_012": [
+  {
+   "start": 481,
+   "end": 507,
+   "text": "AgRg no RESP 1.528.4S5/ RJ",
+   "block_index": 3,
+   "confidence": 0.99
+  },
+  {
+   "start": 1082,
+   "end": 1155,
+   "text": "Recurso em Habeas Corpus do STJ, de 2019, Rel. Min. Sebasti\u00e3o Reis J\u00fanlor",
+   "block_index": 5,
+   "confidence": 0.95
+  },
+  {
+   "start": 1282,
+   "end": 1299,
+   "text": "AgREsp 9188087/ES",
+   "block_index": 5,
+   "confidence": 0.9
+  },
+  {
+   "start": 1603,
+   "end": 1627,
+   "text": "Reclama\u00e7\u00e3o n\u00ba 33560 - BA",
+   "block_index": 5,
+   "confidence": 0.9
+  },
+  {
+   "start": 2089,
+   "end": 2124,
+   "text": "art 312 do C\u00f3digo de Processo Penal",
+   "block_index": 7,
+   "confidence": 0.95
+  },
+  {
+   "start": 2540,
+   "end": 2563,
+   "text": "R.Esp. n\u00ba  1.45g.779-MA",
+   "block_index": 9,
+   "confidence": 0.95
+  },
+  {
+   "start": 2695,
+   "end": 2718,
+   "text": "Reclama\u00e7\u00e3o\u00a033. 672 (BA)",
+   "block_index": 9,
+   "confidence": 0.9
+  },
+  {
+   "start": 3158,
+   "end": 3174,
+   "text": "RMS N\u00ba  67109-TO",
+   "block_index": 11,
+   "confidence": 0.95
+  }
+ ],
+ "gen_n2_013": [
+  {
+   "start": 232,
+   "end": 289,
+   "text": "r. senten\u00e7a proferida pelo Conselho Permanente de Justi\u00e7\u00e3",
+   "block_index": 3,
+   "confidence": 0.8
+  },
+  {
+   "start": 1011,
+   "end": 1049,
+   "text": "APL de 2023, Rel. Min. LEONARDO PUNTEL",
+   "block_index": 6,
+   "confidence": 0.95
+  },
+  {
+   "start": 1375,
+   "end": 1448,
+   "text": "ac\u00f3rd\u00e3o do STM julgado em 2021 sob relatoria de ARTUR VIDIGAL DE OLIVEIRA",
+   "block_index": 8,
+   "confidence": 0.95
+  },
+  {
+   "start": 1883,
+   "end": 1913,
+   "text": "AgInt No 7000553-0320217000000",
+   "block_index": 10,
+   "confidence": 0.95
+  },
+  {
+   "start": 2055,
+   "end": 2075,
+   "text": "Recl. N\u00ba\u00a066 152 (PR)",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2191,
+   "end": 2226,
+   "text": "APL n\u00ba\u00a07000076-72.2024.7.00.0000-RJ",
+   "block_index": 10,
+   "confidence": 0.9
+  },
+  {
+   "start": 2698,
+   "end": 2733,
+   "text": "verbete sumular aplic\u00e1vel \u00e0 esp\u00e9cie",
+   "block_index": 12,
+   "confidence": 0.9
+  }
+ ]
+}

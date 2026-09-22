@@ -1,0 +1,71 @@
+{
+ "documento_id": "gen_n2_008",
+ "citacoes": [
+  {
+   "inicio": 648,
+   "fim": 687,
+   "trecho": "lei que disciplina a prescrição no caso",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1206,
+   "fim": 1241,
+   "trecho": "Recurso Especial n°  2.467-\n.648-RS",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1711,
+   "fim": 1755,
+   "trecho": "orientação\njurisprudencial da Corte Superior",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1898,
+   "fim": 1932,
+   "trecho": "EDcl no AgInt no ARESP 1980827/ RS",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "3360644282"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2384,
+   "fim": 2400,
+   "trecho": "RCL nº 99.942-BA",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 3051,
+   "fim": 3078,
+   "trecho": "AgRg no H.C. Nº 891369 (RS)",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2849473714"
+   },
+   "confianca": 0.95
+  }
+ ]
+}

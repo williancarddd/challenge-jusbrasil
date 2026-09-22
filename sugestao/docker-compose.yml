@@ -1,0 +1,49 @@
+services:
+  # Servidor da LLM. Os pesos NÃO vão dentro da imagem — são montados de `models/`,
+  # baixados uma única vez com revisão fixa. É o que o regulamento pede no pacote de
+  # verificação e o que evita reconstruir imagem a cada troca de modelo.
+  llm:
+    image: vllm/vllm-openai:latest
+    container_name: cacador-llm
+    runtime: nvidia
+    ipc: host
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models:/models:ro
+    environment:
+      # Container sem rede na avaliação: nada pode ser buscado em runtime.
+      HF_HUB_OFFLINE: "1"
+      TRANSFORMERS_OFFLINE: "1"
+    # `xgrammar` já é o backend padrão de structured outputs no vLLM 0.28 — não há
+    # flag para escolhê-lo, e o schema chega pelo `response_format` de cada requisição.
+    command:
+      - /models/Qwen3-8B-FP8
+      - --served-model-name=qwen3-8b-fp8
+      # O KV cache cabe 12.272 tokens (1,69 GiB). Com `max-model-len=4096` isso virava
+      # concorrência 3x — reserva inútil, já que serializamos para ter determinismo.
+      # Com concorrência 1, o orçamento inteiro vai para uma requisição, e o modo de
+      # raciocínio deixa de ser truncado. Contexto nativo do modelo é 40.960.
+      - --max-model-len=12000
+      # 0.92 não sobe nesta máquina: o desktop ocupa ~1,3 GiB e o vLLM aborta pedindo
+      # 14,27 GiB com 14,22 GiB livres. Na máquina de avaliação, dedicada e com 24 GB,
+      # há bem mais espaço.
+      - --gpu-memory-utilization=0.85
+      # Sem isto, o vLLM adota o `generation_config.json` do Qwen3 como default do
+      # servidor — `do_sample: true`, temperature 0.6, top_k 20, top_p 0.95 — e a saída
+      # deixa de ser reprodutível mesmo com temperature=0 na requisição. O regulamento
+      # re-executa os top-N e não admite queda maior que 5% no score.
+      - --generation-config=vllm
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 40
+      start_period: 180s

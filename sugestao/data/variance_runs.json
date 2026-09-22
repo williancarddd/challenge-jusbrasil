@@ -1,0 +1,752 @@
+[
+  {
+    "hits": 213,
+    "predictions": 224,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9508928571428571,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 194.84315073804464,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 146,
+    "agreed_correct": 146
+  },
+  {
+    "hits": 215,
+    "predictions": 224,
+    "weighted_score": 0.9491017964071856,
+    "precision": 0.9598214285714286,
+    "hits_by_level": {
+      "1": 113,
+      "2": 102
+    },
+    "seconds": 167.71902037702966,
+    "rewritten": 4,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 214,
+    "predictions": 225,
+    "weighted_score": 0.9401197604790419,
+    "precision": 0.9511111111111111,
+    "hits_by_level": {
+      "1": 114,
+      "2": 100
+    },
+    "seconds": 194.82922667905223,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 212,
+    "predictions": 223,
+    "weighted_score": 0.9311377245508982,
+    "precision": 0.9506726457399103,
+    "hits_by_level": {
+      "1": 113,
+      "2": 99
+    },
+    "seconds": 167.66198769106995,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 146,
+    "agreed_correct": 146
+  },
+  {
+    "hits": 215,
+    "predictions": 225,
+    "weighted_score": 0.9491017964071856,
+    "precision": 0.9555555555555556,
+    "hits_by_level": {
+      "1": 113,
+      "2": 102
+    },
+    "seconds": 196.03334022290073,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 213,
+    "predictions": 223,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9551569506726457,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 143.04612189601175,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 167.93097425904125,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 213,
+    "predictions": 222,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9594594594594594,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 194.8645681119524,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 167.88465783407446,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 221.61048094695434,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 221.7804887520615,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 214,
+    "predictions": 225,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9511111111111111,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 195.98453029210214,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 221.83480959094595,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 213,
+    "predictions": 223,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9551569506726457,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 169.12904840300325,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 146,
+    "agreed_correct": 146
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 221.8237881240202,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 214,
+    "predictions": 225,
+    "weighted_score": 0.9401197604790419,
+    "precision": 0.9511111111111111,
+    "hits_by_level": {
+      "1": 114,
+      "2": 100
+    },
+    "seconds": 195.82215033704415,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 195.9630622989498,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 212,
+    "predictions": 223,
+    "weighted_score": 0.9311377245508982,
+    "precision": 0.9506726457399103,
+    "hits_by_level": {
+      "1": 113,
+      "2": 99
+    },
+    "seconds": 220.3401534348959,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 168.01917713496368,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 168.06360027508345,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 212,
+    "predictions": 223,
+    "weighted_score": 0.9311377245508982,
+    "precision": 0.9506726457399103,
+    "hits_by_level": {
+      "1": 113,
+      "2": 99
+    },
+    "seconds": 145.78503589204047,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 214,
+    "predictions": 223,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9596412556053812,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 166.61948652507272,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 213,
+    "predictions": 223,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9551569506726457,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 220.29384632210713,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 213,
+    "predictions": 223,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9551569506726457,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 144.82797043502796,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 214,
+    "predictions": 223,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9596412556053812,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 219.84444309398532,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 146,
+    "agreed_correct": 146
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 168.32637518504634,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 215,
+    "predictions": 225,
+    "weighted_score": 0.9461077844311377,
+    "precision": 0.9555555555555556,
+    "hits_by_level": {
+      "1": 114,
+      "2": 101
+    },
+    "seconds": 120.12147396209184,
+    "rewritten": 8,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 213,
+    "predictions": 224,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9508928571428571,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 120.24835419398732,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 213,
+    "predictions": 224,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9508928571428571,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 143.8132542789681,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 168.85158680798486,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 215,
+    "predictions": 225,
+    "weighted_score": 0.9491017964071856,
+    "precision": 0.9555555555555556,
+    "hits_by_level": {
+      "1": 113,
+      "2": 102
+    },
+    "seconds": 143.91781293600798,
+    "rewritten": 4,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 212,
+    "predictions": 222,
+    "weighted_score": 0.9311377245508982,
+    "precision": 0.954954954954955,
+    "hits_by_level": {
+      "1": 113,
+      "2": 99
+    },
+    "seconds": 220.4806045939913,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 146,
+    "agreed_correct": 146
+  },
+  {
+    "hits": 213,
+    "predictions": 222,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9594594594594594,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 169.8687166160671,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 169.79878211696632,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 213,
+    "predictions": 224,
+    "weighted_score": 0.9401197604790419,
+    "precision": 0.9508928571428571,
+    "hits_by_level": {
+      "1": 112,
+      "2": 101
+    },
+    "seconds": 144.83952220797073,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 194.12026318302378,
+    "rewritten": 4,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 215,
+    "predictions": 224,
+    "weighted_score": 0.9491017964071856,
+    "precision": 0.9598214285714286,
+    "hits_by_level": {
+      "1": 113,
+      "2": 102
+    },
+    "seconds": 195.3963055710774,
+    "rewritten": 4,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 213,
+    "predictions": 224,
+    "weighted_score": 0.9401197604790419,
+    "precision": 0.9508928571428571,
+    "hits_by_level": {
+      "1": 112,
+      "2": 101
+    },
+    "seconds": 144.43578579300083,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 213,
+    "predictions": 222,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9594594594594594,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 95.11889358505141,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 168.7462692350382,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 213,
+    "predictions": 222,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9594594594594594,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 219.27385528304148,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 213,
+    "predictions": 222,
+    "weighted_score": 0.9341317365269461,
+    "precision": 0.9594594594594594,
+    "hits_by_level": {
+      "1": 114,
+      "2": 99
+    },
+    "seconds": 194.1300767569337,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 147,
+    "agreed_correct": 147
+  },
+  {
+    "hits": 214,
+    "predictions": 225,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9511111111111111,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 145.78386043093633,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 213,
+    "predictions": 223,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9551569506726457,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 168.64102021802682,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 148,
+    "agreed_correct": 148
+  },
+  {
+    "hits": 213,
+    "predictions": 222,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9594594594594594,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 144.85936264600605,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 215,
+    "predictions": 224,
+    "weighted_score": 0.9491017964071856,
+    "precision": 0.9598214285714286,
+    "hits_by_level": {
+      "1": 113,
+      "2": 102
+    },
+    "seconds": 168.5429995090235,
+    "rewritten": 4,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 215,
+    "predictions": 224,
+    "weighted_score": 0.9491017964071856,
+    "precision": 0.9598214285714286,
+    "hits_by_level": {
+      "1": 113,
+      "2": 102
+    },
+    "seconds": 168.57857879204676,
+    "rewritten": 4,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 214,
+    "predictions": 224,
+    "weighted_score": 0.9431137724550899,
+    "precision": 0.9553571428571429,
+    "hits_by_level": {
+      "1": 113,
+      "2": 101
+    },
+    "seconds": 167.93381433095783,
+    "rewritten": 6,
+    "request_errors": 0,
+    "agreed": 150,
+    "agreed_correct": 150
+  },
+  {
+    "hits": 214,
+    "predictions": 225,
+    "weighted_score": 0.9401197604790419,
+    "precision": 0.9511111111111111,
+    "hits_by_level": {
+      "1": 114,
+      "2": 100
+    },
+    "seconds": 195.52998688595835,
+    "rewritten": 5,
+    "request_errors": 0,
+    "agreed": 149,
+    "agreed_correct": 149
+  },
+  {
+    "hits": 213,
+    "predictions": 223,
+    "weighted_score": 0.937125748502994,
+    "precision": 0.9551569506726457,
+    "hits_by_level": {
+      "1": 113,
+      "2": 100
+    },
+    "seconds": 227.10171295295004,
+    "rewritten": 7,
+    "request_errors": 0,
+    "agreed": 146,
+    "agreed_correct": 146
+  }
+]

@@ -1,0 +1,115 @@
+{
+ "documento_id": "gen_n1_003",
+ "citacoes": [
+  {
+   "inicio": 185,
+   "fim": 214,
+   "trecho": "AGROPECUÁRIA SANTA CLARA S.A.",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 577,
+   "fim": 593,
+   "trecho": "AREsp 1576933/SP",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2108020112"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 1041,
+   "fim": 1076,
+   "trecho": "jurisprudência pacífica desta Corte",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1193,
+   "fim": 1235,
+   "trecho": "art. 158 do Código de Defesa do Consumidor",
+   "tipo": "lei",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1677,
+   "fim": 1695,
+   "trecho": "REsp nº 2020005/RJ",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2939285691"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2106,
+   "fim": 2173,
+   "trecho": "entendimento sumulado sobre a matéria, ao qual\nse remete desde logo",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 2308,
+   "fim": 2380,
+   "trecho": "Agravo em Recurso Especial do STJ,\nde 2023, Rel. Min. Assusete Magalhães",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 2480,
+   "fim": 2522,
+   "trecho": "art. 185 do Código de Defesa do Consumidor",
+   "tipo": "lei",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 3034,
+   "fim": 3060,
+   "trecho": "AgRg no AREsp 1.327.863/PR",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "3445761877"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 3204,
+   "fim": 3223,
+   "trecho": "art. 373, I, do CPC",
+   "tipo": "lei",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "28893055"
+   },
+   "confianca": 0.95
+  }
+ ]
+}

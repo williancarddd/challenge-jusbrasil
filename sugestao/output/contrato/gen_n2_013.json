@@ -1,0 +1,82 @@
+{
+ "documento_id": "gen_n2_013",
+ "citacoes": [
+  {
+   "inicio": 516,
+   "fim": 554,
+   "trecho": "AGINT nº 7000462-39.2023.7.00.0000/ DF",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2382484994"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 1011,
+   "fim": 1049,
+   "trecho": "APL de 2023, Rel. Min.\nLEONARDO PUNTEL",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1375,
+   "fim": 1448,
+   "trecho": "acórdão do STM julgado em 2021 sob relatoria de ARTUR VIDIGAL\nDE OLIVEIRA",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1883,
+   "fim": 1913,
+   "trecho": "AgInt No 7000553-0320217000000",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "1477658218"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2055,
+   "fim": 2075,
+   "trecho": "Recl. Nº 66 152 (PR)",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 2191,
+   "fim": 2226,
+   "trecho": "APL n° 7000076-72.2024.7.00.0000-RJ",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2733853490"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2698,
+   "fim": 2733,
+   "trecho": "verbete sumular aplicável à espécie",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  }
+ ]
+}

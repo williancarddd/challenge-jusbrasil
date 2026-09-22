@@ -1,0 +1,93 @@
+{
+ "documento_id": "gen_n2_010",
+ "citacoes": [
+  {
+   "inicio": 491,
+   "fim": 506,
+   "trecho": "extraordlnárias",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 579,
+   "fim": 604,
+   "trecho": "Reclamação Nº 77.872 – SC",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 1164,
+   "fim": 1194,
+   "trecho": "AgInt no ARESP Nº 1.512.757-PR",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2107883738"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 1640,
+   "fim": 1666,
+   "trecho": "artigo 186 do Código Civil",
+   "tipo": "lei",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "10718759"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2107,
+   "fim": 2148,
+   "trecho": "art. 14 do Código de Defesa do Consumidor",
+   "tipo": "lei",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "10606184"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2626,
+   "fim": 2723,
+   "trecho": "precedente do\nSTJ de 2021, da relatoria de Assusete Magalhães, no ponto em que afasta a exigência",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.85
+  },
+  {
+   "inicio": 2841,
+   "fim": 2873,
+   "trecho": "Recurso Especial nº  1377019/ SP",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2106317594"
+   },
+   "confianca": 0.95
+  },
+  {
+   "inicio": 2963,
+   "fim": 3007,
+   "trecho": "AgInt no Recurso Especial nº  1.597.443\n- PR",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2684973273"
+   },
+   "confianca": 0.75
+  }
+ ]
+}
