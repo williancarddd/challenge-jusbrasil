@@ -1,0 +1,6 @@
+# Pipeline 100% determinístico, biblioteca padrão do Python (sqlite3, re,
+# json, csv, difflib, unicodedata) — nenhuma dependência de terceiros.
+# pandas só é usado por run_eval.py (harness de avaliação local), não pelo
+# pipeline de inferência (main.py).
+pandas>=2.0
+numpy>=1.24
