@@ -109,13 +109,3 @@ cd ../seu_nome_version && python run_eval.py --quiet
 
 **"git refused to merge"**
 → Não modifique arquivos fora de sua pasta
-
-## 📞 Contato
-
-- **Davi Esmeraldo** (davi_version): daviesmeraldosa@gmail.com
-- **Repositório Original de Davi**: https://github.com/Davi-Esmeraldo/Jusbrasil_BRACIS.git
-
----
-
-**Última atualização**: 2026-09-23
-**Status do Repositório**: Pronto para colaboração
