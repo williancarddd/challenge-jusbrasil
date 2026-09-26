@@ -34,7 +34,7 @@ class Resolver:
             con.close()
 
     def resolve(self, trecho: str, tipo: str, contexto: str = "") -> Resolucao:
-        if tipo == "lei":
+        if tipo == "lei" or self.lei.reconhece(trecho):
             return self.lei.resolve(trecho)
         if self.sumula.reconhece(trecho):
             return self.sumula.resolve(trecho)

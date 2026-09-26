@@ -11,6 +11,23 @@ _ARTIGO_RE = re.compile(
     flags=re.IGNORECASE,
 )
 _ARTIGO_NO_TEXTO_RE = re.compile(r"Art\.?\s*(\d+)", flags=re.IGNORECASE)
+_LEI_RE = re.compile(
+    r"\bart(?:igo)?s?\.?\s*(?:\d|correspondente)|"
+    r"\blei\b|"
+    r"\bc[oó]digos?\b|"
+    r"constitui[cç]|"
+    r"\b(?:CLT|CPC|CPP|CPM|CDC|CF)\b|"
+    r"\bdispositivo\b|"
+    r"\blegisla[cç]|"
+    r"\bnormas?\s+de\s+reg[eê]ncia",
+    flags=re.IGNORECASE,
+)
+
+
+def tipo_de(trecho: str) -> str:
+    if _LEI_RE.search(trecho):
+        return "lei"
+    return "jurisprudencia"
 
 
 class ResolvedorLei:
@@ -29,6 +46,9 @@ class ResolvedorLei:
             numero = match.group(1).lstrip("0") or "0"
             por_numero[numero].append(str(doc_id))
         return cls(dict(por_numero))
+
+    def reconhece(self, trecho: str) -> bool:
+        return tipo_de(trecho) == "lei"
 
     def resolve(self, trecho: str) -> Resolucao:
         match = _ARTIGO_RE.search(trecho)

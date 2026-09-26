@@ -1,7 +1,0 @@
-{
-  "name": "unsloth/gemma-4-31B-it-unsloth-bnb-4bit",
-  "role": "teacher",
-  "family": "Gemma",
-  "parameters": "31B",
-  "slug": "unsloth_gemma-4-31B-it-unsloth-bnb-4bit"
-}

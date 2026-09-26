@@ -14,6 +14,7 @@ from typing import Any
 import pandas as pd
 
 from challenge_jusbrasil.resolver import Resolver
+from challenge_jusbrasil.resolver.lei import tipo_de
 from challenge_jusbrasil.settings import (
     GOLDENSET_PATH,
     INFER_BATCH_SIZE,
@@ -26,13 +27,11 @@ from challenge_jusbrasil.settings import (
 )
 from challenge_jusbrasil.utils.json_to_submission import encode
 from challenge_jusbrasil.utils.kaggle_metric import (
-    CLASSES,
     IOU_MIN,
     _iou,
     avaliar,
 )
 
-TIPOS = ("lei", "jurisprudencia")
 _CONTEXTO = 250
 _RESOLVER_CACHE: Resolver | None | bool = None
 
@@ -74,16 +73,7 @@ def solution_frame(goldenset_path: Path = GOLDENSET_PATH) -> pd.DataFrame:
     return pd.DataFrame(linhas)
 
 
-_SPAN_TAG_RE = re.compile(r"<start\b([^>]*)>(.*?)<end>", re.IGNORECASE | re.DOTALL)
-_ATTR_RE = re.compile(r"""([A-Za-z_]+)\s*=\s*(?:"([^"]*)"|'([^']*)')""")
-
-
-def _atributos_tag(bruto: str) -> dict[str, str]:
-    atributos: dict[str, str] = {}
-    for match in _ATTR_RE.finditer(bruto):
-        valor = match.group(2) if match.group(2) is not None else match.group(3)
-        atributos[match.group(1).lower()] = valor
-    return atributos
+_SPAN_TAG_RE = re.compile(r"<start\b[^>]*>(.*?)<end>", re.IGNORECASE | re.DOTALL)
 
 
 def localizar_trecho(texto: str, trecho: str) -> tuple[int, int] | None:
@@ -119,14 +109,7 @@ def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
     candidatos: list[dict[str, Any]] = []
     cursor = 0
     for match in _SPAN_TAG_RE.finditer(raw or ""):
-        atributos = _atributos_tag(match.group(1))
-        classe = atributos.get("classificacao", "").strip().lower()
-        if classe not in CLASSES:
-            continue
-        tipo = atributos.get("tipo", "").strip().lower()
-        if tipo not in TIPOS:
-            tipo = "jurisprudencia"
-        trecho = match.group(2).strip("\n")
+        trecho = match.group(1).strip("\n")
         if not trecho:
             continue
         span = localizar_trecho(texto[cursor:], trecho)
@@ -143,8 +126,8 @@ def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
                 "inicio": inicio,
                 "fim": fim,
                 "trecho": texto[inicio:fim],
-                "tipo": tipo,
-                "classificacao": classe,
+                "tipo": tipo_de(texto[inicio:fim]),
+                "classificacao": "incompleta",
                 "confianca": None,
                 "resolucao": None,
             }
@@ -182,6 +165,7 @@ def resolver_ids(texto: str, citacoes: list[dict[str, Any]]) -> list[dict[str, A
             cit["resolucao"] = None
             continue
         contexto = texto[max(0, cit["inicio"] - _CONTEXTO) : cit["fim"] + _CONTEXTO]
+        cit["tipo"] = tipo_de(cit["trecho"])
         resultado = resolver.resolve(cit["trecho"], cit["tipo"], contexto)
         cit["classificacao"] = resultado.classificacao
         cit["resolucao"] = (

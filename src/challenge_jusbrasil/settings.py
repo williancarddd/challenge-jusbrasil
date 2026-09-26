@@ -3,8 +3,6 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
-from challenge_jusbrasil.utils.kaggle_metric import CLASSES
-
 ROOT = Path(__file__).resolve().parents[2]
 TXT_DIR = ROOT / "data" / "txt"
 GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
@@ -66,7 +64,29 @@ STUDENTS: list[dict[str, Any]] = [
         "quantization": "bnb-4bit",
         "url": "https://huggingface.co/unsloth/Phi-4-mini-instruct-unsloth-bnb-4bit",
         "role": "student",
-    }
+    },
+    {
+        "name": "unsloth/Qwen3-8B-unsloth-bnb-4bit",
+        "family": "Qwen",
+        "parameters": "8B",
+        "quantization": "bnb-4bit",
+        "url": "https://huggingface.co/unsloth/Qwen3-8B-unsloth-bnb-4bit",
+        "role": "student",
+        "vllm": {
+            "max_model_len": 32768,
+        },
+    },
+    {
+        "name": "unsloth/gemma-3-12b-it-unsloth-bnb-4bit",
+        "family": "Gemma",
+        "parameters": "12B",
+        "quantization": "bnb-4bit",
+        "url": "https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit",
+        "role": "student",
+        "vllm": {
+            "max_model_len": 32768,
+        },
+    },
 ]
 
 MODELS: list[dict[str, Any]] = [
@@ -81,74 +101,64 @@ for _model in MODELS:
 
 TEACHER: dict[str, Any] = dict(next(m for m in MODELS if m["role"] == "teacher"))
 
-SYSTEM_PROMPT = f"""You extract and classify legal citations in a Brazilian judicial document.
+SYSTEM_PROMPT = """You extract legal citations in a Brazilian judicial document.
 
 Return the same text, without changing any character, and mark each citation with <start> and <end>.
-Do not return JSON. Do not return a confidence score. Do not write anything outside the marked text.
+Do not return JSON. Do not return a confidence score. Do not classify the citation. Do not output an id. Do not write anything outside the marked text.
 
-On the opening tag, set tipo and classificacao. Do not output an id.
-<start tipo="lei|jurisprudencia" classificacao="{"|".join(CLASSES)}">exact span<end>
-
-Classify each citation with exactly one of these classes: {", ".join(CLASSES)}.
-- real: the statute or case exists and identifies a single document.
-- inventada: the identifier is specific enough to search, but no matching statute or case exists.
-- incompleta: a single search cannot be formed, or the citation matches more than one case.
+Mark each citation with a bare tag. Do not set attributes on the tag.
+<start>exact span<end>
 
 Ignore distractors that look like citations but are not: the case number of the document itself, OAB, protocol, page sheets (fls.), and the amount in dispute. Leave them untagged.
 Mark one citation per span. Spans must not overlap. The text between the tags is a literal copy of the document, including line breaks.
 If there is no citation, return the text with no tags.
 
-Examples of real:
+Examples:
 
 Input:
 A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no art. 373, I, do CPC.
 Output:
-A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no <start tipo="lei" classificacao="real">art. 373, I, do CPC<end>.
+A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no <start>art. 373, I, do CPC<end>.
 
 Input:
 O acórdão citado é o AgInt no REsp 1.599.910/PR, distinto do protocolo 2024/000111.
 Output:
-O acórdão citado é o <start tipo="jurisprudencia" classificacao="real">AgInt no REsp 1.599.910/PR<end>, distinto do protocolo 2024/000111.
+O acórdão citado é o <start>AgInt no REsp 1.599.910/PR<end>, distinto do protocolo 2024/000111.
 
 Input:
 A Súmula Vinculante 10 orienta o caso. O valor da causa é R$ 10.000,00.
 Output:
-A <start tipo="jurisprudencia" classificacao="real">Súmula Vinculante 10<end> orienta o caso. O valor da causa é R$ 10.000,00.
-
-Examples of inventada:
-
+A <start>Súmula Vinculante 10<end> orienta o caso. O valor da causa é R$ 10.000,00.
 
 Input:
 A peça menciona a Reclamação nº 66.516/RO. As folhas são fls. 12/30.
 Output:
-A peça menciona a <start tipo="jurisprudencia" classificacao="inventada">Reclamação nº 66.516/RO<end>. As folhas são fls. 12/30.
+A peça menciona a <start>Reclamação nº 66.516/RO<end>. As folhas são fls. 12/30.
 
 Input:
 O autor invoca o art. 158 do Código de Defesa do Consumidor.
 Output:
-O autor invoca o <start tipo="lei" classificacao="inventada">art. 158 do Código de Defesa do Consumidor<end>.
+O autor invoca o <start>art. 158 do Código de Defesa do Consumidor<end>.
 
 Input:
 O recurso aponta o RE 7.216.673/RS como paradigma.
 Output:
-O recurso aponta o <start tipo="jurisprudencia" classificacao="inventada">RE 7.216.673/RS<end> como paradigma.
-
-Examples of incompleta:
+O recurso aponta o <start>RE 7.216.673/RS<end> como paradigma.
 
 Input:
 Há jurisprudência pacífica desta Corte sobre o tema.
 Output:
-Há <start tipo="jurisprudencia" classificacao="incompleta">jurisprudência pacífica desta Corte<end> sobre o tema.
+Há <start>jurisprudência pacífica desta Corte<end> sobre o tema.
 
 Input:
 Aplicam-se as normas de regência da matéria ao pedido.
 Output:
-Aplicam-se as <start tipo="lei" classificacao="incompleta">normas de regência da matéria<end> ao pedido.
+Aplicam-se as <start>normas de regência da matéria<end> ao pedido.
 
 Input:
 Cita-se julgado do STF proferido em 2024 pela relatoria de Dias Toffoli.
 Output:
-Cita-se <start tipo="jurisprudencia" classificacao="incompleta">julgado do STF proferido em 2024 pela relatoria de Dias Toffoli<end>.
+Cita-se <start>julgado do STF proferido em 2024 pela relatoria de Dias Toffoli<end>.
 """
 
 
