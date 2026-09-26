@@ -6,12 +6,14 @@ import json
 import os
 import re
 import time
+from datetime import datetime
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
 import pandas as pd
 
+from challenge_jusbrasil.resolver import Resolver
 from challenge_jusbrasil.settings import (
     GOLDENSET_PATH,
     INFER_BATCH_SIZE,
@@ -32,7 +34,7 @@ from challenge_jusbrasil.utils.kaggle_metric import (
 
 TIPOS = ("lei", "jurisprudencia")
 _CONTEXTO = 250
-_KB_CACHE: Any = None
+_RESOLVER_CACHE: Resolver | None | bool = None
 
 
 def model_slug(name: str) -> str:
@@ -113,17 +115,6 @@ def localizar_trecho(texto: str, trecho: str) -> tuple[int, int] | None:
     return inicio, fim
 
 
-def _id_canonico(valor: Any) -> str | None:
-    if valor is None:
-        return None
-    texto = str(valor).strip()
-    if texto in ("", "-", "null", "None"):
-        return None
-    if not texto.isdigit():
-        return None
-    return texto
-
-
 def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
     candidatos: list[dict[str, Any]] = []
     cursor = 0
@@ -168,76 +159,36 @@ def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
     return resolver_ids(texto, saida)
 
 
-def carregar_kb() -> Any:
-    global _KB_CACHE
-    if _KB_CACHE is not None:
-        return _KB_CACHE if _KB_CACHE is not False else None
+def carregar_resolver() -> Resolver | None:
+    global _RESOLVER_CACHE
+    if _RESOLVER_CACHE is not None:
+        return _RESOLVER_CACHE if _RESOLVER_CACHE is not False else None
     from challenge_jusbrasil.settings import ROOT
 
     db_path = ROOT / "data" / "desafio1_bracis.db"
-    davi = ROOT / "davi_version"
     if not db_path.exists():
-        _KB_CACHE = False
+        _RESOLVER_CACHE = False
         return None
-    import sqlite3
-    import sys
-
-    sys.path.insert(0, str(davi))
-    sys.path.insert(0, str(davi / "kb"))
-    from build_kb import build_dispositivos, build_header_index, build_sumulas
-    from resolve import KB
-
-    con = sqlite3.connect(str(db_path))
-    con.text_factory = lambda b: b.decode("utf-8", "replace")
-    kb = KB.__new__(KB)
-    kb.header_index = build_header_index(con)
-    kb.sumulas = build_sumulas(con)
-    kb.dispositivos = build_dispositivos(con)
-    kb.con = con
-    _KB_CACHE = kb
-    return kb
-
-
-def _resolver_uma(kb: Any, texto: str, cit: dict[str, Any]) -> tuple[str, str | None]:
-    from extract import _LEI_ART_RE, _SUMULA_RE
-    from resolve import resolve_jurisprudencia_numero, resolve_lei_artigo, resolve_sumula
-
-    trecho = cit["trecho"]
-    if cit["tipo"] == "lei":
-        match = _LEI_ART_RE.search(trecho)
-        if match is None:
-            return "incompleta", None
-        classe, id_ = resolve_lei_artigo(kb, match.group("num"), match.group("codigo"))
-        return classe, _id_canonico(id_)
-    match = _SUMULA_RE.search(trecho)
-    if match:
-        tribunal = match.group("trib")
-        classe, id_ = resolve_sumula(
-            kb,
-            match.group("num"),
-            tribunal.upper() if tribunal else None,
-            bool(match.group("vinc")),
-        )
-        return classe, _id_canonico(id_)
-    ctx = texto[max(0, cit["inicio"] - _CONTEXTO) : cit["fim"] + _CONTEXTO]
-    classe, id_, _via = resolve_jurisprudencia_numero(kb, trecho, ctx)
-    return classe, _id_canonico(id_)
+    _RESOLVER_CACHE = Resolver.carregar(db_path)
+    return _RESOLVER_CACHE
 
 
 def resolver_ids(texto: str, citacoes: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    kb = carregar_kb()
+    resolver = carregar_resolver()
     for cit in citacoes:
-        if kb is None:
-            classe_kb, id_kb = "incompleta", None
-        else:
-            classe_kb, id_kb = _resolver_uma(kb, texto, cit)
-        if cit["classificacao"] == "real" and id_kb is not None:
-            cit["resolucao"] = {"id_canonico": id_kb}
-        elif cit["classificacao"] == "real":
-            cit["classificacao"] = classe_kb if classe_kb in CLASSES else "incompleta"
+        if resolver is None:
+            if cit["classificacao"] == "real":
+                cit["classificacao"] = "incompleta"
             cit["resolucao"] = None
-        else:
-            cit["resolucao"] = None
+            continue
+        contexto = texto[max(0, cit["inicio"] - _CONTEXTO) : cit["fim"] + _CONTEXTO]
+        resultado = resolver.resolve(cit["trecho"], cit["tipo"], contexto)
+        cit["classificacao"] = resultado.classificacao
+        cit["resolucao"] = (
+            {"id_canonico": resultado.id_canonico}
+            if resultado.classificacao == "real" and resultado.id_canonico
+            else None
+        )
     return citacoes
 
 
@@ -308,6 +259,92 @@ def gerar_textos(llm: Any, sampling: Any, documentos: list[tuple[str, str]], bat
     return textos
 
 
+def _jsonable(valor: Any) -> Any:
+    if isinstance(valor, dict):
+        return {str(chave): _jsonable(item) for chave, item in valor.items()}
+    if isinstance(valor, (list, tuple)):
+        return [_jsonable(item) for item in valor]
+    if isinstance(valor, float):
+        return float(valor)
+    if hasattr(valor, "item"):
+        return _jsonable(valor.item())
+    return valor
+
+
+def salvar_resultados(
+    resultados: dict[str, Any],
+    nome: str,
+    results_dir: Path = RESULTS_DIR,
+    contratos: dict[str, dict[str, Any]] | None = None,
+) -> Path:
+    results_dir.mkdir(parents=True, exist_ok=True)
+    carimbo = datetime.now().strftime("%Y%m%dT%H%M%S")
+    pasta = results_dir / "runs" / f"{carimbo}_{nome}"
+    pasta.mkdir(parents=True, exist_ok=True)
+    if contratos:
+        for slug, docs in contratos.items():
+            destino_modelo = pasta / slug
+            destino_modelo.mkdir(parents=True, exist_ok=True)
+            for doc_id, contrato in docs.items():
+                (destino_modelo / f"{doc_id}.json").write_text(
+                    json.dumps(_jsonable(contrato), ensure_ascii=False, indent=2),
+                    encoding="utf-8",
+                )
+    texto = json.dumps(_jsonable(resultados), ensure_ascii=False, indent=2)
+    destino = pasta / "resumo.json"
+    destino.write_text(texto, encoding="utf-8")
+    (results_dir / "resumo.json").write_text(texto, encoding="utf-8")
+    print(f"run salva em {destino}")
+    return destino
+
+
+def reavaliar_extraidos(
+    results_dir: Path = RESULTS_DIR,
+    txt_dir: Path = TXT_DIR,
+    goldenset_path: Path = GOLDENSET_PATH,
+) -> dict[str, Any]:
+    textos = dict(carregar_documentos(txt_dir))
+    por_slug = {model_slug(model["name"]): model for model in MODELS}
+    resultados: dict[str, Any] = {}
+    contratos_por_modelo: dict[str, dict[str, Any]] = {}
+    for slug, model in por_slug.items():
+        pasta = results_dir / slug
+        if not pasta.is_dir():
+            continue
+        linhas = []
+        contratos: dict[str, dict[str, Any]] = {}
+        for path in sorted(pasta.glob("*.json")):
+            doc = json.loads(path.read_text(encoding="utf-8"))
+            doc_id = str(doc.get("documento_id") or path.stem)
+            citacoes = resolver_ids(textos.get(doc_id, ""), list(doc.get("citacoes") or []))
+            contrato = {"documento_id": doc_id, "citacoes": citacoes}
+            contratos[doc_id] = contrato
+            linhas.append({"documento_id": doc_id, "citacoes": encode(contrato)})
+        submission = pd.DataFrame(linhas)
+        solution = solution_frame(goldenset_path)
+        presentes = set(submission["documento_id"]) if not submission.empty else set()
+        faltantes = [
+            {"documento_id": doc_id, "citacoes": "-"}
+            for doc_id in solution["documento_id"]
+            if doc_id not in presentes
+        ]
+        if faltantes:
+            submission = pd.concat([submission, pd.DataFrame(faltantes)], ignore_index=True)
+        resultados[model["name"]] = {
+            "role": model["role"],
+            "family": model["family"],
+            "parameters": model["parameters"],
+            "avaliacao": avaliar(solution, submission),
+        }
+        contratos_por_modelo[slug] = contratos
+        score = resultados[model["name"]]["avaliacao"]["score_final"]
+        print(f"{model['name']} score_final={score:.4f}")
+    if not resultados:
+        raise SystemExit(f"nenhuma extração de modelo em {results_dir}")
+    salvar_resultados(resultados, "modelos", results_dir, contratos_por_modelo)
+    return resultados
+
+
 def executar(
     modelos: list[dict[str, Any]] | None = None,
     txt_dir: Path = TXT_DIR,
@@ -323,6 +360,7 @@ def executar(
         raise SystemExit(f"nenhum documento em {txt_dir}")
     catalogo = modelos if modelos is not None else MODELS
     resultados: dict[str, Any] = {}
+    pasta_run = results_dir / "runs" / f"{datetime.now().strftime('%Y%m%dT%H%M%S')}_inferencia"
     for model in catalogo:
         print(f"load {model['name']}")
         llm = LLM(model=model["name"], **engine_kwargs(model))
@@ -332,7 +370,7 @@ def executar(
         finally:
             descarregar_llm(llm)
         avaliado = avaliar_saidas(documentos, saidas, goldenset_path)
-        pasta = results_dir / model_slug(model["name"])
+        pasta = pasta_run / model_slug(model["name"])
         pasta.mkdir(parents=True, exist_ok=True)
         for doc_id, contrato in avaliado["contratos"].items():
             destino = pasta / f"{doc_id}.json"
@@ -348,4 +386,11 @@ def executar(
         }
         score = avaliado["avaliacao"]["score_final"]
         print(f"{model['name']} score_final={score:.4f}")
+    texto = json.dumps(_jsonable(resultados), ensure_ascii=False, indent=2)
+    pasta_run.mkdir(parents=True, exist_ok=True)
+    destino = pasta_run / "resumo.json"
+    destino.write_text(texto, encoding="utf-8")
+    results_dir.mkdir(parents=True, exist_ok=True)
+    (results_dir / "resumo.json").write_text(texto, encoding="utf-8")
+    print(f"run salva em {destino}")
     return resultados

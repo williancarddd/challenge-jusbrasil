@@ -1,10 +1,8 @@
 from __future__ import annotations
 
-import json
 from typing import Any
 
 from challenge_jusbrasil.pipeline import executar
-from challenge_jusbrasil.settings import RESULTS_DIR
 
 
 def _jsonable(valor: Any) -> Any:
@@ -21,9 +19,6 @@ def _jsonable(valor: Any) -> Any:
 
 def main() -> dict[str, Any]:
     resultados = _jsonable(executar())
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
-    destino = RESULTS_DIR / "resumo.json"
-    destino.write_text(json.dumps(resultados, ensure_ascii=False, indent=2), encoding="utf-8")
     print()
     for nome, item in resultados.items():
         avaliacao = item["avaliacao"]
@@ -36,7 +31,6 @@ def main() -> dict[str, Any]:
                 f"bonus={detalhe['b']:.4f} f1={f1}"
             )
         print(f"  SCORE FINAL: {avaliacao['score_final']:.4f}")
-    print(f"\nresultados em {destino}")
     return resultados
 
 

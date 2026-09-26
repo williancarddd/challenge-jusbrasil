@@ -1,0 +1,23 @@
+{
+  "documento_id": "gen_n1_009",
+  "citacoes": [
+    {
+      "inicio": 3220,
+      "fim": 3235,
+      "trecho": "REsp 5672508/RJ",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3401,
+      "fim": 3465,
+      "trecho": "Agravo Interno na Suspensão\nde Liminar e de Sentença nº 2.883/MA",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

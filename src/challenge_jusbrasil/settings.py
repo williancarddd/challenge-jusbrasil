@@ -21,7 +21,7 @@ VLLM_ENGINE: dict[str, Any] = {
 
 VLLM_SAMPLING: dict[str, Any] = {
     "temperature": 0.0,
-    "max_tokens": 4048,
+    "max_tokens": 4096,
     "seed": 42,
 }
 
