@@ -1,0 +1,28 @@
+[project]
+name = "cacador-alucinacoes"
+version = "0.1.0"
+description = "Caça-Alucinações — BRACIS 2026 × Jusbrasil"
+readme = "README.md"
+authors = [
+    { name = "Carlos Filipe de Castro Lemos", email = "carlos.lemos.dev@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    # pandas e numpy são exigências do `kaggle_metric.py` da organização, que roda sem
+    # modificação — é o mesmo script do servidor, e é assim que o score é reproduzido.
+    "numpy>=2.1",
+    "pandas>=2.2",
+    "pt-core-news-sm",
+    "spacy>=3.8.16",
+    # Versão fixa: o motor muda a saída do modelo, e o regulamento re-executa os top-N.
+    # Era 0.28 no container; 0.30 é a que roda na 5070 Ti (Blackwell) via uv.
+    "vllm==0.30.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.sources]
+pt-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.8.0/pt_core_news_sm-3.8.0-py3-none-any.whl" }
