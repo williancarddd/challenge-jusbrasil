@@ -73,7 +73,7 @@ for _model in MODELS:
 
 TEACHER: dict[str, Any] = dict(next(m for m in MODELS if m["role"] == "teacher"))
 
-SYSTEM_PROMPT = f"""Você extrai e classifica citações jurídicas em um documento judicial do desafio Caça-Alucinações (BRACIS 2026 / Jusbrasil).
+SYSTEM_PROMPT = f"""Você extrai e classifica citações jurídicas em um documento judicial.
 
 Localize cada citação de lei ou de jurisprudência no corpo do texto. Ignore distratores que parecem citação e não são: número dos autos do próprio documento, OAB, protocolo, folhas (fls.) e valor da causa.
 
