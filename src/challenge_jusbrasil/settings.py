@@ -9,17 +9,22 @@ GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
 RESULTS_DIR = ROOT / "results"
 
 INFER_BATCH_SIZE = 1000
+MAX_MODEL_LEN = 8192
+CHUNK_OVERLAP = 200
+CHARS_PER_TOKEN = 2
+CHAT_OVERHEAD_TOKENS = 256
 
 VLLM_ENGINE: dict[str, Any] = {
     "trust_remote_code": True,
     "gpu_memory_utilization": 0.90,
     "seed": 42,
     "disable_log_stats": False,
+    "max_model_len": MAX_MODEL_LEN,
 }
 
 VLLM_SAMPLING: dict[str, Any] = {
     "temperature": 0.0,
-    "max_tokens": 4096,
+    "max_tokens": 1024,
     "seed": 42,
 }
 
@@ -31,9 +36,6 @@ TEACHERS: list[dict[str, Any]] = [
         "quantization": "bnb-4bit",
         "url": "https://huggingface.co/unsloth/gemma-4-31B-it-unsloth-bnb-4bit",
         "role": "teacher",
-        "vllm": {
-            "max_model_len": 32768,
-        },
     },
 ]
 
@@ -53,9 +55,6 @@ STUDENTS: list[dict[str, Any]] = [
         "quantization": "bnb-4bit",
         "url": "https://huggingface.co/unsloth/SmolLM2-135M-Instruct-bnb-4bit",
         "role": "student",
-        "vllm": {
-            "max_model_len": 8192,
-        },
     },
     {
         "name": "unsloth/Phi-4-mini-instruct-unsloth-bnb-4bit",
@@ -72,9 +71,6 @@ STUDENTS: list[dict[str, Any]] = [
         "quantization": "bnb-4bit",
         "url": "https://huggingface.co/unsloth/Qwen3-8B-unsloth-bnb-4bit",
         "role": "student",
-        "vllm": {
-            "max_model_len": 32768,
-        },
     },
     {
         "name": "unsloth/gemma-3-12b-it-unsloth-bnb-4bit",
@@ -83,9 +79,6 @@ STUDENTS: list[dict[str, Any]] = [
         "quantization": "bnb-4bit",
         "url": "https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit",
         "role": "student",
-        "vllm": {
-            "max_model_len": 32768,
-        },
     },
 ]
 
@@ -177,8 +170,16 @@ def teacher_model() -> dict[str, Any]:
 def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
     kwargs = dict(model["vllm"])
     kwargs.setdefault("quantization", "bitsandbytes")
-    kwargs.setdefault("max_model_len", 16384)
+    kwargs.setdefault("max_model_len", MAX_MODEL_LEN)
     return kwargs
+
+
+def orcamento_texto(model: dict[str, Any]) -> int:
+    max_len = int(engine_kwargs(model)["max_model_len"])
+    max_out = int(infer_sampling(model)["max_tokens"])
+    reserva = (len(SYSTEM_PROMPT) + 64) // CHARS_PER_TOKEN + CHAT_OVERHEAD_TOKENS
+    tokens = max(CHUNK_OVERLAP, max_len - max_out - reserva)
+    return tokens * CHARS_PER_TOKEN
 
 
 def infer_sampling(model: dict[str, Any]) -> dict[str, Any]:

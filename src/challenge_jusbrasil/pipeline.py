@@ -13,9 +13,11 @@ from typing import Any
 
 import pandas as pd
 
+from challenge_jusbrasil.chunker import Chunker, Janela
 from challenge_jusbrasil.resolver import Resolver
 from challenge_jusbrasil.resolver.lei import tipo_de
 from challenge_jusbrasil.settings import (
+    CHUNK_OVERLAP,
     GOLDENSET_PATH,
     INFER_BATCH_SIZE,
     MODELS,
@@ -24,6 +26,7 @@ from challenge_jusbrasil.settings import (
     chat_prompt,
     engine_kwargs,
     infer_sampling,
+    orcamento_texto,
 )
 from challenge_jusbrasil.utils.json_to_submission import encode
 from challenge_jusbrasil.utils.kaggle_metric import (
@@ -142,6 +145,40 @@ def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
     return saida
 
 
+def fundir_citacoes(citacoes: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    ordenadas = sorted(
+        citacoes,
+        key=lambda cit: (cit.get("_borda", False), cit["inicio"], cit["fim"]),
+    )
+    saida: list[dict[str, Any]] = []
+    for cit in ordenadas:
+        if any(_iou(cit, outro) >= IOU_MIN for outro in saida):
+            continue
+        saida.append({chave: valor for chave, valor in cit.items() if chave != "_borda"})
+    saida.sort(key=lambda cit: (cit["inicio"], cit["fim"]))
+    return saida
+
+
+def citacoes_da_janela(
+    texto: str,
+    janela: Janela,
+    raw: str,
+    sobreposicao: int,
+) -> list[dict[str, Any]]:
+    fim_janela = janela.start + len(janela.text)
+    documento_fim = len(texto)
+    citacoes = []
+    for cit in citacoes_de_saida(janela.text, raw):
+        cit["inicio"] += janela.start
+        cit["fim"] += janela.start
+        cit["trecho"] = texto[cit["inicio"] : cit["fim"]]
+        toca_inicio = janela.start > 0 and cit["inicio"] < janela.start + sobreposicao
+        toca_fim = fim_janela < documento_fim and cit["fim"] > fim_janela - sobreposicao
+        cit["_borda"] = toca_inicio or toca_fim
+        citacoes.append(cit)
+    return citacoes
+
+
 def carregar_resolver() -> Resolver | None:
     global _RESOLVER_CACHE
     if _RESOLVER_CACHE is not None:
@@ -201,14 +238,37 @@ def descarregar_llm(llm: Any) -> None:
     time.sleep(8)
 
 
-def gerar_textos(llm: Any, sampling: Any, documentos: list[tuple[str, str]], batch_size: int) -> list[str]:
-    textos: list[str] = []
-    for inicio in range(0, len(documentos), batch_size):
-        lote = documentos[inicio : inicio + batch_size]
-        mensagens = [chat_prompt(doc_id, texto) for doc_id, texto in lote]
-        saidas = llm.chat(mensagens, sampling_params=sampling, use_tqdm=False)
-        textos.extend(item.outputs[0].text for item in saidas)
-    return textos
+def chat_lotes(llm: Any, sampling: Any, mensagens: list[list[dict[str, str]]], batch_size: int) -> list[str]:
+    if batch_size < 1:
+        raise ValueError("batch_size deve ser positivo")
+    brutos: list[str] = []
+    total = (len(mensagens) + batch_size - 1) // batch_size if mensagens else 0
+    for numero, inicio in enumerate(range(0, len(mensagens), batch_size), start=1):
+        lote = mensagens[inicio : inicio + batch_size]
+        print(f"chat lote {numero}/{total} n={len(lote)}", flush=True)
+        saidas = llm.chat(lote, sampling_params=sampling, use_tqdm=False)
+        brutos.extend(item.outputs[0].text for item in saidas)
+    return brutos
+
+
+def gerar_citacoes(
+    llm: Any,
+    sampling: Any,
+    documentos: list[tuple[str, str]],
+    chunker: Chunker,
+    batch_size: int,
+) -> list[list[dict[str, Any]]]:
+    plano: list[tuple[int, Janela]] = []
+    for indice, (_, texto) in enumerate(documentos):
+        plano.extend((indice, janela) for janela in chunker.janelas(texto))
+    print(f"chunks {len(plano)} lote={batch_size}", flush=True)
+    mensagens = [chat_prompt(documentos[indice][0], janela.text) for indice, janela in plano]
+    brutos = chat_lotes(llm, sampling, mensagens, batch_size)
+    por_doc: list[list[dict[str, Any]]] = [[] for _ in documentos]
+    for (indice, janela), raw in zip(plano, brutos, strict=True):
+        texto = documentos[indice][1]
+        por_doc[indice].extend(citacoes_da_janela(texto, janela, raw, chunker.sobreposicao))
+    return [fundir_citacoes(citacoes) for citacoes in por_doc]
 
 
 def _jsonable(valor: Any) -> Any:
@@ -283,15 +343,16 @@ def extrair(
         print(f"load {model['name']}")
         llm = LLM(model=model["name"], **engine_kwargs(model))
         sampling = SamplingParams(**infer_sampling(model))
+        chunker = Chunker(orcamento_texto(model), CHUNK_OVERLAP)
         try:
-            saidas = gerar_textos(llm, sampling, documentos, batch_size)
+            citacoes_por_doc = gerar_citacoes(llm, sampling, documentos, chunker, batch_size)
         finally:
             descarregar_llm(llm)
         pasta = _pasta_run(results_dir, carimbo, slug)
-        for (doc_id, texto), raw in zip(documentos, saidas, strict=True):
+        for (doc_id, _), citacoes in zip(documentos, citacoes_por_doc, strict=True):
             contrato = {
                 "documento_id": doc_id,
-                "citacoes": citacoes_de_saida(texto, raw),
+                "citacoes": citacoes,
             }
             _escrever_json(pasta / f"{doc_id}.json", contrato)
         _escrever_json(
@@ -302,6 +363,7 @@ def extrair(
                 "family": model["family"],
                 "parameters": model["parameters"],
                 "slug": slug,
+                "batch_size": batch_size,
             },
         )
         print(f"extração salva em {pasta}")
