@@ -117,6 +117,7 @@ A <start tipo="jurisprudencia" classificacao="real">Súmula Vinculante 10<end> o
 
 Examples of inventada:
 
+
 Input:
 A peça menciona a Reclamação nº 66.516/RO. As folhas são fls. 12/30.
 Output:
