@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import gc
 import json
+import os
 import re
 import time
 from collections import defaultdict
@@ -30,6 +31,8 @@ from challenge_jusbrasil.utils.kaggle_metric import (
 )
 
 TIPOS = ("lei", "jurisprudencia")
+_CONTEXTO = 250
+_KB_CACHE: Any = None
 
 
 def model_slug(name: str) -> str:
@@ -69,23 +72,16 @@ def solution_frame(goldenset_path: Path = GOLDENSET_PATH) -> pd.DataFrame:
     return pd.DataFrame(linhas)
 
 
-def extrair_json(raw: str) -> dict[str, Any]:
-    text = (raw or "").strip()
-    fence = re.search(r"```(?:json)?\s*(.*?)```", text, re.DOTALL)
-    if fence:
-        text = fence.group(1).strip()
-    start = text.find("{")
-    end = text.rfind("}")
-    if start >= 0 and end > start:
-        text = text[start : end + 1]
-    if not text:
-        return {"citacoes": []}
-    data = json.loads(text)
-    if isinstance(data, list):
-        return {"citacoes": data}
-    if not isinstance(data, dict):
-        return {"citacoes": []}
-    return data
+_SPAN_TAG_RE = re.compile(r"<start\b([^>]*)>(.*?)<end>", re.IGNORECASE | re.DOTALL)
+_ATTR_RE = re.compile(r"""([A-Za-z_]+)\s*=\s*(?:"([^"]*)"|'([^']*)')""")
+
+
+def _atributos_tag(bruto: str) -> dict[str, str]:
+    atributos: dict[str, str] = {}
+    for match in _ATTR_RE.finditer(bruto):
+        valor = match.group(2) if match.group(2) is not None else match.group(3)
+        atributos[match.group(1).lower()] = valor
+    return atributos
 
 
 def localizar_trecho(texto: str, trecho: str) -> tuple[int, int] | None:
@@ -117,18 +113,6 @@ def localizar_trecho(texto: str, trecho: str) -> tuple[int, int] | None:
     return inicio, fim
 
 
-def _confianca(valor: Any) -> float | None:
-    if valor is None or valor == "" or valor == "-":
-        return None
-    try:
-        numero = float(valor)
-    except (TypeError, ValueError):
-        return None
-    if not 0.0 <= numero <= 1.0:
-        return None
-    return numero
-
-
 def _id_canonico(valor: Any) -> str | None:
     if valor is None:
         return None
@@ -141,41 +125,28 @@ def _id_canonico(valor: Any) -> str | None:
 
 
 def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
-    try:
-        data = extrair_json(raw)
-    except json.JSONDecodeError:
-        return []
-    itens = data.get("citacoes") or []
-    if not isinstance(itens, list):
-        return []
     candidatos: list[dict[str, Any]] = []
-    for item in itens:
-        if not isinstance(item, dict):
-            continue
-        classe = str(item.get("classificacao") or "").strip().lower()
+    cursor = 0
+    for match in _SPAN_TAG_RE.finditer(raw or ""):
+        atributos = _atributos_tag(match.group(1))
+        classe = atributos.get("classificacao", "").strip().lower()
         if classe not in CLASSES:
             continue
-        tipo = str(item.get("tipo") or "").strip().lower()
+        tipo = atributos.get("tipo", "").strip().lower()
         if tipo not in TIPOS:
             tipo = "jurisprudencia"
-        trecho = item.get("trecho")
-        span = localizar_trecho(texto, str(trecho)) if trecho is not None else None
-        if span is None:
-            inicio = item.get("inicio")
-            fim = item.get("fim")
-            try:
-                inicio_i, fim_i = int(inicio), int(fim)
-            except (TypeError, ValueError):
-                continue
-            if 0 <= inicio_i < fim_i <= len(texto):
-                span = (inicio_i, fim_i)
-        if span is None:
+        trecho = match.group(2).strip("\n")
+        if not trecho:
             continue
-        inicio, fim = span
-        id_canonico = _id_canonico(item.get("id_canonico"))
-        if classe == "real" and id_canonico is None:
-            classe = "incompleta"
-        resolucao = {"id_canonico": id_canonico} if classe == "real" else None
+        span = localizar_trecho(texto[cursor:], trecho)
+        if span is None:
+            span = localizar_trecho(texto, trecho)
+            if span is None:
+                continue
+            inicio, fim = span
+        else:
+            inicio, fim = cursor + span[0], cursor + span[1]
+        cursor = fim
         candidatos.append(
             {
                 "inicio": inicio,
@@ -183,18 +154,91 @@ def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
                 "trecho": texto[inicio:fim],
                 "tipo": tipo,
                 "classificacao": classe,
-                "confianca": _confianca(item.get("confianca")),
-                "resolucao": resolucao,
+                "confianca": None,
+                "resolucao": None,
             }
         )
-    candidatos.sort(key=lambda cit: (-(cit["confianca"] or 0.0), cit["inicio"], cit["fim"]))
+    candidatos.sort(key=lambda cit: (cit["inicio"], cit["fim"]))
     saida: list[dict[str, Any]] = []
     for cit in candidatos:
         if any(_iou(cit, outro) >= IOU_MIN for outro in saida):
             continue
         saida.append(cit)
     saida.sort(key=lambda cit: (cit["inicio"], cit["fim"]))
-    return saida
+    return resolver_ids(texto, saida)
+
+
+def carregar_kb() -> Any:
+    global _KB_CACHE
+    if _KB_CACHE is not None:
+        return _KB_CACHE if _KB_CACHE is not False else None
+    from challenge_jusbrasil.settings import ROOT
+
+    db_path = ROOT / "data" / "desafio1_bracis.db"
+    davi = ROOT / "davi_version"
+    if not db_path.exists():
+        _KB_CACHE = False
+        return None
+    import sqlite3
+    import sys
+
+    sys.path.insert(0, str(davi))
+    sys.path.insert(0, str(davi / "kb"))
+    from build_kb import build_dispositivos, build_header_index, build_sumulas
+    from resolve import KB
+
+    con = sqlite3.connect(str(db_path))
+    con.text_factory = lambda b: b.decode("utf-8", "replace")
+    kb = KB.__new__(KB)
+    kb.header_index = build_header_index(con)
+    kb.sumulas = build_sumulas(con)
+    kb.dispositivos = build_dispositivos(con)
+    kb.con = con
+    _KB_CACHE = kb
+    return kb
+
+
+def _resolver_uma(kb: Any, texto: str, cit: dict[str, Any]) -> tuple[str, str | None]:
+    from extract import _LEI_ART_RE, _SUMULA_RE
+    from resolve import resolve_jurisprudencia_numero, resolve_lei_artigo, resolve_sumula
+
+    trecho = cit["trecho"]
+    if cit["tipo"] == "lei":
+        match = _LEI_ART_RE.search(trecho)
+        if match is None:
+            return "incompleta", None
+        classe, id_ = resolve_lei_artigo(kb, match.group("num"), match.group("codigo"))
+        return classe, _id_canonico(id_)
+    match = _SUMULA_RE.search(trecho)
+    if match:
+        tribunal = match.group("trib")
+        classe, id_ = resolve_sumula(
+            kb,
+            match.group("num"),
+            tribunal.upper() if tribunal else None,
+            bool(match.group("vinc")),
+        )
+        return classe, _id_canonico(id_)
+    ctx = texto[max(0, cit["inicio"] - _CONTEXTO) : cit["fim"] + _CONTEXTO]
+    classe, id_, _via = resolve_jurisprudencia_numero(kb, trecho, ctx)
+    return classe, _id_canonico(id_)
+
+
+def resolver_ids(texto: str, citacoes: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    kb = carregar_kb()
+    for cit in citacoes:
+        if kb is None:
+            classe_kb, id_kb = "incompleta", None
+        else:
+            classe_kb, id_kb = _resolver_uma(kb, texto, cit)
+        if cit["classificacao"] == "real" and id_kb is not None:
+            cit["resolucao"] = {"id_canonico": id_kb}
+        elif cit["classificacao"] == "real":
+            cit["classificacao"] = classe_kb if classe_kb in CLASSES else "incompleta"
+            cit["resolucao"] = None
+        else:
+            cit["resolucao"] = None
+    return citacoes
 
 
 def submission_frame(
@@ -271,6 +315,7 @@ def executar(
     results_dir: Path = RESULTS_DIR,
     batch_size: int = INFER_BATCH_SIZE,
 ) -> dict[str, Any]:
+    os.environ.setdefault("VLLM_USE_FLASHINFER_SAMPLER", "0")
     from vllm import LLM, SamplingParams
 
     documentos = carregar_documentos(txt_dir)
