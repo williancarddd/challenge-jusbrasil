@@ -1,0 +1,50 @@
+{
+  "documento_id": "gen_n1_006",
+  "citacoes": [
+    {
+      "inicio": 80,
+      "fim": 114,
+      "trecho": "Autos nº 9837893-96.2023.6.03.3586",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 200,
+      "fim": 225,
+      "trecho": "Protocolo nº 2020.3566022",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 227,
+      "fim": 234,
+      "trecho": "PARECER",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 505,
+      "fim": 536,
+      "trecho": "AgR-REspe 378-82.2016.6.05.0151",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3086,
+      "fim": 3119,
+      "trecho": "AREspEI 0601514-91.2020.6.05.0000",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -13,11 +13,7 @@ _RE = re.compile(
 )
 _TRIBUNAL_RE = re.compile(r"\b(STF|STJ|TST|TSE|STM)\b", flags=re.IGNORECASE)
 _NUMERO_NO_TEXTO_RE = re.compile(r"S[ÚU]MULA\s+(\d+)", flags=re.IGNORECASE)
-
-_SEM_NUMERO_NO_TEXTO = {
-    ("10", "STF", True): "1289712966",
-    ("331", "TST", False): "1431369957",
-}
+_VINCULANTE_RE = re.compile(r"vinculante", flags=re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -34,10 +30,6 @@ class ResolvedorSumula:
 
     @classmethod
     def carregar(cls, con: sqlite3.Connection) -> ResolvedorSumula:
-        ids_presentes = {
-            str(row[0])
-            for row in con.execute("SELECT id FROM documentos WHERE natureza = 'sumula'")
-        }
         itens: list[_Sumula] = []
         for doc_id, tribunal, texto in con.execute(
             "SELECT id, tribunal, texto FROM documentos WHERE natureza = 'sumula'"
@@ -50,13 +42,9 @@ class ResolvedorSumula:
                     id=str(doc_id),
                     numero=match.group(1).lstrip("0") or "0",
                     tribunal=(tribunal or "").upper() or None,
-                    vinculante=False,
+                    vinculante=_VINCULANTE_RE.search(texto) is not None,
                 )
             )
-        for (numero, tribunal, vinculante), doc_id in _SEM_NUMERO_NO_TEXTO.items():
-            if doc_id not in ids_presentes:
-                continue
-            itens.append(_Sumula(doc_id, numero, tribunal, vinculante))
         return cls(itens)
 
     def reconhece(self, trecho: str) -> bool:
@@ -67,7 +55,7 @@ class ResolvedorSumula:
         if match is None:
             return Resolucao("incompleta")
         numero = match.group(1).lstrip("0") or "0"
-        vinculante = re.search(r"vinculante", trecho, flags=re.IGNORECASE) is not None
+        vinculante = _VINCULANTE_RE.search(trecho) is not None
         tribunal_match = _TRIBUNAL_RE.search(trecho)
         tribunal = tribunal_match.group(1).upper() if tribunal_match else None
         candidatos = [

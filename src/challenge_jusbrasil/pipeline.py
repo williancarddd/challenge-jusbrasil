@@ -156,7 +156,7 @@ def citacoes_de_saida(texto: str, raw: str) -> list[dict[str, Any]]:
             continue
         saida.append(cit)
     saida.sort(key=lambda cit: (cit["inicio"], cit["fim"]))
-    return resolver_ids(texto, saida)
+    return saida
 
 
 def carregar_resolver() -> Resolver | None:
@@ -190,38 +190,6 @@ def resolver_ids(texto: str, citacoes: list[dict[str, Any]]) -> list[dict[str, A
             else None
         )
     return citacoes
-
-
-def submission_frame(
-    documentos: list[tuple[str, str]],
-    saidas: list[str],
-) -> tuple[pd.DataFrame, dict[str, dict[str, Any]]]:
-    linhas = []
-    contratos: dict[str, dict[str, Any]] = {}
-    for (doc_id, texto), raw in zip(documentos, saidas, strict=True):
-        citacoes = citacoes_de_saida(texto, raw)
-        contrato = {"documento_id": doc_id, "citacoes": citacoes}
-        contratos[doc_id] = contrato
-        linhas.append({"documento_id": doc_id, "citacoes": encode(contrato)})
-    return pd.DataFrame(linhas), contratos
-
-
-def avaliar_saidas(
-    documentos: list[tuple[str, str]],
-    saidas: list[str],
-    goldenset_path: Path = GOLDENSET_PATH,
-) -> dict[str, Any]:
-    submission, contratos = submission_frame(documentos, saidas)
-    presentes = set(submission["documento_id"])
-    solution = solution_frame(goldenset_path)
-    faltantes = [
-        {"documento_id": doc_id, "citacoes": "-"}
-        for doc_id in solution["documento_id"]
-        if doc_id not in presentes
-    ]
-    if faltantes:
-        submission = pd.concat([submission, pd.DataFrame(faltantes)], ignore_index=True)
-    return {"avaliacao": avaliar(solution, submission), "contratos": contratos, "submission": submission}
 
 
 def descarregar_llm(llm: Any) -> None:
@@ -271,87 +239,52 @@ def _jsonable(valor: Any) -> Any:
     return valor
 
 
-def salvar_resultados(
-    resultados: dict[str, Any],
-    nome: str,
-    results_dir: Path = RESULTS_DIR,
-    contratos: dict[str, dict[str, Any]] | None = None,
-) -> Path:
-    results_dir.mkdir(parents=True, exist_ok=True)
-    carimbo = datetime.now().strftime("%Y%m%dT%H%M%S")
-    pasta = results_dir / "runs" / f"{carimbo}_{nome}"
+EXTRACT_DIR = RESULTS_DIR / "extract"
+SEARCH_DIR = RESULTS_DIR / "search"
+_IGNORAR_JSON = {"meta.json", "resumo.json"}
+
+
+def _carimbo() -> str:
+    return datetime.now().strftime("%Y%m%dT%H%M%S")
+
+
+def _pasta_run(raiz: Path, carimbo: str, slug: str) -> Path:
+    pasta = raiz / f"{carimbo}_{slug}"
     pasta.mkdir(parents=True, exist_ok=True)
-    if contratos:
-        for slug, docs in contratos.items():
-            destino_modelo = pasta / slug
-            destino_modelo.mkdir(parents=True, exist_ok=True)
-            for doc_id, contrato in docs.items():
-                (destino_modelo / f"{doc_id}.json").write_text(
-                    json.dumps(_jsonable(contrato), ensure_ascii=False, indent=2),
-                    encoding="utf-8",
-                )
-    texto = json.dumps(_jsonable(resultados), ensure_ascii=False, indent=2)
-    destino = pasta / "resumo.json"
-    destino.write_text(texto, encoding="utf-8")
-    (results_dir / "resumo.json").write_text(texto, encoding="utf-8")
-    print(f"run salva em {destino}")
-    return destino
+    return pasta
 
 
-def reavaliar_extraidos(
-    results_dir: Path = RESULTS_DIR,
-    txt_dir: Path = TXT_DIR,
-    goldenset_path: Path = GOLDENSET_PATH,
+def _escrever_json(path: Path, payload: Any) -> None:
+    path.write_text(json.dumps(_jsonable(payload), ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def _avaliar_contratos(
+    contratos: dict[str, dict[str, Any]],
+    goldenset_path: Path,
 ) -> dict[str, Any]:
-    textos = dict(carregar_documentos(txt_dir))
-    por_slug = {model_slug(model["name"]): model for model in MODELS}
-    resultados: dict[str, Any] = {}
-    contratos_por_modelo: dict[str, dict[str, Any]] = {}
-    for slug, model in por_slug.items():
-        pasta = results_dir / slug
-        if not pasta.is_dir():
-            continue
-        linhas = []
-        contratos: dict[str, dict[str, Any]] = {}
-        for path in sorted(pasta.glob("*.json")):
-            doc = json.loads(path.read_text(encoding="utf-8"))
-            doc_id = str(doc.get("documento_id") or path.stem)
-            citacoes = resolver_ids(textos.get(doc_id, ""), list(doc.get("citacoes") or []))
-            contrato = {"documento_id": doc_id, "citacoes": citacoes}
-            contratos[doc_id] = contrato
-            linhas.append({"documento_id": doc_id, "citacoes": encode(contrato)})
-        submission = pd.DataFrame(linhas)
-        solution = solution_frame(goldenset_path)
-        presentes = set(submission["documento_id"]) if not submission.empty else set()
-        faltantes = [
-            {"documento_id": doc_id, "citacoes": "-"}
-            for doc_id in solution["documento_id"]
-            if doc_id not in presentes
-        ]
-        if faltantes:
-            submission = pd.concat([submission, pd.DataFrame(faltantes)], ignore_index=True)
-        resultados[model["name"]] = {
-            "role": model["role"],
-            "family": model["family"],
-            "parameters": model["parameters"],
-            "avaliacao": avaliar(solution, submission),
-        }
-        contratos_por_modelo[slug] = contratos
-        score = resultados[model["name"]]["avaliacao"]["score_final"]
-        print(f"{model['name']} score_final={score:.4f}")
-    if not resultados:
-        raise SystemExit(f"nenhuma extração de modelo em {results_dir}")
-    salvar_resultados(resultados, "modelos", results_dir, contratos_por_modelo)
-    return resultados
+    linhas = [
+        {"documento_id": doc_id, "citacoes": encode(contrato)}
+        for doc_id, contrato in contratos.items()
+    ]
+    submission = pd.DataFrame(linhas)
+    solution = solution_frame(goldenset_path)
+    presentes = set(submission["documento_id"]) if not submission.empty else set()
+    faltantes = [
+        {"documento_id": doc_id, "citacoes": "-"}
+        for doc_id in solution["documento_id"]
+        if doc_id not in presentes
+    ]
+    if faltantes:
+        submission = pd.concat([submission, pd.DataFrame(faltantes)], ignore_index=True)
+    return avaliar(solution, submission)
 
 
-def executar(
+def extrair(
     modelos: list[dict[str, Any]] | None = None,
     txt_dir: Path = TXT_DIR,
-    goldenset_path: Path = GOLDENSET_PATH,
-    results_dir: Path = RESULTS_DIR,
+    results_dir: Path = EXTRACT_DIR,
     batch_size: int = INFER_BATCH_SIZE,
-) -> dict[str, Any]:
+) -> list[Path]:
     os.environ.setdefault("VLLM_USE_FLASHINFER_SAMPLER", "0")
     from vllm import LLM, SamplingParams
 
@@ -359,9 +292,10 @@ def executar(
     if not documentos:
         raise SystemExit(f"nenhum documento em {txt_dir}")
     catalogo = modelos if modelos is not None else MODELS
-    resultados: dict[str, Any] = {}
-    pasta_run = results_dir / "runs" / f"{datetime.now().strftime('%Y%m%dT%H%M%S')}_inferencia"
+    carimbo = _carimbo()
+    pastas: list[Path] = []
     for model in catalogo:
+        slug = model_slug(model["name"])
         print(f"load {model['name']}")
         llm = LLM(model=model["name"], **engine_kwargs(model))
         sampling = SamplingParams(**infer_sampling(model))
@@ -369,28 +303,109 @@ def executar(
             saidas = gerar_textos(llm, sampling, documentos, batch_size)
         finally:
             descarregar_llm(llm)
-        avaliado = avaliar_saidas(documentos, saidas, goldenset_path)
-        pasta = pasta_run / model_slug(model["name"])
-        pasta.mkdir(parents=True, exist_ok=True)
-        for doc_id, contrato in avaliado["contratos"].items():
-            destino = pasta / f"{doc_id}.json"
-            destino.write_text(
-                json.dumps(contrato, ensure_ascii=False, indent=2),
-                encoding="utf-8",
+        pasta = _pasta_run(results_dir, carimbo, slug)
+        for (doc_id, texto), raw in zip(documentos, saidas, strict=True):
+            contrato = {
+                "documento_id": doc_id,
+                "citacoes": citacoes_de_saida(texto, raw),
+            }
+            _escrever_json(pasta / f"{doc_id}.json", contrato)
+        _escrever_json(
+            pasta / "meta.json",
+            {
+                "name": model["name"],
+                "role": model["role"],
+                "family": model["family"],
+                "parameters": model["parameters"],
+                "slug": slug,
+            },
+        )
+        print(f"extração salva em {pasta}")
+        pastas.append(pasta)
+    return pastas
+
+
+def extracoes_recentes(extract_dir: Path = EXTRACT_DIR) -> list[Path]:
+    if not extract_dir.is_dir():
+        raise SystemExit(f"nenhuma extração em {extract_dir}")
+    pastas = [pasta for pasta in extract_dir.iterdir() if pasta.is_dir()]
+    if not pastas:
+        raise SystemExit(f"nenhuma extração em {extract_dir}")
+    ultimo = max(pasta.name.split("_", 1)[0] for pasta in pastas)
+    return sorted(pasta for pasta in pastas if pasta.name.startswith(f"{ultimo}_"))
+
+
+def buscar(
+    pastas: list[Path] | None = None,
+    txt_dir: Path = TXT_DIR,
+    goldenset_path: Path = GOLDENSET_PATH,
+    results_dir: Path = SEARCH_DIR,
+) -> dict[str, Any]:
+    origens = pastas if pastas is not None else extracoes_recentes()
+    if not origens:
+        raise SystemExit("nenhuma extração para buscar")
+    textos = dict(carregar_documentos(txt_dir))
+    carimbo = _carimbo()
+    resultados: dict[str, Any] = {}
+    for origem in origens:
+        meta_path = origem / "meta.json"
+        if meta_path.is_file():
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        else:
+            por_slug = {model_slug(model["name"]): model for model in MODELS}
+            model = por_slug.get(origem.name)
+            meta = (
+                {
+                    "name": model["name"],
+                    "role": model["role"],
+                    "family": model["family"],
+                    "parameters": model["parameters"],
+                    "slug": origem.name,
+                }
+                if model is not None
+                else {"name": origem.name, "slug": origem.name}
             )
-        resultados[model["name"]] = {
-            "role": model["role"],
-            "family": model["family"],
-            "parameters": model["parameters"],
-            "avaliacao": avaliado["avaliacao"],
+        slug = str(meta.get("slug") or model_slug(str(meta.get("name") or origem.name)))
+        contratos: dict[str, dict[str, Any]] = {}
+        for path in sorted(origem.glob("*.json")):
+            if path.name in _IGNORAR_JSON:
+                continue
+            doc = json.loads(path.read_text(encoding="utf-8"))
+            doc_id = str(doc.get("documento_id") or path.stem)
+            citacoes = resolver_ids(textos.get(doc_id, ""), list(doc.get("citacoes") or []))
+            contratos[doc_id] = {"documento_id": doc_id, "citacoes": citacoes}
+        avaliacao = _avaliar_contratos(contratos, goldenset_path)
+        pasta = _pasta_run(results_dir, carimbo, slug)
+        for doc_id, contrato in contratos.items():
+            _escrever_json(pasta / f"{doc_id}.json", contrato)
+        item = {
+            "name": meta.get("name"),
+            "role": meta.get("role"),
+            "family": meta.get("family"),
+            "parameters": meta.get("parameters"),
+            "slug": slug,
+            "extract": str(origem),
+            "avaliacao": avaliacao,
         }
-        score = avaliado["avaliacao"]["score_final"]
-        print(f"{model['name']} score_final={score:.4f}")
-    texto = json.dumps(_jsonable(resultados), ensure_ascii=False, indent=2)
-    pasta_run.mkdir(parents=True, exist_ok=True)
-    destino = pasta_run / "resumo.json"
-    destino.write_text(texto, encoding="utf-8")
-    results_dir.mkdir(parents=True, exist_ok=True)
-    (results_dir / "resumo.json").write_text(texto, encoding="utf-8")
-    print(f"run salva em {destino}")
+        _escrever_json(pasta / "resumo.json", item)
+        nome = str(meta.get("name") or slug)
+        resultados[nome] = item
+        print(f"{nome} score_final={avaliacao['score_final']:.4f}")
+        print(f"busca salva em {pasta}")
     return resultados
+
+
+def imprimir_avaliacao(resultados: dict[str, Any]) -> None:
+    print()
+    for nome, item in resultados.items():
+        avaliacao = item["avaliacao"]
+        papel = item.get("role") or ""
+        print(f"{papel} {nome}".strip())
+        for nivel, detalhe in sorted(avaliacao["niveis"].items(), key=lambda par: int(par[0])):
+            f1 = {classe: round(valor, 3) for classe, valor in detalhe["f1_por_classe"].items()}
+            print(
+                f"  nivel {nivel}: score={detalhe['score']:.4f} "
+                f"macro_f1={detalhe['macro_f1']:.4f} tau={detalhe['tau']:.3f} "
+                f"bonus={detalhe['b']:.4f} f1={f1}"
+            )
+        print(f"  SCORE FINAL: {avaliacao['score_final']:.4f}")

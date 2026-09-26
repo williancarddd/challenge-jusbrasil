@@ -1,0 +1,104 @@
+{
+  "documento_id": "gen_n1_008",
+  "citacoes": [
+    {
+      "inicio": 558,
+      "fim": 603,
+      "trecho": "art. 477 da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 702,
+      "fim": 746,
+      "trecho": "orientação jurisprudencial da Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 888,
+      "fim": 933,
+      "trecho": "processo nº TST-E-RR-173000-49.2008.5.15.0024",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1341,
+      "fim": 1378,
+      "trecho": "TST-ED-E-ED-RR-3400-05.2011.5.21.0009",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1750,
+      "fim": 1785,
+      "trecho": "orientação dos tribunais superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1831,
+      "fim": 1844,
+      "trecho": "Rcl 77.140/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2332,
+      "fim": 2347,
+      "trecho": "art. 818 da CLT",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2427,
+      "fim": 2462,
+      "trecho": "verbete sumular aplicável à espécie",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2952,
+      "fim": 2996,
+      "trecho": "orientação jurisprudencial da Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3099,
+      "fim": 3116,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3238,
+      "fim": 3251,
+      "trecho": "Rcl 88.696/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

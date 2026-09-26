@@ -1,0 +1,92 @@
+{
+  "documento_id": "gen_n1_002",
+  "citacoes": [
+    {
+      "inicio": 651,
+      "fim": 709,
+      "trecho": "precedente\ndo STF de 2026, da relatoria de CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 845,
+      "fim": 898,
+      "trecho": "Reclamação\ndo STF, de 2025, Rel. Min. CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1052,
+      "fim": 1065,
+      "trecho": "Rcl 55.626/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1464,
+      "fim": 1501,
+      "trecho": "Recurso em Habeas Corpus nº 57.763/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3576055165"
+      }
+    },
+    {
+      "inicio": 1613,
+      "fim": 1643,
+      "trecho": "AgInt no AREsp nº 1.996.496/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1922829498"
+      }
+    },
+    {
+      "inicio": 2133,
+      "fim": 2153,
+      "trecho": "Súmula Vinculante 10",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2308,
+      "fim": 2350,
+      "trecho": "Agravo em Recurso Especial nº 1.708.000/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2678821961"
+      }
+    },
+    {
+      "inicio": 2889,
+      "fim": 2934,
+      "trecho": "dispositivo constitucional\ninvocado na origem",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3364,
+      "fim": 3396,
+      "trecho": "art. 1.134 da Lei nº\n13.105/2015",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

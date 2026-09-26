@@ -1,0 +1,86 @@
+{
+  "documento_id": "gen_n1_013",
+  "citacoes": [
+    {
+      "inicio": 548,
+      "fim": 602,
+      "trecho": "reiterados\nprecedentes do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1064,
+      "trecho": "Reclamação nº 22.225/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1532,
+      "trecho": "precedente firmado em sede de recurso repetitivo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1676,
+      "trecho": "art. 1º, I, 'g', da Lei Complementar nº 64/1990",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2024,
+      "fim": 2059,
+      "trecho": "orientação dos tribunais superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2109,
+      "fim": 2183,
+      "trecho": "julgado\ndo TSE proferido em 2016 pela relatoria de HENRIQUE NEVES DA SILVA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2336,
+      "trecho": "Súmula 168 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2532,
+      "fim": 2603,
+      "trecho": "Agravo Regimental no Agravo de Instrumento nº 0606252-11.2018.6.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2973,
+      "fim": 3002,
+      "trecho": "R-Rp nº 986-96.2010.6.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "documento_id": "gen_n1_004",
+  "citacoes": [
+    {
+      "inicio": 460,
+      "fim": 492,
+      "trecho": "APL 7357951-18.2020.7.00.0000/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 964,
+      "fim": 1013,
+      "trecho": "artigo correspondente do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1435,
+      "fim": 1450,
+      "trecho": "RE 7.216.673/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1571,
+      "fim": 1603,
+      "trecho": "APL 7000136-79.2023.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2161632985"
+      }
+    },
+    {
+      "inicio": 2005,
+      "fim": 2040,
+      "trecho": "RSE nº 7000768-37.2025.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "6688597116"
+      }
+    },
+    {
+      "inicio": 2508,
+      "fim": 2540,
+      "trecho": "art.\n290 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "10590194"
+      }
+    },
+    {
+      "inicio": 2639,
+      "fim": 2671,
+      "trecho": "RSE 7000082-11.2026.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "6689057510"
+      }
+    }
+  ]
+}
