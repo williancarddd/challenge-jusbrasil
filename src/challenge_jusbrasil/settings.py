@@ -111,7 +111,7 @@ def teacher_model() -> dict[str, Any]:
 
 def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
     kwargs = dict(model["vllm"])
-   
+    kwargs.setdefault("quantization", "bitsandbytes")
     kwargs.setdefault("max_model_len", 16384)
     return kwargs
 
