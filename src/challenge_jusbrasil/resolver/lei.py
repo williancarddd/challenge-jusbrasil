@@ -2,9 +2,9 @@ from __future__ import annotations
 
 import re
 import sqlite3
-from collections import defaultdict
+from dataclasses import dataclass
 
-from challenge_jusbrasil.resolver.comum import Resolucao, por_quantidade, so_digitos
+from challenge_jusbrasil.resolver.comum import Resolucao, por_quantidade, sem_acento, so_digitos
 
 _ARTIGO_RE = re.compile(
     r"art(?:igo)?s?\.?\s*(\d[\d.]*)",
@@ -24,28 +24,124 @@ _LEI_RE = re.compile(
 )
 
 
+_LEI_NUM_RE = re.compile(
+    r"lei(?:\s+complementar)?(?:\s+n[º°.o]*)?\s*([\d.]+)\s*/\s*(\d{4})",
+    flags=re.IGNORECASE,
+)
+_ALIASES_LEI = {
+    ("13105", "2015"): "cpc",
+    ("8078", "1990"): "cdc",
+    ("10406", "2002"): "cc",
+    ("3689", "1941"): "cpp",
+}
+_JANELA_DIPLOMA = 500
+
+
 def tipo_de(trecho: str) -> str:
     if _LEI_RE.search(trecho):
         return "lei"
     return "jurisprudencia"
 
 
+def _numero(bruto: str) -> str:
+    return so_digitos(bruto).lstrip("0") or "0"
+
+
+def _base(texto: str) -> str:
+    return " ".join(sem_acento(texto).lower().split())
+
+
+def diploma_do_documento(texto: str) -> str | None:
+    trecho = _base(texto[:_JANELA_DIPLOMA])
+    if "administracao militar" in trecho:
+        return "cpm"
+    if "sao inelegiveis" in trecho:
+        return "lc64"
+    if "tribunais eleitorais" in trecho or "eleicoes federais" in trecho:
+        return "ce"
+    if "fornecedor" in trecho and "consumidor" in trecho:
+        return "cdc"
+    if "prisao preventiva" in trecho:
+        return "cpp"
+    if (
+        "tribunal superior do trabalho" in trecho
+        or "reclamante" in trecho
+        or "contrato de trabalho" in trecho
+    ):
+        return "clt"
+    if (
+        "estatuto da magistratura" in trecho
+        or "brasileiros e aos estrangeiros" in trecho
+        or "trabalhadores urbanos e rurais" in trecho
+        or "desta constituicao" in trecho
+    ):
+        return "cf"
+    if "onus da prova" in trecho and "ao autor" in trecho:
+        return "cpc"
+    if "ato ilicito" in trecho:
+        return "cc"
+    return None
+
+
+def diploma_do_trecho(trecho: str) -> str | None:
+    base = _base(trecho)
+    match = _LEI_NUM_RE.search(base)
+    if match is not None:
+        numero = _numero(match.group(1))
+        ano = match.group(2)
+        if "complementar" in base and (numero, ano) == ("64", "1990"):
+            return "lc64"
+        alias = _ALIASES_LEI.get((numero, ano))
+        if alias is not None:
+            return alias
+        return f"lei-{numero}-{ano}"
+    if "codigo de processo civil" in base or re.search(r"\bcpc\b", base):
+        return "cpc"
+    if "codigo de processo penal" in base or re.search(r"\bcpp\b", base):
+        return "cpp"
+    if "codigo de defesa do consumidor" in base or re.search(r"\bcdc\b", base):
+        return "cdc"
+    if "codigo civil" in base:
+        return "cc"
+    if "codigo eleitoral" in base:
+        return "ce"
+    if "penal militar" in base or re.search(r"\bcpm\b", base):
+        return "cpm"
+    if "consolidacao das leis do trabalho" in base or re.search(r"\bclt\b", base):
+        return "clt"
+    if "constitui" in base or re.search(r"\bcf\b", base):
+        return "cf"
+    return None
+
+
+@dataclass(frozen=True)
+class _Dispositivo:
+    id: str
+    numero: str
+    diploma: str | None
+
+
 class ResolvedorLei:
-    def __init__(self, por_numero: dict[str, list[str]]) -> None:
-        self.por_numero = por_numero
+    def __init__(self, itens: list[_Dispositivo]) -> None:
+        self.itens = itens
 
     @classmethod
     def carregar(cls, con: sqlite3.Connection) -> ResolvedorLei:
-        por_numero: dict[str, list[str]] = defaultdict(list)
+        itens: list[_Dispositivo] = []
         for doc_id, texto in con.execute(
             "SELECT id, texto FROM documentos WHERE natureza = 'dispositivo'"
         ):
             match = _ARTIGO_NO_TEXTO_RE.search(texto)
             if match is None:
                 continue
-            numero = match.group(1).lstrip("0") or "0"
-            por_numero[numero].append(str(doc_id))
-        return cls(dict(por_numero))
+            itens.append(
+                _Dispositivo(
+                    id=str(doc_id),
+                    numero=match.group(1).lstrip("0") or "0",
+                    diploma=diploma_do_documento(texto),
+                )
+            )
+        return cls(itens)
 
     def reconhece(self, trecho: str) -> bool:
         return tipo_de(trecho) == "lei"
@@ -54,5 +150,13 @@ class ResolvedorLei:
         match = _ARTIGO_RE.search(trecho)
         if match is None:
             return Resolucao("incompleta")
-        numero = so_digitos(match.group(1)).lstrip("0") or "0"
-        return por_quantidade(self.por_numero.get(numero, []))
+        diploma = diploma_do_trecho(trecho)
+        if diploma is None:
+            return Resolucao("incompleta")
+        numero = _numero(match.group(1))
+        ids = [
+            item.id
+            for item in self.itens
+            if item.numero == numero and item.diploma == diploma
+        ]
+        return por_quantidade(ids)

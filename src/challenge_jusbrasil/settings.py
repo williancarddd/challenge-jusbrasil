@@ -24,7 +24,6 @@ VLLM_ENGINE: dict[str, Any] = {
 
 VLLM_SAMPLING: dict[str, Any] = {
     "temperature": 0.0,
-    "max_tokens": 1024,
     "seed": 42,
 }
 
@@ -102,56 +101,55 @@ Do not return JSON. Do not return a confidence score. Do not classify the citati
 Mark each citation with a bare tag. Do not set attributes on the tag.
 <start>exact span<end>
 
-Ignore distractors that look like citations but are not: the case number of the document itself, OAB, protocol, page sheets (fls.), and the amount in dispute. Leave them untagged.
+A citation points at a legal source: a statute, article, code, constitution, súmula, precedent, judgment, or theme of general repercussion. Mark it even when it has no number.
+The span starts at the first word of the citation and runs through its identifier: number, court, state, and rapporteur when the citation is descriptive. Keep line breaks that fall inside the span. Do not mark a bare number. Do not mark a person's name alone.
+Leave untagged a sentence that only asserts a court position and names no source. Leave untagged the case number of the document itself, OAB, protocol, page sheets (fls.), including a long range, and the amount in dispute.
 Mark one citation per span. Spans must not overlap. The text between the tags is a literal copy of the document, including line breaks.
 If there is no citation, return the text with no tags.
 
 Examples:
 
 Input:
-A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no art. 373, I, do CPC.
+A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no art. 12 da Lei nº 1.234/2000.
 Output:
-A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no <start>art. 373, I, do CPC<end>.
+A OAB/SP 123.456 não integra a fundamentação. O pedido se apoia no <start>art. 12 da Lei nº 1.234/2000<end>.
 
 Input:
-O acórdão citado é o AgInt no REsp 1.599.910/PR, distinto do protocolo 2024/000111.
+O valor da causa é R$ 8.500,00. A Súmula 12 do STJ orienta o caso.
 Output:
-O acórdão citado é o <start>AgInt no REsp 1.599.910/PR<end>, distinto do protocolo 2024/000111.
+O valor da causa é R$ 8.500,00. A <start>Súmula 12 do STJ<end> orienta o caso.
 
 Input:
-A Súmula Vinculante 10 orienta o caso. O valor da causa é R$ 10.000,00.
+A peça menciona o AgInt no AREsp 2.104.883/SP. As folhas são fls. 418/902. O protocolo é 2020/000222.
 Output:
-A <start>Súmula Vinculante 10<end> orienta o caso. O valor da causa é R$ 10.000,00.
+A peça menciona o <start>AgInt no AREsp 2.104.883/SP<end>. As folhas são fls. 418/902. O protocolo é 2020/000222.
 
 Input:
-A peça menciona a Reclamação nº 66.516/RO. As folhas são fls. 12/30.
+Confira-se o Embargos de Declaração no Recurso Ordinário nº
+45.678/BA, distinto do número isolado 45.678.
 Output:
-A peça menciona a <start>Reclamação nº 66.516/RO<end>. As folhas são fls. 12/30.
+Confira-se o <start>Embargos de Declaração no Recurso Ordinário nº
+45.678/BA<end>, distinto do número isolado 45.678.
 
 Input:
-O autor invoca o art. 158 do Código de Defesa do Consumidor.
+O paradigma é o TST-RR-1000-11.2019.5.03.0001. Discute-se o Tema 999 da repercussão geral.
 Output:
-O autor invoca o <start>art. 158 do Código de Defesa do Consumidor<end>.
+O paradigma é o <start>TST-RR-1000-11.2019.5.03.0001<end>. Discute-se o <start>Tema 999 da repercussão geral<end>.
 
 Input:
-O recurso aponta o RE 7.216.673/RS como paradigma.
+Invoca-se o art. 904 do Código Eleitoral e o R-Rp nº 12.345/DF.
 Output:
-O recurso aponta o <start>RE 7.216.673/RS<end> como paradigma.
+Invoca-se o <start>art. 904 do Código Eleitoral<end> e o <start>R-Rp nº 12.345/DF<end>.
 
 Input:
-Há jurisprudência pacífica desta Corte sobre o tema.
+Há precedente reiterado deste tribunal sobre o tema. A posição dos tribunais é firme neste ponto.
 Output:
-Há <start>jurisprudência pacífica desta Corte<end> sobre o tema.
+Há <start>precedente reiterado deste tribunal<end> sobre o tema. A posição dos tribunais é firme neste ponto.
 
 Input:
-Aplicam-se as normas de regência da matéria ao pedido.
+Aplica-se o dispositivo legal aplicável à controvérsia. Cita-se acórdão do STJ julgado em 2019 sob a relatoria de Nancy Andrighi.
 Output:
-Aplicam-se as <start>normas de regência da matéria<end> ao pedido.
-
-Input:
-Cita-se julgado do STF proferido em 2024 pela relatoria de Dias Toffoli.
-Output:
-Cita-se <start>julgado do STF proferido em 2024 pela relatoria de Dias Toffoli<end>.
+Aplica-se o <start>dispositivo legal aplicável à controvérsia<end>. Cita-se <start>acórdão do STJ julgado em 2019 sob a relatoria de Nancy Andrighi<end>.
 """
 
 
@@ -174,18 +172,22 @@ def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
     return kwargs
 
 
+def reserva_tokens() -> int:
+    return (len(SYSTEM_PROMPT) + 64) // CHARS_PER_TOKEN + CHAT_OVERHEAD_TOKENS
+
+
 def orcamento_texto(model: dict[str, Any]) -> int:
     max_len = int(engine_kwargs(model)["max_model_len"])
     max_out = int(infer_sampling(model)["max_tokens"])
-    reserva = (len(SYSTEM_PROMPT) + 64) // CHARS_PER_TOKEN + CHAT_OVERHEAD_TOKENS
-    tokens = max(CHUNK_OVERLAP, max_len - max_out - reserva)
+    tokens = max(CHUNK_OVERLAP, max_len - max_out - reserva_tokens())
     return tokens * CHARS_PER_TOKEN
 
 
 def infer_sampling(model: dict[str, Any]) -> dict[str, Any]:
     params = dict(VLLM_SAMPLING)
     max_len = int(engine_kwargs(model)["max_model_len"])
-    params["max_tokens"] = min(int(params["max_tokens"]), max(64, max_len // 2))
+    livre = max(0, max_len - reserva_tokens())
+    params["max_tokens"] = max(64, min(max_len // 2, (livre * 3) // 5))
     return params
 
 

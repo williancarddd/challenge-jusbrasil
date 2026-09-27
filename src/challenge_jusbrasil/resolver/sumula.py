@@ -7,12 +7,14 @@ from dataclasses import dataclass
 from challenge_jusbrasil.resolver.comum import Resolucao, por_quantidade, sem_acento
 
 _RE = re.compile(
-    r"[s5][uú]m(?:ula|\.)(?:\s+vinculante)?"
-    r"(?:\s+n[º°.]?)?\s*(\d+)",
+    r"[s5][uú]m(?:ula|\.)(?:\s+vinculante)?(?:\s+n[º°.o]*)?\s*(\d+)",
     flags=re.IGNORECASE,
 )
 _TRIBUNAL_RE = re.compile(r"\b(STF|STJ|TST|TSE|STM)\b", flags=re.IGNORECASE)
-_NUMERO_NO_TEXTO_RE = re.compile(r"S[ÚU]MULA\s+(\d+)", flags=re.IGNORECASE)
+_NUMERO_NO_TEXTO_RE = re.compile(
+    r"s[uú]mula(?:\s+vinculante)?(?:\s+n[º°.o]*)?\s*(\d+)",
+    flags=re.IGNORECASE,
+)
 _VINCULANTE_RE = re.compile(r"vinculante", flags=re.IGNORECASE)
 
 
