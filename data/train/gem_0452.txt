@@ -1,0 +1,21 @@
+SUPREMO TRIBUNAL FEDERAL
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO 123.456
+RELATOR: MINISTRO AURÉLIO VALENTE
+DATA: 15 de maio de 2024
+
+Vistos, relatados e discutidos estes autos, ACORDAM os Ministros do Supremo Tribunal Federal, por unanimidade, em negar provimento ao agravo, nos termos do voto do Relator.
+
+O presente recurso visa a reforma de decisão monocrática que indeferiu pedido de tutela de urgência para suspender a execução de contrato administrativo. A parte agravante alega a existência de probabilidade do direito e perigo de dano irreparável, sustentando que a Administração Pública teria extrapolado os limites da discricionariedade ao alterar unilateralmente cláusulas financeiras do ajuste.
+
+No mérito, cumpre destacar que a concessão de medidas liminares contra a Fazenda Pública exige cautela rigorosa. A jurisprudência desta Corte, consolidada em ARE 1.234.567/SP, orienta que a urgência deve ser demonstrada de forma inequívoca, não bastando a mera alegação de prejuízo financeiro. No caso em tela, a pretensão esbarra na presunção de legitimidade dos atos administrativos. A aplicação do artigo 300 do Código de Processo Civil deve ser harmonizada com a supremacia do interesse público, princípio basilar do Direito Administrativo.
+
+Observa-se que a parte recorrente fundamenta seu pedido em normas de licitações e contratos, contudo, não logrou êxito em comprovar a ilegalidade flagrante do ato impugnado. O STF já decidiu, no RE 987.654/RJ, que a intervenção do Judiciário em contratos administrativos deve limitar-se ao controle de legalidade, abstendo-se de incursões no mérito administrativo. Ademais, a análise do artigo 132 da Lei 14.133/2021 reforça a possibilidade de alteração contratual por conveniência da Administração, desde que respeitado o equilíbrio econômico-financeiro.
+
+Ressalte-se que a decisão recorrida está em consonância com o Precedente Interno STF-X99-Alpha, que veda a paralisação de obras essenciais mediante liminar baseada em divergências interpretativas de cláusulas contratuais. A urgência alegada não se sustenta, pois a parte poderia ter buscado a via administrativa para o reequilíbrio do contrato, conforme previsto em diretrizes do Tribunal de Contas da União.
+
+Portanto, ausentes os requisitos cumulativos para a concessão da tutela de urgência, a manutenção da decisão agravada é medida que se impõe. A intervenção prematura do Judiciário poderia acarretar a interrupção de serviço público essencial, gerando dano reverso superior ao alegado pela contratada.
+
+Ante o exposto, nego provimento ao agravo regimental.
+
+Publique-se. Intimem-se.

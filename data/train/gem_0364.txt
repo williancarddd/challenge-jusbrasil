@@ -1,0 +1,21 @@
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+AGRAVO INTERNO NO RECURSO ESPECIAL Nº 1.987.654 - SP (2023/004567-8)
+RELATOR: MINISTRO RICARDO VALENTE
+DATA DO JULGAMENTO: 12 de outubro de 2023
+
+VOTO
+
+Trata-se de agravo interno interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo o acórdão do Tribunal de Justiça de São Paulo que condenou a empresa contratada e o gestor público por superfaturamento em obra de pavimentação urbana. A parte agravante sustenta a inexistência de sobrepreço, alegando que as variações de custos decorreram de flutuações de mercado e não de conluio.
+
+Contudo, a análise dos autos revela que a conduta dos agentes violou frontalmente os preceitos da Lei de Licitações. A manutenção de preços manifestamente superiores aos de mercado configura dano ao erário, independentemente da comprovação de má-fé, desde que demonstrada a negligência grave na fiscalização do contrato. Conforme preceitua o art. 89 da Lei nº 14.133/2021, a administração deve zelar pela economicidade e eficiência nas contratações. No caso concreto, o relatório técnico do Tribunal de Contas demonstrou que a planilha de custos divergia em 40% da tabela de referência oficial.
+
+A jurisprudência desta Corte Superior é pacífica ao afirmar que o sobrepreço ocorre quando o valor do contrato é superior ao valor de mercado, enquanto o superfaturamento é a execução financeira desse sobrepreço. Nesse sentido, colaciona-se o entendimento exarado no REsp nº 1.234.567/RJ, onde se decidiu que a mera formalidade do certame não afasta a responsabilidade civil por prejuízos decorrentes de orçamentos inflados. Ademais, a responsabilidade do gestor é pautada pelo dever de vigilância, conforme orientam as normas de controle externo do TCU.
+
+Não prospera a tese de que a variação econômica justificaria o pagamento excessivo. A aplicação do art. 65 da Lei nº 8.666/93 exige a demonstração cabal do desequilíbrio econômico-financeiro, o que não ocorreu na espécie. A conduta da empresa ao apresentar proposta com valores exorbitantes, sabendo da inadequação do preço, atrai a aplicação da Lei nº 12.846/2013.
+
+Ressalte-se que a jurisprudência consolidada no AgInt no AREsp nº 987.654/MG reforça que a omissão do fiscal do contrato em glosar valores superfaturados enseja a condenação solidária. A análise técnica baseou-se no Protocolo de Auditoria Técnica PAT-STJ-2022, que parametriza a detecção de sobrepreço em obras públicas. Por fim, a manutenção da sentença é imperativa, pois a doutrina administrativa moderna repudia a transferência do risco do negócio para a Administração Pública.
+
+Ante o exposto, voto no sentido de negar provimento ao agravo interno, mantendo integralmente a decisão recorrida.
+
+ACORDAM os Ministros do Superior Tribunal de Justiça, por unanimidade, em negar provimento ao recurso.

@@ -1,0 +1,72 @@
+{
+  "documento_id": "gen_n2_004",
+  "citacoes": [
+    {
+      "inicio": 507,
+      "fim": 529,
+      "trecho": "entendirnento sumulado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1014,
+      "fim": 1045,
+      "trecho": "artigo 172 da Lei nº 9.504/1997",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1463,
+      "fim": 1478,
+      "trecho": "Súm. 166 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2092,
+      "trecho": "REspe. n° 0600216-46.2020-\n.6.14.0022",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1887816799"
+      }
+    },
+    {
+      "inicio": 2251,
+      "fim": 2286,
+      "trecho": "AGR-RESPE n° 533-80. 2012.6.13.0029",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "369460073"
+      }
+    },
+    {
+      "inicio": 2390,
+      "fim": 2418,
+      "trecho": "art 189 da Lei nº 9.504/1997",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2871,
+      "fim": 2900,
+      "trecho": "dispositivo legal de regência",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

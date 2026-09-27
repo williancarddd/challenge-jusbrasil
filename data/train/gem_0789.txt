@@ -1,0 +1,15 @@
+VOTO
+
+Relator: Ministro Aurélio Viana. Data: 14 de maio de 2024. Processo: AREsp 1.987.654/SP.
+
+Trata-se de recurso especial interposto contra acórdão que manteve a condenação do ora recorrente por ato de improbidade administrativa, sob a premissa de que a negligência na gestão de contratos públicos seria suficiente para a caracterização do dano ao erário. O cerne da controvérsia reside na interpretação do elemento subjetivo exigido para a configuração do ato ímprobo após a vigência da Lei 14.230/2021.
+
+Compulsando os autos, verifica-se que a decisão recorrida fundamentou a condenação na existência de culpa grave, aplicando a teoria do dolo eventual para preencher a lacuna do elemento anímico. Contudo, tal entendimento diverge frontalmente da nova sistemática legal. Conforme dispõe o art. 1º, § 2º, da Lei 8.429/92, a improbidade administrativa exige a demonstração do dolo específico, definido como a vontade livre e consciente de alcançar o resultado ilícito tipificado na lei. Não se admite mais a modalidade culposa, ainda que sob a rubrica de culpa grave, para a imputação de sanções personalíssimas e severas.
+
+Nesse sentido, este Tribunal Superior consolidou a compreensão de que a mera irregularidade administrativa, desprovida de intenção maliciosa, não constitui improbidade. Como assentado no REsp 1.823.456/RJ, a ausência de prova cabal quanto ao intuito de lesionar o erário ou obter vantagem indevida conduz inevitavelmente à improcedência da ação. A nova redação do diploma legal buscou extirpar a punição do gestor honesto, porém inábil, evitando que o medo da sanção paralise a administração pública.
+
+A análise do caso concreto revela que o recorrente agiu com base em pareceres técnicos, o que afasta a vontade deliberada de causar prejuízo. A jurisprudência do Superior Tribunal de Justiça orienta que a confiança legítima em pareceres jurídicos exclui a tipicidade da conduta por ausência de dolo. Ademais, a aplicação do princípio da tipicidade estrita impede a analogia para punir condutas que a lei deixou de tipificar como dolosas.
+
+Reforçando tal tese, cito o entendimento exarado no AgInt no AREsp 1.543.210/MG, onde se reafirmou que o dolo genérico é insuficiente para a condenação. No mesmo sentido, a doutrina contemporânea, como a exposta no Tratado de Direito Administrativo Sancionador (Ed. Lex-Juris, 2023), enfatiza a necessidade de prova do "querer" o resultado proibido. Por fim, observa-se que a Lei de Improbidade Administrativa agora veda a condenação baseada em presunções.
+
+Diante do exposto, voto pelo provimento do recurso para anular a sentença condenatória, reconhecendo a inexistência de dolo específico na conduta do agente. É como voto.

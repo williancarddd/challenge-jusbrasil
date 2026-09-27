@@ -1,0 +1,59 @@
+{
+  "documento_id": "gen_n1_013",
+  "citacoes": [
+    {
+      "inicio": 327,
+      "fim": 375,
+      "trecho": "Tribunal Regional Eleitoral DO RIO GRANDE DO SUL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 559,
+      "fim": 602,
+      "trecho": "precedentes do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 668,
+      "fim": 686,
+      "trecho": "Regional Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1064,
+      "trecho": "Reclamação nº 22.225/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1632,
+      "trecho": "art",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1632,
+      "fim": 1676,
+      "trecho": ". 1º, I, 'g', da Lei Complementar nº 64/1990",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

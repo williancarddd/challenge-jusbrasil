@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n2_004",
+  "citacoes": [
+    {
+      "inicio": 80,
+      "fim": 114,
+      "trecho": "Autos nº 7287236-61.2020.6.22.6239",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 195,
+      "fim": 213,
+      "trecho": "Protocolo nº 2022.",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1014,
+      "fim": 1045,
+      "trecho": "artigo 172 da Lei nº 9.504/1997",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1463,
+      "fim": 1478,
+      "trecho": "Súm. 166 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+VOTO
+
+Relator: Ministro Aurélio Valente. Data: 14 de maio de 2024. Processo: Ag-AIRR-1000456-88.2023.5.02.0000.
+
+Trata-se de agravo de instrumento em recurso de revista interposto por ex-empregado em face de decisão regional que manteve a competência da Justiça do Trabalho apenas para a fase de conhecimento, determinando a execução do crédito habilitado perante o juízo da recuperação judicial. A controvérsia reside na possibilidade de a Justiça Laboral prosseguir com a execução forçada contra empresa em recuperação judicial.
+
+Compulsando os autos, verifica-se que a decisão recorrida aplicou rigorosamente o entendimento consolidado sobre a competência jurisdicional. É cediço que, embora a Justiça do Trabalho possua competência absoluta para processar a ação trabalhista até a liquidação do valor devido, a satisfação do crédito deve observar a Lei 11.101/2005. Conforme preceitua o artigo 6º da Lei 11.101/2005, as execuções contra a recuperanda devem ser suspensas para viabilizar a reorganização empresarial.
+
+Nesse sentido, a jurisprudência desta Corte Superior é uníssona. No julgamento do RR-12345-67.2021.5.00.0000, decidiu-se que a habilitação do crédito trabalhista no juízo universal é medida impositiva para evitar a dilapidação do patrimônio da empresa. Ademais, a tentativa de penhora direta de ativos por este juízo especializado contraria as diretrizes da Lei de Recuperação e Falências, gerando insegurança jurídica e risco ao plano de recuperação homologado.
+
+A tese ora defendida pelo recorrente, de que a natureza alimentar do crédito trabalhista prevaleceria sobre a suspensão da execução, foi rechaçada no Ag-AIRR-98765-43.2022.5.15.0000, sob o argumento de que a preservação da empresa visa, em última análise, a manutenção dos postos de trabalho. Reforça-se tal entendimento ao analisar a Súmula 12 do TST, que embora trate de matéria distinta, reflete o rigor processual necessário na análise de fatos e provas em sede de recurso extraordinário.
+
+No caso concreto, a empresa já apresentou o plano de recuperação, e o crédito do autor foi devidamente liquidado. Portanto, a via adequada é a habilitação perante o administrador judicial, conforme orienta o regramento do juízo universal. Invoco, ainda, o precedente interno ID-TST-REF-2024-X99, que sedimenta a impossibilidade de atos expropriatórios diretos contra a recuperanda.
+
+Diante do exposto, e considerando que a jurisprudência do STJ no REsp-1234567 converge para a mesma conclusão sobre a competência do juízo recuperacional, voto por negar provimento ao agravo, mantendo a decisão regional por seus próprios fundamentos.
+
+ISTO FOI MEU VOTO.

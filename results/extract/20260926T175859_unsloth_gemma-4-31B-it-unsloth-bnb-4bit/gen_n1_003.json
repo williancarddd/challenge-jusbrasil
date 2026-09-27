@@ -1,0 +1,86 @@
+{
+  "documento_id": "gen_n1_003",
+  "citacoes": [
+    {
+      "inicio": 577,
+      "fim": 593,
+      "trecho": "AREsp 1576933/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1076,
+      "trecho": "jurisprudência pacífica desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1193,
+      "fim": 1235,
+      "trecho": "art. 158 do Código de Defesa do Consumidor",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1677,
+      "fim": 1695,
+      "trecho": "REsp nº 2020005/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2106,
+      "fim": 2143,
+      "trecho": "entendimento sumulado sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2308,
+      "fim": 2380,
+      "trecho": "Agravo em Recurso Especial do STJ,\nde 2023, Rel. Min. Assusete Magalhães",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2480,
+      "fim": 2522,
+      "trecho": "art. 185 do Código de Defesa do Consumidor",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3034,
+      "fim": 3060,
+      "trecho": "AgRg no AREsp 1.327.863/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3204,
+      "fim": 3223,
+      "trecho": "art. 373, I, do CPC",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

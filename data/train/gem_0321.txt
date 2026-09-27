@@ -1,0 +1,15 @@
+VOTO DO RELATOR
+
+Trata-se de conflito de competência instaurado para dirimir a controvérsia acerca da jurisdição adequada para processar e julgar a ação de cobrança decorrente de contrato de prestação de serviços técnicos. O recorrente sustenta que a relação jurídica estabelecida entre as partes possuía natureza estritamente civil, afastando a incidência da competência laboral. Analisando os autos, verifica-se que a controvérsia reside na caracterização do vínculo empregatício, especificamente quanto à subordinação jurídica e à habitualidade.
+
+A competência da Justiça do Trabalho é delimitada pela natureza da relação jurídica, sendo que a Constituição Federal, em seu art. 114, define a amplitude de sua atuação para processar e julgar ações oriundas da relação de trabalho. No entanto, é imperativo distinguir o trabalho autônomo da relação de emprego. No presente caso, a prova documental indica que o prestador detinha plena autonomia técnica, sem submissão a ordens disciplinares ou controle de jornada, o que afasta a incidência da CLT, art. 3º.
+
+Nesse sentido, este Tribunal Superior já sedimentou o entendimento de que a mera prestação de serviços não induz, automaticamente, a competência da Justiça do Trabalho. Conforme decidido no REsp 1.829.304/SP, a ausência de subordinação afasta a natureza trabalhista do vínculo. Reforço tal tese ao citar a Súmula 331 do TST, que embora trate de terceirização, dialoga com a necessidade de prova da subordinação para a configuração do vínculo. Ademais, a jurisprudência do Superior Tribunal de Justiça tem reiteradamente decidido que contratos de natureza comercial devem ser dirimidos na esfera cível.
+
+A análise do conjunto probatório revela que a relação era regida por contrato de natureza civil, onde a remuneração era fixada por obra entregue e não por tempo à disposição. A aplicação do Código Civil, art. 593, é a medida que se impõe para a regulação da referida prestação de serviços. A tentativa de transmutar a natureza do contrato para fins de obtenção de verbas rescisórias não encontra amparo nos fatos narrados. Como bem salientado no AgInt no AREsp 992.112/RJ, a autonomia do profissional liberal exclui a competência laboral.
+
+Diante do exposto, e considerando a diretriz fixada no Manual de Competências do STJ - Edição 2023/X-12, voto no sentido de declarar a incompetência da Justiça do Trabalho e a consequente competência da Justiça Comum para o julgamento da lide.
+
+Relator: Ministro Aurélio Valadares.
+Data: 14 de outubro de 2023.
+Processo nº 45.901-22/2023.

@@ -1,0 +1,32 @@
+{
+  "documento_id": "gen_n1_003",
+  "citacoes": [
+    {
+      "inicio": 577,
+      "fim": 593,
+      "trecho": "AREsp 1576933/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3034,
+      "fim": 3060,
+      "trecho": "AgRg no AREsp 1.327.863/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3204,
+      "fim": 3223,
+      "trecho": "art. 373, I, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

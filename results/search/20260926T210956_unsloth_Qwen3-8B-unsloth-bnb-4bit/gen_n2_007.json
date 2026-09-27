@@ -1,0 +1,34 @@
+{
+  "documento_id": "gen_n2_007",
+  "citacoes": [
+    {
+      "inicio": 454,
+      "fim": 547,
+      "trecho": "Aplica-se à espécie,\nmutatis mutandis, o quanto decidido no Ag. Int. No 7001184-1520197000000",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2382656124"
+      }
+    },
+    {
+      "inicio": 486,
+      "fim": 489,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1944,
+      "fim": 1947,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

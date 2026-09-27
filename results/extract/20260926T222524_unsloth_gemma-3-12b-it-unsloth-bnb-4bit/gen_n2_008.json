@@ -1,0 +1,50 @@
+{
+  "documento_id": "gen_n2_008",
+  "citacoes": [
+    {
+      "inicio": 646,
+      "fim": 679,
+      "trecho": "ã lei que disciplina a prescrição",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1227,
+      "fim": 1241,
+      "trecho": "2.467-\n.648-RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1921,
+      "fim": 1932,
+      "trecho": "1980827/ RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2391,
+      "fim": 2400,
+      "trecho": "99.942-BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3067,
+      "fim": 3078,
+      "trecho": "891369 (RS)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

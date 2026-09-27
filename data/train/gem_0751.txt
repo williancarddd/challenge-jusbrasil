@@ -1,0 +1,20 @@
+PODER JUDICIÁRIO
+TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO
+
+VOTO
+
+Relator: Desembargador Marcos Aurélio Silva. Data: 14 de maio de 2024. Processo nº 0010203-45.2023.5.03.0001.
+
+Trata-se de recurso ordinário em que se discute a validade de aquisição de propriedade via usucapião extrajudicial para fins de penhora em execução trabalhista. O exequente busca a desconsideração da transferência do imóvel, alegando fraude à execução, enquanto a executada defende a regularidade do procedimento administrativo realizado perante o cartório de notas.
+
+Incialmente, cumpre destacar que a usucapião extrajudicial, introduzida no ordenamento jurídico brasileiro, visa a desburocratização do acesso à propriedade. A matéria encontra amparo legal no artigo 216-A da Lei nº 6.015/73, que disciplina o processamento do pedido diretamente no registro de imóveis. No caso em tela, a parte executada apresenta ata notarial e planta do imóvel, cumprindo os requisitos formais. Contudo, a Justiça do Trabalho deve analisar se tal instituto foi utilizado como artifício para blindagem patrimonial.
+
+A análise do conjunto probatório revela que a posse exercida pela executada não preencheu a mansidão e a continuidade exigidas. O artigo 1.238 do Código Civil estabelece a necessidade de posse mansa e pacífica por quinze anos para a usucapião extraordinária. No entanto, as provas dos autos indicam que a notificação do proprietário anterior ocorreu apenas após o ajuizamento da ação trabalhista. O TST, no julgamento do RR-12345-67.2021.5.04.0000, já consignou que a transferência de bens no curso da execução, sem reserva de bens suficientes, presume-se fraudulenta.
+
+Ainda que a via administrativa seja célere, ela não afasta o controle jurisdicional quando há conflito de interesses com credores alimentares. A jurisprudência do STJ orienta que a fé pública do tabelião não é absoluta frente a indícios de fraude. Nesse sentido, observo que o processo administrativo nº ADM-998877-X foi instruído com declarações unilaterais, sem a devida comprovação da posse qualificada.
+
+O artigo 792 do Código de Processo Civil é claro ao definir a fraude à execução. A tentativa de legitimar a propriedade por via extrajudicial, enquanto pendente dívida trabalhista, fere a boa-fé objetiva. O TRT3, em decisão recente no processo 000111-22.2022.5.03.0000, decidiu que a usucapião não pode servir de escudo contra a execução de verbas alimentares. Portanto, a doutrina especializada em direito imobiliário adverte que a usucapião extrajudicial exige a inexistência de litígios sobre o bem, o que não se verifica no presente caso.
+
+Diante do exposto, voto por anular a transferência do imóvel, determinando a penhora do bem para satisfação do crédito trabalhista, afastando a eficácia do ato extrajudicial por configurar fraude à execução.
+
+É o voto.

@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+ÓRGÃO JULGADOR: 12ª Câmara de Direito Público
+APELAÇÃO CÍVEL Nº 1002548-77.2023.8.26.0000
+APELANTE: João da Silva
+APELADO: Instituto de Previdência Municipal
+RELATOR: Desembargador Marcos Aurélio Viana
+COMARGE: São Paulo
+DATA DO JULGAMENTO: 14 de agosto de 2024
+
+Vistos. Trata-se de recurso de apelação interposto contra sentença que julgou improcedente o pedido de concessão de aposentadoria especial, sob o argumento de que a exposição a agentes nocivos não teria sido comprovada em grau suficiente para a redução do tempo de contribuição. O apelante sustenta que laborou como eletricista de alta tensão por mais de vinte e cinco anos, estando exposto a risco elétrico constante, o que ensejaria o reconhecimento da especialidade do período.
+
+Em suas razões, o recorrente invoca a aplicação do artigo 57 da Lei 8.213/91, argumentando que a periculosidade deve ser considerada para fins de aposentadoria especial. Alega que a sentença ignorou o Perfil Profissiográfico Previdenciário (PPP) anexo aos autos, o qual atesta a exposição a tensões superiores a 250 volts. O apelado, em contrarrazões, defende a manutenção da sentença, alegando que a lei previdenciária exige a exposição a agentes químicos, físicos ou biológicos, e não meramente a periculosidade.
+
+A insurgência merece prosperar. É cediço que a jurisprudência pátria tem evoluído para admitir a contagem especial do tempo de serviço para quem trabalha exposto a eletricidade, independentemente de a norma regulamentar ser omissa. Nesse sentido, observa-se a orientação do Superior Tribunal de Justiça no REsp 1.304.444, que reconhece a possibilidade de concessão do benefício em casos de periculosidade comprovada. A análise do conjunto probatório revela que o autor preencheu os requisitos legais, conforme se depreende da leitura do Decreto 3.048/99 em seu artigo 68.
+
+Ademais, a proteção à saúde do trabalhador deve ser interpretada sob a ótica do princípio da dignidade da pessoa humana, evitando-se formalismos que prejudiquem o segurado. O caso em tela assemelha-se ao decidido no AgRg no AREsp 456.789, onde a exposição a alta tensão foi considerada fator de risco determinante. Note-se que a norma interna do ente previdenciário, citada no Regulamento Interno do IPM-SP, não pode se sobrepor à legislação federal vigente. A prova técnica produzida, especialmente o laudo pericial identificado como ID-998877-X, confirma a nocividade da atividade.
+
+Portanto, resta configurado o direito ao benefício, aplicando-se a tese firmada no Tema 555 do STJ no que tange à eficácia do equipamento de proteção individual quando este não neutraliza totalmente o risco. Diante do exposto, voto no sentido de dar provimento ao recurso para reformar a sentença e julgar procedente a ação, concedendo a aposentadoria especial ao apelante.
+
+Acórdão unânime. Julgado em 14/08/2024.

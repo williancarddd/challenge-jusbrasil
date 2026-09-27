@@ -1,0 +1,13 @@
+VOTO
+
+Relator: Desembargador Federal Ricardo Montes. Data: 14 de maio de 2024. Processo nº 5001234-56.2023.4.04.0000.
+
+Trata-se de agravo de instrumento interposto contra decisão interlocutória que determinou a suspensão de execuções trabalhistas em face de empresa em recuperação judicial, questionando-se a competência do juízo recuperacional para a homologação de créditos oriundos da Justiça do Trabalho. O cerne da controvérsia reside na definição do momento processual adequado para a submissão do crédito trabalhista ao plano de recuperação, bem como na possibilidade de atos expropriatórios antes da habilitação definitiva.
+
+Inicialmente, cumpre destacar que a competência da Justiça do Trabalho limita-se à fase de conhecimento e à liquidação do crédito, sendo que, uma vez fixado o valor líquido, a execução deve ocorrer perante o juízo onde tramita a recuperação. Tal entendimento encontra respaldo na Lei 11.101/2005, artigo 6º, que estabelece a suspensão das execuções contra o devedor. A jurisprudência desta Corte é pacífica ao afirmar que a competência para a execução de créditos sujeitos à recuperação judicial é do juízo universal, conforme se depreende do Agravo de Instrumento nº 5023456-12.2022.4.04.0000.
+
+No caso em tela, a empresa argumenta a necessidade de observância rigorosa do plano aprovado. Contudo, a proteção do crédito trabalhista, dada a sua natureza alimentar, exige cautela. É imperativo observar que a Constituição Federal, artigo 7º, inciso X, resguarda a irredutibilidade salarial e a proteção do trabalhador, o que deve ser ponderado diante da crise econômica da empresa. Ademais, a Lei 11.101/2005, artigo 49, prevê que todos os créditos existentes na data do pedido estão sujeitos à recuperação, salvo as exceções legais.
+
+Nesse sentido, a tentativa de redirecionamento da execução para os sócios, sem a comprovação do abuso da personalidade jurídica, revela-se prematura. Como já decidido no Apelação Cível nº 5087654-32.2021.4.04.0000, a mera insolvência da empresa não autoriza a desconsideração da personalidade jurídica. Deve-se aplicar a Teoria da Empresa para equilibrar a preservação da atividade econômica com a satisfação dos credores.
+
+Ressalto que a Súmula 449 do STJ orienta a interpretação sobre a natureza dos créditos, reforçando a necessidade de habilitação nos autos da recuperação. Por fim, menciono o Protocolo Interno de Gestão de Créditos RJ-TRF4-2023, que sugere a coordenação entre juízos para evitar conflitos de competência. Diante do exposto, voto por negar provimento ao recurso, mantendo a decisão que determinou a remessa do crédito para habilitação no juízo universal, nos termos da Lei 11.101/2005. É como voto.

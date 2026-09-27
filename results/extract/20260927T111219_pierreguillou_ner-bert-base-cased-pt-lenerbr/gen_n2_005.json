@@ -1,0 +1,50 @@
+{
+  "documento_id": "gen_n2_005",
+  "citacoes": [
+    {
+      "inicio": 574,
+      "fim": 601,
+      "trecho": "Reclamação n° 33.-\n474 (MA)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 979,
+      "fim": 1011,
+      "trecho": "recente acórdão da Segunda Turma",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1122,
+      "fim": 1175,
+      "trecho": "Reclamação do STF, de 2026, Rel. Min. CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1669,
+      "trecho": "Reclamação do STF, de 2020, Rel. Min. Celso De Mello",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1765,
+      "fim": 1793,
+      "trecho": "art 60 da Lei nº 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

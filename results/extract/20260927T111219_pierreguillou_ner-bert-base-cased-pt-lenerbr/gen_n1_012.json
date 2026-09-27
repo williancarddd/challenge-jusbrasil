@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n1_012",
+  "citacoes": [
+    {
+      "inicio": 574,
+      "fim": 605,
+      "trecho": "ED-E-ED-RR-65-63.2010.5.01.0075",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1119,
+      "fim": 1143,
+      "trecho": "art. 896, § 1º-A, da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1218,
+      "fim": 1243,
+      "trecho": "ARR-213-85.2010.5.02.0030",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1412,
+      "fim": 1428,
+      "trecho": "Rcl nº 66.884/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

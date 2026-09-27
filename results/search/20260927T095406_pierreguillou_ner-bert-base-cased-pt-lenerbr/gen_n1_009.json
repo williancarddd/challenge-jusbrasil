@@ -1,0 +1,36 @@
+{
+  "documento_id": "gen_n1_009",
+  "citacoes": [
+    {
+      "inicio": 108,
+      "fim": 142,
+      "trecho": "Autos nº 9426435-30.2024.8.08.5965",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 642,
+      "fim": 686,
+      "trecho": "Recurso em Mandado de Segurança\nnº 67.101/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1480058767"
+      }
+    },
+    {
+      "inicio": 1386,
+      "fim": 1403,
+      "trecho": "REsp 1.501.000/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3584971504"
+      }
+    }
+  ]
+}

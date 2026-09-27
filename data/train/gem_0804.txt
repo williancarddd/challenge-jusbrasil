@@ -1,0 +1,16 @@
+VOTO
+
+Trata-se de Recurso Especial interposto contra acórdão que analisou a competência jurisdicional para a execução de créditos trabalhistas em face de empresa em regime de recuperação judicial. O cerne da controvérsia reside na definição do momento processual em que a competência se desloca da Justiça do Trabalho para o Juízo da Recuperação.
+
+Relata o recorrente que a sentença homologatória do plano de recuperação judicial já havia sido proferida quando da liquidação do crédito trabalhista, sustentando a necessidade de imediata habilitação no quadro de credores. No entanto, a jurisprudência consolidada do Superior Tribunal de Justiça indica que a competência da Justiça do Trabalho se estende até a liquidação do título executivo. Como bem assentado no AgInt no AREsp 1.543.210/SP, o juízo laboral é competente para processar a execução até a apuração do valor líquido, momento em que a competência se desloca para o juízo universal.
+
+Nesse sentido, a análise do caso concreto revela que o crédito ainda não havia sido liquidado ao tempo da interposição do recurso. É imperativo observar a norma inserta no artigo 6º da Lei 11.101/2005, que disciplina a suspensão das execuções contra a recuperanda. Contudo, tal suspensão não impede a fase de conhecimento nem a liquidação de sentença no juízo especializado. A interpretação sistemática do ordenamento jurídico exige que se respeite a competência material da Justiça do Trabalho, conforme previsto no artigo 114 da Constituição Federal, evitando-se a banalização do deslocamento de competência.
+
+A decisão recorrida alinha-se ao entendimento do STJ no REsp 1.890.123/RJ, que reforça a tese de que a habilitação do crédito trabalhista deve ocorrer somente após a fixação do quantum debeatur. Ainda, cumpre destacar que a Lei de Recuperação e Falências não afasta a competência da Justiça do Trabalho para a definição do valor do crédito. No presente caso, a aplicação do Enunciado 45 do Tribunal de Conflitos de Jurisdição (TCJ-Inventado) corrobora a tese de que a homologação do plano não anula a competência liquidatória do juízo obreiro.
+
+Ademais, a tentativa de deslocar a competência prematuramente fere a segurança jurídica e a celeridade processual. Conforme se depreende da Súmula 214 do STJ, a execução deve seguir seu curso natural até a definição do crédito. A pretensão do recorrente, portanto, carece de amparo legal, pois a jurisprudência pátria é uníssona ao determinar que a competência do juízo da recuperação judicial inicia-se apenas após a liquidação do crédito trabalhista.
+
+Diante do exposto, voto no sentido de negar provimento ao recurso, mantendo a decisão recorrida em sua integralidade, por estar em consonância com os preceitos legais e a hermenêutica judiciária vigente.
+
+Brasília, 14 de maio de 2024.
+Relator Ministro Almirante Silveira.

@@ -1,0 +1,23 @@
+PODER JUDICIÁRIO
+TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO
+
+VOTO
+
+Relator: Desembargador Ricardo Augusto Mendes
+Data: 14 de maio de 2024
+Processo nº: 0010234-56.2023.5.03.0000
+
+Trata-se de recurso ordinário interposto contra decisão que indeferiu a homologação de acordo envolvendo a transferência de propriedade imobiliária via usucapião extrajudicial no âmbito de execução trabalhista. O recorrente sustenta que a posse mansa e pacífica por mais de quinze anos, comprovada documentalmente, deveria ser reconhecida por este juízo para fins de liberação de penhora. Analisando os autos, verifica-se que a pretensão esbarra na competência material da Justiça do Trabalho. Embora o acordo tenha sido firmado entre as partes, a natureza da usucapião, ainda que processada na via extrajudicial, envolve a declaração de domínio e a modificação de registro imobiliário, matéria tipicamente cível.
+
+É cediço que a competência da Justiça do Trabalho é delimitada pela relação de trabalho, conforme dispõe a Constituição Federal, art. 114. No caso em tela, a tentativa de validar a usucapião extrajudicial para afastar a responsabilidade patrimonial do executado extrapola os limites da execução trabalhista. A lei que rege o procedimento administrativo de aquisição originária da propriedade, a Lei nº 13.465/2017, art. 216-A, exige a comprovação de requisitos específicos perante o Registro de Imóveis, os quais não podem ser supridos por simples homologação judicial trabalhista. 
+
+Neste sentido, observa-se que a jurisprudência do Tribunal Superior do Trabalho é pacífica quanto à impossibilidade de a Justiça Laboral decidir sobre a propriedade de bens. Vejamos o entendimento consolidado no TST-RR-12345-67.2021.5.02.0000, onde se decidiu que a discussão sobre a titularidade do imóvel deve ocorrer no juízo cível. Ademais, a aplicação do Código de Processo Civil, art. 789, reforça que o devedor responde com todos os seus bens presentes e futuros, salvo as impenhorabilidades legais, não sendo a usucapião extrajudicial um mecanismo de blindagem patrimonial imediata sem a devida chancela do juízo competente.
+
+Ainda que a parte alegue a boa-fé, a doutrina jurídica especializada adverte que a transferência de propriedade por via administrativa requer a notificação dos confrontantes e a anuência do ente público. A tentativa de simplificar tal processo via acordo trabalhista fere o princípio da especialidade registral. O precedente interno deste Regional, registrado sob o ID-TRT3-998877-X, já afastou pretensões análogas ao consignar que a execução não é a via adequada para declarar a usucapião.
+
+Portanto, a decisão de origem deve ser mantida, pois a Súmula 214 do STJ orienta a observância das regras de competência absoluta. Não cabe a este tribunal validar ato administrativo de transferência de domínio que demande dilação probatória sobre a posse prolongada, matéria estranha ao crédito alimentar. Diante do exposto, voto pelo desprovimento do recurso, mantendo a penhora sobre o imóvel até que decisão definitiva do juízo cível declare a propriedade em favor do terceiro.
+
+Condeno o recorrente ao pagamento de custas processuais, mantendo a gratuidade de justiça deferida.
+
+Ricardo Augusto Mendes
+Desembargador Relator

@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+Agravo de Instrumento nº 2204567-89.2023.8.26.0000
+Relator: Desembargador Marcos Aurélio Silveira
+Comarca: São Paulo
+
+Vistos. Trata-se de agravo de instrumento interposto contra decisão interlocutória que indeferiu a suspensão de execuções trabalhistas individuais em face de empresa em recuperação judicial. Alega a agravante que a competência para a homologação do crédito e a posterior cobrança pertence exclusivamente ao juízo recuperacional, sob pena de aniquilação do plano de recuperação. Ocorre que a decisão recorrida fundamentou-se na natureza alimentar do crédito, permitindo o prosseguimento da execução até a liquidação do valor.
+
+Analiso. No sistema da Lei 11.101/05, a recuperação judicial visa a superação da crise econômico-financeira do devedor, preservando a função social da empresa. Contudo, é cediço que o juízo da recuperação não detém competência para processar a fase de conhecimento da ação trabalhista. Assim, deve-se observar o que preceitua o art. 6º da Lei 11.101/05, que dispõe sobre a suspensão das execuções. No entanto, tal suspensão opera-se apenas após a liquidação do crédito.
+
+Nesse sentido, a jurisprudência deste Tribunal consolidou o entendimento de que a competência do juízo recuperacional inicia-se com a fixação do valor líquido. Conforme decidido no Agravo de Instrumento nº 2100456-12.2022.8.26.0000, a execução trabalhista deve prosseguir até a homologação do valor. Ademais, a Lei 11.101/05 não autoriza o bloqueio de ativos essenciais à atividade empresarial, conforme a Súmula 42 do TJSP.
+
+A insurgência da agravante encontra amparo na necessidade de centralização das execuções para evitar a dilapidação do patrimônio. O STJ já decidiu, no REsp 1.234.567/SP, que a competência para a prática de atos executivos é do juízo da recuperação. Entretanto, deve-se ressalvar a jurisprudência do STJ quanto à natureza do crédito trabalhista. No caso concreto, verifica-se que a empresa já apresentou a lista de credores, incluindo a agravada.
+
+Diante do exposto, com fulcro no art. 932, inciso V, do CPC, dou provimento ao recurso para determinar que, após a liquidação do crédito na Justiça do Trabalho, seja expedida a respectiva certidão de habilitação para que o credor busque a satisfação do crédito perante o juízo recuperacional, observando-se o Protocolo de Gestão de Ativos RJ-9988.
+
+Intimem-se.
+
+São Paulo, 14 de maio de 2024.
+
+Desembargador Marcos Aurélio Silveira

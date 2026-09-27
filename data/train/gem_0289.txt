@@ -1,0 +1,24 @@
+PODER JUDICIÁRIO
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+DECISÃO MONOCRÁTICA
+
+Agravo em Recurso Especial nº 1.234.567/SP. Relator Ministro Aurélio Valente. Julgado em 14 de maio de 2024.
+
+Vistos. Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, discutindo a competência jurisdicional para processar e julgar a ação de cobrança de honorários advocatícios decorrentes de contrato de prestação de serviços firmado entre advogado e cliente no âmbito de reclamação trabalhista. O recorrente sustenta que a natureza da relação, sendo civil, afasta a competência da Justiça do Trabalho.
+
+Compulsando os autos, verifica-se que a controvérsia reside na definição de se a prestação de serviços advocatícios, ainda que vinculada a processo laboral, atrai a competência da Justiça do Trabalho. Ocorre que o contrato de honorários é negócio jurídico de natureza civil, não se confundindo com a relação de emprego ou a prestação de serviços prevista no art. 114 da Constituição Federal. A competência da Justiça do Trabalho é delimitada pela relação de trabalho, mas a relação entre cliente e advogado é regida por normas de direito civil e pelo Estatuto da Advocacia.
+
+Nesse sentido, a jurisprudência deste Tribunal Superior é pacífica ao afirmar que a Justiça do Trabalho não detém competência para julgar ações de cobrança de honorários contratuais. Conforme decidido no REsp 1.890.123/RJ, a natureza do serviço prestado pelo causídico não transmuda a competência para a seara laboral. Ademais, a Súmula 45 do STJ reforça a interpretação sobre a competência federal em casos análogos de natureza cível.
+
+Observo que a decisão recorrida está em perfeita consonância com o entendimento firmado no AgInt no AREsp 567.890/MG, onde se consignou que o conflito entre advogado e cliente não decorre de relação de trabalho no sentido estrito. A tentativa de deslocar a competência para a Justiça do Trabalho ignora a autonomia do contrato de honorários. Verifico, ainda, que a Lei 8.906/94 disciplina a profissão, mas não altera a competência jurisdicional para a cobrança de verbas contratuais civis.
+
+Ressalte-se que a doutrina especializada em Direito Processual converge para a tese de que a competência é determinada pela causa de pedir e pelo pedido, e não pelo local onde o serviço foi prestado ou a natureza do processo principal. No caso concreto, a pretensão é a resolução de contrato civil, o que atrai a competência da Justiça Comum. Aplica-se, portanto, a tese fixada no  julgado ID-STJ-2023-X99 e a orientação contida no Código de Processo Civil.
+
+Diante do exposto, com fundamento no regimento interno desta Corte, nego provimento ao agravo para manter a decisão agravada, reconhecendo a incompetência da Justiça do Trabalho para a causa.
+
+Publique-se. Intimem-se.
+
+Brasília, 14 de maio de 2024.
+
+Ministro Aurélio Valente

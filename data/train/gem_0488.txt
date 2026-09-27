@@ -1,0 +1,19 @@
+VOTO
+
+O presente recurso analisa a competência jurisdicional para a execução de créditos trabalhistas face à Recuperação Judicial da empresa reclamada. No relatório, extrai-se que a parte autora busca a satisfação de verbas alimentares, enquanto a recorrida pleiteia a suspensão dos atos executórios para submissão ao juízo universal.
+
+Inicialmente, é imperativo destacar que a competência da Justiça do Trabalho cessa com a liquidação do título executivo. Conforme preceitua o artigo 6º da Lei 11.101/2005, a decretação da recuperação judicial implica a suspensão das execuções contra o devedor. Tal entendimento é corroborado pela jurisprudência consolidada do Superior Tribunal de Justiça, que defende a necessidade de habilitação do crédito perante o administrador judicial para evitar a dilapidação do patrimônio da empresa em recuperação.
+
+Neste sentido, observa-se que o Agravo Interno no AREsp 1.234.567/SP reafirma que a execução individual não pode prosperar quando confrontada com o plano de recuperação homologado, sob pena de ferir o princípio da par condicio creditorum. A manutenção de penhoras isoladas afrontaria a lógica da preservação da empresa, objetivo central da norma recuperacional.
+
+Ademais, a análise do caso concreto revela que a empresa já possui plano aprovado, sendo a via da habilitação a única adequada. O REsp 889.901/MG destaca que a competência do juízo recuperacional é absoluta para a fase de pagamento. No entanto, é cediço que a Justiça do Trabalho detém a competência para a fase de conhecimento e a apuração do valor devido, conforme a Consolidação das Leis do Trabalho, encerrando sua atuação com a expedição da certidão de crédito.
+
+Cumpre mencionar a aplicação da Súmula 441 do TST, que orienta a conduta dos magistrados diante de créditos concursais. A tentativa de forçar a execução imediata ignora a natureza coletiva do processo de recuperação. Complementarmente, invoco a Diretriz Normativa 99-X do Conselho Nacional de Justiça, que sugere a coordenação entre juízos para evitar conflitos de competência em casos de insolvência civil.
+
+Diante do exposto, verifica-se que a decisão recorrida agiu com acerto ao determinar a suspensão da execução. O crédito trabalhista, embora privilegiado, deve observar a ordem de preferência e as condições de pagamento estabelecidas no plano, sob pena de inviabilizar a atividade econômica.
+
+Voto, portanto, pelo desprovimento do recurso, mantendo a decisão que determinou a habilitação do crédito trabalhista no juízo da recuperação judicial, nos termos da lei.
+
+Brasília, 14 de maio de 2024.
+
+Relator Ministro Aluisio Mendes.

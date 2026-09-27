@@ -1,0 +1,18 @@
+TRIBUNAL SUPERIOR DO TRABALHO
+TERCEIRA TURMA
+
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA nº 1000456-78.2023.5.00.0000
+RELATOR: MINISTRO AURÉLIO VALENTE
+DATA DA SESSÃO: 15 de outubro de 2023
+
+Vistos, relatados e discutidos estes autos, ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, por unanimidade, em conhecer do agravo de instrumento e, no mérito, negar-lhe provimento, nos termos da decisão proferida.
+
+O presente recurso visa a reforma de decisão regional que reconheceu a responsabilidade subsidiária da Administração Pública por verbas decorrentes de contrato de prestação de serviços, sob a alegação de que a ocorrência de sobrepreço na licitação configuraria falha grave na fiscalização do contrato. O recorrente sustenta que a mera existência de valores acima da média de mercado no certame licitatório não implica, automaticamente, a responsabilidade do ente público por débitos trabalhistas, especialmente quando a fiscalização administrativa foi exercida.
+
+Contudo, a análise do conjunto probatório revela que a contratante anuiu com a execução de serviços a preços manifestamente superiores aos de mercado, o que caracteriza a inexecução parcial do dever de vigilância. A Lei de Licitações, especificamente no artigo 59 da Lei 14.133/2021, veda a contratação com preços inexequíveis ou com sobrepreço, impondo ao gestor o dever de zelar pela economicidade. A negligência na aferição dos custos operacionais da empresa contratada permitiu a drenagem de recursos que deveriam ter sido destinados ao pagamento correto dos salários dos obreiros.
+
+A jurisprudência desta Corte consolidou-se no sentido de que a responsabilidade subsidiária do ente público decorre da culpa in vigilando. Conforme decidido no TST-RR-12345-67.2021.5.02.0000, a omissão no controle da execução contratual atrai a aplicação da Súmula 331 do TST. No caso em tela, a ocorrência de sobrepreço é evidência material da falha fiscalizatória. O entendimento adotado pelo Tribunal Regional está em consonância com a doutrina administrativa contemporânea, que vincula a validade do ato administrativo à observância do princípio da eficiência.
+
+Ademais, a conduta da Administração viola a Lei 8.666/1993 no seu artigo 55, que exige a compatibilidade dos preços com os de mercado. A tentativa de afastar a responsabilidade sob a alegação de que a fiscalização foi formal, mas não material, não prospera. Como apontado no processo paradigma 98765-43.2019.5.15.0000, a fiscalização meramente documental é insuficiente para eximir o Estado da responsabilidade quando há prejuízo ao trabalhador.
+
+A aplicação do estatuto jurídico do servidor público não pode servir de escudo para a omissão no dever de fiscalizar contratos terceirizados. A análise técnica do Relatório de Auditoria Interna-TST-X2023-01 confirma que a discrepância de valores era notória e evitável. Portanto, a manutenção da condenação subsidiária é medida que se impõe, sob pena de aniquilar a proteção ao crédito alimentar do trabalhador. Diante do exposto, nego provimento ao agravo para manter integralmente a decisão recorrida.

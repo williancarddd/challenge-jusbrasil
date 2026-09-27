@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n1_012",
+  "citacoes": [
+    {
+      "inicio": 574,
+      "fim": 605,
+      "trecho": "ED-E-ED-RR-65-63.2010.5.01.0075",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 822,
+      "fim": 825,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1419,
+      "fim": 1428,
+      "trecho": "66.884/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1863,
+      "fim": 1866,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

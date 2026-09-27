@@ -1,0 +1,68 @@
+{
+  "documento_id": "gen_n1_005",
+  "citacoes": [
+    {
+      "inicio": 534,
+      "fim": 569,
+      "trecho": "jurisprudência\npacífica desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 848,
+      "fim": 874,
+      "trecho": "AgInt no REsp 1.599.910/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1030,
+      "fim": 1071,
+      "trecho": "AgInt no Recurso\nEspecial nº 1.620.021/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1532,
+      "fim": 1558,
+      "trecho": "AgInt no REsp 1.664.893/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2039,
+      "fim": 2104,
+      "trecho": "julgado do STF proferido em 2025 pela relatoria de ANDRÉ MENDONÇA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2668,
+      "fim": 2681,
+      "trecho": "Rcl 88.860/PE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3146,
+      "fim": 3179,
+      "trecho": "legislação de regência da matéria",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

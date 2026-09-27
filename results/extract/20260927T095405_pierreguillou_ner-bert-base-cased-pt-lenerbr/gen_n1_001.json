@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n1_001",
+  "citacoes": [
+    {
+      "inicio": 71,
+      "fim": 108,
+      "trecho": "Processo nº 1292746-27.2020.7.13.1173",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 146,
+      "fim": 166,
+      "trecho": "Memorial nº 255/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 797,
+      "fim": 820,
+      "trecho": "Reclamação nº 66.516/RO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 951,
+      "fim": 985,
+      "trecho": "AgInt 7557430-50.2018.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

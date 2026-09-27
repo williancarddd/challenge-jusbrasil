@@ -1,0 +1,7 @@
+{
+  "name": "unsloth/Phi-4-mini-instruct-unsloth-bnb-4bit",
+  "role": "student",
+  "family": "Phi",
+  "parameters": "3.8B",
+  "slug": "unsloth_Phi-4-mini-instruct-unsloth-bnb-4bit"
+}

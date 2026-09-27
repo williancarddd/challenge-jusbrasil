@@ -1,0 +1,32 @@
+{
+  "documento_id": "gen_n2_001",
+  "citacoes": [
+    {
+      "inicio": 544,
+      "fim": 563,
+      "trecho": "RE nº 5. 230.808-DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1707,
+      "fim": 1742,
+      "trecho": "AgRg no Rec. Esp. n. 1.522.200 (SC)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2220,
+      "fim": 2230,
+      "trecho": "Súmula 935",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

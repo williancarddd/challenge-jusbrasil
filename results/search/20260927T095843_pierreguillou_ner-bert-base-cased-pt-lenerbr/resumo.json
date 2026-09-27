@@ -1,0 +1,38 @@
+{
+  "name": "pierreguillou/ner-bert-base-cased-pt-lenerbr",
+  "role": "lener",
+  "family": "BERT",
+  "parameters": "110M",
+  "slug": "pierreguillou_ner-bert-base-cased-pt-lenerbr",
+  "busca": "regex",
+  "extract": "/exp/william/challenge-jusbrasil/results/extract/20260927T095843_pierreguillou_ner-bert-base-cased-pt-lenerbr",
+  "avaliacao": {
+    "score_final": 0.5140036074633598,
+    "niveis": {
+      "1": {
+        "macro_f1": 0.4658758639021798,
+        "f1_por_classe": {
+          "real": 0.5964912280701754,
+          "inventada": 0.4375,
+          "incompleta": 0.36363636363636365
+        },
+        "tau": 0.0,
+        "s": 0.4658758639021798,
+        "b": 0.0,
+        "score": 0.4658758639021798
+      },
+      "2": {
+        "macro_f1": 0.5380674792439498,
+        "f1_por_classe": {
+          "real": 0.5098039215686274,
+          "inventada": 0.5945945945945946,
+          "incompleta": 0.5098039215686274
+        },
+        "tau": 0.0,
+        "s": 0.5380674792439498,
+        "b": 0.0,
+        "score": 0.5380674792439498
+      }
+    }
+  }
+}

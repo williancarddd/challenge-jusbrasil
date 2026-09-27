@@ -1,0 +1,92 @@
+{
+  "documento_id": "gen_n2_009",
+  "citacoes": [
+    {
+      "inicio": 539,
+      "fim": 568,
+      "trecho": "Rec. Esp. nº  1. 570.531 – CE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 725,
+      "fim": 762,
+      "trecho": "EDcl no AgInt no ARESP  1 821 663/ SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3375797414"
+      }
+    },
+    {
+      "inicio": 883,
+      "fim": 915,
+      "trecho": "art. 303 da Constituição\nFederal",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1188,
+      "fim": 1208,
+      "trecho": "A.REsp\n 555 700 (RS)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1614,
+      "fim": 1640,
+      "trecho": "AgInt no RESP 21737l8 - SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "6490934118"
+      }
+    },
+    {
+      "inicio": 1771,
+      "fim": 1786,
+      "trecho": "AR\nn. 2785 (SP)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2227,
+      "fim": 2257,
+      "trecho": "AgInt no RESP nº 1.666.812/ PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "524699160"
+      }
+    },
+    {
+      "inicio": 2727,
+      "fim": 2775,
+      "trecho": "precedente\nfirmado em sede de recurso repetitivo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3263,
+      "fim": 3283,
+      "trecho": "REsp Nº 1.632.479-RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

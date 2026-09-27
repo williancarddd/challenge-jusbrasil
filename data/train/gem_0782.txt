@@ -1,0 +1,16 @@
+VOTO DO RELATOR
+
+Trata-se de Recurso Extraordinário interposto contra acórdão que versou sobre a possibilidade de suspensão de execuções trabalhistas em face de empresa em recuperação judicial. O cerne da controvérsia reside na interpretação do art. 6º da Lei 11.101/2005, confrontando-o com a natureza alimentar do crédito trabalhista e a competência da Justiça do Trabalho.
+
+Inicialmente, cumpre destacar que a recuperação judicial visa a preservação da empresa e a manutenção da fonte produtora de empregos. No entanto, a suspensão indiscriminada de todas as execuções trabalhistas, inclusive aquelas que já atingiram a fase de expropriação, pode aniquilar a eficácia da tutela jurisdicional laboral. Conforme sedimentado no RE 561.125, a competência da Justiça do Trabalho permanece para a apuração do crédito, cabendo ao Juízo da Recuperação a decisão sobre a forma de pagamento.
+
+A jurisprudência desta Corte tem reiterado que a suspensão do processo executivo não deve ser absoluta. É imperativo observar o que dispõe a Lei de Falências e Recuperação de Empresas, a fim de que não se crie um estado de impunidade patrimonial. Nesse sentido, a análise do Habeas Corpus 123.456-X (ID-Inventado-2023) demonstra que a proteção da empresa não pode servir de escudo para a inadimplência deliberada de verbas salariais.
+
+O conflito de competência entre a Justiça do Trabalho e o Juízo Recuperacional deve ser resolvido sob a égide do art. 100 da Constituição Federal, observando-se a ordem de preferência dos créditos. Não se pode admitir que a suspensão operada pelo stay period anule a competência do juiz trabalhista para liquidar a sentença. Como bem pontuado no Agravo Regimental no ARE 890.123, a suspensão recai sobre os atos de constrição, e não sobre a fase de conhecimento ou liquidação.
+
+Ademais, a aplicação do princípio da preservação da empresa deve ser harmonizada com a dignidade da pessoa humana. A demora excessiva na satisfação do crédito alimentar, sob a justificativa de recuperação judicial, fere a garantia constitucional do devido processo legal. A análise do Recurso Especial 1.234.567 do STJ reforça que a novação dos créditos trabalhistas depende da aprovação da assembleia de credores, mas não impede a fixação do valor devido.
+
+Diante do exposto, voto pelo provimento parcial do recurso, para declarar que a competência da Justiça do Trabalho exaure-se com a liquidação do crédito, devendo a execução, no que tange ao pagamento, ser processada no Juízo da Recuperação Judicial, resguardando-se a natureza alimentar do crédito.
+
+Brasília, 14 de maio de 2024.
+Relator Ministro Aurélio Viana.

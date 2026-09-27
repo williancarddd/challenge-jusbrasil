@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from pathlib import Path
 from typing import Any
 
@@ -168,8 +169,14 @@ def teacher_model() -> dict[str, Any]:
 
 def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
     kwargs = dict(model["vllm"])
+    if os.environ.get("GPU_MEMORY_UTILIZATION", "").strip():
+        kwargs["gpu_memory_utilization"] = float(os.environ["GPU_MEMORY_UTILIZATION"])
     kwargs.setdefault("quantization", "bitsandbytes")
     kwargs.setdefault("max_model_len", MAX_MODEL_LEN)
+    if os.environ.get("LORA_PATH", "").strip():
+        kwargs["enable_lora"] = True
+        kwargs["max_lora_rank"] = 16
+        kwargs["max_loras"] = 1
     return kwargs
 
 

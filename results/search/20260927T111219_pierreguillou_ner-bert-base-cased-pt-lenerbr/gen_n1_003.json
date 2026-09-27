@@ -1,0 +1,36 @@
+{
+  "documento_id": "gen_n1_003",
+  "citacoes": [
+    {
+      "inicio": 577,
+      "fim": 593,
+      "trecho": "AREsp 1576933/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2108020112"
+      }
+    },
+    {
+      "inicio": 1193,
+      "fim": 1235,
+      "trecho": "art. 158 do Código de Defesa do Consumidor",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1677,
+      "fim": 1695,
+      "trecho": "REsp nº 2020005/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2939285691"
+      }
+    }
+  ]
+}

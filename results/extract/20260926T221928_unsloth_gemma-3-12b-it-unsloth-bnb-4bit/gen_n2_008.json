@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n2_008",
+  "citacoes": [
+    {
+      "inicio": 646,
+      "fim": 709,
+      "trecho": "ã lei que disciplina a prescrição no caso, de aplicação cogente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1227,
+      "fim": 1241,
+      "trecho": "2.467-\n.648-RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1898,
+      "fim": 1932,
+      "trecho": "EDcl no AgInt no ARESP 1980827/ RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3051,
+      "fim": 3078,
+      "trecho": "AgRg no H.C. Nº 891369 (RS)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

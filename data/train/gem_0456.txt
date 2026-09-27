@@ -1,0 +1,26 @@
+PODER JUDICIÁRIO
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+AGRAVO EM AGRAVO DE INSTRUMENTO Nº 1.234.567 - DF (2024/0012345)
+RELATOR: MINISTRO RICARDO VALADARES
+DATA: 15 de outubro de 2024
+
+Vistos.
+
+Trata-se de agravo dirigido contra decisão que indeferiu pedido de tutela de urgência visando a suspensão de penalidade administrativa aplicada em contrato de prestação de serviços de tecnologia da informação. A parte agravante sustenta a ausência de contraditório e a desproporcionalidade da sanção, alegando risco de dano irreparável ao seu fluxo de caixa e à manutenção de suas atividades operacionais.
+
+Para a concessão da tutela de urgência, exige-se a convergência dos requisitos previstos no art. 300 do Código de Processo Civil, quais sejam, a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. No caso em tela, a análise perfunctória dos autos revela que a Administração Pública agiu no exercício de sua prerrogativa de autotutela, pautando-se no princípio da legalidade administrativa para a aplicação da multa.
+
+Embora a parte recorrente alegue nulidade, a jurisprudência desta Corte Superior orienta que a intervenção do Judiciário em atos administrativos deve ser mínima, restringindo-se ao controle de legalidade e proporcionalidade. Nesse sentido, observa-se que o REsp 1.890.123/SP reafirmou a necessidade de demonstração inequívoca do erro administrativo para a concessão de liminares contra sanções contratuais. Ademais, a Lei nº 14.133/2021, em seu art. 156, disciplina a aplicação de sanções, prevendo a observância do devido processo legal.
+
+O risco de dano alegado não restou devidamente comprovado, pois a mera redução de margem de lucro não configura, por si só, a insolvência da empresa. Como já decidido no AgInt no AREsp 456.789/RJ, a dificuldade financeira momentânea não autoriza a suspensão automática de penalidades impostas por órgão público. A pretensão da agravante esbarra na Súmula 443 do STJ, que embora trate de matéria distinta, reflete a prudência necessária na concessão de medidas liminares sem a prova robusta do perigo.
+
+A análise do Protocolo de Conformidade Interna PCI-2024-X indica que a empresa foi notificada tempestivamente, não havendo que se falar em cerceamento de defesa. Portanto, ausente a probabilidade do direito e a urgência contemporânea, a decisão recorrida deve ser mantida. A aplicação da Lei de Licitações visa assegurar a eficiência do gasto público e a execução rigorosa dos contratos administrativos.
+
+Ante o exposto, com fundamento no regimento interno deste Tribunal, nego provimento ao agravo para manter a decisão agravada em todos os seus termos.
+
+Intimem-se.
+
+Brasília, 15 de outubro de 2024.
+
+Ministro Ricardo Valadares

@@ -1,0 +1,54 @@
+{
+  "documento_id": "gen_n2_011",
+  "citacoes": [
+    {
+      "inicio": 112,
+      "fim": 146,
+      "trecho": "Autos nº 7477881-22.2015.8.02.5252",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 671,
+      "fim": 687,
+      "trecho": "SÚMULA 83 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1289710642"
+      }
+    },
+    {
+      "inicio": 802,
+      "fim": 821,
+      "trecho": "ARESP No 2178783/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 968,
+      "fim": 988,
+      "trecho": "RESP n. 1 307 026/BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3580782436"
+      }
+    },
+    {
+      "inicio": 1270,
+      "fim": 1289,
+      "trecho": "Recl. n° 6G.838/ BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documento_id": "gen_n1_010",
+  "citacoes": [
+    {
+      "inicio": 477,
+      "fim": 494,
+      "trecho": "REsp 6.989.916/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 933,
+      "fim": 949,
+      "trecho": "RHC nº\n88.033/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2566417138"
+      }
+    },
+    {
+      "inicio": 1124,
+      "fim": 1159,
+      "trecho": "jurisprudência\npacífica desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1612,
+      "fim": 1629,
+      "trecho": "Súmula 443 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1289711022"
+      }
+    },
+    {
+      "inicio": 2041,
+      "fim": 2061,
+      "trecho": "tribunais superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

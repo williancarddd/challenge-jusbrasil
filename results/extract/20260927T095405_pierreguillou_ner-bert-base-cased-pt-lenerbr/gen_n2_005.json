@@ -1,0 +1,50 @@
+{
+  "documento_id": "gen_n2_005",
+  "citacoes": [
+    {
+      "inicio": 67,
+      "fim": 104,
+      "trecho": "Processo nº 7253100-24.2017.5.14.1391",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 574,
+      "fim": 601,
+      "trecho": "Reclamação n° 33.-\n474 (MA)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1122,
+      "fim": 1139,
+      "trecho": "Reclamação do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1634,
+      "trecho": "Reclamação do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1765,
+      "fim": 1793,
+      "trecho": "art 60 da Lei nº 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

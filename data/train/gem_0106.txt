@@ -1,0 +1,19 @@
+TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO
+
+APELAÇÃO CÍVEL Nº 5001234-56.2023.4.04.7000
+RELATOR: DESEMBARGADOR RICARDO MENDES DE SOUZA
+DATA DO JULGAMENTO: 15 de maio de 2024
+
+VOTO
+
+Trata-se de apelação interposta contra sentença que julgou improcedente o pedido de pagamento de adicional de insalubridade formulado por servidor público federal, sob o argumento de que a exposição a agentes biológicos no ambiente hospitalar justifica a percepção da verba. O apelante sustenta que a perícia técnica foi omissa quanto à frequência do contato com pacientes infectados, requerendo a reforma do decisum.
+
+Analisando os autos, verifica-se que a controvérsia reside na adequação do enquadramento da atividade do servidor às normas regulamentadoras. O pedido fundamenta-se na Lei nº 8.112/90, art. 115, que disciplina as gratificações e adicionais dos servidores públicos civis da União. Contudo, a concessão do referido adicional exige a comprovação técnica da exposição a agentes nocivos acima dos limites de tolerância, conforme preceitua a NR-15 do Ministério do Trabalho e Emprego.
+
+No caso concreto, o laudo pericial foi conclusivo ao afirmar que o servidor utilizava equipamentos de proteção individual adequados, os quais neutralizavam a insalubridade. A jurisprudência deste Tribunal é pacífica no sentido de que o uso de EPIs eficazes afasta o direito ao adicional, nos moldes do que foi decidido no AC 5009876-12.2021.4.04.7100. Ademais, a tese adotada pelo juízo a quo guarda consonância com a Súmula nº 80 do TST, que prevê a exclusão do pagamento quando a medida de proteção for eficiente.
+
+O apelante invoca a aplicação de normas administrativas da Secretaria de Saúde para tentar rediscutir a matéria, porém, a via recursal não se presta a substituir a prova pericial por meras conjecturas. Observa-se que a decisão recorrida aplicou corretamente a Lei nº 8.213/91, art. 86, no que tange à analogia sobre a exposição a agentes prejudiciais à saúde. Reforça-se que a análise técnica prevalece sobre a descrição genérica do cargo, conforme assentado no REsp 1.234.567/SC e no protocolo interno de auditoria REF-INSAL-2023-X9.
+
+Diante do exposto, não vislumbro erro na sentença, pois a prova técnica demonstrou a inexistência de risco residual. A pretensão do autor esbarra na ausência de prova material da exposição ininterrupta a agentes patogênicos sem a devida proteção. Assim, nego provimento ao recurso, mantendo a sentença em sua integralidade.
+
+ACÓRDÃO: Vistos e relatados, decidem os membros do Tribunal Regional Federal da 4ª Região, por unanimidade, negar provimento à apelação.

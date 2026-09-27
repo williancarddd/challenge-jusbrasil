@@ -1,0 +1,37 @@
+{
+  "name": "unsloth/gemma-4-31B-it-unsloth-bnb-4bit",
+  "role": "teacher",
+  "family": "Gemma",
+  "parameters": "31B",
+  "slug": "unsloth_gemma-4-31B-it-unsloth-bnb-4bit",
+  "extract": "/exp/william/challenge-jusbrasil/results/extract/20260926T202633_unsloth_gemma-4-31B-it-unsloth-bnb-4bit",
+  "avaliacao": {
+    "score_final": 0.9272831807568073,
+    "niveis": {
+      "1": {
+        "macro_f1": 0.9485371715398054,
+        "f1_por_classe": {
+          "real": 0.9803921568627451,
+          "inventada": 0.9696969696969697,
+          "incompleta": 0.8955223880597015
+        },
+        "tau": 0.0,
+        "s": 0.9485371715398054,
+        "b": 0.0,
+        "score": 0.9485371715398054
+      },
+      "2": {
+        "macro_f1": 0.93120628354571,
+        "f1_por_classe": {
+          "real": 0.9438202247191011,
+          "inventada": 0.9841269841269841,
+          "incompleta": 0.8656716417910447
+        },
+        "tau": 0.03125,
+        "s": 0.9166561853653082,
+        "b": 0.0,
+        "score": 0.9166561853653082
+      }
+    }
+  }
+}

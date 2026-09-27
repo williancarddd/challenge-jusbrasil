@@ -16,3 +16,4 @@ env/
 # Saídas geradas
 submission.csv
 *.log
+results/train/

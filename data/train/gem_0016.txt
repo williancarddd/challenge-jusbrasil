@@ -1,0 +1,23 @@
+ESTADO DE SÃO PAULO
+TRIBUNAL DE JUSTIÇA DE SÃO PAULO
+Câmara Especializada em Direito Empresarial
+
+Agravo de Instrumento nº 2023.0045678-91
+Relator: Des. Marcos Vinícius Alencar
+Comarca: São Paulo
+
+Vistos. Trata-se de agravo de instrumento interposto por Empresa Industrial Têxtil S.A. contra decisão interlocutória que, em sede de recuperação judicial, determinou a reserva de numerário para pagamento de crédito trabalhista oriundo de ação judicial em trâmite perante a Justiça do Trabalho. A agravante sustenta a impossibilidade de bloqueios individuais, alegando que a competência para a gestão do fluxo de caixa e a submissão dos créditos ao plano de recuperação é exclusiva do juízo recuperacional.
+
+Em análise preliminar, verifica-se que a controvérsia reside na tensão entre a natureza alimentar do crédito trabalhista e a preservação da empresa. Ocorre que  a Lei nº 11.101/2005, em seu artigo 6º,  estabelece a competência do juízo da recuperação para decidir sobre a natureza do crédito e a possibilidade de constrição de bens. No presente caso, a reserva de valores efetuada pelo juízo laboral sem prévia consulta ao juízo universal afronta a sistemática da recuperação judicial.
+
+Conforme entendimento consolidado,  a jurisprudência do Superior Tribunal de Justiça  orienta que a execução individual de créditos, ainda que trabalhistas, não pode comprometer a viabilidade do plano recuperacional. Nesse sentido, cita-se o  REsp nº 1.892.345/SP , no qual se reafirmou a necessidade de submissão do crédito ao plano aprovado pelos credores. A tentativa de bypassar a fila de pagamentos via bloqueios judiciais desvirtua a finalidade da norma, ferindo a *par condicio creditorum*.
+
+Ademais, observa-se que  o Código de Processo Civil, no artigo 833,  protege certas verbas, mas a proteção ao salário do empregado não autoriza a expropriação indiscriminada de ativos da recuperanda. O  Agravo Interno nº 4002110-12.2022.8.26.0000  deste Tribunal já assentou que a reserva de numerário deve ser precedida de análise do juízo recuperacional para evitar a inviabilização da atividade econômica.
+
+A decisão recorrida, ao ignorar a  Lei de Recuperação de Empresas e Falências , criou um privilégio processual indevido. Ainda que se reconheça a importância do crédito alimentar, a  Súmula 43 do TJSP  e a norma interna do  Protocolo de Gestão de Ativos RJ-2024-X  vedam a saída de caixa não programada. Portanto, a decisão deve ser reformada para determinar que o crédito trabalhista seja habilitado na classe I, observando-se as condições do plano.
+
+Diante do exposto, defiro o efeito suspensivo e dou provimento ao recurso para anular a decisão de bloqueio, determinando a remessa do crédito ao juízo da recuperação.
+
+São Paulo, 14 de maio de 2024.
+
+Des. Marcos Vinícius Alencar

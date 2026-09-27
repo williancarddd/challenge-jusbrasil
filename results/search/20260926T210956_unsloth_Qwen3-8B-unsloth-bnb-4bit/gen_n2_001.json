@@ -1,0 +1,23 @@
+{
+  "documento_id": "gen_n2_001",
+  "citacoes": [
+    {
+      "inicio": 544,
+      "fim": 563,
+      "trecho": "RE nº 5. 230.808-DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 828,
+      "fim": 831,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+VOTO DO RELATOR
+
+Trata-se de recurso especial interposto contra acórdão do Tribunal Regional do Trabalho da 3ª Região, que negou provimento ao recurso ordinário da parte autora, mantendo a sentença que indeferiu o pagamento de adicional de insalubridade a empregado que atuava em ambiente hospitalar, sob a alegação de que o uso de Equipamentos de Proteção Individual (EPIs) neutralizaria a exposição a agentes biológicos.
+
+No mérito, a controvérsia reside em definir se a entrega de luvas e máscaras é suficiente para afastar a percepção do adicional previsto no artigo 189 da CLT. O recorrente sustenta que a exposição a vírus e bactérias em ambiente de pronto-socorro é inerente à função e que a proteção fornecida é insuficiente. Analisando a matéria, verifico que a jurisprudência desta Corte Superior consolidou o entendimento de que a neutralização do agente insalubre deve ser comprovada por perícia técnica rigorosa.
+
+Conforme se observa no REsp 1.234.567/SP, a simples entrega do EPI não presume a eliminação do risco, sendo necessária a fiscalização do uso efetivo e a eficácia do equipamento frente ao agente nocivo. A norma regulamentadora do Ministério do Trabalho, especificamente a NR 15 do MTE, estabelece os critérios para a caracterização da insalubridade por agentes biológicos, prevendo que a análise deve ser qualitativa.
+
+Nesse sentido, o AgInt no AREsp 889.990/RJ reforça que a exposição a agentes biológicos em hospitais gera presunção de risco, a qual somente pode ser afastada por prova robusta de neutralização total. No caso em tela, o Tribunal de origem baseou-se apenas na lista de entrega de equipamentos, ignorando a dinâmica laboral do recorrente. Ademais, a Súmula 448 do TST orienta que a classificação da atividade como insalubre requer a constatação daquele que trabalha em contato permanente com pacientes em isolamento.
+
+É imperativo mencionar que a Lei 8.213/91 também disciplina a proteção do trabalhador exposto a agentes nocivos, embora em contexto previdenciário, evidenciando a preocupação do legislador com a saúde ocupacional. A tese fixada no Tema Repetitivo 1.102 do STJ corrobora a necessidade de prova técnica para a exclusão do benefício. No presente feito, a ausência de comprovação da eficácia do EPI torna a decisão recorrida dissonante da jurisprudência dominante.
+
+Invoco, ainda, o Precedente Interno STJ-X99-2023 para destacar que a proteção parcial não exclui o direito ao adicional, mas pode, eventualmente, graduar o seu percentual. Por fim, as diretrizes da ANVISA sobre controle de infecções hospitalares demonstram que a máscara e a luva são barreiras essenciais, mas não absolutas, contra a transmissão de patógenos aéreos.
+
+Diante do exposto, voto por dar provimento ao recurso especial para reformar o acórdão recorrido e condenar a recorrida ao pagamento do adicional de insalubridade em grau máximo.
+
+Brasília, 14 de maio de 2024.
+Relator Ministro Aurélio Justino.

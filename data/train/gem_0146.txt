@@ -1,0 +1,24 @@
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+AGRAVO EM RECURSO ESPECIAL Nº 1.234.567 - DF (2023/001234-5)
+RELATOR: MINISTRO AURÉLIO SILVA
+JULGAMENTO: 15 DE MAIO DE 2024
+
+VOTO
+
+Trata-se de agravo em recurso especial interposto contra acórdão que indeferiu a tutela de urgência pleiteada por empresa contratada da Administração Pública, a qual visava a suspensão imediata da aplicação de sanções administrativas decorrentes de suposto inadimplemento contratual. A recorrente sustenta a presença dos requisitos legais para a concessão da medida liminar, alegando risco de dano irreparável ao patrimônio da empresa.
+
+Analisando os autos, verifica-se que a pretensão fundamenta-se na necessidade de afastamento da multa contratual até o julgamento final do mérito. Contudo, para a concessão da tutela de urgência, é imperativo que se demonstre a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, nos moldes do art. 300 do Código de Processo Civil. No caso em tela, a recorrente não logrou êxito em comprovar a verossimilhança de suas alegações, limitando-se a questionar a legalidade do processo administrativo sancionador sem apresentar prova inequívoca de nulidade insanável.
+
+É cediço que os contratos administrativos são regidos por normas de direito público, onde prevalecem as cláusulas exorbitantes que conferem à Administração a prerrogativa de fiscalizar e sancionar a contratada. Conforme se depreende da Lei nº 14.133/2021, a aplicação de penalidades deve observar o devido processo legal, mas a suspensão judicial de tais atos exige prova robusta de ilegalidade flagrante. A jurisprudência desta Corte Superior, consolidada no REsp nº 1.890.123/SP, orienta que a intervenção do Judiciário em atos administrativos deve ser excepcional, restringindo-se ao controle de legalidade e não à conveniência da Administração.
+
+Ademais, a recorrente invoca a tese do Equilíbrio Econômico-Financeiro do Contrato, porém não demonstra como a multa aplicada comprometeria a execução do objeto contratual. A mera alegação de prejuízo financeiro não supre a exigência do perigo na demora. Neste sentido, recordo o entendimento firmado no AgInt no AREsp nº 456.789/RJ, onde se decidiu que a mera redução de margem de lucro não justifica a concessão de tutela antecipada contra a Administração.
+
+A análise do caso revela que a empresa descumpriu cronogramas essenciais, fato corroborado pelos relatórios de fiscalização. A aplicação da sanção encontra amparo no art. 156 da Lei nº 14.133/2021. Não há, portanto, a probabilidade do direito necessária. Ressalte-se que a aplicação do Protocolo de Gestão de Riscos STJ-2022-X reforça a necessidade de cautela ao suspender atos sancionatórios sem prova pré-constituída.
+
+Diante do exposto, ausentes os pressupostos para a concessão da medida liminar, voto no sentido de negar provimento ao agravo, mantendo integralmente a decisão recorrida.
+
+Acórdão lavrado em sessão virtual.
+
+MINISTRO AURÉLIO SILVA
+Relator

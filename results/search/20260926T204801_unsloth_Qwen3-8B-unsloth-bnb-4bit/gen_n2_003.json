@@ -1,0 +1,70 @@
+{
+  "documento_id": "gen_n2_003",
+  "citacoes": [
+    {
+      "inicio": 627,
+      "fim": 668,
+      "trecho": "STF\nde 2024, da relatoria de Cármen Lúcia",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 736,
+      "fim": 789,
+      "trecho": "Processo n° TST- ED - E-ED-RR-41200-79.2011.5.21.0005",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "861411580"
+      }
+    },
+    {
+      "inicio": 1018,
+      "fim": 1021,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1745,
+      "trecho": "RE. nº 3.647.129-RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1847,
+      "fim": 1863,
+      "trecho": "Rcl n° 66698/ BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2559,
+      "fim": 2578,
+      "trecho": "artigo 1.143 da CLT",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2765,
+      "fim": 2768,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+PARECER JURÍDICO – GABINETE DO MINISTRO RELATOR
+
+Trata-se de análise acerca da configuração de sobrepreço em contratos administrativos decorrentes de processos licitatórios, sob a ótica da jurisprudência consolidada desta Corte Superior. A controvérsia reside na distinção entre a mera variação de mercado e o sobrepreço doloso, que caracteriza dano ao erário. Inicialmente, cumpre destacar que a licitação visa a seleção da proposta mais vantajosa, conforme preceitua o art. 3º da Lei 8.666/93, sendo que a aferição do valor justo deve pautar-se por pesquisa ampla de mercado. No caso em tela, a divergência de preços entre a proposta vencedora e a média de mercado não implica, automaticamente, em ilegalidade, desde que fundamentada a escolha da administração.
+
+Nesse sentido, este Tribunal já decidiu que a mera diferença de valores entre a contratação e a média de mercado não presume a existência de sobrepreço, especialmente quando a complexidade do objeto justifica a variação, conforme decidido no REsp 1.234.567/SP. A análise do dano deve ser concreta, afastando-se presunções abstratas de prejuízo. É imperativo observar que a Lei 14.133/21 trouxe novos parâmetros para a gestão de riscos e a aferição de preços, buscando mitigar a ocorrência de superfaturamento. O sobrepreço, enquanto vício na fase de contratação, difere do superfaturamento, que ocorre na execução contratual.
+
+Sob a ótica do controle externo, as orientações do Tribunal de Contas da União reforçam que a pesquisa de preços deve ser robusta, evitando-se a utilização de orçamentos fornecidos exclusivamente pelas empresas interessadas. No julgamento do AgInt no AREsp 987.654/RJ, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2022, consignou-se que a ausência de comprovação de dolo ou culpa grave do agente público afasta a responsabilidade civil objetiva em casos de flutuação econômica imprevista.
+
+Ademais, a aplicação do art. 10 da Lei 8.429/92 exige a demonstração do prejuízo efetivo ao patrimônio público para a condenação por improbidade administrativa. Não se admite a punição baseada em presunção de dano quando a administração demonstra que o preço contratado estava alinhado às condições singulares do projeto. Conforme a Súmula 123-STJ-X (Identificador Interno), a validade do certame é mantida se a discrepância for justificada por critérios técnicos.
+
+Conclui-se que, para a caracterização do sobrepreço, é necessária a prova de que o valor pactuado excede substancialmente os preços de mercado, sem a devida justificativa técnica. Portanto, com base no entendimento pacificado do STJ, voto no sentido de que a variação pontual de preços, desacompanhada de má-fé ou erro grosseiro, não nulifica o contrato nem enseja a condenação do gestor.
+
+Brasília, 14 de outubro de 2023.
+Ministro Relator Dr. Valério Souto.

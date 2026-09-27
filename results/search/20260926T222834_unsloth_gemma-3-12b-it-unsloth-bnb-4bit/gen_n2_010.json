@@ -1,0 +1,69 @@
+{
+  "documento_id": "gen_n2_010",
+  "citacoes": [
+    {
+      "inicio": 605,
+      "fim": 618,
+      "trecho": "foi rejeitadã",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1164,
+      "fim": 1185,
+      "trecho": "ARESP Nº 1.512.757-PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2107883738"
+      }
+    },
+    {
+      "inicio": 1631,
+      "fim": 1657,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "10718759"
+      }
+    },
+    {
+      "inicio": 2098,
+      "fim": 2139,
+      "trecho": "art. 14 do Código de Defesa do Consumidor",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "10606184"
+      }
+    },
+    {
+      "inicio": 2832,
+      "fim": 2864,
+      "trecho": "Recurso Especial nº  1377019/ SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2106317594"
+      }
+    },
+    {
+      "inicio": 2954,
+      "fim": 2984,
+      "trecho": "Recurso Especial nº  1.597.443",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2684973273"
+      }
+    }
+  ]
+}

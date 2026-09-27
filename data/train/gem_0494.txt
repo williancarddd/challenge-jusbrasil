@@ -1,0 +1,16 @@
+VOTO
+
+O presente recurso especial visa a análise da legalidade da inclusão de créditos trabalhistas em plano de recuperação judicial, especificamente no que tange à novação das obrigações e à competência do juízo recuperacional para a homologação de acordos firmados na justiça especializada. No caso em tela, a empresa recorrente busca a reforma do acórdão que permitiu a alteração unilateral do cronograma de pagamentos de verbas alimentares, sob a justificativa de preservação da empresa.
+
+De início, é imperativo destacar que a recuperação judicial é regida pelo princípio da máxima preservação da empresa, conforme se depreende da Lei 11.101/2005, art. 47. Contudo, tal princípio não pode anular a natureza alimentar do crédito trabalhista, que goza de privilégios legais específicos. A jurisprudência deste Superior Tribunal de Justiça tem reiterado a necessidade de respeito aos prazos de pagamento estabelecidos no plano, vedando alterações que prejudiquem excessivamente o trabalhador. Nesse sentido, colaciono o entendimento firmado no REsp 1.854.321/SP, onde se decidiu que a novação do crédito trabalhista exige a anuência expressa do credor ou a aprovação em assembleia geral.
+
+A controvérsia reside na possibilidade de o juízo da recuperação intervir em sentenças transitadas em julgado na Justiça do Trabalho. Ocorre que a Lei 11.101/2005, art. 82-A estabelece a competência do juízo recuperacional para a determinação do valor do crédito, mas não para a alteração da natureza da obrigação já consolidada. A tentativa de postergar pagamentos sem a devida contrapartida fere a jurisprudência consolidada do STJ sobre a impenhorabilidade relativa de verbas salariais. 
+
+Ademais, a análise do AgInt no AREsp 987.654/RJ demonstra que a flexibilização do plano não pode servir de escudo para o inadimplemento deliberado de obrigações trabalhistas. A proteção ao crédito alimentar é pilar do sistema jurídico brasileiro, encontrando amparo inclusive na Constituição Federal no que tange à dignidade da pessoa humana. No presente feito, a recorrente apresentou a Guia de Viabilidade Econômica GVE-2023-X para justificar a dilação do prazo, porém, tal documento não supre a necessidade de concordância do trabalhador.
+
+Diante do exposto, verifico que a decisão recorrida equivocou-se ao permitir a alteração do prazo de pagamento sem a observância do REsp 1.234.567/MG, que veda a imposição de descontos agressivos sobre créditos de natureza salarial. A recuperação judicial visa a sanear a empresa, mas não pode transferir todo o risco do negócio ao empregado, a parte mais hipossuficiente da relação. Portanto, voto no sentido de dar provimento ao recurso para anular a decisão que homologou a alteração do plano no que tange aos créditos trabalhistas, determinando o retorno dos autos à origem para a devida adequação.
+
+É como voto.
+
+Brasília, 14 de maio de 2024.
+Relator Min. Aurélio Silveira.

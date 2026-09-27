@@ -1,0 +1,59 @@
+{
+  "documento_id": "gen_n2_006",
+  "citacoes": [
+    {
+      "inicio": 71,
+      "fim": 105,
+      "trecho": "Autos nº 1724101-18.2024.6.13.1544",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 190,
+      "fim": 211,
+      "trecho": "Protocolo nº 2022.028",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 681,
+      "fim": 708,
+      "trecho": "art 276 do Código Eleitoral",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 857,
+      "fim": 891,
+      "trecho": "artigo 279 da Constituição\nFederal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 992,
+      "fim": 1033,
+      "trecho": "ED no AgR-REspe No  0600316-4920206160182",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1496,
+      "trecho": "AgR-AI 0603026-6920186090000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

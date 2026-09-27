@@ -1,0 +1,17 @@
+VOTO
+
+Relator: Min. Aurélio Valente. Data: 14 de maio de 2024. Processo: RE 1.345.678/SP.
+
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho que, ao analisar a natureza jurídica da relação havida entre as partes, manteve a competência da Justiça do Trabalho para processar e julgar a demanda. O recorrente sustenta a inexistência de vínculo empregatício, alegando que a prestação de serviços ocorreu sob regime de natureza civil, o que afastaria a competência especializada.
+
+Ao analisar a matéria, é imperativo destacar que a competência da Justiça do Trabalho é definida pela natureza da relação jurídica subjacente, especificamente a relação de trabalho, conforme a redação dada pela Emenda Constitucional nº 45/2004 ao art. 114 da Constituição Federal. A controvérsia reside em determinar se a autonomia do contratado afasta a subordinação jurídica necessária para a configuração do vínculo.
+
+Neste sentido, a jurisprudência desta Corte Suprema tem reiterado que a análise da competência, quando envolve a verificação de fatos complexos, deve observar a primazia da realidade. Como bem pontuado em ARE 1.200.300/RJ, a natureza do vínculo não se esgota na nomenclatura atribuída ao contrato, mas na execução fática do serviço. Ademais, a competência para decidir sobre a existência de vínculo empregatício pertence, originariamente, ao juízo trabalhista, que detém as ferramentas processuais adequadas para tal aferição.
+
+Observo que a tese defendida pelo recorrente confronta o entendimento sedimentado no AgRg no AREsp 456.789/MG, onde se decidiu que a prestação de serviços remunerada, ainda que intermitente, atrai a competência da Justiça Especializada. No caso em tela, as provas coligidas indicam a presença de subordinação e onerosidade, elementos que corroboram a aplicação do art. 3º da CLT.
+
+É oportuno mencionar a doutrina contemporânea sobre o tema, que aponta para a expansão da competência trabalhista no século XXI, visando a proteção do hipossuficiente. Tal entendimento converge para a solução adotada no RE 987.654/DF, no qual se reafirmou que a natureza trabalhista da relação prevalece sobre a formalidade civil.
+
+Nessa linha, invoco o entendimento consolidado no Precedente Interno STF-X2023-Variação336, que orienta a manutenção da competência especializada quando houver indícios mínimos de subordinação. Por fim, ressalto que a jurisprudência do STF não admite a declinação de competência para a Justiça Comum quando a lide versa sobre a própria existência de relação de emprego.
+
+Diante do exposto, voto no sentido de negar provimento ao recurso, mantendo a competência da Justiça do Trabalho para o julgamento da causa, nos termos da lei e da Constituição.

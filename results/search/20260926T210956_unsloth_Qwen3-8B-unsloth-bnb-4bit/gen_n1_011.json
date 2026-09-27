@@ -1,0 +1,43 @@
+{
+  "documento_id": "gen_n1_011",
+  "citacoes": [
+    {
+      "inicio": 502,
+      "fim": 523,
+      "trecho": "Súmula Vinculante 182",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 684,
+      "fim": 695,
+      "trecho": "STF de 2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1216,
+      "fim": 1242,
+      "trecho": "AgInt no REsp 1.820.970/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2679580316"
+      }
+    },
+    {
+      "inicio": 1525,
+      "fim": 1528,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

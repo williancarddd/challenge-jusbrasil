@@ -1,0 +1,15 @@
+VOTO
+
+Cuidam os autos de conflito de competência instaurado para definir a esfera jurisdicional adequada ao processamento de demanda envolvendo verbas remuneratórias de servidor público contratado sob regime celetista para exercício de função pública eleitoral. O ora impetrante sustenta que a matéria, por versar sobre vínculo empregatício, deveria ser processada na Justiça do Trabalho. Todavia, a análise detida do caso revela que a natureza da relação jurídica em questão transcende a mera relação de emprego, situando-se no âmbito do direito administrativo.
+
+De início, cumpre destacar que a competência da Justiça do Trabalho é delimitada pelo art. 114 da Constituição Federal, que estabelece a competência para processar e julgar as ações oriundas da relação de trabalho. Entretanto, a jurisprudência pátria consolidou o entendimento de que, quando a relação jurídica é estatutária ou decorre de vínculo administrativo, a competência desloca-se para a Justiça Comum. Nesse sentido, observa-se que o STF, no julgamento da ADI 3395, fixou a tese de que a Justiça do Trabalho não possui competência para julgar causas entre o Poder Público e seus servidores vinculados por regime estatutário.
+
+Ainda que o contrato mencione a CLT, a submissão do servidor às regras de regime jurídico único afasta a competência laboral. Como bem pontuado em decisões do Superior Tribunal de Justiça, a essência do vínculo administrativo prevalece sobre a forma contratual. No caso concreto, a função desempenhada era essencial à administração eleitoral, atraindo a incidência do art. 126 da Lei 8.112/90, que disciplina a cessão e a remuneração de servidores em exercício.
+
+A análise do Precedente TSE-2023-X99 reforça a necessidade de se observar a natureza do cargo para a fixação da competência. Não se pode ignorar que a Súmula 363 do STJ orienta a interpretação sobre a competência em casos de regime híbrido, priorizando a natureza da relação jurídica. Ademais, a doutrina administrativista contemporânea converge para a ideia de que o vínculo com a Administração Pública, quando exercido mediante provimento público, não se confunde com a relação de emprego privada.
+
+Diante do exposto, considerando que a controvérsia reside na interpretação de normas de direito administrativo e no cumprimento de deveres funcionais, a competência para julgar a demanda é da Justiça Comum. O deslocamento da competência é medida que se impõe para evitar nulidades processuais futuras. Portanto, voto no sentido de declarar a incompetência da Justiça do Trabalho e determinar a remessa dos autos ao juízo cível competente.
+
+Brasília, 14 de maio de 2024.
+
+Relator Ministro Aluisio Mendes.

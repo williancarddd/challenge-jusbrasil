@@ -1,0 +1,116 @@
+{
+  "documento_id": "gen_n1_010",
+  "citacoes": [
+    {
+      "inicio": 477,
+      "fim": 494,
+      "trecho": "REsp 6.989.916/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 933,
+      "fim": 949,
+      "trecho": "RHC nº\n88.033/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2566417138"
+      }
+    },
+    {
+      "inicio": 1124,
+      "fim": 1159,
+      "trecho": "jurisprudência\npacífica desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1612,
+      "fim": 1629,
+      "trecho": "Súmula 443 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1289711022"
+      }
+    },
+    {
+      "inicio": 1854,
+      "fim": 1866,
+      "trecho": "fls. 768/818",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2140,
+      "fim": 2172,
+      "trecho": "Recurso Especial nº 1.657.496/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2684945476"
+      }
+    },
+    {
+      "inicio": 2556,
+      "fim": 2588,
+      "trecho": "Recurso Especial nº 1.718.894/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3444970751"
+      }
+    },
+    {
+      "inicio": 2748,
+      "fim": 2777,
+      "trecho": "AgInt no REsp nº 1.944.552/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2549257337"
+      }
+    },
+    {
+      "inicio": 2918,
+      "fim": 2931,
+      "trecho": "Rcl 33.235/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3049,
+      "fim": 3107,
+      "trecho": "Agravo Interno no Agravo em Recurso Especial nº 1807643/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2107673016"
+      }
+    },
+    {
+      "inicio": 3235,
+      "fim": 3251,
+      "trecho": "Rcl nº 55.930/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

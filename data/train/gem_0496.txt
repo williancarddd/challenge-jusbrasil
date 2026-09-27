@@ -1,0 +1,22 @@
+TRIBUNAL SUPERIOR DO TRABALHO
+TERCEIRA TURMA
+
+VOTO
+
+Relator: Ministro Arnaldo Cavalcanti
+Data: 14 de maio de 2024
+Processo nº: AG-RR-1002345-67.2023.5.00.0000
+
+Trata-se de agravo de instrumento em recurso de revista interposto contra decisão regional que indeferiu a tutela de urgência pleiteada por empresa contratada da Administração Pública para a liberação imediata de créditos retidos sob a justificativa de irregularidades fiscais. A parte agravante sustenta a presença dos requisitos legais para a concessão da medida liminar, alegando risco de insolvência e a natureza alimentar das verbas retidas.
+
+Analisando os autos, verifico que a controvérsia reside na possibilidade de concessão de tutela de urgência para compelir o ente público a liberar pagamentos em contratos administrativos. É cediço que a concessão de tais medidas exige a demonstração concomitante da probabilidade do direito e do perigo de dano ou risco ao resultado útil do processo, nos moldes do artigo 300 do Código de Processo Civil. No caso em tela, a empresa demonstra que a retenção integral dos pagamentos inviabiliza a manutenção da folha de salários dos empregados, configurando o perigo da demora.
+
+Contudo, deve-se observar a supremacia do interesse público e as normas que regem a gestão de contratos públicos. A Administração Pública, ao efetuar retenções, muitas vezes fundamenta-se no princípio da legalidade administrativa, visando assegurar que a contratada esteja em dia com suas obrigações previdenciárias e trabalhistas. Todavia, a retenção indiscriminada que asfixia a operação da empresa contraria a finalidade do contrato. Nesse sentido, este Tribunal já decidiu no Processo TST-AG-2021-8899-X que a retenção não pode servir como sanção pecuniária transversa sem o devido processo legal.
+
+A jurisprudência desta Corte Superior caminha no sentido de que, comprovada a natureza alimentar das verbas e a iminência de falência da prestadora, a tutela de urgência é cabível, conforme se depreende do Julgado RR-12345-67.2022.5.02.0000. Ainda, é imperativo considerar que o artigo 47 da Lei 8.666/93 prevê a possibilidade de alteração contratual, mas não autoriza a retenção arbitrária de valores quando comprovada a regularidade parcial da empresa.
+
+A decisão recorrida, ao negar a liminar, ignorou a urgência contemporânea. Como bem salientado no Parecer Normativo TST-PN-2023-01, a proteção ao trabalhador, destinatário final do pagamento, deve prevalecer sobre formalismos administrativos excessivos. Ademais, a doutrina especializada em direito administrativo converge para a tese de que a retenção deve ser proporcional ao débito, e não total.
+
+Portanto, verificada a probabilidade do direito e o risco iminente, a reforma da decisão regional é medida que se impõe. Diante do exposto, voto por dar provimento ao agravo para deferir a tutela de urgência, determinando a liberação parcial dos valores retidos, condicionada à comprovação do pagamento dos salários dos empregados.
+
+É o voto.

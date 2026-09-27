@@ -1,0 +1,74 @@
+{
+  "documento_id": "gen_n1_006",
+  "citacoes": [
+    {
+      "inicio": 80,
+      "fim": 114,
+      "trecho": "Autos nº 9837893-96.2023.6.03.3586",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 200,
+      "fim": 217,
+      "trecho": "Protocolo nº 2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 505,
+      "fim": 536,
+      "trecho": "AgR-REspe 378-82.2016.6.05.0151",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "469077298"
+      }
+    },
+    {
+      "inicio": 657,
+      "fim": 709,
+      "trecho": "Recurso Especial Eleitoral nº 2137-73.2014.6.21.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "375394498"
+      }
+    },
+    {
+      "inicio": 1163,
+      "fim": 1194,
+      "trecho": "REspe 0600530-94.2020.6.26.0171",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1891499398"
+      }
+    },
+    {
+      "inicio": 1331,
+      "fim": 1342,
+      "trecho": "Rcl de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1818,
+      "fim": 1851,
+      "trecho": "art. 75 da Lei Complementar nº 64",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

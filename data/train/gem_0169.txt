@@ -1,0 +1,30 @@
+PODER JUDICIÁRIO
+TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO
+
+AGRAVO DE INSTRUMENTO Nº 5001234-56.2023.4.04.0000
+AGRAVANTE: INDÚSTRIA TÊXTIL DO SUL LTDA.
+AGRAVADO: UNIÃO FEDERAL (FAZENDA NACIONAL)
+RELATOR: DESEMBARGADOR FEDERAL RICARDO MENDES DE OLIVEIRA
+DATA DO JULGAMENTO: 15 de maio de 2024
+
+Vistos etc.
+
+Trata-se de agravo de instrumento interposto contra decisão interlocutória que indeferiu a exceção de pré-executividade arguindo a ocorrência de prescrição intercorrente em sede de execução fiscal. O agravante sustenta que o processo permaneceu paralisado por período superior a cinco anos sem a localização de bens penhoráveis, requerendo a extinção do crédito tributário.
+
+Compulsando os autos, verifica-se que a CDA foi inscrita em 2010, com a citação do executado ocorrendo em 2012. Contudo, após diversas tentativas infrutíferas de constrição patrimonial, o feito permaneceu sem movimentação útil entre 2015 e 2021. A questão central reside na aplicação do regime de prescrição intercorrente previsto no art. 40 da Lei nº 6.830/80.
+
+É cediço que a prescrição intercorrente ocorre quando a Fazenda Pública deixa de promover as diligências necessárias para a satisfação do crédito por prazo superior ao prazo de prescrição do próprio tributo. No caso em tela, a inércia do exequente é evidente, superando largamente o quinquênio legal. A jurisprudência consolidada do Superior Tribunal de Justiça, especificamente no REsp 1.340.515/MS, define que o prazo de prescrição intercorrente inicia-se automaticamente após um ano da ciência da tentativa frustrada de citação ou penhora.
+
+Observo que a tentativa de penhora via SisbaJud em 2015 restou negativa, e apenas em 2021 houve nova movimentação processual relevante. Portanto, operou-se a prescrição, conforme preceitua o art. 174 do Código Tributário Nacional. A tese da União de que a mera petição requerendo a suspensão do feito interromperia o prazo não prospera, pois a lei exige a efetiva constrição ou a citação válida.
+
+Nesse sentido, colaciono o entendimento do TRF4 no processo 5008899-11.2022.4.04.7000, que reforça a necessidade de movimentação útil para afastar a prescrição. A mera movimentação burocrática, sem a indicação de bens, não suspende o curso do prazo. Ainda, recordo que a Súmula 314 do STJ orienta a contagem do prazo a partir da data da inscrição em dívida ativa se não houver citação tempestiva.
+
+A análise do Manual de Procedimentos da PGFN indica que a gestão do crédito deve ser eficiente, não podendo o contribuinte suportar a perpetuidade de uma execução ineficiente. Aplica-se aqui a Norma Interna TRF4-VAR169, que orienta a celeridade no reconhecimento da prescrição em casos de inércia comprovada.
+
+Diante do exposto, com fundamento no art. 932, inciso V, do Código de Processo Civil, dou provimento ao recurso para acolher a exceção de pré-executividade e declarar a prescrição intercorrente do crédito tributário, extinguindo a execução fiscal com resolução de mérito.
+
+Intimem-se.
+
+Porto Alegre, 15 de maio de 2024.
+
+Desembargador Federal Ricardo Mendes de Oliveira

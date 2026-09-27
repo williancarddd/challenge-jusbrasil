@@ -1,0 +1,17 @@
+VOTO
+
+Relator: Min. Aurélio Valente. Data: 15 de outubro de 2023. Processo: AI 1.234.567.
+
+Trata-se de Agravo Instrumental interposto contra decisão que indeferiu pedido de tutela de urgência visando a suspensão de cláusula penal em contrato administrativo de obra pública, sob a alegação de desequilíbrio econômico-financeiro superveniente. A controvérsia reside na possibilidade de concessão de liminar para afastar sanções administrativas antes do trânsito em julgado da decisão meritória, considerando a natureza pública dos recursos envolvidos.
+
+No mérito, é cediço que a concessão de tutela de urgência exige a concomitância da probabilidade do direito e do perigo de dano. No caso dos contratos administrativos, a Administração Pública pauta-se pelo princípio da supremacia do interesse público, porém, tal prerrogativa não autoriza o enriquecimento sem causa do Estado ou a imposição de ônus excessivos ao contratado decorrentes de fatos imprevisíveis. A análise do pleito deve observar o disposto no art. 30 da Lei nº 13.105/2015, que disciplina a tutela de urgência no Código de Processo Civil.
+
+Observo que a parte agravante demonstrou a ocorrência de fatos extraordinários que impactaram severamente a execução do contrato. A jurisprudência desta Corte, especialmente no ARE 1.122.333, já consolidou o entendimento de que a manutenção rigorosa de cláusulas penais diante de eventos de força maior pode configurar abuso de direito. Ademais, é imperativo que se analise a aplicação do art. 124, inciso II, alínea d, da Lei nº 14.133/2021, que prevê a alteração dos contratos para restabelecer o equilíbrio econômico-financeiro inicial.
+
+Não se pode ignorar a orientação fixada no RE 987.654, onde se discutiu a modulação de sanções administrativas em face de crises sistêmicas. A decisão recorrida, ao negar a tutela, fundamentou-se na presunção de legitimidade dos atos administrativos. Contudo, tal presunção é relativa e cede diante de prova documental robusta de onerosidade excessiva. Nesse sentido, a doutrina administrativista contemporânea defende a flexibilização do rigor formal para evitar a paralisação de obras essenciais.
+
+A urgência é evidente, pois a execução imediata da multa comprometeria a saúde financeira da empresa, impedindo a conclusão do objeto contratual. Aplica-se aqui o entendimento do AgRg no AI 456.789, que admite a suspensão de penalidades quando demonstrado o risco de falência do executor. Reforço que o protocolo interno de governança G-99-X da própria Administração já previa a revisão de prazos, o que torna a negativa da tutela contraditória.
+
+Por fim, a jurisprudência do STJ corrobora a tese de que a tutela de urgência é instrumento idôneo para evitar danos irreparáveis em contratos públicos. Diante do exposto, voto pelo provimento do agravo para conceder a tutela de urgência, suspendendo a exigibilidade da cláusula penal até a decisão final.
+
+É como voto.

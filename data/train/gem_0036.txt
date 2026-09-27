@@ -1,0 +1,21 @@
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+AGRAVO INTERNO NO RECURSO ESPECIAL Nº 1.987.654/SP
+RELATOR: MINISTRO AURÉLIO VALADARES
+JULGADO EM: 15 DE MAIO DE 2024
+
+VOTO
+
+Trata-se de agravo interno interposto contra decisão monocrática que negou provimento a recurso especial, mantendo acórdão do Tribunal de Justiça de São Paulo que condenou o agente público por improbidade administrativa. O cerne da controvérsia reside na necessidade de demonstração do dolo específico para a configuração dos atos previstos na Lei de Improbidade Administrativa, especialmente após as alterações promovidas pela Lei nº 14.230/2021.
+
+O recorrente sustenta que a conduta imputada, consistente em erro na contratação de serviços de consultoria, não foi acompanhada da vontade consciente de lesionar o erário ou de obter vantagem indevida. Analisando os autos, verifica-se que a instância originária aplicou a norma de forma genérica, presumindo o dolo a partir da irregularidade formal do ato. Contudo, a nova sistemática jurídica exige a comprovação da intenção deliberada. Conforme preceitua o art. 1º, § 2º, da Lei nº 8.429/92, considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado na lei, não bastando a mera voluntariedade ou a culpa grave.
+
+Nesse sentido, a jurisprudência desta Corte Superior tem reiteradamente afastado a condenação quando a conduta do agente decorre de inabilidade administrativa ou interpretação equivocada da norma. É imperativo observar o que foi decidido no REsp nº 1.820.300/DF, onde se sedimentou a impossibilidade de punição por improbidade baseada em culpa, ainda que grave. A distinção entre o erro administrativo e o ato ímprobo é fundamental para a preservação da eficiência da gestão pública, evitando-se o chamado "apagão das canetas".
+
+A análise do caso concreto revela que não houve prova cabal do intuito malicioso. O recorrente agiu sob a égide de pareceres técnicos, o que afasta a tipicidade da conduta. Como já mencionado em outros precedentes do STJ, a boa-fé do administrador deve ser presumida até a prova robusta do contrário. A aplicação da norma deve observar a Súmula nº 45 do STJ no que tange à razoabilidade das sanções, embora aqui a discussão seja a própria existência do elemento subjetivo.
+
+Ademais, a doutrina especializada, exemplificada no Tratado de Improbidade de Silva & Souza (Ed. Jurídica, 2023), reforça que a tipicidade subjetiva é elemento indissociável da sanção. A ausência de dolo específico torna a conduta atípica para fins de improbidade, podendo, eventualmente, ser enquadrada como mera irregularidade administrativa. Assim, verifico a procedência do recurso para anular a sentença condenatória, alinhando-se ao entendimento exposto no AgInt no AREsp nº 1.554.321/RJ.
+
+Ante o exposto, dou provimento ao agravo interno para reformar a decisão recorrida e julgar improcedente a ação de improbidade, diante da inexistência de dolo específico.
+
+Acordam os Ministros do Superior Tribunal de Justiça, por unanimidade, no sentido do voto do Relator.

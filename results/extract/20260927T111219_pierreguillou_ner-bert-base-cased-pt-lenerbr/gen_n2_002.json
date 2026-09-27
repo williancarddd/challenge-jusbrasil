@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n2_002",
+  "citacoes": [
+    {
+      "inicio": 668,
+      "fim": 700,
+      "trecho": "o acórdão do STJ julgado em 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1225,
+      "fim": 1242,
+      "trecho": "5úmula 211 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1316,
+      "fim": 1353,
+      "trecho": "a orientação dos tribunais superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1399,
+      "fim": 1441,
+      "trecho": "Rcl de 2022, Rel. Min. Alexandre De Moraes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

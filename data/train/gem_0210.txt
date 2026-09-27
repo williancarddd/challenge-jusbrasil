@@ -1,0 +1,20 @@
+TRIBUNAL SUPERIOR DO TRABALHO
+GABINETE DO MINISTRO RELATOR
+
+HABEAS CORPUS Nº 12345-67.2024.5.00.0000
+RELATOR: MINISTRO AURÉLIO MONTES
+DATA: 15 DE MAIO DE 2024
+
+Vistos, relatados e discutidos estes autos. Trata-se de paciente impetrado contra decisão do Tribunal Regional do Trabalho que converteu a medida cautelar em prisão preventiva em sede de execução fiscal trabalhista, sob a alegação de risco à aplicação da lei penal e ocultação de patrimônio. O impetrante sustenta a ausência de fundamentação idônea para a segregação cautelar, alegando que a prisão preventiva não pode ser utilizada como mecanismo de coerção para pagamento de débitos trabalhistas, ferindo a liberdade de locomoção.
+
+Analiso a questão sob a ótica da legalidade e da proporcionalidade. A prisão preventiva, nos moldes do art. 312 do Código de Processo Penal, exige a demonstração concreta do *periculum libertatis*. No presente caso, observa-se que a decisão recorrida baseou-se genericamente na gravidade da conduta, sem apontar fatos novos ou contemporâneos que justificassem a medida extrema. É cediço que o STF, no HC 123.456, já sedimentou a impossibilidade de prisão civil por dívida, salvo a obrigação alimentar, o que deve ser interpretado analogamente quando a medida cautelar penal for desviada para fins de cobrança executória.
+
+A medida extrema deve observar o disposto no art. 282 do CPP, priorizando-se as medidas cautelares diversas da prisão. No entanto, o juízo de origem limitou-se a aplicar a doutrina da cautelaridade penal de forma indiscriminada, ignorando a primariedade do paciente. Ademais, a jurisprudência desta Corte, conforme se verifica no RR-8899-10.2022.5.00.0000, veda a utilização de prisões preventivas quando a instrução processual já foi encerrada sem a demonstração de risco real à ordem pública.
+
+Ressalte-se que a norma do Pacto de San José da Costa Rica protege a liberdade individual contra prisões arbitrárias, princípio este que deve nortear a interpretação do Protocolo Interno de Garantias Judiciais PIG-2023-TST. A manutenção da custódia, nestas circunstâncias, configura constrangimento ilegal, vez que a execução de crédito trabalhista possui ritos próprios de expropriação patrimonial, não admitindo a segregação do devedor como via de pressão.
+
+Diante do exposto, considerando a ausência de fundamentação concreta e a violação aos preceitos da razoabilidade, concedo a ordem para revogar a prisão preventiva do paciente, determinando a expedição imediata do alvará de soltura.
+
+Decido monocraticamente. Intimem-se.
+
+Ministro Aurélio Montes

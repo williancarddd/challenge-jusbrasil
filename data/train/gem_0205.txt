@@ -1,0 +1,15 @@
+VOTO DO RELATOR
+
+RELATOR: Ministro Arnaldo de Souza
+DATA: 14 de maio de 2024
+PROCESSO: Agravo Regimental nº 45.892-X
+
+Trata-se de agravo regimental interposto contra decisão monocrática que versou sobre a submissão de créditos trabalhistas ao plano de recuperação judicial de empresa vinculada à administração militar. A questão central reside na natureza do crédito e na competência do juízo recuperacional para a sua novação. Inicialmente, cumpre destacar que a recuperação judicial visa a preservação da empresa e a manutenção da fonte produtora de empregos, princípio este consagrado na Lei nº 11.101/2005, art. 47. No caso em tela, a insurgência do agravante baseia-se na tese de que a natureza alimentar do crédito trabalhista impediria a sua sujeição aos prazos e descontos previstos no plano aprovado. Todavia, a jurisprudência pátria consolidou o entendimento de que, uma vez homologado o plano, a competência para a execução dos créditos sujeitos à recuperação é do juízo universal.
+
+Nesse sentido, observa-se a aplicação do entendimento firmado no REsp nº 1.234.567/SP, que reforça a necessidade de observância da ordem de preferência legal, mas sem afastar a eficácia do plano de recuperação. A tentativa de excluir créditos trabalhistas da submissão ao plano configuraria a chamada execução individual transversa, o que é vedado pelo sistema jurídico vigente. É imperativo observar que a Lei nº 11.101/2005, art. 6º determina a suspensão das execuções contra a recuperanda. Ademais, a análise do Habeas Corpus nº 88.123/DF demonstra que a proteção ao trabalhador deve ser harmonizada com a viabilidade econômica da entidade, sob pena de aniquilação do ente empregador.
+
+A tese do recorrente, fundamentada em menções doutrinárias sobre a impenhorabilidade de verbas alimentares, embora louvável, não encontra amparo quando confrontada com a Súmula nº 441 do STJ, que disciplina a competência para a liquidação do crédito. Ainda que se trate de crédito trabalhista, a sua classificação como crédito concursal implica a submissão às regras da recuperação. Reforço tal posicionamento citando o Acórdão Interno STM-2023-XYZ-01, que decidiu por unanimidade a impossibilidade de desvio da competência do juízo recuperacional em casos análogos.
+
+Diante do exposto, verifica-se que a decisão monocrática não merece reparos, pois aplicou corretamente a Lei nº 11.101/2005, art. 84, no que tange à novação dos créditos. A pretensão de execução imediata, ignorando o plano de recuperação, contraria a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria. Portanto, voto no sentido de negar provimento ao recurso, mantendo a decisão agravada em sua integralidade, por ser medida de rigorosa justiça e conformidade legal.
+
+É como voto.

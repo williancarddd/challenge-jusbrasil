@@ -1,0 +1,68 @@
+{
+  "documento_id": "gen_n2_008_aug07",
+  "citacoes": [
+    {
+      "inicio": 292,
+      "fim": 331,
+      "trecho": "lei que disciplina a prescrição no caso",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 862,
+      "fim": 897,
+      "trecho": "Recurso Especial n°  2.467-\n.648-RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1424,
+      "fim": 1468,
+      "trecho": "orientação\njurisprudencial da Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1611,
+      "fim": 1645,
+      "trecho": "EDcl no AgInt no ARESP 1980827/ RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2172,
+      "fim": 2188,
+      "trecho": "RCL nº 99.942-BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2990,
+      "fim": 3039,
+      "trecho": "artigo correspondente\ndo Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3110,
+      "fim": 3137,
+      "trecho": "AgRg no H.C. Nº 891369 (RS)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

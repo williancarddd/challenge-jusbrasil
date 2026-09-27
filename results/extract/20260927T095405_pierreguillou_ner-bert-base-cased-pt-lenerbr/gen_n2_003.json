@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n2_003",
+  "citacoes": [
+    {
+      "inicio": 67,
+      "fim": 104,
+      "trecho": "Processo nº 8133385-26.2020.5.05.4913",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 736,
+      "fim": 789,
+      "trecho": "Processo n° TST- ED - E-ED-RR-41200-79.2011.5.21.0005",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1289,
+      "fim": 1314,
+      "trecho": "RR-1835-06.2010.5.15.0042",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1745,
+      "trecho": "RE. nº 3.647.129-RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

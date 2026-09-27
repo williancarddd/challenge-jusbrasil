@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n1_002",
+  "citacoes": [
+    {
+      "inicio": 651,
+      "fim": 709,
+      "trecho": "precedente\ndo STF de 2026, da relatoria de CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 845,
+      "fim": 898,
+      "trecho": "Reclamação\ndo STF, de 2025, Rel. Min. CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2750,
+      "fim": 2753,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2805,
+      "fim": 2808,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

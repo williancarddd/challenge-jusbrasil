@@ -1,0 +1,70 @@
+{
+  "documento_id": "gen_n1_013",
+  "citacoes": [
+    {
+      "inicio": 574,
+      "fim": 602,
+      "trecho": "Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1064,
+      "trecho": "Reclamação nº 22.225/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1532,
+      "trecho": "precedente firmado em sede de recurso repetitivo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1676,
+      "trecho": "art. 1º, I, 'g', da Lei Complementar nº 64/1990",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "11304039"
+      }
+    },
+    {
+      "inicio": 2120,
+      "fim": 2183,
+      "trecho": "TSE proferido em 2016 pela relatoria de HENRIQUE NEVES DA SILVA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2305,
+      "fim": 2336,
+      "trecho": "julgamento\nda Súmula 168 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2532,
+      "fim": 2603,
+      "trecho": "Agravo Regimental no Agravo de Instrumento nº 0606252-11.2018.6.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

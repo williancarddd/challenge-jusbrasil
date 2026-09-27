@@ -1,0 +1,50 @@
+{
+  "documento_id": "gen_n1_013",
+  "citacoes": [
+    {
+      "inicio": 1041,
+      "fim": 1064,
+      "trecho": "Reclamação nº 22.225/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1676,
+      "trecho": "art. 1º, I, 'g', da Lei Complementar nº 64/1990",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2160,
+      "fim": 2183,
+      "trecho": "HENRIQUE NEVES DA SILVA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2336,
+      "trecho": "Súmula 168 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2532,
+      "fim": 2603,
+      "trecho": "Agravo Regimental no Agravo de Instrumento nº 0606252-11.2018.6.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

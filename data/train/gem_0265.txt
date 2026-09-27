@@ -1,0 +1,15 @@
+VOTO
+
+Relator: Desembargador Federal Ricardo Augusto de Souza. Data: 14 de maio de 2024. Processo nº 5001234-56.2023.4.04.7000.
+
+Trata-se de agravo de instrumento interposto contra decisão interlocutória que indeferiu o pedido de tutela de urgência visando a suspensão da execução de cláusula penal em contrato administrativo de fornecimento de software. A parte agravante alega a ocorrência de fato superveniente que impossibilitou o cumprimento do cronograma, sustentando a necessidade de preservação da empresa diante da iminência de sanções pecuniárias gravosas.
+
+Para a concessão da tutela de urgência, é imperativo o preenchimento concomitante dos requisitos previstos no artigo 300 do Código de Processo Civil, quais sejam, a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. No caso em tela, a recorrente fundamenta sua pretensão na teoria da imprevisão, buscando a revisão do contrato administrativo. Contudo, a análise perfunctória dos autos revela que a alegada impossibilidade técnica decorreu de má gestão interna da contratada, não se configurando como evento extraordinário ou imprevisível.
+
+O interesse público deve prevalecer nas contratações públicas, observando-se a Lei nº 14.133/2021 como norteador da relação jurídica. A administração pública, ao aplicar sanções, exerce seu poder potestativo, desde que assegurado o contraditório. No presente cenário, a jurisprudência do Tribunal Regional Federal da 4ª Região orienta que a suspensão de penalidades contratuais exige prova inequívoca de ilegalidade flagrante, o que não se verifica nesta fase processual.
+
+Nesse sentido, colaciono o entendimento exarado no Agravo de Instrumento nº 5012345-67.2022.4.04.0000, onde se decidiu que a mera alegação de dificuldade financeira não autoriza a suspensão da execução de multas administrativas. Ademais, a Súmula 473 do STF permite à administração anular seus próprios atos quando eivados de vícios, mas a revisão de prazos contratuais exige a comprovação de fatos supervenientes, conforme preceitua a Lei nº 8.666/1993.
+
+A urgência alegada não se sustenta, pois a multa prevista no contrato é consectário lógico do inadimplemento. A aplicação do Protocolo de Gestão de Riscos Contratuais TRF4-2023-X indica que a cautelar deve ser rigorosa quando envolver verbas públicas. Não há, portanto, a verossimilhança necessária para afastar a eficácia da decisão de primeiro grau.
+
+Diante do exposto, ausentes os pressupostos legais para a concessão da medida liminar, voto no sentido de negar provimento ao recurso, mantendo a decisão agravada em sua integralidade. É como voto.

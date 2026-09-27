@@ -210,15 +210,28 @@ def descarregar_llm(llm: Any) -> None:
     time.sleep(8)
 
 
+def _lora_request() -> Any:
+    caminho = os.environ.get("LORA_PATH", "").strip()
+    if not caminho:
+        return None
+    from vllm.lora.request import LoRARequest
+
+    return LoRARequest("distil", 1, caminho)
+
+
 def chat_lotes(llm: Any, sampling: Any, mensagens: list[list[dict[str, str]]], batch_size: int) -> list[str]:
     if batch_size < 1:
         raise ValueError("batch_size deve ser positivo")
     brutos: list[str] = []
     total = (len(mensagens) + batch_size - 1) // batch_size if mensagens else 0
+    pedido = _lora_request()
     for numero, inicio in enumerate(range(0, len(mensagens), batch_size), start=1):
         lote = mensagens[inicio : inicio + batch_size]
         print(f"chat lote {numero}/{total} n={len(lote)}", flush=True)
-        saidas = llm.chat(lote, sampling_params=sampling, use_tqdm=False)
+        kwargs: dict[str, Any] = {"sampling_params": sampling, "use_tqdm": False}
+        if pedido is not None:
+            kwargs["lora_request"] = pedido
+        saidas = llm.chat(lote, **kwargs)
         brutos.extend(item.outputs[0].text for item in saidas)
     return brutos
 
@@ -300,11 +313,12 @@ def extrair(
     txt_dir: Path = TXT_DIR,
     results_dir: Path = EXTRACT_DIR,
     batch_size: int = INFER_BATCH_SIZE,
+    documentos: list[tuple[str, str]] | None = None,
 ) -> list[Path]:
     os.environ.setdefault("VLLM_USE_FLASHINFER_SAMPLER", "0")
     from vllm import LLM, SamplingParams
 
-    documentos = carregar_documentos(txt_dir)
+    documentos = documentos if documentos is not None else carregar_documentos(txt_dir)
     if not documentos:
         raise SystemExit(f"nenhum documento em {txt_dir}")
     catalogo = modelos if modelos is not None else MODELS

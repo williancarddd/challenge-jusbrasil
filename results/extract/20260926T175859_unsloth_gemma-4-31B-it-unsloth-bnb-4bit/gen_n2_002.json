@@ -1,0 +1,77 @@
+{
+  "documento_id": "gen_n2_002",
+  "citacoes": [
+    {
+      "inicio": 668,
+      "fim": 736,
+      "trecho": "o acórdão do STJ julgado em 2021 sob relatoria de Assusete Magalhães",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1225,
+      "fim": 1242,
+      "trecho": "5úmula 211 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1318,
+      "fim": 1353,
+      "trecho": "orientação dos tribunais superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1399,
+      "fim": 1441,
+      "trecho": "Rcl de 2022, Rel. Min. Alexandre De Moraes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1901,
+      "fim": 1970,
+      "trecho": "julgado do STJ proferido em\n2023 pela relatoria de Assusete Magãlhães",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2508,
+      "fim": 2529,
+      "trecho": "AgREsp Nº  84690 - MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2995,
+      "fim": 3038,
+      "trecho": "artigo 93, IX, da Constituição\nda República",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3202,
+      "fim": 3229,
+      "trecho": "Rec. Esp. No 1.880.529\n- SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

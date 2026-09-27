@@ -1,0 +1,90 @@
+{
+  "documento_id": "gen_n2_011",
+  "citacoes": [
+    {
+      "inicio": 671,
+      "fim": 687,
+      "trecho": "SÚMULA 83 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 802,
+      "fim": 821,
+      "trecho": "ARESP No 2178783/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 968,
+      "fim": 988,
+      "trecho": "RESP n. 1 307 026/BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3580782436"
+      }
+    },
+    {
+      "inicio": 1120,
+      "fim": 1151,
+      "trecho": "Temã 2.680 da repercussão geral",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1270,
+      "fim": 1289,
+      "trecho": "Recl. n° 6G.838/ BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1871,
+      "fim": 1888,
+      "trecho": "Súmula 928 do\nSTF",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2313,
+      "fim": 2362,
+      "trecho": "EDcl no AgInt no Recurso Especial Nº 170076O (SP)",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "5900603362"
+      }
+    },
+    {
+      "inicio": 2473,
+      "fim": 2517,
+      "trecho": "AgInt nos EDcl no Rec. Esp. n°\n 2.050.950-RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2934,
+      "fim": 2972,
+      "trecho": "art. 1.105 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

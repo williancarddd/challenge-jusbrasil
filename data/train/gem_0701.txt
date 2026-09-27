@@ -1,0 +1,19 @@
+TRIBUNAL SUPERIOR DO TRABALHO
+Gabinete do Desembargador Relator Dr. Alisson Monteverde
+
+Vistos, relatados e discutidos estes autos de Agravo de Instrumento em Recurso de Revista, interposto em 12 de maio de 2023, sob o registro n. 1000892-44.2023.5.02.0001. O recorrente busca a reforma do acórdão regional que indeferiu o reconhecimento da atividade especial para fins de aposentadoria, sob a alegação de que a exposição a agentes nocivos era intermitente. No mérito, a controvérsia reside na análise da eficácia do equipamento de proteção individual e na natureza da exposição ao ruído excessivo.
+
+Compulsando os autos, verifico que a decisão recorrida fundamentou-se na ausência de prova robusta acerca da habitualidade da exposição, aplicando o entendimento de que a proteção eficaz afasta o direito ao benefício. Ocorre que, conforme art. 189 da CLT, a atividade insalubre é aquela que, por sua natureza, expõe os trabalhadores a agentes nocivos à saúde, acima dos limites de tolerância fixados. No caso em tela, o laudo pericial acostilado às folhas 112 demonstra a permanência do agente ruído acima de 85 dB(A), o que atrai a incidência do Decreto 3.048/99, art. 68.
+
+A jurisprudência desta Corte Superior é pacífica ao asseverar que o fornecimento de EPIs não neutraliza automaticamente a nocividade do agente ruído, dada a impossibilidade de anulação total da vibração sonora. Nesse sentido, colaciono a decisão proferida no RR-12345-67.2021.5.00.0000, onde se decidiu que a proteção auricular não retira a natureza especial da atividade. Ademais, a análise do Túmulo-TST-X92-2024 reforça a necessidade de reconhecimento do tempo especial quando a prova técnica indica a ineficácia da mitigação.
+
+Observo que a parte recorrente fundamentou seu pedido em preceitos da Lei 8.213/91, argumentando que a intermitência não afasta o direito ao benefício, tese acolhida por este Relator. A interpretação sistemática do Regulamento da Previdência Social conduz à conclusão de que a exposição a agentes químicos e físicos, ainda que não contínua, mas habitual, gera o direito à contagem diferenciada. Tal entendimento converge com o julgado Ag-AIRR-55443-22.2022.5.04.0000, que privilegia a proteção ao trabalhador exposto a riscos ambientais.
+
+Diante do exposto, e considerando que a matéria é puramente jurídica e comporta a aplicação de tese jurídica uniforme, dou provimento ao agravo para determinar que o Tribunal Regional do Trabalho reanalise a prova técnica à luz da irrelevância da intermitência para a caracterização da especialidade.
+
+ISTO POSTO, decido monocraticamente por dar provimento ao recurso, determinando o retorno dos autos à origem.
+
+Brasília, 14 de agosto de 2024.
+
+Desembargador Alisson Monteverde
+Relator

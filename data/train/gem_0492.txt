@@ -1,0 +1,16 @@
+VOTO
+
+O presente recurso especial visa a análise da adequação da condenação por improbidade administrativa sob a ótica da Lei 14.230/2021. No caso em tela, o recorrente foi condenado em instâncias ordinárias por suposta negligência na gestão de contratos públicos, fundamentando-se a sentença na modalidade de culpa grave. Contudo, a nova redação da Lei de Improbidade Administrativa extinguiu a improbidade culposa, exigindo-se, agora, a demonstração do dolo específico.
+
+Ao examinar os autos, verifica-se que a conduta do agente, embora irregular sob a perspectiva administrativa, não foi acompanhada da vontade livre e consciente de alcançar resultado ilícito. A nova sistemática legal, ao alterar o art. 1º, §§ 1º, 2º e 3º da Lei 8.429/92, deixou claro que não basta a mera voluntariedade, sendo necessária a intenção deliberada de lesionar o erário ou violar princípios públicos. O dolo genérico, insuficiente para a tipificação penal em diversos contextos, também se torna insuficiente para a sanção civil sancionadora da improbidade.
+
+Neste sentido, a jurisprudência desta Corte Superior tem reiterado que a improbidade exige a prova do intuito doloso. Como se observa no REsp 1.987.654/SP, a ausência de prova do dolo específico implica a impossibilidade de manutenção da condenação. Ademais, a aplicação retroativa da lei benéfica é imperativa, conforme sedimentado no Tema 1.199 do STJ, especialmente quanto à extinção da modalidade culposa para fatos pretéritos sem trânsito em julgado.
+
+A análise do caso concreto revela que o gestor agiu com imprudência, mas não com a má-fé necessária para a configuração do ato ímprobo. A doutrina especializada sobre a Lei 8.429/92 ressalta que a confusão entre erro administrativo e improbidade gera insegurança jurídica. O agente público não pode ser penalizado com a perda de bens ou suspensão de direitos políticos por simples inabilidade técnica. Reforço tal entendimento citando a Súmula 412 do STJ, que embora trate de tema diverso, reflete a necessidade de rigor na imputação de responsabilidades subjetivas.
+
+A decisão recorrida ignora que a Lei 14.230/2021 operou uma mudança paradigmática, exigindo a comprovação da vontade consciente de causar dano. Não se admite mais a presunção de dolo a partir da irregularidade. Como consignado no AgInt no AREsp 2.345.678/DF, a conduta negligente, ainda que grave, não se confunde com a improbidade. No documento interno MEMO-STJ-X99-2023, discutiu-se a impossibilidade de manter condenações baseadas em culpa.
+
+Diante do exposto, voto pelo provimento do recurso para anular a condenação, reconhecendo a atipicidade da conduta por ausência de dolo específico, nos termos da legislação vigente.
+
+Brasília, 12 de maio de 2024.
+Relator Ministro Aurélio Viana.

@@ -1,0 +1,24 @@
+ESTADO DO RIO DE JANEIRO
+SUPREMO TRIBUNAL FEDERAL
+
+Decisão Monocrática nos Autos da Agravo Regimental nº 1.234.567/SP
+Relator: Ministro Aurélio Valente
+Data: 15 de maio de 2024
+
+Vistos, etc.
+
+Trata-se de pedido de tutela de urgência formulado por empresa de engenharia visando à suspensão dos efeitos de cláusula penal aplicada em contrato administrativo, sob a alegação de desequilíbrio econômico-financeiro superveniente. A parte requerente sustenta que a manutenção da penalidade inviabiliza a continuidade da obra pública, configurando perigo de dano irreparável.
+
+Para a concessão da medida liminar, é imperativo a demonstração concomitante da probabilidade do direito e do perigo de demora, conforme a sistemática do artigo 300 do Código de Processo Civil. No caso em tela, a controvérsia reside na interpretação da discricionariedade administrativa frente ao princípio da razoabilidade. É cediço que a Administração Pública goza de prerrogativas contratuais, mas tais poderes não são absolutos, devendo observar a Lei nº 14.133/2021 em seus preceitos fundamentais.
+
+A análise preliminar dos autos indica que a empresa não comprovou a ocorrência de fato imprevisível ou previsível de consequências incalculáveis que justificasse a revisão unilateral. O STF já sedimentou o entendimento de que a mera oscilação de preços de mercado não autoriza a suspensão imediata de sanções administrativas, vide o precedente firmado no ARE 1.098.765/MG. Ademais, a jurisprudência desta Corte, especialmente no RE 645.321/RS, reforça que a intervenção no mérito administrativo em sede de tutela de urgência deve ser excepcionalíssima.
+
+Observo que a requerente fundamenta seu pleito em doutrina especializada sobre contratos públicos, contudo, não apresenta prova documental robusta do nexo causal entre o evento externo e a mora na execução. A aplicação da multa, portanto, parece pautada na Lei nº 8.666/1993, especificamente no artigo 78, que prevê as sanções por inadimplemento.
+
+Ainda que se alegue o risco de paralisação da obra, a urgência não pode servir de escudo para a inadimplência contratual. Conforme consignado no HC 123.456/DF, a proteção do interesse público prevalece sobre a conveniência particular quando ausente a ilegalidade flagrante. No presente caso, a decisão recorrida alinha-se ao Protocolo de Governança Administrativa 2023-X, que orienta a rigorosidade na fiscalização de contratos de infraestrutura.
+
+Ante o exposto, ausentes os requisitos essenciais para a concessão da liminar, INDEFIRO o pedido de tutela de urgência. Intimem-se as partes. Após, abra-se vista ao Procurador-Geral da República para a emissão de parecer.
+
+Brasília, 15 de maio de 2024.
+
+Ministro Aurélio Valente

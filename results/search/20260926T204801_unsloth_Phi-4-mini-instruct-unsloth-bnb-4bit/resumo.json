@@ -1,0 +1,37 @@
+{
+  "name": "unsloth/Phi-4-mini-instruct-unsloth-bnb-4bit",
+  "role": "student",
+  "family": "Phi",
+  "parameters": "3.8B",
+  "slug": "unsloth_Phi-4-mini-instruct-unsloth-bnb-4bit",
+  "extract": "/exp/william/challenge-jusbrasil/results/extract/20260926T202633_unsloth_Phi-4-mini-instruct-unsloth-bnb-4bit",
+  "avaliacao": {
+    "score_final": 0.012121212121212121,
+    "niveis": {
+      "1": {
+        "macro_f1": 0.03636363636363636,
+        "f1_por_classe": {
+          "real": 0.10909090909090909,
+          "inventada": 0.0,
+          "incompleta": 0.0
+        },
+        "tau": 0.0,
+        "s": 0.03636363636363636,
+        "b": 0.0,
+        "score": 0.03636363636363636
+      },
+      "2": {
+        "macro_f1": 0.0,
+        "f1_por_classe": {
+          "real": 0.0,
+          "inventada": 0.0,
+          "incompleta": 0.0
+        },
+        "tau": 0.0,
+        "s": 0.0,
+        "b": 0.0,
+        "score": 0.0
+      }
+    }
+  }
+}

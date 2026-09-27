@@ -1,0 +1,18 @@
+PODER JUDICIÁRIO
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL Nº 1.842.901 - SP (2023/004567-8)
+
+ACÓRDÃO
+
+Votou o Ministro Relator Dr. Aurélio Mendes, em 14 de maio de 2024.
+
+Relatório e Voto: Trata-se de agravo interno interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo o acórdão do Tribunal de Justiça de São Paulo sobre a competência para a homologação de acordos em recuperação judicial envolvendo créditos trabalhistas. A parte agravante sustenta que a competência para a homologação de tais acordos seria exclusiva do juízo recuperacional, visando a preservação da empresa e a paridade entre os credores. No entanto, a análise detida dos autos revela que a competência da Justiça do Trabalho para a execução de créditos trabalhistas é matéria pacificada, sendo que a intervenção do juízo da recuperação ocorre apenas para a homologação do valor do crédito e a posterior inclusão no quadro geral.
+
+O cerne da questão reside na interpretação da Lei nº 11.101/2005, art. 6º , que define a competência do juízo da recuperação judicial. Todavia, é cediço que a competência da Justiça do Trabalho para a liquidação de sentenças é absoluta, conforme se depreende da Consolidação das Leis do Trabalho . A jurisprudência desta Corte Superior é reiterada no sentido de que a competência do juízo recuperacional limita-se à fiscalização da legalidade do plano e à homologação do crédito, sem interferir na fase de conhecimento ou liquidação trabalhista. Nesse sentido, observa-se o entendimento firmado no REsp nº 1.567.890/RJ , onde se reafirmou que a execução de créditos trabalhistas não se submete ao juízo da recuperação até a efetiva liquidação do valor.
+
+Ademais, a tese de que o juízo da recuperação poderia anular atos executórios da Justiça do Trabalho encontra óbice na Constituição Federal, art. 114 , que delimita a competência da Justiça do Trabalho. A tentativa de transferir a homologação de acordos trabalhistas para o juízo cível fere a autonomia jurisdicional. Como bem salientado no AgInt no AREsp nº 1.234.567/MG , a intervenção do juízo recuperacional deve ocorrer apenas após a fixação do quantum debeatur. Reforça-se tal posicionamento ao citar a Súmula 449 do TST , que orienta a condução dos processos trabalhistas. 
+
+No caso concreto, a decisão recorrida aplicou corretamente a norma ao determinar que a homologação do acordo trabalhista ocorra perante o juízo laboral, independentemente da tramitação da recuperação judicial. A alegação de que tal medida prejudica a viabilidade da empresa não encontra amparo legal, pois a Lei de Recuperação de Empresas e Falências  não outorga poderes para anular a competência constitucional da Justiça do Trabalho. Por fim, aplica-se o entendimento do Processo Interno STJ-8821-X  sobre a natureza híbrida da competência em casos de insolvência. Diante do exposto, nego provimento ao agravo interno, mantendo a decisão monocrática por seus próprios fundamentos.
+
+Acordam os Ministros do Superior Tribunal de Justiça, por unanimidade, em negar provimento ao recurso.

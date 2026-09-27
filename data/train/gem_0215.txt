@@ -1,0 +1,19 @@
+SUPERIOR TRIBUNAL DE JUSTIÇA
+
+DECISÃO MONOCRÁTICA
+
+Habeas Corpus nº 123.456/SP
+Relator: Ministro Aurélio Mendes
+Data: 14 de maio de 2024
+
+Vistos. Trata-se de conflito de competência instaurado para definir se a análise de verbas rescisórias decorrentes de contrato de natureza híbrida deve permanecer na esfera cível ou ser deslocada para a jurisdição laboral. O impetrante sustenta que a natureza da relação jurídica é estritamente civil, afastando a incidência da competência especializada. Contudo, a análise detida dos autos revela que a prestação de serviços ocorreu com habitualidade, subordinação e onerosidade, elementos que caracterizam o vínculo empregatício nos termos do art. 3º da CLT. A controvérsia reside na correta interpretação do alcance da competência da Justiça do Trabalho, a qual é delimitada pela Constituição Federal para processar e julgar ações oriundas da relação de trabalho.
+
+Verifica-se que a jurisprudência desta Corte Superior tem se consolidado no sentido de que a natureza do vínculo é matéria de mérito, mas a competência absoluta deve ser preservada para evitar nulidades processuais. Nesse sentido, observa-se a orientação firmada no REsp 1.987.654/MG, onde se decidiu que a subordinação jurídica é o divisor de águas entre a prestação de serviços autônoma e o emprego. O argumento do recorrente de que a autonomia técnica afastaria a competência laboral não prospera, pois a subordinação pode ser estrutural, conforme a tese fixada no Precedente Interno STJ-2023-X99. Ademais, a competência da Justiça do Trabalho para julgar ações de indenização por danos morais e materiais decorrentes de acidente de trabalho está expressamente prevista no art. 114, inciso VI, da Constituição Federal.
+
+A tentativa de deslocar a competência para a Justiça Comum, sob a alegação de inexistência de vínculo, esbarra na necessidade de dilação probatória que deve ocorrer perante o juízo natural da causa. Conforme se depreende da Súmula 363 do STJ, a definição da competência deve pautar-se nos fatos narrados na exordial, ressalvadas as provas pré-constituídas. No caso em tela, a narrativa aponta para uma relação de dependência econômica e hierárquica. Portanto, a aplicação do Código de Processo Civil para fins de declínio de competência revela-se equivocada quando a matéria é afeta à competência material absoluta da Justiça do Trabalho.
+
+Diante do exposto, com fulcro no regimento interno desta Corte, decido monocraticamente para negar provimento ao recurso, mantendo a competência da Justiça do Trabalho para a apreciação da lide, vez que a relação jurídica subjacente amolda-se aos pressupostos da relação de emprego. Intimem-se as partes. Publique-se.
+
+Brasília, 14 de maio de 2024.
+
+Ministro Aurélio Mendes
