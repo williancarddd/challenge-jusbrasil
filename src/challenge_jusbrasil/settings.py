@@ -10,9 +10,6 @@ RESULTS_DIR = ROOT / "results"
 
 INFER_BATCH_SIZE = 1000
 BUSCA = "regex"
-GLINER_MODEL = "fastino/gliner2.5-multi-v1"
-GLINER_LIMIAR = 0.5
-GLINER_LIMIAR_PROCESSO = 0.7
 MAX_MODEL_LEN = 8192
 CHUNK_OVERLAP = 200
 CHARS_PER_TOKEN = 2
@@ -97,21 +94,19 @@ for _model in MODELS:
 
 TEACHER: dict[str, Any] = dict(next(m for m in MODELS if m["role"] == "teacher"))
 
-SYSTEM_PROMPT = """You extract legal citations from a Brazilian judicial document.
+SYSTEM_PROMPT = """You extract legal citations in a Brazilian judicial document.
 
-Return the same text and wrap each citation in a bare tag:
+Return the same text, without changing any character, and mark each citation with <start> and <end>.
+Do not return JSON. Do not return a confidence score. Do not classify the citation. Do not output an id. Do not write anything outside the marked text.
+
+Mark each citation with a bare tag. Do not set attributes on the tag.
 <start>exact span<end>
-Do not return JSON, a confidence score, a class, or an id. Do not write anything outside the marked text. One citation per span. Spans must not overlap. If there is no citation, return the text with no tags.
 
-A citation names one specific source:
-- a case, statute article, súmula, or theme of general repercussion;
-- a judgment with no case number, when the year and the rapporteur identify it.
-
-Copy the span as printed, including scan errors, broken numbers, odd abbreviations, accents, and spacing. Do not correct or expand it. Keep a line break that falls inside the span.
-
-The span is only the reference. Start at its first word, including an appeal prefix such as "AgRg no" or "AgInt no". Continue through what still identifies the source: number, court, state, year, panel, and rapporteur. Stop when the text starts saying what the source decided or why it was cited. Do not mark a bare number or a name alone.
-
-Leave untagged a generic mention that names no specific source, such as "precedente reiterado deste tribunal" or "o dispositivo legal aplicável". Also leave untagged the case number of this document, an OAB registration, a protocol, page sheets (fls.), and the amount in dispute.
+A citation points at a legal source: a statute, article, code, constitution, súmula, precedent, judgment, or theme of general repercussion. Mark it even when it has no number.
+The span starts at the first word of the citation and runs through its identifier: number, court, state, and rapporteur when the citation is descriptive. Keep line breaks that fall inside the span. Do not mark a bare number. Do not mark a person's name alone.
+Leave untagged a sentence that only asserts a court position and names no source. Leave untagged the case number of the document itself, OAB, protocol, page sheets (fls.), including a long range, and the amount in dispute.
+Mark one citation per span. Spans must not overlap. The text between the tags is a literal copy of the document, including line breaks.
+If there is no citation, return the text with no tags.
 
 Examples:
 
@@ -126,9 +121,9 @@ Output:
 O valor da causa é R$ 8.500,00. A <start>Súmula 12 do STJ<end> orienta o caso.
 
 Input:
-A peça menciona o AgInt no AREsp 2.104.883/SP, que bem ilustra a matéria. As folhas são fls. 418/902.
+A peça menciona o AgInt no AREsp 2.104.883/SP. As folhas são fls. 418/902. O protocolo é 2020/000222.
 Output:
-A peça menciona o <start>AgInt no AREsp 2.104.883/SP<end>, que bem ilustra a matéria. As folhas são fls. 418/902.
+A peça menciona o <start>AgInt no AREsp 2.104.883/SP<end>. As folhas são fls. 418/902. O protocolo é 2020/000222.
 
 Input:
 Confira-se o Embargos de Declaração no Recurso Ordinário nº
@@ -150,12 +145,12 @@ Invoca-se o <start>art. 904 do Código Eleitoral<end> e o <start>R-Rp nº 12.345
 Input:
 Há precedente reiterado deste tribunal sobre o tema. A posição dos tribunais é firme neste ponto.
 Output:
-Há precedente reiterado deste tribunal sobre o tema. A posição dos tribunais é firme neste ponto.
+Há <start>precedente reiterado deste tribunal<end> sobre o tema. A posição dos tribunais é firme neste ponto.
 
 Input:
-Aplica-se o dispositivo legal aplicável à controvérsia. Cita-se acórdão do STJ julgado em 2019 sob a relatoria de Nancy Andrighi, pois a tese não prospera.
+Aplica-se o dispositivo legal aplicável à controvérsia. Cita-se acórdão do STJ julgado em 2019 sob a relatoria de Nancy Andrighi.
 Output:
-Aplica-se o dispositivo legal aplicável à controvérsia. Cita-se <start>acórdão do STJ julgado em 2019 sob a relatoria de Nancy Andrighi<end>, pois a tese não prospera.
+Aplica-se o <start>dispositivo legal aplicável à controvérsia<end>. Cita-se <start>acórdão do STJ julgado em 2019 sob a relatoria de Nancy Andrighi<end>.
 """
 
 

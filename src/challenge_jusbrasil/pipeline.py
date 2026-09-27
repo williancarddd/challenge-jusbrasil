@@ -14,6 +14,7 @@ from typing import Any
 import pandas as pd
 
 from challenge_jusbrasil.busca import Busca, criar_busca
+from challenge_jusbrasil.resolver.lei import tipo_de
 from challenge_jusbrasil.chunker import Chunker, Janela
 from challenge_jusbrasil.settings import (
     CHUNK_OVERLAP,

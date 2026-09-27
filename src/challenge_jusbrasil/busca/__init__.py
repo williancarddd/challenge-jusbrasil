@@ -3,12 +3,11 @@ from __future__ import annotations
 from pathlib import Path
 
 from challenge_jusbrasil.busca.base import Busca, BuscaSemBase
-from challenge_jusbrasil.busca.gliner import BuscaGliner
 from challenge_jusbrasil.busca.regex import BuscaRegex
 from challenge_jusbrasil.resolver import Resolver
 from challenge_jusbrasil.settings import BUSCA, ROOT
 
-_MODOS = {"regex": BuscaRegex, "gliner": BuscaGliner}
+_MODOS = {"regex": BuscaRegex}
 
 
 def criar_busca(modo: str | None = None, db_path: Path | None = None) -> Busca:
