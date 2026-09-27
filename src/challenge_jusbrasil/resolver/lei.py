@@ -146,17 +146,22 @@ class ResolvedorLei:
     def reconhece(self, trecho: str) -> bool:
         return tipo_de(trecho) == "lei"
 
-    def resolve(self, trecho: str) -> Resolucao:
-        match = _ARTIGO_RE.search(trecho)
-        if match is None:
+    def resolve_campos(self, numero: str, diploma: str | None) -> Resolucao:
+        if not diploma:
             return Resolucao("incompleta")
-        diploma = diploma_do_trecho(trecho)
-        if diploma is None:
+        digitos = so_digitos(numero)
+        if not digitos:
             return Resolucao("incompleta")
-        numero = _numero(match.group(1))
+        numero = digitos.lstrip("0") or "0"
         ids = [
             item.id
             for item in self.itens
             if item.numero == numero and item.diploma == diploma
         ]
         return por_quantidade(ids)
+
+    def resolve(self, trecho: str) -> Resolucao:
+        match = _ARTIGO_RE.search(trecho)
+        if match is None:
+            return Resolucao("incompleta")
+        return self.resolve_campos(match.group(1), diploma_do_trecho(trecho))

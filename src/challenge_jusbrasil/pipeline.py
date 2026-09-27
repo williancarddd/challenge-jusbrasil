@@ -13,9 +13,8 @@ from typing import Any
 
 import pandas as pd
 
+from challenge_jusbrasil.busca import Busca, criar_busca
 from challenge_jusbrasil.chunker import Chunker, Janela
-from challenge_jusbrasil.resolver import Resolver
-from challenge_jusbrasil.resolver.lei import tipo_de
 from challenge_jusbrasil.settings import (
     CHUNK_OVERLAP,
     GOLDENSET_PATH,
@@ -35,8 +34,6 @@ from challenge_jusbrasil.utils.kaggle_metric import (
     avaliar,
 )
 
-_CONTEXTO = 250
-_RESOLVER_CACHE: Resolver | None | bool = None
 
 
 def model_slug(name: str) -> str:
@@ -179,38 +176,12 @@ def citacoes_da_janela(
     return citacoes
 
 
-def carregar_resolver() -> Resolver | None:
-    global _RESOLVER_CACHE
-    if _RESOLVER_CACHE is not None:
-        return _RESOLVER_CACHE if _RESOLVER_CACHE is not False else None
-    from challenge_jusbrasil.settings import ROOT
-
-    db_path = ROOT / "data" / "desafio1_bracis.db"
-    if not db_path.exists():
-        _RESOLVER_CACHE = False
-        return None
-    _RESOLVER_CACHE = Resolver.carregar(db_path)
-    return _RESOLVER_CACHE
-
-
-def resolver_ids(texto: str, citacoes: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    resolver = carregar_resolver()
-    for cit in citacoes:
-        if resolver is None:
-            if cit["classificacao"] == "real":
-                cit["classificacao"] = "incompleta"
-            cit["resolucao"] = None
-            continue
-        contexto = texto[max(0, cit["inicio"] - _CONTEXTO) : cit["fim"] + _CONTEXTO]
-        cit["tipo"] = tipo_de(cit["trecho"])
-        resultado = resolver.resolve(cit["trecho"], cit["tipo"], contexto)
-        cit["classificacao"] = resultado.classificacao
-        cit["resolucao"] = (
-            {"id_canonico": resultado.id_canonico}
-            if resultado.classificacao == "real" and resultado.id_canonico
-            else None
-        )
-    return citacoes
+def resolver_ids(
+    texto: str,
+    citacoes: list[dict[str, Any]],
+    busca: Busca | None = None,
+) -> list[dict[str, Any]]:
+    return (busca or criar_busca()).aplicar(texto, citacoes)
 
 
 def descarregar_llm(llm: Any) -> None:
@@ -386,10 +357,12 @@ def buscar(
     txt_dir: Path = TXT_DIR,
     goldenset_path: Path = GOLDENSET_PATH,
     results_dir: Path = SEARCH_DIR,
+    modo: str | None = None,
 ) -> dict[str, Any]:
     origens = pastas if pastas is not None else extracoes_recentes()
     if not origens:
         raise SystemExit("nenhuma extração para buscar")
+    estrategia = criar_busca(modo)
     textos = dict(carregar_documentos(txt_dir))
     carimbo = _carimbo()
     resultados: dict[str, Any] = {}
@@ -418,7 +391,11 @@ def buscar(
                 continue
             doc = json.loads(path.read_text(encoding="utf-8"))
             doc_id = str(doc.get("documento_id") or path.stem)
-            citacoes = resolver_ids(textos.get(doc_id, ""), list(doc.get("citacoes") or []))
+            citacoes = resolver_ids(
+                textos.get(doc_id, ""),
+                list(doc.get("citacoes") or []),
+                estrategia,
+            )
             contratos[doc_id] = {"documento_id": doc_id, "citacoes": citacoes}
         avaliacao = _avaliar_contratos(contratos, goldenset_path)
         pasta = _pasta_run(results_dir, carimbo, slug)
@@ -430,6 +407,7 @@ def buscar(
             "family": meta.get("family"),
             "parameters": meta.get("parameters"),
             "slug": slug,
+            "busca": estrategia.nome,
             "extract": str(origem),
             "avaliacao": avaliacao,
         }
