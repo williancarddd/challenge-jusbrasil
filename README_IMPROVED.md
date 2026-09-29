@@ -214,7 +214,3 @@ confianca = calibrar_confianca_simplificado(
 - **Test Coverage**: 20+ scenarios
 - **Time to Integrate**: <2 hours
 - **Risk Level**: Low (separate code, no pipeline changes)
-
----
-
-*For detailed technical analysis or historical context, see commit messages*
