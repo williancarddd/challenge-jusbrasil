@@ -17,6 +17,7 @@ class BuscaRegex:
         for cit in citacoes:
             trecho = cit["trecho"]
             tipo = tipo_de(trecho)
-            resultado = self.resolver.resolve(trecho, tipo, contexto_de(texto, cit))
-            gravar(cit, tipo, resultado)
+            contexto = contexto_de(texto, cit)
+            resultado = self.resolver.resolve(trecho, tipo, contexto)
+            gravar(cit, tipo, resultado, contexto)
         return citacoes

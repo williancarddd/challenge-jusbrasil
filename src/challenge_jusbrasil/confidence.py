@@ -221,3 +221,38 @@ def calibrar_confianca(
     
     calibrador = get_calibrador()
     return calibrador.calibrar(classe, metadata)
+
+
+def calibrar_confianca_simplificado(
+    classe: str,
+    tipo_citacao: str,
+    contexto_len: int = 0,
+) -> Optional[float]:
+    """
+    Versão simplificada que usa apenas informações já disponíveis.
+    
+    Não precisa de resolvers, funciona com (classe, tipo) base.
+    Útil para integração rápida no pipeline.
+    
+    Args:
+        classe: "real", "inventada", "incompleta"
+        tipo_citacao: "jurisprudencia", "lei", "sumula"
+        contexto_len: tamanho do contexto em chars
+    
+    Returns:
+        Confiança (float em [0, 1]) ou None
+    """
+    calibrador = get_calibrador()
+    
+    # Estimar qualidade de contexto (simples)
+    qualidade = "alta" if contexto_len > 250 else "media" if contexto_len > 100 else "baixa"
+    
+    # Criar metadata mínima
+    metadata = MetadadosResolucao(
+        tipo=tipo_citacao,
+        caminho="nao_encontrado" if classe == "inventada" else ("ambiguo" if classe == "incompleta" else "exato"),
+        num_candidatos=0 if classe == "inventada" else (2 if classe == "incompleta" else 1),
+        contexto_qualidade=qualidade,
+    )
+    
+    return calibrador.calibrar(classe, metadata)
