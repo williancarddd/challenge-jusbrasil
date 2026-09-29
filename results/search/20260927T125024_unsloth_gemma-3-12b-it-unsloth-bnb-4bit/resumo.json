@@ -1,0 +1,38 @@
+{
+  "name": "unsloth/gemma-3-12b-it-unsloth-bnb-4bit",
+  "role": "student",
+  "family": "Gemma",
+  "parameters": "12B",
+  "slug": "unsloth_gemma-3-12b-it-unsloth-bnb-4bit",
+  "busca": "regex",
+  "extract": "/exp/william/challenge-jusbrasil/results/extract/20260927T124735_unsloth_gemma-3-12b-it-unsloth-bnb-4bit",
+  "avaliacao": {
+    "score_final": 0.8898648593385435,
+    "niveis": {
+      "1": {
+        "macro_f1": 0.9023620823620823,
+        "f1_por_classe": {
+          "real": 0.9743589743589743,
+          "inventada": 0.96,
+          "incompleta": 0.7727272727272727
+        },
+        "tau": 0.0,
+        "s": 0.9023620823620823,
+        "b": 0.0,
+        "score": 0.9023620823620823
+      },
+      "2": {
+        "macro_f1": 0.8836162478267742,
+        "f1_por_classe": {
+          "real": 0.918918918918919,
+          "inventada": 0.96,
+          "incompleta": 0.7719298245614035
+        },
+        "tau": 0.0,
+        "s": 0.8836162478267742,
+        "b": 0.0,
+        "score": 0.8836162478267742
+      }
+    }
+  }
+}

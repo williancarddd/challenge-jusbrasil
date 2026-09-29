@@ -1,0 +1,49 @@
+{
+ "documento_id": "gen_n2_008",
+ "citacoes": [
+  {
+   "inicio": 1206,
+   "fim": 1232,
+   "trecho": "Recurso Especial n°  2.467",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 1898,
+   "fim": 1932,
+   "trecho": "EDcl no AgInt no ARESP 1980827/ RS",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "3360644282"
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 2384,
+   "fim": 2400,
+   "trecho": "RCL nº 99.942-BA",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 3051,
+   "fim": 3078,
+   "trecho": "AgRg no H.C. Nº 891369 (RS)",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2849473714"
+   },
+   "confianca": 0.9953381888052568
+  }
+ ]
+}

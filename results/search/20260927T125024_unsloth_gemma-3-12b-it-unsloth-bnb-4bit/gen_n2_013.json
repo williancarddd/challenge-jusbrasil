@@ -1,0 +1,92 @@
+{
+  "documento_id": "gen_n2_013",
+  "citacoes": [
+    {
+      "inicio": 512,
+      "fim": 554,
+      "trecho": " no AGINT nº 7000462-39.2023.7.00.0000/ DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2382484994"
+      }
+    },
+    {
+      "inicio": 1011,
+      "fim": 1049,
+      "trecho": "APL de 2023, Rel. Min.\nLEONARDO PUNTEL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1294,
+      "fim": 1305,
+      "trecho": " acusatória",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1374,
+      "fim": 1448,
+      "trecho": " acórdão do STM julgado em 2021 sob relatoria de ARTUR VIDIGAL\nDE OLIVEIRA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1882,
+      "fim": 1913,
+      "trecho": " AgInt No 7000553-0320217000000",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1477658218"
+      }
+    },
+    {
+      "inicio": 2054,
+      "fim": 2075,
+      "trecho": " Recl. Nº 66 152 (PR)",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2190,
+      "fim": 2226,
+      "trecho": " APL n° 7000076-72.2024.7.00.0000-RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2733853490"
+      }
+    },
+    {
+      "inicio": 2663,
+      "fim": 2673,
+      "trecho": " superados",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2697,
+      "fim": 2733,
+      "trecho": " verbete sumular aplicável à espécie",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

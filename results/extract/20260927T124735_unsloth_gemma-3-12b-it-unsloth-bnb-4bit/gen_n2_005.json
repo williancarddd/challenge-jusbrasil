@@ -1,0 +1,77 @@
+{
+  "documento_id": "gen_n2_005",
+  "citacoes": [
+    {
+      "inicio": 987,
+      "fim": 1011,
+      "trecho": "acórdão da Segunda Turma",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1122,
+      "fim": 1175,
+      "trecho": "Reclamação do STF, de 2026, Rel. Min. CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1669,
+      "trecho": "Reclamação do STF, de 2020, Rel. Min. Celso De Mello",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1765,
+      "fim": 1793,
+      "trecho": "art 60 da Lei nº 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2388,
+      "fim": 2466,
+      "trecho": "julgado do TST proferido\nem 2017 pela relatoria de José Roberto Freire Pimenta",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2699,
+      "fim": 2745,
+      "trecho": " controles de jornada juntados às\nfls. 580/845",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2959,
+      "fim": 3011,
+      "trecho": "Processo n° TST- ED-E-ED-RR-160000-97.2010.5.21.0006",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3172,
+      "fim": 3212,
+      "trecho": "artigo 7º, XXIX, da Constituição Fedcral",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

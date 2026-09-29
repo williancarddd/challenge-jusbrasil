@@ -1,0 +1,104 @@
+{
+ "documento_id": "gen_n2_009",
+ "citacoes": [
+  {
+   "inicio": 539,
+   "fim": 568,
+   "trecho": "Rec. Esp. nº  1. 570.531 – CE",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "3347738001"
+   },
+   "confianca": 0.996734389116134
+  },
+  {
+   "inicio": 725,
+   "fim": 762,
+   "trecho": "EDcl no AgInt no ARESP  1 821 663/ SC",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "3375797414"
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 883,
+   "fim": 915,
+   "trecho": "art. 303 da Constituição\nFederal",
+   "tipo": "lei",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 1188,
+   "fim": 1208,
+   "trecho": "A.REsp\n 555 700 (RS)",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.999977153533816
+  },
+  {
+   "inicio": 1614,
+   "fim": 1633,
+   "trecho": "AgInt no RESP 21737",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "6490934118"
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 1771,
+   "fim": 1786,
+   "trecho": "AR\nn. 2785 (SP)",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "2549252487"
+   },
+   "confianca": 0.9999995021281187
+  },
+  {
+   "inicio": 2227,
+   "fim": 2257,
+   "trecho": "AgInt no RESP nº 1.666.812/ PR",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "524699160"
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 2727,
+   "fim": 2775,
+   "trecho": "precedente\nfirmado em sede de recurso repetitivo",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 0.9657447352937576
+  },
+  {
+   "inicio": 3263,
+   "fim": 3283,
+   "trecho": "REsp Nº 1.632.479-RJ",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "3347737758"
+   },
+   "confianca": 1.0
+  }
+ ]
+}

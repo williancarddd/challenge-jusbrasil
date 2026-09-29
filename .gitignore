@@ -17,3 +17,6 @@ env/
 submission.csv
 *.log
 results/train/
+
+# Pesos baixados da pipeline do Carlos
+carlos_version/models/

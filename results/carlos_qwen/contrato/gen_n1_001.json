@@ -1,0 +1,93 @@
+{
+ "documento_id": "gen_n1_001",
+ "citacoes": [
+  {
+   "inicio": 589,
+   "fim": 652,
+   "trecho": "julgado do STF proferido em 2024 pela relatoria de Dias Toffoli",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 797,
+   "fim": 820,
+   "trecho": "Reclamação nº 66.516/RO",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 951,
+   "fim": 985,
+   "trecho": "AgInt 7557430-50.2018.7.00.0000/DF",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 1398,
+   "fim": 1479,
+   "trecho": "julgado do STM proferido em 2023\npela relatoria de CARLOS AUGUSTO AMARAL OLIVEIRA",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 1928,
+   "fim": 1963,
+   "trecho": "APL nº\n7000449-40.2023.7.00.0000/RS",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "5665364632"
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 2901,
+   "fim": 2914,
+   "trecho": "Rcl 88.178/RS",
+   "tipo": "jurisprudencia",
+   "classificacao": "inventada",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 3058,
+   "fim": 3114,
+   "trecho": "precedente do STM de 2023, da relatoria de Marco Antonio",
+   "tipo": "jurisprudencia",
+   "classificacao": "incompleta",
+   "resolucao": {
+    "id_canonico": null
+   },
+   "confianca": 1.0
+  },
+  {
+   "inicio": 3252,
+   "fim": 3287,
+   "trecho": "RSE nº 7000592-58.2025.7.00.0000/DF",
+   "tipo": "jurisprudencia",
+   "classificacao": "real",
+   "resolucao": {
+    "id_canonico": "6689204911"
+   },
+   "confianca": 1.0
+  }
+ ]
+}

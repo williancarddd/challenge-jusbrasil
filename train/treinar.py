@@ -4,13 +4,14 @@ import json
 from pathlib import Path
 from typing import Any
 
-from challenge_jusbrasil.settings import MAX_MODEL_LEN, MODELS, ROOT
+from challenge_jusbrasil.settings import MODELS, ROOT
 
 ADAPTER_DIR = ROOT / "results" / "train" / "adapter"
 LORA_R = 16
 LORA_ALPHA = 16
 EPOCHS = 1
 LR = 2e-4
+TREINO_MAX_LEN = 2048
 MARCA_RESPOSTA = "<start_of_turn>model"
 
 
@@ -44,20 +45,25 @@ def _tokenizar(tokenizer: Any, messages: list[dict[str, str]], max_len: int) -> 
         pos += len(MARCA_RESPOSTA)
     codificado = tokenizer(
         texto,
-        truncation=True,
-        max_length=max_len,
+        truncation=False,
         return_offsets_mapping=True,
         add_special_tokens=False,
     )
+    ids = list(codificado["input_ids"])
+    mascara = list(codificado["attention_mask"])
     labels = [
         token if inicio >= pos else -100
-        for token, (inicio, _) in zip(codificado["input_ids"], codificado["offset_mapping"], strict=True)
+        for token, (inicio, _) in zip(ids, codificado["offset_mapping"], strict=True)
     ]
+    if len(ids) > max_len:
+        ids = ids[-max_len:]
+        mascara = mascara[-max_len:]
+        labels = labels[-max_len:]
     if not any(rotulo != -100 for rotulo in labels):
         return None
     return {
-        "input_ids": list(codificado["input_ids"]),
-        "attention_mask": list(codificado["attention_mask"]),
+        "input_ids": ids,
+        "attention_mask": mascara,
         "labels": labels,
     }
 
@@ -142,7 +148,7 @@ def treinar(jsonl: Path, saida: Path = ADAPTER_DIR) -> Path:
         def __init__(self) -> None:
             self.itens = []
             for linha in linhas:
-                item = _tokenizar(tokenizer, linha["messages"], MAX_MODEL_LEN)
+                item = _tokenizar(tokenizer, linha["messages"], TREINO_MAX_LEN)
                 if item is not None:
                     self.itens.append(item)
 
