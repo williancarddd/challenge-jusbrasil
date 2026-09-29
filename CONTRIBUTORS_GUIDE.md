@@ -2,110 +2,166 @@
 
 Este repositório é compartilhado entre múltiplos contribuidores para o desafio BRACIS 2026.
 
-## 📁 Estrutura de Pastas
+## 📁 Estrutura de Versões
+
+Cada solução tem sua própria **branch dedicada**:
 
 ```
-challenge-jusbrasil/
-├── davi_version/          ← Solução de Davi Esmeraldo ✓
+Branches de Solução:
+├── davi_version_rule_based    ← Solução Rule-based determinística
+│   └── Score: 1.0204 | τ=0.0 | Sem ML
+├── william_version             ← Solução LLM-based (Teacher-Student)
+│   └── Score: 0.9780 | τ=0.0 | Com vLLM
+├── carlos_version              ← Solução ...
+│   └── Score: ...
+└── org                         ← Branch organizacional
+
+Main:
 ├── txt/                   ← Documentos de teste (compartilhados)
 ├── desafio1_bracis.db     ← Base de dados (compartilhada)
 ├── goldenset.csv          ← Gabarito (compartilhado)
 ├── README.md              ← Overview geral
-├── CONTRIBUTORS_GUIDE.md  ← Este arquivo
-└── [outras soluções podem ir aqui]
+└── [arquivos compartilhados]
 ```
 
-## 🚀 Como Adicionar Sua Solução
+## 🚀 Como Trabalhar com as Versões
 
-Se você quer contribuir com sua própria solução:
+### Clonar uma Versão Específica
 
-1. **Crie uma pasta com seu nome**:
+```bash
+# Clonar a versão rule-based de Davi
+git clone --branch davi_version_rule_based https://github.com/williancarddd/challenge-jusbrasil.git
+
+# Clonar a versão LLM de William
+git clone --branch william_version https://github.com/williancarddd/challenge-jusbrasil.git
+
+# Clonar main (acesso aos dados compartilhados)
+git clone https://github.com/williancarddd/challenge-jusbrasil.git
+```
+
+### Criar Sua Própria Versão
+
+1. **Crie uma branch nova a partir de main**:
    ```bash
-   git clone https://github.com/williancarddd/challenge-jusbrasil.git
-   cd challenge-jusbrasil
-   mkdir seu_nome_version
-   cp seus_arquivos ./seu_nome_version/
+   git checkout main
+   git pull origin main
+   git checkout -b seu_nome_version main
    ```
 
-2. **Não modifique arquivos compartilhados**:
-   - ❌ Não edite `txt/`, `desafio1_bracis.db`, `goldenset.csv`
-   - ✅ Trabalhe apenas dentro de sua pasta
-
-3. **Use paths relativos**:
-   - Acesse dados com: `../txt/`, `../desafio1_bracis.db`, etc.
-   - Exemplo em Python:
-     ```python
-     HERE = Path(__file__).resolve().parent
-     TXT_DIR = HERE.parent / "txt"
-     DB_PATH = HERE.parent / "desafio1_bracis.db"
-     ```
-
-4. **Adicione documentação**:
-   - `SETUP_[NOME].md` — Como rodar sua solução
-   - `README.md` — Explicação da arquitetura
-
-5. **Commit sem deletar**:
+2. **Adicione sua solução**:
    ```bash
-   git add seu_nome_version/
-   git commit -m "feat: Adicionar solução de [seu nome]"
-   git push origin main
+   # Copiar arquivos da solução para raiz da branch
+   # Manter txt/, desafio1_bracis.db, goldenset.csv acessíveis
    ```
 
-## 📋 Soluções Atuais
+3. **Documente sua abordagem**:
+   - README.md - Explicação técnica
+   - SETUP.md - Como rodar
+   - Documentação adicional conforme necessário
 
-### ✅ davi_version (Davi Esmeraldo)
+4. **Faça commit e push**:
+   ```bash
+   git add .
+   git commit -m "feat: Adicionar solução seu_nome_version
+
+   Score: X.XXXX
+   Abordagem: [descrição]
+   Status: [alpha/beta/ready]"
+   git push -u origin seu_nome_version
+   ```
+
+## 📊 Soluções Atuais
+
+### ✅ davi_version_rule_based (Davi Esmeraldo)
 - **Score**: 1.0204
+- **τ (Segurança)**: 0.0
 - **Características**: Rule-based, determinístico, sem ML
+- **Tech**: Python 3.11+, stdlib-only
 - **Status**: Pronto para produção
-- **Setup**: Ver `davi_version/SETUP_DAVI_VERSION.md`
+- **Setup**: Ver `README.md` na branch
+
+### ✅ william_version (William)
+- **Score**: 0.9780
+- **τ (Segurança)**: 0.0
+- **Características**: LLM-based (Teacher-Student)
+- **Tech**: vLLM, PyTorch, Quantização 4-bit
+- **Status**: Em desenvolvimento
+- **Setup**: Ver branch para documentação
+
+### ✅ carlos_version (Carlos)
+- **Score**: [consultar branch]
+- **Status**: [consultar branch]
 
 ## ⚠️ Boas Práticas
 
 ### ✅ Faça
-- Teste sua solução localmente antes de fazer push
-- Use paths relativos (nunca caminhos absolutos)
-- Documente como rodar sua solução
-- Respeite a estrutura de pastas
-- Use `git add seu_nome_version/` (não git add .)
+- Trabalhe na sua branch separada
+- Mantenha txt/, db, csv em sincronismo com main
+- Documente sua abordagem
+- Teste contra o gabarito local
+- Use paths relativos em sua solução
 
-### ❌ Não faça
-- ❌ Modifique arquivos fora de sua pasta
-- ❌ Delete ou sobrescreva dados compartilhados
-- ❌ Use hardcoded paths com nomes de usuários
-- ❌ Comite arquivos de cache (__pycache__, .pyc)
-- ❌ Faça push de arquivos muito grandes
+## 🔍 Compartilhando Dados
 
-## 🔍 Como Avaliar Sua Solução
+### Acessar Dados da Main
 
-1. **Dentro de sua pasta**:
-   ```bash
-   cd seu_nome_version
-   python run_eval.py --quiet
-   ```
-
-2. **Resultado esperado**:
-   ```
-   Nível 1: score=X.XXXX
-   Nível 2: score=X.XXXX
-   SCORE FINAL: X.XXXX
-   ```
-
-## 📊 Comparação de Soluções
-
-Para comparar resultados:
+Se sua branch precisa dos dados compartilhados:
 
 ```bash
-cd davi_version && python run_eval.py --quiet
-cd ../seu_nome_version && python run_eval.py --quiet
+# Opção 1: Fazer merge de main
+git merge main --no-commit  # Verifica mudanças
+git reset HEAD~ # Reseta o merge
+git checkout main -- txt/ desafio1_bracis.db goldenset.csv
+
+# Opção 2: Symlink (em desenvolvimento)
+ln -s ../txt ./txt
+ln -s ../desafio1_bracis.db ./desafio1_bracis.db
 ```
 
-## 🆘 Troubleshooting
+### Sincronizar Dados
+```bash
+# Atualizar dados quando main mudar
+git pull origin main -- txt/ desafio1_bracis.db goldenset.csv
+```
 
-**"No such file or directory: ../txt"**
-→ Você precisa estar dentro de sua pasta (seu_nome_version/)
+## 📋 Checklist para Nova Versão
 
-**"desafio1_bracis.db not found"**
-→ Verifique que o arquivo está na raiz do repositório
+- [ ] Branch criada a partir de main
+- [ ] Solução funciona localmente
+- [ ] Score calculado e documentado
+- [ ] README.md escrito
+- [ ] SETUP.md escrito
+- [ ] Commit com mensagem descritiva
+- [ ] Push para origin
+- [ ] Nenhuma modificação acidental em shared files
 
-**"git refused to merge"**
-→ Não modifique arquivos fora de sua pasta
+## 🤝 Comparação de Versões
+
+Para comparar resultados entre versões:
+
+```bash
+# Ver documentação de cada branch
+for branch in davi_version_rule_based william_version carlos_version; do
+  echo "=== $branch ==="
+  git show $branch:README.md | head -30
+done
+
+# Clonar múltiplas versões
+git clone --branch davi_version_rule_based ... davi_version
+git clone --branch william_version ... william_version
+git clone --branch carlos_version ... carlos_version
+```
+
+## 📈 Métricas Resumidas
+
+| Versão | Score | τ | Abordagem | Requer GPU |
+|---|---|---|---|---|
+| davi_version_rule_based | 1.0204 | 0.0 | Rule-based | NÃO |
+| william_version | 0.9780 | 0.0 | LLM-based | SIM |
+| carlos_version | ? | ? | ? | ? |
+
+---
+
+**Última atualização**: 2026-09-29  
+**Status**: Branches separadas ✓
+**Dados compartilhados em main**: ✓
