@@ -7,13 +7,13 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[2]
 TXT_DIR = ROOT / "data" / "txt"
 LORA_BASE = "unsloth/gemma-3-12b-it-unsloth-bnb-4bit"
-LORA_DIR = ROOT / "models" / "gemma-3-12b-lora"
+LORA_REPO = "williancarddd/gemma-3-12b-it-cacador-lora"
 GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
 RESULTS_DIR = ROOT / "results"
 
 INFER_BATCH_SIZE = 1000
 BUSCA = "regex"
-MAX_MODEL_LEN = 8192
+MAX_MODEL_LEN = 4096
 CHUNK_OVERLAP = 200
 CHARS_PER_TOKEN = 2
 CHAT_OVERHEAD_TOKENS = 256
@@ -176,12 +176,14 @@ def modelo_padrao() -> dict[str, Any]:
     raise SystemExit(f"modelo padrão ausente: {LORA_BASE}")
 
 
-def lora_dir() -> Path:
+def lora_dir() -> str:
     bruto = os.environ.get("LORA_PATH", "").strip()
-    caminho = Path(bruto) if bruto else LORA_DIR
+    if not bruto:
+        return LORA_REPO
+    caminho = Path(bruto)
     if not (caminho / "adapter_config.json").is_file():
         raise SystemExit(f"adaptador LoRA ausente: {caminho}")
-    return caminho
+    return str(caminho)
 
 
 def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
