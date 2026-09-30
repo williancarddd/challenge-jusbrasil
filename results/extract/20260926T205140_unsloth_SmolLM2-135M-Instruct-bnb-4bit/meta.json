@@ -1,8 +1,0 @@
-{
-  "name": "unsloth/SmolLM2-135M-Instruct-bnb-4bit",
-  "role": "student",
-  "family": "SmolLM2",
-  "parameters": "135M",
-  "slug": "unsloth_SmolLM2-135M-Instruct-bnb-4bit",
-  "batch_size": 1000
-}

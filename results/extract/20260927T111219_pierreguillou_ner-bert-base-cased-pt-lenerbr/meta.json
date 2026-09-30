@@ -1,7 +1,0 @@
-{
-  "name": "pierreguillou/ner-bert-base-cased-pt-lenerbr",
-  "role": "lener",
-  "family": "BERT",
-  "parameters": "110M",
-  "slug": "pierreguillou_ner-bert-base-cased-pt-lenerbr"
-}
