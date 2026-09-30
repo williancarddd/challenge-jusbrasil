@@ -270,6 +270,7 @@ def _jsonable(valor: Any) -> Any:
 
 EXTRACT_DIR = RESULTS_DIR / "extract"
 SEARCH_DIR = RESULTS_DIR / "search"
+AVALIACAO_DIR = RESULTS_DIR / "avaliacao"
 _IGNORAR_JSON = {"meta.json", "resumo.json"}
 
 
@@ -432,6 +433,18 @@ def buscar(
         print(f"{nome} score_final={avaliacao['score_final']:.4f}")
         print(f"busca salva em {pasta}")
     return resultados
+
+
+def salvar_avaliacao(
+    resultados: dict[str, Any],
+    results_dir: Path = AVALIACAO_DIR,
+) -> Path:
+    pasta = results_dir / _carimbo()
+    pasta.mkdir(parents=True, exist_ok=True)
+    destino = pasta / "avaliacao.json"
+    _escrever_json(destino, {"modelos": resultados})
+    print(f"avaliação salva em {destino}")
+    return destino
 
 
 def imprimir_avaliacao(resultados: dict[str, Any]) -> None:
