@@ -20,12 +20,15 @@ from challenge_jusbrasil.settings import (
     CHUNK_OVERLAP,
     GOLDENSET_PATH,
     INFER_BATCH_SIZE,
+    LORA_BASE,
     MODELS,
     RESULTS_DIR,
     TXT_DIR,
     chat_prompt,
     engine_kwargs,
     infer_sampling,
+    lora_dir,
+    modelo_padrao,
     orcamento_texto,
 )
 from challenge_jusbrasil.utils.json_to_submission import encode
@@ -210,21 +213,26 @@ def descarregar_llm(llm: Any) -> None:
     time.sleep(8)
 
 
-def _lora_request() -> Any:
-    caminho = os.environ.get("LORA_PATH", "").strip()
-    if not caminho:
+def _lora_request(model: dict[str, Any]) -> Any:
+    if model["name"] != LORA_BASE:
         return None
     from vllm.lora.request import LoRARequest
 
-    return LoRARequest("distil", 1, caminho)
+    return LoRARequest("distil", 1, str(lora_dir()))
 
 
-def chat_lotes(llm: Any, sampling: Any, mensagens: list[list[dict[str, str]]], batch_size: int) -> list[str]:
+def chat_lotes(
+    llm: Any,
+    sampling: Any,
+    mensagens: list[list[dict[str, str]]],
+    batch_size: int,
+    model: dict[str, Any],
+) -> list[str]:
     if batch_size < 1:
         raise ValueError("batch_size deve ser positivo")
     brutos: list[str] = []
     total = (len(mensagens) + batch_size - 1) // batch_size if mensagens else 0
-    pedido = _lora_request()
+    pedido = _lora_request(model)
     for numero, inicio in enumerate(range(0, len(mensagens), batch_size), start=1):
         lote = mensagens[inicio : inicio + batch_size]
         print(f"chat lote {numero}/{total} n={len(lote)}", flush=True)
@@ -242,13 +250,14 @@ def gerar_citacoes(
     documentos: list[tuple[str, str]],
     chunker: Chunker,
     batch_size: int,
+    model: dict[str, Any],
 ) -> list[list[dict[str, Any]]]:
     plano: list[tuple[int, Janela]] = []
     for indice, (_, texto) in enumerate(documentos):
         plano.extend((indice, janela) for janela in chunker.janelas(texto))
     print(f"chunks {len(plano)} lote={batch_size}", flush=True)
     mensagens = [chat_prompt(documentos[indice][0], janela.text) for indice, janela in plano]
-    brutos = chat_lotes(llm, sampling, mensagens, batch_size)
+    brutos = chat_lotes(llm, sampling, mensagens, batch_size, model)
     por_doc: list[list[dict[str, Any]]] = [[] for _ in documentos]
     for (indice, janela), raw in zip(plano, brutos, strict=True):
         texto = documentos[indice][1]
@@ -322,7 +331,7 @@ def extrair(
     documentos = documentos if documentos is not None else carregar_documentos(txt_dir)
     if not documentos:
         raise SystemExit(f"nenhum documento em {txt_dir}")
-    catalogo = modelos if modelos is not None else MODELS
+    catalogo = modelos if modelos is not None else [modelo_padrao()]
     carimbo = _carimbo()
     pastas: list[Path] = []
     for model in catalogo:
@@ -332,7 +341,7 @@ def extrair(
         sampling = SamplingParams(**infer_sampling(model))
         chunker = Chunker(orcamento_texto(model), CHUNK_OVERLAP)
         try:
-            citacoes_por_doc = gerar_citacoes(llm, sampling, documentos, chunker, batch_size)
+            citacoes_por_doc = gerar_citacoes(llm, sampling, documentos, chunker, batch_size, model)
         finally:
             descarregar_llm(llm)
         pasta = _pasta_run(results_dir, carimbo, slug)
@@ -351,6 +360,7 @@ def extrair(
                 "parameters": model["parameters"],
                 "slug": slug,
                 "batch_size": batch_size,
+                "lora": str(lora_dir()) if model["name"] == LORA_BASE else None,
             },
         )
         print(f"extração salva em {pasta}")

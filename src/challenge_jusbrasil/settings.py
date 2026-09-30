@@ -6,6 +6,8 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[2]
 TXT_DIR = ROOT / "data" / "txt"
+LORA_BASE = "unsloth/gemma-3-12b-it-unsloth-bnb-4bit"
+LORA_DIR = ROOT / "models" / "gemma-3-12b-lora"
 GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
 RESULTS_DIR = ROOT / "results"
 
@@ -167,13 +169,29 @@ def teacher_model() -> dict[str, Any]:
     return dict(TEACHER)
 
 
+def modelo_padrao() -> dict[str, Any]:
+    for modelo in MODELS:
+        if modelo["name"] == LORA_BASE:
+            return modelo
+    raise SystemExit(f"modelo padrão ausente: {LORA_BASE}")
+
+
+def lora_dir() -> Path:
+    bruto = os.environ.get("LORA_PATH", "").strip()
+    caminho = Path(bruto) if bruto else LORA_DIR
+    if not (caminho / "adapter_config.json").is_file():
+        raise SystemExit(f"adaptador LoRA ausente: {caminho}")
+    return caminho
+
+
 def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
     kwargs = dict(model["vllm"])
     if os.environ.get("GPU_MEMORY_UTILIZATION", "").strip():
         kwargs["gpu_memory_utilization"] = float(os.environ["GPU_MEMORY_UTILIZATION"])
     kwargs.setdefault("quantization", "bitsandbytes")
     kwargs.setdefault("max_model_len", MAX_MODEL_LEN)
-    if os.environ.get("LORA_PATH", "").strip():
+    if model["name"] == LORA_BASE:
+        lora_dir()
         kwargs["enable_lora"] = True
         kwargs["max_lora_rank"] = 16
         kwargs["max_loras"] = 1

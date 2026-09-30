@@ -144,7 +144,7 @@ def gerar(total: int = TOTAL) -> None:
                     ]
                     for indice in bloco
                 ]
-                brutos = chat_lotes(llm, sampling, mensagens, LOTE)
+                brutos = chat_lotes(llm, sampling, mensagens, LOTE, professor)
                 for indice, bruto in zip(bloco, brutos, strict=True):
                     par = limpar(bruto)
                     if par is None:

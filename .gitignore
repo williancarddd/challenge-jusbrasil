@@ -20,3 +20,6 @@ results/train/
 
 # Pesos baixados da pipeline do Carlos
 carlos_version/models/
+
+# LoRA do Gemma 12B (hospedado no Hugging Face)
+models/gemma-3-12b-lora/*.safetensors
