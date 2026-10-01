@@ -163,9 +163,9 @@ def teacher_model() -> dict[str, Any]:
 
 def modelo_padrao() -> dict[str, Any]:
     for modelo in MODELS:
-        if modelo["name"] == LORA_BASE:
+        if "Qwen3-8B" in modelo["name"]:
             return modelo
-    raise SystemExit(f"modelo padrão ausente: {LORA_BASE}")
+    raise SystemExit("modelo padrão ausente: Qwen3-8B")
 
 
 def lora_dir() -> str:
