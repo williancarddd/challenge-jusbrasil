@@ -157,14 +157,6 @@ Aplica-se o <start>dispositivo legal aplicável à controvérsia<end>. Cita-se <
 """
 
 
-def student_models() -> list[dict[str, Any]]:
-    return [m for m in MODELS if m["role"] == "student"]
-
-
-def teacher_models() -> list[dict[str, Any]]:
-    return [m for m in MODELS if m["role"] == "teacher"]
-
-
 def teacher_model() -> dict[str, Any]:
     return dict(TEACHER)
 
