@@ -20,7 +20,7 @@ CHAT_OVERHEAD_TOKENS = 256
 
 VLLM_ENGINE: dict[str, Any] = {
     "trust_remote_code": True,
-    "gpu_memory_utilization": 0.90,
+    "gpu_memory_utilization": 0.75,
     "seed": 42,
     "disable_log_stats": False,
     "max_model_len": MAX_MODEL_LEN,
