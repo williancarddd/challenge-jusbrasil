@@ -1,0 +1,32 @@
+{
+  "documento_id": "gen_n2_005",
+  "citacoes": [
+    {
+      "inicio": 574,
+      "fim": 601,
+      "trecho": "Reclamação n° 33.-\n474 (MA)",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1385,
+      "fim": 1388,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2687,
+      "fim": 2690,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

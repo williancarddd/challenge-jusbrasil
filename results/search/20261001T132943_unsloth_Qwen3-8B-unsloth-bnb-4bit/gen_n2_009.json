@@ -1,0 +1,56 @@
+{
+  "documento_id": "gen_n2_009",
+  "citacoes": [
+    {
+      "inicio": 539,
+      "fim": 568,
+      "trecho": "Rec. Esp. nº  1. 570.531 – CE",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3347738001"
+      }
+    },
+    {
+      "inicio": 725,
+      "fim": 762,
+      "trecho": "EDcl no AgInt no ARESP  1 821 663/ SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3375797414"
+      }
+    },
+    {
+      "inicio": 883,
+      "fim": 915,
+      "trecho": "art. 303 da Constituição\nFederal",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1443,
+      "fim": 1446,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3236,
+      "fim": 3284,
+      "trecho": "Confira-se, a propósito,\no REsp Nº 1.632.479-RJ.",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3347737758"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "documento_id": "gen_n1_012",
+  "citacoes": [
+    {
+      "inicio": 1412,
+      "fim": 1428,
+      "trecho": "Rcl nº 66.884/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1863,
+      "fim": 1866,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1891,
+      "fim": 1914,
+      "trecho": "Reclamação nº 22.357/PE",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2085,
+      "trecho": "TST-RR-79500-16.2009.5.15.0016",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "867273442"
+      }
+    },
+    {
+      "inicio": 2745,
+      "fim": 2748,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

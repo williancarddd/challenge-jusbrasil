@@ -1,0 +1,52 @@
+{
+  "documento_id": "gen_n2_006",
+  "citacoes": [
+    {
+      "inicio": 1468,
+      "fim": 1496,
+      "trecho": "AgR-AI 0603026-6920186090000",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1888089426"
+      }
+    },
+    {
+      "inicio": 1631,
+      "fim": 1634,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1669,
+      "fim": 1672,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1928,
+      "fim": 1980,
+      "trecho": "Reclamação do STF, de 2020, Rel. Min. Celso De Mello",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3026,
+      "fim": 3097,
+      "trecho": "acórdão do TSE julgado em 2016 sob relatoria de HENRIQUE NEVES DA SILVA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

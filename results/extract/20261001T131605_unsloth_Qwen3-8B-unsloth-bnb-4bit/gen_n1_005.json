@@ -1,0 +1,68 @@
+{
+  "documento_id": "gen_n1_005",
+  "citacoes": [
+    {
+      "inicio": 244,
+      "fim": 250,
+      "trecho": "193771",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1250,
+      "fim": 1253,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2050,
+      "fim": 2104,
+      "trecho": "STF proferido em 2025 pela relatoria de ANDRÉ MENDONÇA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2528,
+      "fim": 2531,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2583,
+      "fim": 2586,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2668,
+      "fim": 2681,
+      "trecho": "Rcl 88.860/PE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3060,
+      "fim": 3062,
+      "trecho": "or",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

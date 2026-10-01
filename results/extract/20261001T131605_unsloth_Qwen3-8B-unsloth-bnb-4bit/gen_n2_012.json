@@ -1,0 +1,41 @@
+{
+  "documento_id": "gen_n2_012",
+  "citacoes": [
+    {
+      "inicio": 1282,
+      "fim": 1299,
+      "trecho": "AgREsp 9188087/ES",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1603,
+      "fim": 1627,
+      "trecho": "Reclamação nº 33560 - BA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1910,
+      "fim": 1913,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3158,
+      "fim": 3174,
+      "trecho": "RMS Nº  67109-TO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

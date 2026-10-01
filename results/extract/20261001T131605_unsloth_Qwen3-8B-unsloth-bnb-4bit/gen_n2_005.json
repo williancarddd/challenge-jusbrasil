@@ -1,0 +1,59 @@
+{
+  "documento_id": "gen_n2_005",
+  "citacoes": [
+    {
+      "inicio": 1122,
+      "fim": 1175,
+      "trecho": "Reclamação do STF, de 2026, Rel. Min. CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1385,
+      "fim": 1388,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1669,
+      "trecho": "Reclamação do STF, de 2020, Rel. Min. Celso De Mello",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1901,
+      "fim": 1929,
+      "trecho": "TST-AgARR-25823-78.2015.5.24",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2399,
+      "fim": 2466,
+      "trecho": "TST proferido\nem 2017 pela relatoria de José Roberto Freire Pimenta",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2687,
+      "fim": 2690,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "documento_id": "gen_n2_001",
+  "citacoes": [
+    {
+      "inicio": 828,
+      "fim": 831,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1707,
+      "fim": 1742,
+      "trecho": "AgRg no Rec. Esp. n. 1.522.200 (SC)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}
