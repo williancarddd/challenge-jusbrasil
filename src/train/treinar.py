@@ -17,7 +17,7 @@ MARCA_RESPOSTA = "<start_of_turn>model"
 
 def modelo_aluno() -> dict[str, Any]:
     for modelo in MODELS:
-        if "gemma-3-12b" in modelo["name"]:
+        if "Qwen3-8B" in modelo["name"]:
             return modelo
     raise SystemExit("modelo gemma 12b ausente em settings")
 
