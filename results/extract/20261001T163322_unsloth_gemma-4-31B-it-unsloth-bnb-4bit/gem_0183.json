@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0183",
+  "citacoes": [
+    {
+      "inicio": 576,
+      "fim": 610,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 985,
+      "fim": 1030,
+      "trecho": "jurisprudência deste Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1181,
+      "fim": 1264,
+      "trecho": "RE 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12 de outubro de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1467,
+      "fim": 1513,
+      "trecho": "artigo 3º da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1769,
+      "fim": 1786,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2083,
+      "fim": 2144,
+      "trecho": "jurisprudência do STJ sobre contratos de natureza empresarial",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2268,
+      "fim": 2346,
+      "trecho": "ARE 987.654/RJ, sob a relatoria do Ministro Silas Rocha em 15 de março de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2488,
+      "fim": 2533,
+      "trecho": "Protocolo de Interpretação Interna PI-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0988",
+  "citacoes": [
+    {
+      "inicio": 894,
+      "fim": 935,
+      "trecho": "artigo 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1195,
+      "fim": 1208,
+      "trecho": "RE 601.234/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1406,
+      "fim": 1429,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1714,
+      "fim": 1760,
+      "trecho": "artigo 5º, inciso LIV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1889,
+      "fim": 1928,
+      "trecho": "precedente fixado no Habeas Data 456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2233,
+      "fim": 2250,
+      "trecho": "Súmula 310 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2333,
+      "fim": 2373,
+      "trecho": "Protocolo de Eficiência Registral 2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

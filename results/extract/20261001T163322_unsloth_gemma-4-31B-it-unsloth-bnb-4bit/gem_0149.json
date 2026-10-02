@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0149",
+  "citacoes": [
+    {
+      "inicio": 799,
+      "fim": 824,
+      "trecho": "art. 11-A da Lei 6.858/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 994,
+      "fim": 1077,
+      "trecho": "RR-12345-67.2022.5.00.0000 , relatado pelo Ministro Dr. Aurélio Silva em 15/03/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1266,
+      "trecho": "diversos julgados sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1456,
+      "fim": 1516,
+      "trecho": "Sistema de Investigação Patrimonial Avançada - SIPA-TST-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1653,
+      "fim": 1684,
+      "trecho": "Ag-AIRR-98765-43.2020.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1830,
+      "fim": 1851,
+      "trecho": "Decreto-Lei nº 769/69",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1954,
+      "fim": 1987,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2203,
+      "fim": 2235,
+      "trecho": "Instrução Normativa nº 41 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0699",
+  "citacoes": [
+    {
+      "inicio": 628,
+      "fim": 661,
+      "trecho": "art. 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 969,
+      "fim": 1028,
+      "trecho": "REsp 1.890.123/RJ (Rel. Min. Ricardo Mendes, j. 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1202,
+      "trecho": "art. 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1422,
+      "fim": 1484,
+      "trecho": "AgInt no AREsp 456.789/MG (Rel. Min. Ana Luísa, j. 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1666,
+      "fim": 1702,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1843,
+      "fim": 1860,
+      "trecho": "Súmula 602 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1940,
+      "fim": 2022,
+      "trecho": "Habeas Corpus Processual nº 99.887-X/STJ (Rel. Min. Carlos Alberto, j. 20/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2279,
+      "fim": 2290,
+      "trecho": "lei federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0269",
+  "citacoes": [
+    {
+      "inicio": 379,
+      "fim": 391,
+      "trecho": "Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 747,
+      "fim": 762,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 845,
+      "fim": 884,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1117,
+      "fim": 1130,
+      "trecho": "ARE 1.275.331",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1287,
+      "fim": 1299,
+      "trecho": "RE 1.304.552",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1477,
+      "fim": 1497,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1721,
+      "fim": 1750,
+      "trecho": "votos precedentes do Plenário",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1873,
+      "fim": 1924,
+      "trecho": "Protocolo de Hermenêutica Administrativa STF-2023/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2105,
+      "fim": 2128,
+      "trecho": "art. 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

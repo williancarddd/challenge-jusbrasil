@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0287",
+  "citacoes": [
+    {
+      "inicio": 1209,
+      "fim": 1235,
+      "trecho": "art. 3º da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1419,
+      "fim": 1456,
+      "trecho": "Apelação nº 0123456-78.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1635,
+      "fim": 1655,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1809,
+      "fim": 1835,
+      "trecho": "art. 59 da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1965,
+      "fim": 2015,
+      "trecho": "Agravo de Instrumento nº 2233445-66.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2192,
+      "fim": 2220,
+      "trecho": "Norma Técnica NT-TJSP-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2412,
+      "fim": 2440,
+      "trecho": "outros julgados desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2669,
+      "fim": 2707,
+      "trecho": "art. 37, § 4º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

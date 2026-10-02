@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0644",
+  "citacoes": [
+    {
+      "inicio": 799,
+      "fim": 846,
+      "trecho": "Constituição Federal, em seu art. 114, inciso I",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1153,
+      "fim": 1163,
+      "trecho": "RE 573.252",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1250,
+      "fim": 1279,
+      "trecho": "jurisprudência deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1604,
+      "fim": 1637,
+      "trecho": "Precedente Interno TRF4-XP99-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1766,
+      "fim": 1802,
+      "trecho": "Código de Processo Civil, no art. 64",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2056,
+      "fim": 2089,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2558,
+      "fim": 2601,
+      "trecho": "Agravo Interno nº 5008877-12.2021.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2630,
+      "fim": 2662,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

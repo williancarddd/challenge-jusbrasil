@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0997",
+  "citacoes": [
+    {
+      "inicio": 550,
+      "fim": 585,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1071,
+      "fim": 1085,
+      "trecho": "REsp 1.722.341",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1343,
+      "fim": 1375,
+      "trecho": "normas do Estatuto dos Militares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1560,
+      "fim": 1575,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1703,
+      "fim": 1728,
+      "trecho": "Acórdão 456/2021-STM-V997",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1826,
+      "fim": 1864,
+      "trecho": "Convenção sobre os Direitos da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2141,
+      "fim": 2158,
+      "trecho": "Súmula 602 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

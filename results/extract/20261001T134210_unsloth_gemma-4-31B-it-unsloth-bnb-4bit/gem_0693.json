@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0693",
+  "citacoes": [
+    {
+      "inicio": 766,
+      "fim": 794,
+      "trecho": "Artigo 216-A da Lei 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 935,
+      "fim": 969,
+      "trecho": "Artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1527,
+      "fim": 1553,
+      "trecho": "RR-12345-67.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1673,
+      "fim": 1690,
+      "trecho": "Súmula 362 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2003,
+      "fim": 2036,
+      "trecho": "Processo Interno TRT3-VAR693-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2222,
+      "fim": 2255,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

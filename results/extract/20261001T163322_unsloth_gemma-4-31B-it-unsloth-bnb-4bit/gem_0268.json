@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0268",
+  "citacoes": [
+    {
+      "inicio": 283,
+      "fim": 323,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 961,
+      "fim": 993,
+      "trecho": "Lei nº 6.830/80, artigo 40, § 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1192,
+      "fim": 1209,
+      "trecho": "Súmula 106 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1346,
+      "fim": 1363,
+      "trecho": "REsp 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1531,
+      "fim": 1558,
+      "trecho": "Lei nº 11.079/04, artigo 12",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1645,
+      "fim": 1667,
+      "trecho": "jurisprudência do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1925,
+      "fim": 1963,
+      "trecho": "Código Tributário Nacional, artigo 174",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2050,
+      "fim": 2100,
+      "trecho": "Agravo de Instrumento nº 5009876-11.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

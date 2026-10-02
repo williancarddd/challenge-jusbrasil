@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0457",
+  "citacoes": [
+    {
+      "inicio": 328,
+      "fim": 368,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 781,
+      "fim": 819,
+      "trecho": "art. 5º, LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1082,
+      "fim": 1094,
+      "trecho": "Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1408,
+      "fim": 1425,
+      "trecho": "Súmula 685 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1502,
+      "trecho": "precedente firmado no MS 45.678/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1490,
+      "fim": 1502,
+      "trecho": "MS 45.678/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1693,
+      "fim": 1714,
+      "trecho": "jurisprudência do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1902,
+      "fim": 1938,
+      "trecho": "art. 102 do Regimento Interno do STM",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2088,
+      "fim": 2117,
+      "trecho": "Recurso Especial 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2239,
+      "fim": 2271,
+      "trecho": "norma do protocolo interno 998-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

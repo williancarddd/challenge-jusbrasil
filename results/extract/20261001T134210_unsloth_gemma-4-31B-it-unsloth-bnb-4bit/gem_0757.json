@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0757",
+  "citacoes": [
+    {
+      "inicio": 566,
+      "fim": 595,
+      "trecho": "art. 10 da Lei nº 13.954/2019",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 800,
+      "fim": 826,
+      "trecho": "art. 57 da Lei nº 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1127,
+      "fim": 1145,
+      "trecho": "HC nº 123.456/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1503,
+      "fim": 1516,
+      "trecho": "RE nº 581.332",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1656,
+      "fim": 1688,
+      "trecho": "Parecer Técnico nº 9988/2023-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1846,
+      "fim": 1865,
+      "trecho": "Súmula nº 44 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2217,
+      "fim": 2245,
+      "trecho": "AgRg no AREsp nº 776655/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

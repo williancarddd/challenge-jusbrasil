@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0765",
+  "citacoes": [
+    {
+      "inicio": 352,
+      "fim": 390,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 771,
+      "fim": 804,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1131,
+      "fim": 1152,
+      "trecho": "STJ no REsp 1.876.543",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1319,
+      "fim": 1363,
+      "trecho": "Enunciado 45 do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1652,
+      "fim": 1670,
+      "trecho": "Lei nº 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1734,
+      "fim": 1748,
+      "trecho": "HC 123.456/STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1868,
+      "fim": 1885,
+      "trecho": "Súmula 602 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2424,
+      "fim": 2446,
+      "trecho": "Estatuto dos Militares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

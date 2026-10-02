@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0255",
+  "citacoes": [
+    {
+      "inicio": 1149,
+      "fim": 1183,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1550,
+      "fim": 1591,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1626,
+      "fim": 1654,
+      "trecho": "TST-RR-887766-2021-5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1801,
+      "fim": 1834,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2079,
+      "fim": 2100,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2229,
+      "fim": 2273,
+      "trecho": "precedente interno Protocolo-Tst-XyZ-2022-99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2491,
+      "fim": 2508,
+      "trecho": "Súmula 363 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2759,
+      "fim": 2787,
+      "trecho": "normas de competência do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

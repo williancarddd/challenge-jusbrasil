@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0212",
+  "citacoes": [
+    {
+      "inicio": 812,
+      "fim": 844,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1280,
+      "fim": 1327,
+      "trecho": "Agravo Regimental no REspEleitoral nº 12.345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1445,
+      "fim": 1460,
+      "trecho": "Lei nº 9.504/97",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1849,
+      "fim": 1891,
+      "trecho": "Manual de Procedimentos do TSE-2023-REF-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1972,
+      "fim": 1987,
+      "trecho": "Súmula 7 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2160,
+      "fim": 2218,
+      "trecho": "orientação sedimentada em decisões recentes deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2387,
+      "fim": 2411,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

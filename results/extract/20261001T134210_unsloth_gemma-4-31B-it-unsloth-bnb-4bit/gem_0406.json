@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0406",
+  "citacoes": [
+    {
+      "inicio": 638,
+      "fim": 651,
+      "trecho": "Lei 12.403/11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 653,
+      "fim": 668,
+      "trecho": "art. 312 do CPP",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1076,
+      "fim": 1117,
+      "trecho": "HC-TST-8821-2023-Rel. Min. Aurélio Santos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1303,
+      "fim": 1346,
+      "trecho": "art. 315, § 2º, do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1531,
+      "fim": 1551,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1739,
+      "fim": 1778,
+      "trecho": "TST-ED-9901-2022-Rel. Min. Clara Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1967,
+      "fim": 2020,
+      "trecho": "Manual de Procedimentos Cautelares do TST-Doc-2024-X1",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2340,
+      "trecho": "julgados do STJ e TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2561,
+      "fim": 2576,
+      "trecho": "art. 319 do CPP",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

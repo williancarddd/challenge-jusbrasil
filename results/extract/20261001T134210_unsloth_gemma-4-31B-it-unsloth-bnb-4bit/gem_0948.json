@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0948",
+  "citacoes": [
+    {
+      "inicio": 731,
+      "fim": 757,
+      "trecho": "art. 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1293,
+      "fim": 1310,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1634,
+      "fim": 1654,
+      "trecho": "REsp nº 1.234.567/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1792,
+      "fim": 1823,
+      "trecho": "REsp Repetitivo nº 1.347.730/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1941,
+      "fim": 1967,
+      "trecho": "Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2224,
+      "fim": 2260,
+      "trecho": "art. 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2404,
+      "fim": 2456,
+      "trecho": "jurisprudência do STJ sobre prescrição intercorrente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2583,
+      "fim": 2615,
+      "trecho": "Precedente Interno STJ-XPTO-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2762,
+      "fim": 2794,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

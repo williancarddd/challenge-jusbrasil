@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0488",
+  "citacoes": [
+    {
+      "inicio": 478,
+      "fim": 506,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 633,
+      "fim": 691,
+      "trecho": "jurisprudência consolidada do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 878,
+      "fim": 914,
+      "trecho": "Agravo Interno no AREsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1339,
+      "fim": 1354,
+      "trecho": "REsp 889.901/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1578,
+      "fim": 1611,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1709,
+      "fim": 1726,
+      "trecho": "Súmula 441 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1922,
+      "fim": 1977,
+      "trecho": "Diretriz Normativa 99-X do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

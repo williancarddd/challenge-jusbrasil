@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0383",
+  "citacoes": [
+    {
+      "inicio": 548,
+      "fim": 579,
+      "trecho": "art. 40 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 904,
+      "fim": 992,
+      "trecho": "Recurso Especial nº 1.555.666/SP, relatado pelo Ministro Dr. Aurélio Viana em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1174,
+      "fim": 1197,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1309,
+      "fim": 1349,
+      "trecho": "decisões do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1557,
+      "fim": 1597,
+      "trecho": "Súmula 11 do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1853,
+      "fim": 1896,
+      "trecho": "Precedente Administrativo nº 99/2018-TSE-RH",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2194,
+      "fim": 2292,
+      "trecho": "Agravo Regimental nº 44.332/RJ, julgado em 10/11/2022 sob a relatoria do Ministro Dr. Marcos Rocha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2453,
+      "fim": 2488,
+      "trecho": "art. 195 do Código Processual Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

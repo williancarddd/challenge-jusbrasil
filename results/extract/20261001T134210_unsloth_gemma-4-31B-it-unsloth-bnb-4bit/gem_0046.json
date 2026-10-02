@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0046",
+  "citacoes": [
+    {
+      "inicio": 242,
+      "fim": 266,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 466,
+      "fim": 484,
+      "trecho": "Lei nº 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 515,
+      "fim": 554,
+      "trecho": "Lei de Registros Públicos no art. 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1146,
+      "fim": 1249,
+      "trecho": "entendimento de que o procedimento extrajudicial de usucapião é via apta para a regularização fundiária",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1347,
+      "fim": 1361,
+      "trecho": "REsp 1.892.341",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1512,
+      "fim": 1529,
+      "trecho": "Súmula 310 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1829,
+      "fim": 1851,
+      "trecho": "AgInt no AREsp 456.789",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1990,
+      "fim": 2002,
+      "trecho": "Lei 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2047,
+      "fim": 2081,
+      "trecho": "precedente interno ID-STJ-2023-99X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2510,
+      "fim": 2530,
+      "trecho": "Súmula 7 desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

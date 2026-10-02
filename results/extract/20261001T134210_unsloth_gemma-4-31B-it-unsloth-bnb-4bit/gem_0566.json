@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0566",
+  "citacoes": [
+    {
+      "inicio": 637,
+      "fim": 672,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1241,
+      "fim": 1287,
+      "trecho": "sedimentado neste Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1370,
+      "fim": 1387,
+      "trecho": "Súmula 612 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1605,
+      "fim": 1650,
+      "trecho": "Convenção sobre os Direitos da Criança da ONU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1654,
+      "fim": 1680,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1817,
+      "fim": 1834,
+      "trecho": "REsp 1.654.321/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1974,
+      "fim": 2027,
+      "trecho": "Protocolo de Coparentalidade Harmoniosa (PC-2022-STJ)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

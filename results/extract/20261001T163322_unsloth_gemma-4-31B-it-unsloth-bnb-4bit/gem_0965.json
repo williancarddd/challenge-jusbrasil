@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0965",
+  "citacoes": [
+    {
+      "inicio": 270,
+      "fim": 301,
+      "trecho": "Art. 40 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 694,
+      "fim": 774,
+      "trecho": "RE 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Mendes em 15 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 935,
+      "fim": 958,
+      "trecho": "Art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1140,
+      "fim": 1166,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1193,
+      "fim": 1219,
+      "trecho": "estudos do Plenário do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1340,
+      "fim": 1354,
+      "trecho": "ARE 987.654/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1711,
+      "fim": 1743,
+      "trecho": "Art. 196 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1972,
+      "fim": 2012,
+      "trecho": "Protocolo Normativo Interno-STF 2024-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2422,
+      "fim": 2448,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

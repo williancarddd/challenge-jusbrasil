@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0984",
+  "citacoes": [
+    {
+      "inicio": 721,
+      "fim": 757,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 926,
+      "fim": 938,
+      "trecho": "Lei 8.437/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1134,
+      "fim": 1176,
+      "trecho": "TRT3 no processo 0010234-56.2023.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1466,
+      "fim": 1496,
+      "trecho": "Recurso Ordinário RO-4455/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1691,
+      "fim": 1714,
+      "trecho": "art. 40 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1815,
+      "fim": 1864,
+      "trecho": "Lei de Introdução às Normas do Direito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2011,
+      "fim": 2078,
+      "trecho": "julgado recente, o Relator Dr. Marcos Vinícius Silva, em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2227,
+      "fim": 2269,
+      "trecho": "Súmula 12 do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2352,
+      "fim": 2400,
+      "trecho": "Protocolo de Gestão Administrativa PGA-9982-TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

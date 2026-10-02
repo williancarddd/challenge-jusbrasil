@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0754",
+  "citacoes": [
+    {
+      "inicio": 410,
+      "fim": 425,
+      "trecho": "Lei 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 429,
+      "fim": 447,
+      "trecho": "artigo 11-A da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 702,
+      "fim": 783,
+      "trecho": "AIRR-10023-44.2021.5.02.0001, relatado pelo Ministro Alisson Soares em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1061,
+      "fim": 1082,
+      "trecho": "jurisprudência do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1307,
+      "fim": 1332,
+      "trecho": "Processo TST-REF-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1525,
+      "trecho": "artigo 435 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1624,
+      "fim": 1680,
+      "trecho": "Ag-AIRR-554433-22.2020.5.15.0000, decidido em 18/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2115,
+      "fim": 2144,
+      "trecho": "diversas decisões desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2259,
+      "fim": 2278,
+      "trecho": "Reforma Trabalhista",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

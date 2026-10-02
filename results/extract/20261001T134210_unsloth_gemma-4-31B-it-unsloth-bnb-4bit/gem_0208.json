@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0208",
+  "citacoes": [
+    {
+      "inicio": 847,
+      "fim": 890,
+      "trecho": "art. 282, § 6º, do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1048,
+      "fim": 1090,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1217,
+      "fim": 1271,
+      "trecho": "HC 156.789/SP (Rel. Min. Marco Aurélio, j. 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1475,
+      "fim": 1511,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1858,
+      "fim": 1887,
+      "trecho": "Processo Interno-TST-X99-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2143,
+      "fim": 2214,
+      "trecho": "Agravo Regimental no HC 210.456/RJ (Rel. Min. Ana Costa, j. 08/09/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

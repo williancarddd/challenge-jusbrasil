@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0188",
+  "citacoes": [
+    {
+      "inicio": 662,
+      "fim": 688,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 747,
+      "fim": 785,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1008,
+      "fim": 1078,
+      "trecho": "HC 123.456/SP , relatado pelo Ministro Dr. Aurélio Viana em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1230,
+      "fim": 1321,
+      "trecho": "jurisprudência do Supremo Tribunal Federal sobre a proporcionalidade das medidas cautelares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1393,
+      "fim": 1440,
+      "trecho": "artigo 5º, inciso LXVI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1839,
+      "fim": 1877,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2092,
+      "fim": 2174,
+      "trecho": "HC 987.654/RJ , julgado em 10/11/2023, sob a relatoria do Ministro Dr. Silas Monte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2313,
+      "fim": 2347,
+      "trecho": "Tese de Defesa Estratégica n. 44-B",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

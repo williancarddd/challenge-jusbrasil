@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0475",
+  "citacoes": [
+    {
+      "inicio": 542,
+      "fim": 576,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 759,
+      "fim": 795,
+      "trecho": "Recurso Extraordinário nº 598.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1151,
+      "fim": 1187,
+      "trecho": "decisão do STM sobre regime jurídico",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1276,
+      "fim": 1304,
+      "trecho": "artigo 5º da Lei nº 8.255/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1500,
+      "fim": 1592,
+      "trecho": "Habeas Corpus nº 102.456/RJ, relatado pelo Ministro Dr. Alisson Mendes em 12 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1741,
+      "fim": 1773,
+      "trecho": "Parecer Normativo nº 44/2019-AGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1915,
+      "fim": 1931,
+      "trecho": "artigo 2º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2022,
+      "fim": 2052,
+      "trecho": "Acórdão Identificador-XPT-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0917",
+  "citacoes": [
+    {
+      "inicio": 760,
+      "fim": 812,
+      "trecho": "Constituição Federal, em seu art. 37, § 6º, da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1425,
+      "fim": 1435,
+      "trecho": "RE 654.321",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1562,
+      "fim": 1604,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1951,
+      "fim": 1973,
+      "trecho": "Código Civil, art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2078,
+      "fim": 2095,
+      "trecho": "Súmula 492 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2402,
+      "fim": 2432,
+      "trecho": "tese fixada no Tema 999 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2438,
+      "fim": 2500,
+      "trecho": "diretrizes do Protocolo de Responsabilidade Administrativa-X12",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2593,
+      "fim": 2622,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

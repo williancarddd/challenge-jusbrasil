@@ -1,0 +1,122 @@
+{
+  "documento_id": "gen_n1_001_aug04",
+  "citacoes": [
+    {
+      "inicio": 422,
+      "fim": 451,
+      "trecho": "normas\nde regência da matéria",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 473,
+      "fim": 536,
+      "trecho": "julgado do STF proferido em 2024 pela relatoria de Dias Toffoli",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 633,
+      "fim": 656,
+      "trecho": "Reclamação nº 66.516/RO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 724,
+      "fim": 758,
+      "trecho": "AgInt 7557430-50.2018.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1048,
+      "fim": 1070,
+      "trecho": "dispositivos\ninvocados",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1122,
+      "fim": 1203,
+      "trecho": "julgado do STM proferido em 2023\npela relatoria de CARLOS AUGUSTO AMARAL OLIVEIRA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1500,
+      "fim": 1578,
+      "trecho": "doutrina especializada\nacompanha, sem divergência relevante, esse entendimento",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1609,
+      "fim": 1644,
+      "trecho": "APL nº\n7000449-40.2023.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2090,
+      "fim": 2135,
+      "trecho": "dispositivo constitucional invocado na origem",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2358,
+      "fim": 2410,
+      "trecho": "orientação dos tribunais superiores é firme\nno ponto",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2434,
+      "fim": 2447,
+      "trecho": "Rcl 88.178/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2512,
+      "fim": 2568,
+      "trecho": "precedente do STM de 2023, da relatoria de Marco Antonio",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2643,
+      "fim": 2678,
+      "trecho": "RSE nº 7000592-58.2025.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

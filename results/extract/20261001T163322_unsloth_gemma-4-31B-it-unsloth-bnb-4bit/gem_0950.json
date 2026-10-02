@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0950",
+  "citacoes": [
+    {
+      "inicio": 514,
+      "fim": 548,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 981,
+      "fim": 1039,
+      "trecho": "REsp 1.234.567/DF (Rel. Min. Marco Aurélio, j. 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1329,
+      "fim": 1396,
+      "trecho": "Agravo Regimental 890/SP (Rel. Min. Cláudio Ribeiro, j. 10/10/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1589,
+      "fim": 1618,
+      "trecho": "doutrina do Direito Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1721,
+      "fim": 1737,
+      "trecho": "Lei das Eleições",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1910,
+      "fim": 1970,
+      "trecho": "Habeas Corpus 456/MG (Rel. Min. Sofia Mendes, j. 15/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2148,
+      "fim": 2179,
+      "trecho": "Precedente Interno TSE-99X-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2293,
+      "fim": 2318,
+      "trecho": "artigo 6º da Lei 9.504/97",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

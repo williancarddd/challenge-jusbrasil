@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0449",
+  "citacoes": [
+    {
+      "inicio": 665,
+      "fim": 690,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1095,
+      "fim": 1116,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1255,
+      "fim": 1287,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1573,
+      "fim": 1611,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1712,
+      "fim": 1727,
+      "trecho": "Tema 692 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2014,
+      "fim": 2069,
+      "trecho": "entendimento adotado por este Tribunal Regional Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2207,
+      "fim": 2235,
+      "trecho": "regimento interno deste TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

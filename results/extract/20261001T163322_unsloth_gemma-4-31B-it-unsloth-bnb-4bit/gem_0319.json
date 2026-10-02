@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0319",
+  "citacoes": [
+    {
+      "inicio": 321,
+      "fim": 361,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1008,
+      "fim": 1033,
+      "trecho": "artigo 62 da Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1397,
+      "fim": 1412,
+      "trecho": "HC nº 98.765/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1632,
+      "fim": 1668,
+      "trecho": "Regulamento Interno de Saúde Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1709,
+      "fim": 1747,
+      "trecho": "proteção constitucional ao trabalhador",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1800,
+      "fim": 1812,
+      "trecho": "MS 12.345/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1960,
+      "fim": 2017,
+      "trecho": "precedente estabelecido no Recurso Especial nº 456.789/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2095,
+      "fim": 2126,
+      "trecho": "Instrução Normativa 09/2021-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2474,
+      "fim": 2517,
+      "trecho": "entendimento do Agravo Interno nº 11.223/AM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

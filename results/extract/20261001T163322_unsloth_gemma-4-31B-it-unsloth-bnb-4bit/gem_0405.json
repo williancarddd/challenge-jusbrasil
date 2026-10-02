@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0405",
+  "citacoes": [
+    {
+      "inicio": 308,
+      "fim": 328,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 382,
+      "fim": 403,
+      "trecho": "Lei 8.213/91, art. 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 705,
+      "fim": 717,
+      "trecho": "RE 1.123.456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 972,
+      "fim": 997,
+      "trecho": "Decreto 3.048/99, art. 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1250,
+      "fim": 1272,
+      "trecho": "AgInt no AREsp 889.990",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1396,
+      "fim": 1423,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1808,
+      "fim": 1847,
+      "trecho": "Emenda Constitucional 103/2019, art. 25",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2151,
+      "fim": 2198,
+      "trecho": "entendimento dominante dos Tribunais Superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

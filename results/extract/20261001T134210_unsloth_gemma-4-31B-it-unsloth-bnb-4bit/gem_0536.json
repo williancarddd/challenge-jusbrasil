@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0536",
+  "citacoes": [
+    {
+      "inicio": 660,
+      "fim": 686,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 959,
+      "fim": 1031,
+      "trecho": "Agravo de Instrumento em Recurso de Revista AIRR-10023-44.2021.5.02.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1577,
+      "fim": 1622,
+      "trecho": "Recurso Ordinário RO-556677-12.2022.5.15.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1828,
+      "trecho": "artigo 927, parágrafo",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1851,
+      "trecho": "artigo 927, parágrafo único, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2081,
+      "fim": 2113,
+      "trecho": "Precedente Interno TST-VAR-536-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2255,
+      "fim": 2310,
+      "trecho": "orientações do Conselho Superior da Justiça do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2649,
+      "fim": 2666,
+      "trecho": "Súmula 378 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0308",
+  "citacoes": [
+    {
+      "inicio": 629,
+      "fim": 659,
+      "trecho": "artigo 216-A da Lei 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1081,
+      "fim": 1096,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1381,
+      "fim": 1396,
+      "trecho": "REsp 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1590,
+      "fim": 1624,
+      "trecho": "artigo 183 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1847,
+      "fim": 1872,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1997,
+      "fim": 2017,
+      "trecho": "Provimento 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2141,
+      "fim": 2191,
+      "trecho": "precedente interno constante na Súmula 1.010-STF-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2410,
+      "fim": 2423,
+      "trecho": "AI 543.210/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

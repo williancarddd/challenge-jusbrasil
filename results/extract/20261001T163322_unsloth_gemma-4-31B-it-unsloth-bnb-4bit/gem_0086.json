@@ -1,0 +1,113 @@
+{
+  "documento_id": "gem_0086",
+  "citacoes": [
+    {
+      "inicio": 702,
+      "fim": 739,
+      "trecho": "Constituição Federal, em seu art. 114",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 909,
+      "fim": 960,
+      "trecho": "RE 589.123 (Rel. Min. Aurélio Silva, j. 12/05/2018)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1197,
+      "fim": 1221,
+      "trecho": "Lei 8.112/90, no art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1310,
+      "fim": 1313,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1326,
+      "fim": 1368,
+      "trecho": "jurisprudência do STF em julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1498,
+      "fim": 1515,
+      "trecho": "Tema 1.020 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1680,
+      "fim": 1716,
+      "trecho": "Código de Processo Civil, no art. 64",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1815,
+      "fim": 1825,
+      "trecho": "Precedente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1815,
+      "fim": 1842,
+      "trecho": "Precedente Interno-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2024,
+      "fim": 2041,
+      "trecho": "Súmula 362 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2105,
+      "fim": 2171,
+      "trecho": "Recurso Ordinário nº 88.776 (Rel. Des. Marcos Lima, j. 10/11/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2443,
+      "fim": 2463,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

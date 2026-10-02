@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0587",
+  "citacoes": [
+    {
+      "inicio": 590,
+      "fim": 616,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 859,
+      "fim": 897,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1204,
+      "fim": 1307,
+      "trecho": "Recurso Extraordinário nº 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Silva em 12 de março de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1567,
+      "fim": 1605,
+      "trecho": "princípio da legalidade administrativa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1741,
+      "fim": 1758,
+      "trecho": "ADI nº 889.990/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1921,
+      "fim": 1941,
+      "trecho": "Súmula nº 422 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2152,
+      "fim": 2170,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2268,
+      "fim": 2320,
+      "trecho": "Protocolo de Gestão de Riscos Contratuais GRC-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2454,
+      "fim": 2543,
+      "trecho": "Habeas Data nº 55.667/RJ, sob relatoria do Ministro Carlos Mendes em 10 de agosto de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

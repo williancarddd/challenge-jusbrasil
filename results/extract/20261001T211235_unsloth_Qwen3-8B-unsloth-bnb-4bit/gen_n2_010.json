@@ -1,0 +1,68 @@
+{
+  "documento_id": "gen_n2_010",
+  "citacoes": [
+    {
+      "inicio": 579,
+      "fim": 604,
+      "trecho": "Reclamação Nº 77.872 – SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1006,
+      "fim": 1009,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1164,
+      "fim": 1185,
+      "trecho": "ARESP Nº 1.512.757-PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1631,
+      "fim": 1657,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1822,
+      "fim": 1825,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2098,
+      "fim": 2139,
+      "trecho": "art. 14 do Código de Defesa do Consumidor",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3023,
+      "fim": 3026,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

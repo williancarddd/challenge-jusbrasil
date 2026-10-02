@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0803",
+  "citacoes": [
+    {
+      "inicio": 862,
+      "fim": 900,
+      "trecho": "artigo 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1190,
+      "fim": 1243,
+      "trecho": "diversos julgados do Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1495,
+      "fim": 1538,
+      "trecho": "Apelação Cível nº 2105432-11.2021.8.26.0100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1764,
+      "fim": 1782,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2239,
+      "fim": 2289,
+      "trecho": "Agravo de Instrumento nº 2201548-88.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2598,
+      "fim": 2642,
+      "trecho": "artigo 85, § 11, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2733,
+      "fim": 2783,
+      "trecho": "Protocolo de Padronização de Honorários TJ-SP/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

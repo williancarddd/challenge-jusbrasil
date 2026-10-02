@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0344",
+  "citacoes": [
+    {
+      "inicio": 634,
+      "fim": 660,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 951,
+      "fim": 980,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1192,
+      "fim": 1242,
+      "trecho": "Agravo de Instrumento nº 2233445-66.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1534,
+      "fim": 1563,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1729,
+      "fim": 1755,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2109,
+      "fim": 2125,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2210,
+      "fim": 2260,
+      "trecho": "Protocolo de Danos Bio-Psíquicos do TJSP-XPTO-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

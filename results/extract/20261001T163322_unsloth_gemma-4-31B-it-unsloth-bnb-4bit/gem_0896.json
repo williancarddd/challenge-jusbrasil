@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0896",
+  "citacoes": [
+    {
+      "inicio": 912,
+      "fim": 938,
+      "trecho": "Lei 12.016/2009, artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1322,
+      "fim": 1348,
+      "trecho": "TST-RR-8899-2021-5-02-0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1526,
+      "fim": 1543,
+      "trecho": "Súmula 123 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1855,
+      "fim": 1891,
+      "trecho": "Código de Processo Civil, artigo 286",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2210,
+      "fim": 2244,
+      "trecho": "normas do Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2307,
+      "fim": 2337,
+      "trecho": "Instrução Normativa TST-X-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2545,
+      "fim": 2574,
+      "trecho": "diversos julgados desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

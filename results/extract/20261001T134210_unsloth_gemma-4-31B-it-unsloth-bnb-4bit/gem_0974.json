@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0974",
+  "citacoes": [
+    {
+      "inicio": 686,
+      "fim": 724,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1400,
+      "fim": 1417,
+      "trecho": "REsp 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1558,
+      "fim": 1575,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1711,
+      "fim": 1740,
+      "trecho": "artigo 124 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1984,
+      "fim": 2015,
+      "trecho": "Acórdão-Referência STJ-99X-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2547,
+      "fim": 2576,
+      "trecho": "artigo 932, inciso XI, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

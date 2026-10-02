@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0292",
+  "citacoes": [
+    {
+      "inicio": 1009,
+      "fim": 1038,
+      "trecho": "art. 30 da Lei nº 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1283,
+      "fim": 1296,
+      "trecho": "ARE 1.122.333",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1495,
+      "fim": 1547,
+      "trecho": "art. 124, inciso II, alínea d, da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1690,
+      "fim": 1700,
+      "trecho": "RE 987.654",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2326,
+      "fim": 2344,
+      "trecho": "AgRg no AI 456.789",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2605,
+      "fim": 2626,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

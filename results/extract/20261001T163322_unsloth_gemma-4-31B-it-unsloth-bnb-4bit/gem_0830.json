@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0830",
+  "citacoes": [
+    {
+      "inicio": 313,
+      "fim": 342,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 666,
+      "fim": 686,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 849,
+      "fim": 875,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 954,
+      "fim": 992,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1203,
+      "trecho": "Habeas Corpus nº 12.345/STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1322,
+      "fim": 1337,
+      "trecho": "Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1342,
+      "fim": 1377,
+      "trecho": "legislação administrativa correlata",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1636,
+      "fim": 1653,
+      "trecho": "Súmula 340 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1720,
+      "fim": 1753,
+      "trecho": "Parecer Normativo nº 882/2021-AGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1991,
+      "fim": 2026,
+      "trecho": "pacificado na jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0534",
+  "citacoes": [
+    {
+      "inicio": 930,
+      "fim": 956,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1322,
+      "fim": 1359,
+      "trecho": "artigo 21, inciso IV, da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1529,
+      "fim": 1595,
+      "trecho": "Processo TRT3-00987/2021 (Rel. Des. Marcos Aurélio, j. 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2093,
+      "fim": 2137,
+      "trecho": "artigo 927, parágrafo único, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2243,
+      "fim": 2299,
+      "trecho": "Acórdão 887766-X (Rel. Des. Helena Costa, j. 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2778,
+      "fim": 2795,
+      "trecho": "Súmula 362 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

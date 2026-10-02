@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0626",
+  "citacoes": [
+    {
+      "inicio": 548,
+      "fim": 563,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 646,
+      "fim": 672,
+      "trecho": "artigo 6º da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1273,
+      "fim": 1420,
+      "trecho": "1ª Câmara de Direito Empresarial deste Tribunal, no Processo nº 0012345-67.2023.8.26.0000, relatado pelo Desembargador Ricardo Mendes em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1591,
+      "fim": 1617,
+      "trecho": "artigo 83 da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1783,
+      "fim": 1830,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2233,
+      "fim": 2250,
+      "trecho": "Súmula 449 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2781,
+      "fim": 2807,
+      "trecho": "artigo 49 da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

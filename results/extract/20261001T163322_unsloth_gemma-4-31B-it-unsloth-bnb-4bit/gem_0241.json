@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0241",
+  "citacoes": [
+    {
+      "inicio": 335,
+      "fim": 375,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 896,
+      "fim": 931,
+      "trecho": "artigo 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1158,
+      "fim": 1207,
+      "trecho": "jurisprudência consolidada deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1239,
+      "fim": 1300,
+      "trecho": "entendimento do TJSP sobre a primazia da convivência familiar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1351,
+      "fim": 1386,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1590,
+      "fim": 1655,
+      "trecho": "precedente firmado no Apelação Cível nº 2011456-12.2021.8.26.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2149,
+      "fim": 2187,
+      "trecho": "Convenção sobre os Direitos da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2217,
+      "fim": 2243,
+      "trecho": "Enunciado Interno 882-TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2362,
+      "fim": 2411,
+      "trecho": "artigo 19 do Estatuto da Criança e do Adolescente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

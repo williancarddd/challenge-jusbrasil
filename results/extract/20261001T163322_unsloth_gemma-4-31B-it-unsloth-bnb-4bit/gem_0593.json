@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0593",
+  "citacoes": [
+    {
+      "inicio": 834,
+      "fim": 859,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1005,
+      "fim": 1021,
+      "trecho": "Decreto 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1117,
+      "fim": 1149,
+      "trecho": "Recurso Especial nº 1.234.567/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1335,
+      "fim": 1392,
+      "trecho": "orientações do Conselho de Recursos da Previdência Social",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1643,
+      "fim": 1758,
+      "trecho": "Agravo de Instrumento nº 9876543-21.2022.4.04.0000 relatado pelo Desembargador Federal Ricardo Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1810,
+      "fim": 1825,
+      "trecho": "Tema 209 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2103,
+      "fim": 2128,
+      "trecho": "artigo 11 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2133,
+      "fim": 2172,
+      "trecho": "jurisprudência dominante deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

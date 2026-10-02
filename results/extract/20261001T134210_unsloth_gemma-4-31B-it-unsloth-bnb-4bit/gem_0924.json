@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0924",
+  "citacoes": [
+    {
+      "inicio": 927,
+      "fim": 944,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1280,
+      "fim": 1317,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1463,
+      "fim": 1499,
+      "trecho": "Julgado nº 2233445-11.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1618,
+      "fim": 1649,
+      "trecho": "Precedente Interno TJSP-ID-9988",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1777,
+      "fim": 1829,
+      "trecho": "NR 15 da Portaria 3.214/78 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2145,
+      "fim": 2162,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2500,
+      "fim": 2517,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

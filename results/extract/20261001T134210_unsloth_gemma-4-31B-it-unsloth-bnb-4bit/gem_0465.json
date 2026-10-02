@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0465",
+  "citacoes": [
+    {
+      "inicio": 248,
+      "fim": 287,
+      "trecho": "art. 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 720,
+      "fim": 817,
+      "trecho": "Recurso Especial nº 1.987.654/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 955,
+      "fim": 970,
+      "trecho": "Lei 13.465/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1466,
+      "trecho": "AgInt no AREsp nº 2.110.334/RJ, de relatoria do Ministro Silas Rocha, datado de 18 de agosto de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1647,
+      "fim": 1664,
+      "trecho": "Súmula 310 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1785,
+      "fim": 1797,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1968,
+      "fim": 2000,
+      "trecho": "Decisão Interna STJ-XPTO-2024-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2225,
+      "fim": 2250,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2284,
+      "fim": 2334,
+      "trecho": "garantias constitucionais do devido processo legal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

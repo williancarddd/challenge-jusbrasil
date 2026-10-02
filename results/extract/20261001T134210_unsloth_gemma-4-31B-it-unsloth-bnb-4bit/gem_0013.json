@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0013",
+  "citacoes": [
+    {
+      "inicio": 487,
+      "fim": 511,
+      "trecho": "Lei nº 8.250/91, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 718,
+      "fim": 744,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 857,
+      "fim": 870,
+      "trecho": "RMS 12.450/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1219,
+      "fim": 1236,
+      "trecho": "REsp 1.890.221/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1596,
+      "fim": 1632,
+      "trecho": "Instrução Normativa Interna STM-99/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1624,
+      "fim": 1632,
+      "trecho": "STM-99/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1745,
+      "fim": 1775,
+      "trecho": "Constituição Federal, art. 142",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1952,
+      "fim": 1976,
+      "trecho": "AgRg no AREsp 554.321/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2256,
+      "fim": 2287,
+      "trecho": "doutrina administrativa militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

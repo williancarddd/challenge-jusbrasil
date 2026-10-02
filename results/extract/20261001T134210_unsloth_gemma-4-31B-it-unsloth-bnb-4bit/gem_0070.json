@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0070",
+  "citacoes": [
+    {
+      "inicio": 655,
+      "fim": 690,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1012,
+      "fim": 1041,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1213,
+      "fim": 1241,
+      "trecho": "AC 5008901-12.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1346,
+      "fim": 1361,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1618,
+      "fim": 1663,
+      "trecho": "Convenção sobre os Direitos da Criança da ONU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1868,
+      "fim": 1895,
+      "trecho": "artigo 3º da Lei 8.069/1990",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2060,
+      "fim": 2099,
+      "trecho": "Parecer Técnico n° 998/2022-VaraFamília",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2244,
+      "fim": 2261,
+      "trecho": "Súmula 602 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

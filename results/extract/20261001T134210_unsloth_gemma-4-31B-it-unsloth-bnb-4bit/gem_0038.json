@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0038",
+  "citacoes": [
+    {
+      "inicio": 675,
+      "fim": 715,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1301,
+      "fim": 1347,
+      "trecho": "jurisprudência deste Tribunal Superior Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1435,
+      "fim": 1457,
+      "trecho": "Processo STM-8821/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1637,
+      "fim": 1666,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1816,
+      "fim": 1842,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2025,
+      "fim": 2046,
+      "trecho": "Acórdão STM-1102/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2167,
+      "fim": 2219,
+      "trecho": "normas de responsabilidade civil do servidor público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

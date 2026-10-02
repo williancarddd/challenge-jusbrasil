@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_1000",
+  "citacoes": [
+    {
+      "inicio": 869,
+      "fim": 904,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1043,
+      "fim": 1069,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1327,
+      "fim": 1370,
+      "trecho": "Apelação Cível nº 2105432-11.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1462,
+      "fim": 1477,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1805,
+      "fim": 1825,
+      "trecho": "diversos julgados do",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2050,
+      "fim": 2068,
+      "trecho": "Súmula 601 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2145,
+      "fim": 2191,
+      "trecho": "Diretriz Interna de Família nº 88/2019 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2309,
+      "fim": 2344,
+      "trecho": "artigo 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0041",
+  "citacoes": [
+    {
+      "inicio": 620,
+      "fim": 664,
+      "trecho": "art. 59, § 1º, inciso IX, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1183,
+      "fim": 1206,
+      "trecho": "Informativo 1202 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1315,
+      "fim": 1353,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1509,
+      "fim": 1537,
+      "trecho": "Julgado nº 88412/2021 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1736,
+      "fim": 1754,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1892,
+      "fim": 1909,
+      "trecho": "Súmula 487 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

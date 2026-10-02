@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0419",
+  "citacoes": [
+    {
+      "inicio": 1155,
+      "fim": 1208,
+      "trecho": "Norma Regulamentadora nº 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1392,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1520,
+      "fim": 1537,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1704,
+      "fim": 1743,
+      "trecho": "Processo TST-RR-12345-67.2020.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1944,
+      "fim": 1992,
+      "trecho": "artigo 7º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2088,
+      "trecho": "Precedente Interno TST-REF-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2300,
+      "fim": 2334,
+      "trecho": "decisões anteriores deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2388,
+      "fim": 2408,
+      "trecho": "Súmula nº 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "documento_id": "gem_0025",
+  "citacoes": [
+    {
+      "inicio": 411,
+      "fim": 444,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 585,
+      "fim": 600,
+      "trecho": "Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 628,
+      "fim": 646,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 739,
+      "fim": 783,
+      "trecho": "artigo 1º, §§ 1º, 2º e 3º da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1009,
+      "fim": 1026,
+      "trecho": "julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1157,
+      "fim": 1170,
+      "trecho": "ARE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1292,
+      "fim": 1309,
+      "trecho": "Súmula 595 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1610,
+      "fim": 1677,
+      "trecho": "Manual de Direito Administrativo Contemporâneo (Código Ref. 2023-X)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1762,
+      "fim": 1792,
+      "trecho": "artigo 17-C da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1878,
+      "fim": 1907,
+      "trecho": "orientação do Plenário do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1928,
+      "fim": 1946,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1990,
+      "fim": 2002,
+      "trecho": "RE 1.112.223",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2374,
+      "fim": 2394,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

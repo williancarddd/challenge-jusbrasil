@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0244",
+  "citacoes": [
+    {
+      "inicio": 372,
+      "fim": 412,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 864,
+      "fim": 881,
+      "trecho": "Lei nº 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1149,
+      "fim": 1176,
+      "trecho": "Lei nº 14.133/2021, art. 75",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1287,
+      "fim": 1321,
+      "trecho": "Agravo Regimental ARE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1479,
+      "fim": 1536,
+      "trecho": "jurisprudência consolidada do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1695,
+      "fim": 1712,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2085,
+      "fim": 2134,
+      "trecho": "Lei de Introdução às Normas do Direito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2188,
+      "fim": 2220,
+      "trecho": "Recurso Especial REsp 999.888/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0658",
+  "citacoes": [
+    {
+      "inicio": 775,
+      "fim": 790,
+      "trecho": "art. 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1051,
+      "fim": 1069,
+      "trecho": "REsp nº 889.990/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1215,
+      "fim": 1257,
+      "trecho": "estatuto dos servidores públicos do estado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1436,
+      "fim": 1456,
+      "trecho": "Súmula nº 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1715,
+      "fim": 1730,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2058,
+      "fim": 2131,
+      "trecho": "jurisprudência desta Corte, exemplificada no AgInt no AREsp nº 554.321/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2298,
+      "fim": 2344,
+      "trecho": "Diretriz Administrativa Normativa nº 12-B/2010",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

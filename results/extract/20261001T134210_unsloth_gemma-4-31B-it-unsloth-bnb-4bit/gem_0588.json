@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0588",
+  "citacoes": [
+    {
+      "inicio": 668,
+      "fim": 694,
+      "trecho": "NR 15 da Portaria 3.214/78",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 794,
+      "fim": 811,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1063,
+      "fim": 1080,
+      "trecho": "Súmula 126 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1084,
+      "fim": 1110,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1264,
+      "fim": 1290,
+      "trecho": "RR-12345-67.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1706,
+      "fim": 1739,
+      "trecho": "Precedente Interno TST-BIO-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1844,
+      "fim": 1861,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1867,
+      "fim": 1899,
+      "trecho": "qualquer preceito constitucional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

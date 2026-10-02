@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0617",
+  "citacoes": [
+    {
+      "inicio": 540,
+      "fim": 580,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 993,
+      "fim": 1104,
+      "trecho": "decisão proferida no Processo STM-12345/2021, relatada pelo Ministro Dr. Alberto Silveira em 15 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1201,
+      "fim": 1237,
+      "trecho": "decisões do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1534,
+      "fim": 1576,
+      "trecho": "artigo 29 do Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1792,
+      "fim": 1847,
+      "trecho": "STJ no REsp 1.987.654, julgado em 10 de outubro de 2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2460,
+      "fim": 2486,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

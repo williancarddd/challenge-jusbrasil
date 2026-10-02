@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0819",
+  "citacoes": [
+    {
+      "inicio": 605,
+      "fim": 650,
+      "trecho": "artigo 921, § 4º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1096,
+      "fim": 1146,
+      "trecho": "Agravo de Instrumento nº 2233445-11.2023.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1319,
+      "fim": 1416,
+      "trecho": "Apelação Cível nº 100200300400, relatado pelo Desembargador Marcos Aurélio Silveira em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1562,
+      "fim": 1579,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1927,
+      "fim": 1987,
+      "trecho": "jurisprudência do Tribunal de Justiça do Estado de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2046,
+      "fim": 2158,
+      "trecho": "julgado Habeas Corpus Executório nº 998877-X, de relatoria da Desembargadora Helena Mendes, datado de 10/08/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2455,
+      "fim": 2507,
+      "trecho": "interpretação dada pelo Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2727,
+      "fim": 2756,
+      "trecho": "legislação processual vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

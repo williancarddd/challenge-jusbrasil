@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0561",
+  "citacoes": [
+    {
+      "inicio": 624,
+      "fim": 652,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 949,
+      "fim": 959,
+      "trecho": "RE 561.890",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1263,
+      "trecho": "Lei de Recuperação e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1470,
+      "fim": 1498,
+      "trecho": "artigo 84 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1623,
+      "fim": 1640,
+      "trecho": "Súmula 480 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1908,
+      "fim": 1936,
+      "trecho": "Precedente Interno RF-9921-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

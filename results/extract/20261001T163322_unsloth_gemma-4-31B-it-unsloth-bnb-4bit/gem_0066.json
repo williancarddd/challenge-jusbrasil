@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0066",
+  "citacoes": [
+    {
+      "inicio": 1051,
+      "fim": 1096,
+      "trecho": "artigo 921, § 4º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1477,
+      "fim": 1527,
+      "trecho": "Agravo de Instrumento nº 2214567-89.2023.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1704,
+      "fim": 1749,
+      "trecho": "doutrina especializada sobre a execução civil",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2032,
+      "fim": 2052,
+      "trecho": "REsp nº 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2160,
+      "fim": 2186,
+      "trecho": "artigo 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2463,
+      "fim": 2488,
+      "trecho": "Regimento Interno do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2537,
+      "fim": 2574,
+      "trecho": "Provimento Normativo nº 999/2024-TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

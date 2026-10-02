@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0214",
+  "citacoes": [
+    {
+      "inicio": 793,
+      "fim": 829,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1067,
+      "fim": 1080,
+      "trecho": "HC 567.890/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1451,
+      "fim": 1500,
+      "trecho": "Lei 13.964/2019, no seu art. 316, parágrafo único",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1742,
+      "fim": 1755,
+      "trecho": "HC 123.456/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1869,
+      "fim": 1905,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2090,
+      "fim": 2118,
+      "trecho": "Diretriz Interna TJSP-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2329,
+      "fim": 2344,
+      "trecho": "doutrina pátria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

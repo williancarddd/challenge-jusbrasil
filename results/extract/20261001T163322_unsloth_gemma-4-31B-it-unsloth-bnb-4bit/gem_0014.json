@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0014",
+  "citacoes": [
+    {
+      "inicio": 471,
+      "fim": 496,
+      "trecho": "artigo 68 da Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 884,
+      "fim": 915,
+      "trecho": "NR 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 992,
+      "fim": 1025,
+      "trecho": "Julgado 5001234-88.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1291,
+      "fim": 1313,
+      "trecho": "jurisprudência do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1473,
+      "fim": 1515,
+      "trecho": "Súmula 15 do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1920,
+      "fim": 1952,
+      "trecho": "Precedente Interno TRF4-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2068,
+      "fim": 2102,
+      "trecho": "processo 5009876-11.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2504,
+      "fim": 2516,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

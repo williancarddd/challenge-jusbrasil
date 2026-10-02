@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0054",
+  "citacoes": [
+    {
+      "inicio": 564,
+      "fim": 604,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 894,
+      "fim": 953,
+      "trecho": "jurisprudência deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1113,
+      "fim": 1145,
+      "trecho": "Recurso Especial nº 1.890.456/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1380,
+      "fim": 1406,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1743,
+      "fim": 1785,
+      "trecho": "diretrizes do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1901,
+      "fim": 1917,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2097,
+      "fim": 2134,
+      "trecho": "Manual de Cálculos da Justiça Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2214,
+      "fim": 2260,
+      "trecho": "Processo Administrativo Interno nº 8877-X/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2439,
+      "fim": 2465,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

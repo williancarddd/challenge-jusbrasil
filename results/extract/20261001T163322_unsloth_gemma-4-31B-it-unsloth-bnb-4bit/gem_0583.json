@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0583",
+  "citacoes": [
+    {
+      "inicio": 350,
+      "fim": 390,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1119,
+      "fim": 1147,
+      "trecho": "artigo 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1360,
+      "fim": 1418,
+      "trecho": "Tribunal Superior do Trabalho já decidiu em casos análogos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1573,
+      "fim": 1599,
+      "trecho": "RR-88990-12.2019.5.02.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1885,
+      "fim": 1894,
+      "trecho": "lei civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1997,
+      "fim": 2014,
+      "trecho": "Súmula 362 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2159,
+      "fim": 2192,
+      "trecho": "Parecer Normativo nº 452/2021-CGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

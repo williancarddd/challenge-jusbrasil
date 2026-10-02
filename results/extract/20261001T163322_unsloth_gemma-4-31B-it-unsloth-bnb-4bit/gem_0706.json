@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0706",
+  "citacoes": [
+    {
+      "inicio": 776,
+      "fim": 814,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1067,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1287,
+      "fim": 1300,
+      "trecho": "ARE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1523,
+      "fim": 1541,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1627,
+      "fim": 1637,
+      "trecho": "RE 987.654",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1983,
+      "fim": 2012,
+      "trecho": "artigo 124 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2165,
+      "fim": 2199,
+      "trecho": "precedente fixado no HC 112.233/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2261,
+      "fim": 2320,
+      "trecho": "diretriz do Protocolo de Estabilidade Contratual-STF-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

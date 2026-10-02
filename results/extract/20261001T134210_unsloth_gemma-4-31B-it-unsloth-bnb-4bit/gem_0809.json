@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0809",
+  "citacoes": [
+    {
+      "inicio": 814,
+      "fim": 832,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 860,
+      "fim": 899,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1146,
+      "fim": 1183,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1310,
+      "fim": 1353,
+      "trecho": "Apelação Cível nº 2104567-12.2022.8.26.0562",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1641,
+      "fim": 1665,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1891,
+      "fim": 1941,
+      "trecho": "Agravo de Instrumento nº 2201234-56.2023.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1998,
+      "fim": 2046,
+      "trecho": "Manual de Procedimentos Internos do TJSP-Ref-809",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2234,
+      "fim": 2261,
+      "trecho": "Legislação Civil Brasileira",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

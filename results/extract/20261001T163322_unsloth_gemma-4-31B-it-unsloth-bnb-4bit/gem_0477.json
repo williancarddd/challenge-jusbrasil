@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0477",
+  "citacoes": [
+    {
+      "inicio": 826,
+      "fim": 852,
+      "trecho": "Lei nº 8.245/91, artigo 9º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1109,
+      "fim": 1144,
+      "trecho": "Processo TST-RR-4455-2021-5-04-0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1326,
+      "fim": 1362,
+      "trecho": "Código de Processo Civil, artigo 525",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1696,
+      "fim": 1728,
+      "trecho": "precedentes desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2010,
+      "fim": 2037,
+      "trecho": "Lei nº 11.101/05, artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2160,
+      "fim": 2203,
+      "trecho": "entendimentos jurisprudenciais consolidados",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

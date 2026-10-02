@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0350",
+  "citacoes": [
+    {
+      "inicio": 324,
+      "fim": 364,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1204,
+      "fim": 1245,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1357,
+      "fim": 1383,
+      "trecho": "RR-12345-67.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1482,
+      "fim": 1499,
+      "trecho": "artigo 191 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1713,
+      "fim": 1744,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1903,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2015,
+      "fim": 2032,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2217,
+      "fim": 2248,
+      "trecho": "julgado do processo ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2416,
+      "fim": 2437,
+      "trecho": "jurisprudência do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

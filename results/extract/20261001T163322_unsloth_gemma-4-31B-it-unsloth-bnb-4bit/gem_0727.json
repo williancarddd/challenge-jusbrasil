@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0727",
+  "citacoes": [
+    {
+      "inicio": 586,
+      "fim": 629,
+      "trecho": "art. 282, § 6º, do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 898,
+      "fim": 949,
+      "trecho": "HC-8821-2023-TST (Rel. Min. Alencar, j. 12/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1010,
+      "fim": 1064,
+      "trecho": "jurisprudência consolidada do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1234,
+      "fim": 1270,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1346,
+      "fim": 1391,
+      "trecho": "art. 5º, inciso LVII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1410,
+      "fim": 1459,
+      "trecho": "RHC-10293-2022 (Rel. Min. Beatriz, j. 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1812,
+      "fim": 1885,
+      "trecho": "Conselho Nacional de Justiça em suas diretrizes sobre a gestão de prisões",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1920,
+      "fim": 1963,
+      "trecho": "Protocolo de Garantias Judiciais PG-778-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

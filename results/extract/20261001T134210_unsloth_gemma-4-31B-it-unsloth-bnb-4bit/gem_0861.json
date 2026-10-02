@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0861",
+  "citacoes": [
+    {
+      "inicio": 1518,
+      "fim": 1565,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1771,
+      "fim": 1784,
+      "trecho": "RMS 24.150/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1927,
+      "fim": 1951,
+      "trecho": "Lei nº 9.784/99, art. 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2049,
+      "fim": 2079,
+      "trecho": "Agravo Regimental no MS 30.122",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2395,
+      "fim": 2435,
+      "trecho": "processo administrativo normativo do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2539,
+      "fim": 2556,
+      "trecho": "Súmula 422 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2669,
+      "fim": 2714,
+      "trecho": "Norma Interna de Gestão de Pessoas NI-2022-XP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0065",
+  "citacoes": [
+    {
+      "inicio": 436,
+      "fim": 439,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 658,
+      "fim": 673,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 686,
+      "fim": 732,
+      "trecho": "jurisprudência deste Superior Tribunal Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 919,
+      "fim": 938,
+      "trecho": "entendimento do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1113,
+      "fim": 1150,
+      "trecho": "Estatuto dos Militares (Lei 6.880/80)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1195,
+      "fim": 1257,
+      "trecho": "MS 12.345/DF, relatado pelo Ministro Dr. Alencar em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1504,
+      "fim": 1524,
+      "trecho": "Habeas Data 9.876/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1621,
+      "fim": 1659,
+      "trecho": "Instrução Normativa Interna-STM-2023/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1820,
+      "fim": 1840,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2079,
+      "trecho": "precedente firmado no Agravo Regimental 55.667/MG, julgado em 10/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2463,
+      "fim": 2499,
+      "trecho": "linha decisória desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

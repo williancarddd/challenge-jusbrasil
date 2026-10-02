@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0601",
+  "citacoes": [
+    {
+      "inicio": 872,
+      "fim": 912,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1238,
+      "fim": 1327,
+      "trecho": "Recurso Extraordinário nº 1.234.567/SP, Relator Min. Marco Aurélio, julgado em 15/03/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1564,
+      "fim": 1590,
+      "trecho": "Código Civil no artigo 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1824,
+      "fim": 1908,
+      "trecho": "Habeas Corpus nº 987.654/RJ, Relator Min. Ricardo Lewandowski, julgado em 10/11/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2074,
+      "fim": 2152,
+      "trecho": "Agravo Interno nº 456.789/MG, Relator Min. Dias Toffoli, julgado em 22/01/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2494,
+      "fim": 2532,
+      "trecho": "Julgado Administrativo nº 001/2023-XPT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2610,
+      "fim": 2652,
+      "trecho": "Código de Trânsito Brasileiro no artigo 28",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

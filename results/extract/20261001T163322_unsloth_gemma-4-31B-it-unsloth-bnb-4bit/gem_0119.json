@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0119",
+  "citacoes": [
+    {
+      "inicio": 858,
+      "fim": 881,
+      "trecho": "art. 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1089,
+      "fim": 1115,
+      "trecho": "processo TRT3-AG-2022-9988",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1406,
+      "fim": 1430,
+      "trecho": "julgado do Pleno do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1600,
+      "fim": 1641,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1786,
+      "fim": 1822,
+      "trecho": "art. 59, inciso III, da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1948,
+      "fim": 1983,
+      "trecho": "Instrução Normativa IN-TRT3-2021-X7",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2243,
+      "fim": 2280,
+      "trecho": "entendimento do STJ no REsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

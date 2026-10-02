@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0526",
+  "citacoes": [
+    {
+      "inicio": 878,
+      "fim": 893,
+      "trecho": "Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1307,
+      "fim": 1347,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1439,
+      "fim": 1454,
+      "trecho": "Lei nº 8.399/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1583,
+      "fim": 1632,
+      "trecho": "REsp 1.340.553/RS do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1865,
+      "fim": 1882,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2125,
+      "fim": 2150,
+      "trecho": "artigo 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2238,
+      "fim": 2273,
+      "trecho": "Precedente Interno TST-VAR-526-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

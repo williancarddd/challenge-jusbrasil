@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0460",
+  "citacoes": [
+    {
+      "inicio": 903,
+      "fim": 920,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1172,
+      "fim": 1208,
+      "trecho": "Lei 14.133/2021, art. 6º, inciso LVI",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1521,
+      "fim": 1543,
+      "trecho": "AIRR-1000-2023-TST-XYZ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1698,
+      "fim": 1721,
+      "trecho": "Lei 8.666/1993, art. 71",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1955,
+      "fim": 1974,
+      "trecho": "RR-5544-12-2022-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2119,
+      "fim": 2139,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2242,
+      "fim": 2275,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2366,
+      "fim": 2390,
+      "trecho": "Ag-AIRR-9988-77-2021-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2645,
+      "fim": 2662,
+      "trecho": "Súmula 126 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

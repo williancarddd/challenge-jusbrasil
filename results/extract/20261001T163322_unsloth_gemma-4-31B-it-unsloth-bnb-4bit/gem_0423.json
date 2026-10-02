@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0423",
+  "citacoes": [
+    {
+      "inicio": 771,
+      "fim": 799,
+      "trecho": "Lei nº 9.784/1999, artigo 59",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 983,
+      "fim": 1012,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1140,
+      "fim": 1191,
+      "trecho": "TRF4, no julgamento do MS 5001234-56.2021.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1282,
+      "fim": 1331,
+      "trecho": "Constituição Federal, em seu artigo 5º, inciso LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1536,
+      "fim": 1565,
+      "trecho": "Regimento Interno do Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1775,
+      "fim": 1785,
+      "trecho": "Súmula 456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1884,
+      "fim": 1922,
+      "trecho": "Lei do Processo Administrativo Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2141,
+      "fim": 2170,
+      "trecho": "Norma Interna NIT-TRF4-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2301,
+      "fim": 2327,
+      "trecho": "Lei 12.016/2009, artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

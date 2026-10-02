@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0124",
+  "citacoes": [
+    {
+      "inicio": 42,
+      "fim": 93,
+      "trecho": "ACÓRDÃO N. 1.234/SP DO SUPERIOR TRIBUNAL DE JUSTIÇA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 365,
+      "fim": 405,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 818,
+      "fim": 856,
+      "trecho": "artigo 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1133,
+      "fim": 1165,
+      "trecho": "Recurso Especial n. 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1491,
+      "fim": 1530,
+      "trecho": "Agravo Interno no AREsp n. 2.100.500/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1676,
+      "fim": 1693,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2127,
+      "fim": 2194,
+      "trecho": "entendimento firmado no Informativo de Jurisprudência n. 789 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2295,
+      "fim": 2343,
+      "trecho": "Protocolo de Uniformização de Execuções 2023-XYZ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

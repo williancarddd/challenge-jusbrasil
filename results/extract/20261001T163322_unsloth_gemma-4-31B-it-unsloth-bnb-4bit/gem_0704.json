@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0704",
+  "citacoes": [
+    {
+      "inicio": 977,
+      "fim": 1000,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1198,
+      "fim": 1230,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1458,
+      "fim": 1496,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1767,
+      "fim": 1803,
+      "trecho": "Recurso Repetitivo REsp 1.341.527/MT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1829,
+      "fim": 1846,
+      "trecho": "Súmula 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1974,
+      "fim": 1989,
+      "trecho": "Tema 566 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2214,
+      "fim": 2243,
+      "trecho": "norma do CTN sobre prescrição",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2326,
+      "fim": 2381,
+      "trecho": "Protocolo de Gestão Processual GP-2024-X deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2473,
+      "fim": 2505,
+      "trecho": "regimento interno deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

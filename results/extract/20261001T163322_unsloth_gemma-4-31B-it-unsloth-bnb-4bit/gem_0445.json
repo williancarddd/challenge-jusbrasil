@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0445",
+  "citacoes": [
+    {
+      "inicio": 330,
+      "fim": 370,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 989,
+      "fim": 1006,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1250,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1505,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1606,
+      "fim": 1658,
+      "trecho": "Apelação Cível nº 20112233/SP, julgado em 10/01/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1705,
+      "fim": 1736,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1831,
+      "fim": 1867,
+      "trecho": "Agravo de Instrumento nº 55443322/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1936,
+      "fim": 1966,
+      "trecho": "legislação trabalhista vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2085,
+      "trecho": "Recurso Ordinário nº 88776655/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

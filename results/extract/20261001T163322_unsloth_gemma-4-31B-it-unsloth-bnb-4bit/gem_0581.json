@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0581",
+  "citacoes": [
+    {
+      "inicio": 656,
+      "fim": 680,
+      "trecho": "Lei nº 8.213/91, art. 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1197,
+      "fim": 1237,
+      "trecho": "Supremo Tribunal Federal no RE 1.166.761",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1458,
+      "fim": 1495,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1572,
+      "fim": 1608,
+      "trecho": "julgado nº 2105432-88.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1740,
+      "fim": 1775,
+      "trecho": "Constituição Federal, art. 40, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2107,
+      "fim": 2175,
+      "trecho": "entendimento consolidado em súmulas do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2288,
+      "fim": 2329,
+      "trecho": "tese fixada no AgRg no AREsp 1.543.210/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2634,
+      "fim": 2649,
+      "trecho": "Lei nº 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2729,
+      "fim": 2764,
+      "trecho": "Regimento Interno do TJSP, art. 112",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

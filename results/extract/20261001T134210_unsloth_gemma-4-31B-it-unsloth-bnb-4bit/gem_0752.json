@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0752",
+  "citacoes": [
+    {
+      "inicio": 326,
+      "fim": 366,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 706,
+      "fim": 731,
+      "trecho": "artigo 62 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1070,
+      "fim": 1105,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1230,
+      "fim": 1247,
+      "trecho": "REsp 1.890.123/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1419,
+      "fim": 1444,
+      "trecho": "AgInt no AREsp 543.210/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1595,
+      "fim": 1613,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1899,
+      "fim": 1937,
+      "trecho": "orientação do STJ em julgados análogos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2184,
+      "fim": 2208,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

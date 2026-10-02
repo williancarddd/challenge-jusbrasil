@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0991",
+  "citacoes": [
+    {
+      "inicio": 928,
+      "fim": 953,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1109,
+      "fim": 1138,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1359,
+      "fim": 1402,
+      "trecho": "Apelação Cível nº 1002345-12.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1545,
+      "fim": 1602,
+      "trecho": "orientações do Conselho de Recursos da Previdência Social",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1846,
+      "fim": 1884,
+      "trecho": "artigo 370 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2068,
+      "trecho": "Tema 209 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2269,
+      "fim": 2324,
+      "trecho": "normas de segurança do Ministério do Trabalho e Emprego",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2530,
+      "fim": 2546,
+      "trecho": "Súmula 11 do TNU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2656,
+      "fim": 2685,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

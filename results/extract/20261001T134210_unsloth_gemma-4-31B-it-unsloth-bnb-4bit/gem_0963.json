@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0963",
+  "citacoes": [
+    {
+      "inicio": 341,
+      "fim": 381,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 891,
+      "fim": 926,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 970,
+      "fim": 987,
+      "trecho": "Súmula 412 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1258,
+      "fim": 1279,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1369,
+      "fim": 1386,
+      "trecho": "REsp 1.987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1576,
+      "fim": 1608,
+      "trecho": "Resolução Interna RF-99-X do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2083,
+      "fim": 2098,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

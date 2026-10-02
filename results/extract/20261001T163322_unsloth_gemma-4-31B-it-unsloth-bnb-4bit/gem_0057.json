@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0057",
+  "citacoes": [
+    {
+      "inicio": 743,
+      "fim": 781,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1115,
+      "fim": 1132,
+      "trecho": "REsp 1.340.553/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1387,
+      "fim": 1409,
+      "trecho": "jurisprudência do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1685,
+      "fim": 1708,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1879,
+      "fim": 2001,
+      "trecho": "Agravo de Instrumento nº 5012345-67.2021.4.04.0000, relatado pelo Desembargador Federal Marcos Aurélio Silva em 15/03/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2105,
+      "fim": 2122,
+      "trecho": "Súmula 106 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2346,
+      "fim": 2380,
+      "trecho": "Parecer Normativo nº 882/2019-PGFN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2646,
+      "fim": 2694,
+      "trecho": "art. 487, inciso II, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

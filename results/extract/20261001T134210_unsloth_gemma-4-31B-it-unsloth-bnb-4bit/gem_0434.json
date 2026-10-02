@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0434",
+  "citacoes": [
+    {
+      "inicio": 399,
+      "fim": 437,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 895,
+      "fim": 921,
+      "trecho": "art. 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1240,
+      "fim": 1253,
+      "trecho": "HC 123.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1310,
+      "fim": 1339,
+      "trecho": "Recurso Especial 1.987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1474,
+      "fim": 1526,
+      "trecho": "Enunciado 44 do Conselho Superior de Justiça Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1760,
+      "fim": 1799,
+      "trecho": "Lei de Recuperação Judicial e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1978,
+      "fim": 2002,
+      "trecho": "Agravo Interno 9988/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2082,
+      "fim": 2135,
+      "trecho": "Protocolo de Convergência Fiscal-Trabalhista 001/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

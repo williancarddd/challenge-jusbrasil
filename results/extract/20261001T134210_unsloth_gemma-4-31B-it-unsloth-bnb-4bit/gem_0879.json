@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0879",
+  "citacoes": [
+    {
+      "inicio": 598,
+      "fim": 631,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 815,
+      "fim": 832,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 870,
+      "fim": 888,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 934,
+      "fim": 968,
+      "trecho": "Lei 8.429/92, no seu art. 1º, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1274,
+      "fim": 1288,
+      "trecho": "REsp 1.876.543",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1587,
+      "fim": 1602,
+      "trecho": "julgados do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1826,
+      "fim": 1842,
+      "trecho": "Súmula 45 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1872,
+      "fim": 1896,
+      "trecho": "Agravo Interno 987.654-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2112,
+      "fim": 2136,
+      "trecho": "art. 23 da Lei 14.230/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2247,
+      "fim": 2287,
+      "trecho": "doutrina administrativista contemporânea",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2571,
+      "fim": 2615,
+      "trecho": "Protocolo de Integridade Judiciária PIJ-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

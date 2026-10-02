@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0109",
+  "citacoes": [
+    {
+      "inicio": 750,
+      "fim": 802,
+      "trecho": "Constituição Federal, em seu art. 37, § 6º, da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1082,
+      "fim": 1124,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1517,
+      "fim": 1527,
+      "trecho": "RE 658.432",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1709,
+      "fim": 1733,
+      "trecho": "art. 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1799,
+      "fim": 1823,
+      "trecho": "art. 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2018,
+      "fim": 2039,
+      "trecho": "AgRg no ARE 1.092.341",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2166,
+      "fim": 2244,
+      "trecho": "Protocolo Interno de Triagem de Responsabilidade Administrativa - PITRA-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

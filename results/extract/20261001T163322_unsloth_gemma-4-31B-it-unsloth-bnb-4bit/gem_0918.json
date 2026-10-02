@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0918",
+  "citacoes": [
+    {
+      "inicio": 618,
+      "fim": 633,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 767,
+      "fim": 791,
+      "trecho": "art. 47 da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 974,
+      "fim": 1003,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1121,
+      "fim": 1171,
+      "trecho": "Agravo de Instrumento nº 2204510-12.2023.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1382,
+      "fim": 1385,
+      "trecho": "STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1597,
+      "fim": 1621,
+      "trecho": "art. 6º da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1612,
+      "fim": 1621,
+      "trecho": "11.101/05",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1689,
+      "fim": 1725,
+      "trecho": "súmula vinculante pertinente ao tema",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1763,
+      "fim": 1810,
+      "trecho": "Enunciado nº 12 do Conselho Superior de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2095,
+      "fim": 2145,
+      "trecho": "Agravo de Instrumento nº 2155430-88.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2277,
+      "fim": 2302,
+      "trecho": "Regimento Interno do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

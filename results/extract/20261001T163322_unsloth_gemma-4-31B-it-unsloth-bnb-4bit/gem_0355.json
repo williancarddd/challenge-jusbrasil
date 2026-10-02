@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0355",
+  "citacoes": [
+    {
+      "inicio": 604,
+      "fim": 651,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 797,
+      "fim": 838,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1061,
+      "fim": 1079,
+      "trecho": "RMS-12345-2023-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1230,
+      "fim": 1258,
+      "trecho": "artigo 1º da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1444,
+      "fim": 1507,
+      "trecho": "Relator Ministro Aurélio Viana, em voto proferido em 15/05/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1678,
+      "fim": 1700,
+      "trecho": "Ag-AIRR-98765-2022-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1920,
+      "fim": 1944,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2103,
+      "fim": 2141,
+      "trecho": "Lei de Processo Administrativo Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2292,
+      "fim": 2319,
+      "trecho": "Súmula 456 do TST-Adm-Ref-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

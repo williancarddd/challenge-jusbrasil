@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0094",
+  "citacoes": [
+    {
+      "inicio": 759,
+      "fim": 782,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 852,
+      "fim": 877,
+      "trecho": "Processo TRT3-998877-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1030,
+      "fim": 1045,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1474,
+      "fim": 1508,
+      "trecho": "Recurso Especial REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1658,
+      "fim": 1674,
+      "trecho": "Decreto 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1788,
+      "fim": 1817,
+      "trecho": "Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1883,
+      "fim": 1899,
+      "trecho": "Súmula 44 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1990,
+      "fim": 2039,
+      "trecho": "norma interna de padronização ID-TRT3-REF-2023-X1",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

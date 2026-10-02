@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0502",
+  "citacoes": [
+    {
+      "inicio": 788,
+      "fim": 835,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1119,
+      "fim": 1156,
+      "trecho": "Lei Estadual nº 10.261/68, artigo 121",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1541,
+      "fim": 1655,
+      "trecho": "Apelação Cível nº 1004567-88.2021.8.26.0000, julgado em 12/05/2022 pelo Relator Desembargador Marcos Aurélio Silva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1781,
+      "fim": 1846,
+      "trecho": "entendimento do Superior Tribunal de Justiça em diversas ocasiões",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1797,
+      "fim": 1825,
+      "trecho": "Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1915,
+      "fim": 1951,
+      "trecho": "Regimento Interno do TJSP, artigo 45",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2182,
+      "fim": 2221,
+      "trecho": "Habeas Data nº 998877-12.2023.8.26.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2387,
+      "fim": 2420,
+      "trecho": "doutrina administrativa dominante",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2514,
+      "fim": 2556,
+      "trecho": "Protocolo de Gestão Interna Variação 502-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

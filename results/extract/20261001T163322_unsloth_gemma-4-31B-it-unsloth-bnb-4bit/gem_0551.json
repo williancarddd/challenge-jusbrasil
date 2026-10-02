@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0551",
+  "citacoes": [
+    {
+      "inicio": 889,
+      "fim": 927,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1279,
+      "fim": 1296,
+      "trecho": "REsp 1.340.553/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1476,
+      "fim": 1493,
+      "trecho": "Súmula 42 do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1623,
+      "fim": 1647,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1925,
+      "fim": 1958,
+      "trecho": "Agravo de Instrumento AI-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2067,
+      "fim": 2101,
+      "trecho": "Recurso Especial REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2366,
+      "fim": 2402,
+      "trecho": "art. 924 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

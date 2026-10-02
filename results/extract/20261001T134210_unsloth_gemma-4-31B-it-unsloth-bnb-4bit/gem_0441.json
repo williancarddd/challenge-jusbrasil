@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0441",
+  "citacoes": [
+    {
+      "inicio": 691,
+      "fim": 724,
+      "trecho": "artigo 216-A da Lei nº 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1198,
+      "fim": 1215,
+      "trecho": "REsp 1.800.200/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1308,
+      "fim": 1328,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1511,
+      "fim": 1541,
+      "trecho": "Resolução nº 4.112/2018 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1763,
+      "fim": 1788,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1923,
+      "fim": 1940,
+      "trecho": "Súmula 347 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2085,
+      "fim": 2114,
+      "trecho": "Precedente Interno ID-99283-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0656",
+  "citacoes": [
+    {
+      "inicio": 812,
+      "fim": 852,
+      "trecho": "artigo 9º, inciso III, da Lei 8.245/1991",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1112,
+      "fim": 1158,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1342,
+      "fim": 1359,
+      "trecho": "REsp 1.890.452/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1748,
+      "fim": 1777,
+      "trecho": "Acórdão TST-RR-5566-2019-X-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2009,
+      "fim": 2037,
+      "trecho": "artigo 67 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2145,
+      "fim": 2174,
+      "trecho": "decisões desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2472,
+      "fim": 2489,
+      "trecho": "Súmula 487 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

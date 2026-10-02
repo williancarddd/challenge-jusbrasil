@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0848",
+  "citacoes": [
+    {
+      "inicio": 679,
+      "fim": 714,
+      "trecho": "Constituição Federal, art. 40, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1036,
+      "fim": 1048,
+      "trecho": "RE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1411,
+      "fim": 1432,
+      "trecho": "Lei 8.213/91, art. 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1627,
+      "trecho": "TSE, em julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1919,
+      "fim": 1935,
+      "trecho": "Súmula 40 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2101,
+      "fim": 2123,
+      "trecho": "Lei 8.112/90, art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2229,
+      "fim": 2314,
+      "trecho": "Agravo Interno AI-2022-001, relatado pelo Ministro Dr. Alberto Silveira em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2688,
+      "fim": 2731,
+      "trecho": "preceitos legais e constitucionais vigentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

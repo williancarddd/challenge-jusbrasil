@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0177",
+  "citacoes": [
+    {
+      "inicio": 297,
+      "fim": 317,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 537,
+      "fim": 566,
+      "trecho": "Súmula Vinculante nº 4 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 702,
+      "fim": 745,
+      "trecho": "art. 7º, inciso IV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 976,
+      "fim": 989,
+      "trecho": "RE 567.890/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1152,
+      "fim": 1168,
+      "trecho": "ARE 1.234.567/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1285,
+      "fim": 1297,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1805,
+      "fim": 1826,
+      "trecho": "Habeas Data 99.887/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1918,
+      "fim": 1965,
+      "trecho": "Manual de Gestão de Pessoal do Município X-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2507,
+      "fim": 2541,
+      "trecho": "jurisprudência desta Suprema Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

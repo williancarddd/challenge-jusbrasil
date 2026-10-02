@@ -1,0 +1,113 @@
+{
+  "documento_id": "gem_0798",
+  "citacoes": [
+    {
+      "inicio": 340,
+      "fim": 373,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 553,
+      "fim": 568,
+      "trecho": "Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 603,
+      "fim": 621,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 716,
+      "fim": 748,
+      "trecho": "artigo 1º, § 2º, da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1026,
+      "fim": 1076,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1109,
+      "fim": 1192,
+      "trecho": "RR-10203-45.2021.5.04.0000, relatado pelo Ministro Dr. Alisson Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1449,
+      "fim": 1482,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1677,
+      "fim": 1701,
+      "trecho": "julgado paradigma do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1812,
+      "fim": 1827,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1900,
+      "fim": 1927,
+      "trecho": "artigo 17-C da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2012,
+      "fim": 2089,
+      "trecho": "Manual de Direito Administrativo do Prof. Xandão (Ed. Jurídica, 2023, p. 450)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2619,
+      "fim": 2693,
+      "trecho": "Agravo de Instrumento AIRR-998877-12.2022.5.15.0000, julgado em 10/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

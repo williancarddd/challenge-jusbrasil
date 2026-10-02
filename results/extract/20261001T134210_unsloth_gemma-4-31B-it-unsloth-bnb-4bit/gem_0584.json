@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0584",
+  "citacoes": [
+    {
+      "inicio": 267,
+      "fim": 307,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 856,
+      "fim": 890,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1002,
+      "fim": 1017,
+      "trecho": "TST-INF-99283-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1185,
+      "fim": 1215,
+      "trecho": "TST-RR-12345-67.2021.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1431,
+      "fim": 1448,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1565,
+      "fim": 1594,
+      "trecho": "Lei 13.467/2017, artigo 442-B",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1722,
+      "fim": 1743,
+      "trecho": "jurisprudência do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1905,
+      "fim": 1975,
+      "trecho": "jurisprudência do STJ acerca da natureza dos contratos de agenciamento",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2293,
+      "fim": 2330,
+      "trecho": "artigo 64 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0964",
+  "citacoes": [
+    {
+      "inicio": 831,
+      "fim": 859,
+      "trecho": "artigo 3º da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1092,
+      "fim": 1137,
+      "trecho": "jurisprudência do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1357,
+      "fim": 1372,
+      "trecho": "Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1393,
+      "fim": 1402,
+      "trecho": "artigo 10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1635,
+      "fim": 1655,
+      "trecho": "REsp nº 1.890.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1772,
+      "fim": 1791,
+      "trecho": "Súmula nº 45 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1952,
+      "fim": 1984,
+      "trecho": "Norma Técnica Interna NT-2022-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2134,
+      "fim": 2166,
+      "trecho": "precedentes desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2407,
+      "fim": 2436,
+      "trecho": "artigo 1º da Lei nº 13.240/16",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

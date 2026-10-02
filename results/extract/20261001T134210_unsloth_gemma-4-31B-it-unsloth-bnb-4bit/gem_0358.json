@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0358",
+  "citacoes": [
+    {
+      "inicio": 664,
+      "fim": 698,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 944,
+      "fim": 978,
+      "trecho": "princípio da primazia da realidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 982,
+      "fim": 1044,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1228,
+      "fim": 1315,
+      "trecho": "RR-10293-44.2021.5.02.0001, relatado pelo Ministro Cláudio Mendes em 12 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1489,
+      "fim": 1509,
+      "trecho": "CLT em seu artigo 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1631,
+      "fim": 1652,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1894,
+      "fim": 1914,
+      "trecho": "Enunciado 450 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2397,
+      "fim": 2409,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2674,
+      "fim": 2739,
+      "trecho": "Ag-AIRR-55432-11.2020.5.15.0012, julgado em 20 de outubro de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0878",
+  "citacoes": [
+    {
+      "inicio": 652,
+      "fim": 690,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1199,
+      "fim": 1297,
+      "trecho": "Apelação Cível nº 2015432-11.2021.8.26.0000, Rel. Des. Marcos Aurélio Silva, julgado em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1475,
+      "fim": 1511,
+      "trecho": "Lei nº 14.133/2021 no seu artigo 137",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1778,
+      "fim": 1828,
+      "trecho": "Agravo de Instrumento nº 2203456-88.2023.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2015,
+      "fim": 2032,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2331,
+      "fim": 2368,
+      "trecho": "doutrina administrativa contemporânea",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

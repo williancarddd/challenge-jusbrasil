@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0987",
+  "citacoes": [
+    {
+      "inicio": 557,
+      "fim": 595,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 908,
+      "fim": 997,
+      "trecho": "Recurso Especial nº 1.234.567/DF, relatado pelo Ministro Dr. Augusto Mendes em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1112,
+      "fim": 1138,
+      "trecho": "Tema Repetitivo 566 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1319,
+      "fim": 1341,
+      "trecho": "Lei de Execução Fiscal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1548,
+      "fim": 1571,
+      "trecho": "Decreto-Lei nº 1.026/69",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1668,
+      "fim": 1751,
+      "trecho": "Habeas Corpus nº 987.654-SP, relatado pelo Ministro Dr. Cláudio Rocha em 20/10/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1985,
+      "fim": 2008,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2161,
+      "fim": 2244,
+      "trecho": "Acórdão ID-998877-X, de relatoria do Ministro Dr. Sérgio Lima, datado de 15/01/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

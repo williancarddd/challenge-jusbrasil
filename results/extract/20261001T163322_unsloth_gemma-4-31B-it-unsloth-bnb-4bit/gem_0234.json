@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0234",
+  "citacoes": [
+    {
+      "inicio": 581,
+      "fim": 601,
+      "trecho": "Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 780,
+      "fim": 812,
+      "trecho": "art. 125 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1155,
+      "fim": 1168,
+      "trecho": "HC 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1387,
+      "fim": 1422,
+      "trecho": "Regulamento Disciplinar do Exército",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1580,
+      "fim": 1625,
+      "trecho": "Processo Administrativo Militar nº 998/2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1776,
+      "fim": 1798,
+      "trecho": "art. 125, § 1º, do CPM",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1936,
+      "fim": 1965,
+      "trecho": "Apelação Criminal nº 54321/AM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

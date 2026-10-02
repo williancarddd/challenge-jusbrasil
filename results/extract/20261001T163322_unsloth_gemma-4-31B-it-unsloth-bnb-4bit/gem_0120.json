@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0120",
+  "citacoes": [
+    {
+      "inicio": 793,
+      "fim": 825,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1132,
+      "fim": 1165,
+      "trecho": "jurisprudência consolidada do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1337,
+      "fim": 1363,
+      "trecho": "RR-12345-67.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1573,
+      "fim": 1590,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1710,
+      "fim": 1724,
+      "trecho": "art. 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1976,
+      "fim": 2009,
+      "trecho": "Precedente Interno TST-REF-998877",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2132,
+      "fim": 2156,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0137",
+  "citacoes": [
+    {
+      "inicio": 523,
+      "fim": 559,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 756,
+      "fim": 800,
+      "trecho": "art. 37, inciso XXI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1125,
+      "fim": 1174,
+      "trecho": "diversos julgados do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1397,
+      "fim": 1505,
+      "trecho": "Agravo de Instrumento nº 5012345-67.2023.4.04.0000, relatado pelo Desembargador Ricardo Mendes em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1650,
+      "fim": 1668,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1891,
+      "fim": 1908,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2040,
+      "fim": 2081,
+      "trecho": "Parecer Técnico Normativo nº 889/2022-AGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2501,
+      "fim": 2531,
+      "trecho": "art. 124 da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

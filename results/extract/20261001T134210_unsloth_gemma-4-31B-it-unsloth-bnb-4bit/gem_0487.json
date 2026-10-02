@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0487",
+  "citacoes": [
+    {
+      "inicio": 354,
+      "fim": 394,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 956,
+      "fim": 981,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1035,
+      "fim": 1072,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1186,
+      "fim": 1229,
+      "trecho": "Apelação Cível nº 2015448-12.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1275,
+      "fim": 1288,
+      "trecho": "Súmula do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1496,
+      "fim": 1514,
+      "trecho": "Súmula 44 do TRF-4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1587,
+      "fim": 1613,
+      "trecho": "norma regulamentar do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1704,
+      "fim": 1736,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1848,
+      "trecho": "Protocolo de Análise Técnica PAT-487/TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

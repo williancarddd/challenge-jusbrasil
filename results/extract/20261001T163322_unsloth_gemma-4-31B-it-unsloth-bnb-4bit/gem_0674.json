@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0674",
+  "citacoes": [
+    {
+      "inicio": 1000,
+      "fim": 1030,
+      "trecho": "Constituição Federal, art. 114",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1288,
+      "fim": 1318,
+      "trecho": "Lei nº 13.465/2017, art. 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1509,
+      "fim": 1556,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1689,
+      "fim": 1719,
+      "trecho": "TST-RR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1837,
+      "fim": 1871,
+      "trecho": "Código de Processo Civil, art. 789",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2425,
+      "fim": 2493,
+      "trecho": "precedente interno deste Regional, registrado sob o ID-TRT3-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2658,
+      "fim": 2675,
+      "trecho": "Súmula 214 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

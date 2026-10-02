@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0636",
+  "citacoes": [
+    {
+      "inicio": 678,
+      "fim": 707,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1033,
+      "fim": 1059,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1063,
+      "fim": 1092,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1323,
+      "fim": 1351,
+      "trecho": "AC 5009876-12.2021.4.04.7100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1514,
+      "fim": 1567,
+      "trecho": "norma regulamentadora do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1834,
+      "fim": 1864,
+      "trecho": "Enunciado 543 da Súmula do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2054,
+      "fim": 2074,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2127,
+      "fim": 2158,
+      "trecho": "Processo Referencial TRF4-X9921",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

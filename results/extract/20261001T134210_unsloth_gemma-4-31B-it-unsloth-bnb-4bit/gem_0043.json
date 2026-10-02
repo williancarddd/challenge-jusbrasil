@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0043",
+  "citacoes": [
+    {
+      "inicio": 656,
+      "fim": 694,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1299,
+      "fim": 1312,
+      "trecho": "HC 123.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1373,
+      "fim": 1385,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1664,
+      "trecho": "Manual de Conduta do STM-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1939,
+      "fim": 1954,
+      "trecho": "REsp 987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2211,
+      "fim": 2223,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2284,
+      "fim": 2326,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2452,
+      "fim": 2465,
+      "trecho": "RE 543.210/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

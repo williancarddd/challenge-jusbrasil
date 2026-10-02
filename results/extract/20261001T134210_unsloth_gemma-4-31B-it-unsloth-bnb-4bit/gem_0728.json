@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0728",
+  "citacoes": [
+    {
+      "inicio": 541,
+      "fim": 558,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 737,
+      "fim": 787,
+      "trecho": "Norma Regulamentadora 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 984,
+      "fim": 1006,
+      "trecho": "Habeas Data nº 5542/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1163,
+      "fim": 1195,
+      "trecho": "jurisprudência deste E. Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1306,
+      "fim": 1322,
+      "trecho": "Súmula 80 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1346,
+      "fim": 1358,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1566,
+      "fim": 1597,
+      "trecho": "Precedente Interno TJSP-INF-992",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1976,
+      "fim": 1988,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2227,
+      "fim": 2265,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

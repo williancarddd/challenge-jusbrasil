@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0032",
+  "citacoes": [
+    {
+      "inicio": 712,
+      "fim": 748,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 917,
+      "fim": 991,
+      "trecho": "HC-12345-2023-TST, relatado pelo Ministro Dr. Aurélio Santos em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1260,
+      "fim": 1302,
+      "trecho": "Convenção Americana sobre Direitos Humanos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1437,
+      "fim": 1477,
+      "trecho": "art. 5º, LXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1527,
+      "fim": 1581,
+      "trecho": "precedente Ag-RR-98765-2022-TST, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1839,
+      "fim": 1880,
+      "trecho": "Manual de Procedimentos Cautelares do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2064,
+      "fim": 2150,
+      "trecho": "orientações do Conselho Nacional de Justiça acerca da banalização da prisão preventiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2454,
+      "fim": 2495,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

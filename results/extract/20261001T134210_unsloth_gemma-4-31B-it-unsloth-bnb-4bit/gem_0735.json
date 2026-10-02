@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0735",
+  "citacoes": [
+    {
+      "inicio": 326,
+      "fim": 366,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 985,
+      "fim": 1014,
+      "trecho": "art. 89 da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1202,
+      "fim": 1256,
+      "trecho": "art. 124, inciso II, alínea 'd', da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1633,
+      "trecho": "HC nº 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1784,
+      "fim": 1803,
+      "trecho": "Súmula nº 42 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1985,
+      "fim": 2002,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2241,
+      "fim": 2269,
+      "trecho": "Norma Técnica STM-INFRA-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2448,
+      "fim": 2466,
+      "trecho": "REsp nº 987.654/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

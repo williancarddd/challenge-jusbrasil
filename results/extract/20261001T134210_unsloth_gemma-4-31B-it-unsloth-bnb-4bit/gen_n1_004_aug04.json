@@ -1,0 +1,68 @@
+{
+  "documento_id": "gen_n1_004_aug04",
+  "citacoes": [
+    {
+      "inicio": 400,
+      "fim": 432,
+      "trecho": "APL 7357951-18.2020.7.00.0000/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 843,
+      "fim": 892,
+      "trecho": "artigo correspondente do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1234,
+      "fim": 1249,
+      "trecho": "RE 7.216.673/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1327,
+      "fim": 1359,
+      "trecho": "APL 7000136-79.2023.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1697,
+      "fim": 1732,
+      "trecho": "RSE nº 7000768-37.2025.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2114,
+      "fim": 2146,
+      "trecho": "art.\n290 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2166,
+      "fim": 2198,
+      "trecho": "RSE 7000082-11.2026.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

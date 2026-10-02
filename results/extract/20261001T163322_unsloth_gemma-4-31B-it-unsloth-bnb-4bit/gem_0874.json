@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0874",
+  "citacoes": [
+    {
+      "inicio": 629,
+      "fim": 660,
+      "trecho": "artigo 6º da Lei nº 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 982,
+      "fim": 1035,
+      "trecho": "reiterado em decisões do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1040,
+      "fim": 1102,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1241,
+      "fim": 1323,
+      "trecho": "RR-12345-67.2022.5.02.0000, relatado pelo Ministro Dr. Alceu Valente em 14/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1546,
+      "fim": 1585,
+      "trecho": "artigo 83, inciso I, da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1763,
+      "fim": 1796,
+      "trecho": "Parecer Normativo TST-RJ-882/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1921,
+      "fim": 1949,
+      "trecho": "artigo 67 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2168,
+      "fim": 2218,
+      "trecho": "jurisprudência do Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

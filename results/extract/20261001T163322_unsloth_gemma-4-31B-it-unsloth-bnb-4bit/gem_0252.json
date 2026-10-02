@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0252",
+  "citacoes": [
+    {
+      "inicio": 379,
+      "fim": 397,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 654,
+      "fim": 692,
+      "trecho": "artigo 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 904,
+      "fim": 977,
+      "trecho": "ARE 890.123/SP, relatado pelo Ministro Dr. Aurélio Silveira em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1276,
+      "fim": 1296,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1394,
+      "fim": 1430,
+      "trecho": "RE 456.789/RJ, julgado em 10/11/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1558,
+      "fim": 1605,
+      "trecho": "artigo 5º, inciso XXII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1766,
+      "fim": 1795,
+      "trecho": "Recurso Especial 1.010.202/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2032,
+      "fim": 2049,
+      "trecho": "Súmula 422 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2162,
+      "fim": 2196,
+      "trecho": "precedente interno ID-STF-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

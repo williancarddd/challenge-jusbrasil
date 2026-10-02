@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0121",
+  "citacoes": [
+    {
+      "inicio": 312,
+      "fim": 352,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 854,
+      "fim": 881,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1190,
+      "fim": 1222,
+      "trecho": "Instrução Normativa nº 41 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1388,
+      "fim": 1416,
+      "trecho": "AIRR-12345-67.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1588,
+      "fim": 1635,
+      "trecho": "artigo 5º, inciso XXXV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1730,
+      "fim": 1787,
+      "trecho": "jurisprudência desta Corte, em decisões recentes do Pleno",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2017,
+      "fim": 2043,
+      "trecho": "RR-98765-43.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2139,
+      "fim": 2185,
+      "trecho": "Protocolo de Eficiência Executória TST-2022-XP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2494,
+      "fim": 2524,
+      "trecho": "legislação trabalhista vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

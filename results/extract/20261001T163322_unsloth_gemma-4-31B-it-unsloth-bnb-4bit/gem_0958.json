@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0958",
+  "citacoes": [
+    {
+      "inicio": 607,
+      "fim": 633,
+      "trecho": "art. 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 867,
+      "fim": 882,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 895,
+      "fim": 924,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1059,
+      "fim": 1081,
+      "trecho": "STJ, no REsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1350,
+      "fim": 1386,
+      "trecho": "Constituição Federal no seu art. 227",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1470,
+      "fim": 1491,
+      "trecho": "jurisprudência do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1736,
+      "fim": 1765,
+      "trecho": "Agravo Regimental ARE 890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2131,
+      "fim": 2148,
+      "trecho": "Súmula 456 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2247,
+      "fim": 2293,
+      "trecho": "Protocolo Interno de Gestão Familiar PE-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

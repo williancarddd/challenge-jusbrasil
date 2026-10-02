@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0321",
+  "citacoes": [
+    {
+      "inicio": 647,
+      "fim": 684,
+      "trecho": "Constituição Federal, em seu art. 114",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1045,
+      "fim": 1057,
+      "trecho": "CLT, art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1250,
+      "fim": 1267,
+      "trecho": "REsp 1.829.304/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1383,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1514,
+      "fim": 1560,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1853,
+      "fim": 1875,
+      "trecho": "Código Civil, art. 593",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2109,
+      "fim": 2134,
+      "trecho": "AgInt no AREsp 992.112/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2258,
+      "fim": 2306,
+      "trecho": "Manual de Competências do STJ - Edição 2023/X-12",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

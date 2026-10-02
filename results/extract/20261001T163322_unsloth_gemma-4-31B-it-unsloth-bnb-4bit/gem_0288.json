@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0288",
+  "citacoes": [
+    {
+      "inicio": 567,
+      "fim": 599,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1025,
+      "fim": 1107,
+      "trecho": "RR-12345-67.2022.5.02.0001, relatado pelo Ministro Dr. Alberto Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1418,
+      "fim": 1451,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1791,
+      "fim": 1846,
+      "trecho": "decisões recentes do STJ acerca da autonomia contratual",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2024,
+      "fim": 2038,
+      "trecho": "art. 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2147,
+      "fim": 2253,
+      "trecho": "Agravo de Instrumento AIRR-98765-43.2021.5.15.0000, relatado pela Ministra Dra. Helena Costa em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2333,
+      "fim": 2350,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2449,
+      "fim": 2485,
+      "trecho": "Precedente Interno Protocolo-X99-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

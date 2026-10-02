@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0209",
+  "citacoes": [
+    {
+      "inicio": 1006,
+      "fim": 1036,
+      "trecho": "lei 8.213/91, em seu artigo 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1202,
+      "fim": 1244,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1391,
+      "fim": 1415,
+      "trecho": "STF, através do Tema 555",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1599,
+      "fim": 1626,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1860,
+      "fim": 1887,
+      "trecho": "Decreto 3.048/99, artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2121,
+      "fim": 2155,
+      "trecho": "Processo 2045876-12.2021.8.26.0100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2299,
+      "fim": 2338,
+      "trecho": "Portaria Normativa Municipal 45/2010-RH",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

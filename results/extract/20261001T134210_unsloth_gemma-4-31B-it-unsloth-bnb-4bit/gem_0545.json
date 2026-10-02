@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0545",
+  "citacoes": [
+    {
+      "inicio": 507,
+      "fim": 545,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 951,
+      "fim": 964,
+      "trecho": "RMS 12.450/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1070,
+      "fim": 1082,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1140,
+      "fim": 1164,
+      "trecho": "art. 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1445,
+      "fim": 1462,
+      "trecho": "REsp 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1555,
+      "fim": 1596,
+      "trecho": "Regulamento de Trânsito do Exército (RTE)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1668,
+      "fim": 1716,
+      "trecho": "Protocolo de Segurança Viária Militar-2022/STM-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2150,
+      "fim": 2205,
+      "trecho": "Súmulas do STJ sobre a responsabilidade civil do Estado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

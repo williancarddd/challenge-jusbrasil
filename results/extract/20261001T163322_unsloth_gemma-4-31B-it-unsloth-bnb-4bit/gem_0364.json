@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0364",
+  "citacoes": [
+    {
+      "inicio": 696,
+      "fim": 713,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 940,
+      "fim": 969,
+      "trecho": "art. 89 da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1461,
+      "fim": 1481,
+      "trecho": "REsp nº 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1714,
+      "fim": 1747,
+      "trecho": "normas de controle externo do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1849,
+      "fim": 1875,
+      "trecho": "art. 65 da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2096,
+      "fim": 2114,
+      "trecho": "Lei nº 12.846/2013",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2165,
+      "fim": 2193,
+      "trecho": "AgInt no AREsp nº 987.654/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2333,
+      "fim": 2376,
+      "trecho": "Protocolo de Auditoria Técnica PAT-STJ-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2493,
+      "fim": 2524,
+      "trecho": "doutrina administrativa moderna",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

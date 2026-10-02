@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0792",
+  "citacoes": [
+    {
+      "inicio": 327,
+      "fim": 367,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 989,
+      "fim": 1027,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1071,
+      "fim": 1112,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1256,
+      "fim": 1290,
+      "trecho": "processo 0000123-11.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1363,
+      "fim": 1383,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1537,
+      "fim": 1585,
+      "trecho": "normas de regência dos contratos administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1741,
+      "fim": 1775,
+      "trecho": "processo 0000456-22.2022.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1893,
+      "fim": 1921,
+      "trecho": "artigo 11 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2029,
+      "fim": 2074,
+      "trecho": "tese fixada no identificador JUR-TRT3-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

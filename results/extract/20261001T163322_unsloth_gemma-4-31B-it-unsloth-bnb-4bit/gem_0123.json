@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0123",
+  "citacoes": [
+    {
+      "inicio": 636,
+      "fim": 677,
+      "trecho": "artigo 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1026,
+      "fim": 1041,
+      "trecho": "RE 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1375,
+      "fim": 1399,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1558,
+      "fim": 1606,
+      "trecho": "Provimento nº 65 do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1954,
+      "fim": 1971,
+      "trecho": "REsp 1.890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2120,
+      "fim": 2146,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2324,
+      "fim": 2372,
+      "trecho": "artigo 5º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2528,
+      "fim": 2593,
+      "trecho": "Protocolo de Normas da Corregedoria Geral da Justiça (PNCGJ-2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

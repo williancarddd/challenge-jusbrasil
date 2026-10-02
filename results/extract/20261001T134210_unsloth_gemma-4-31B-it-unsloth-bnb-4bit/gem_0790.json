@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0790",
+  "citacoes": [
+    {
+      "inicio": 420,
+      "fim": 458,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 709,
+      "fim": 738,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 909,
+      "fim": 999,
+      "trecho": "Habeas Data Administrativo nº 456.123/SP (Rel. Des. Marcos Aurélio, julgado em 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1160,
+      "fim": 1189,
+      "trecho": "artigo 124 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1411,
+      "fim": 1504,
+      "trecho": "Apelação Cível nº 1002345-67.2022.8.26.0000 (Rel. Des. Cláudia Mendes, julgado em 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1776,
+      "fim": 1828,
+      "trecho": "Acórdão Interno ID-998877-X (Rel. Des. Roberto Silva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2084,
+      "fim": 2111,
+      "trecho": "artigo 78 da Lei 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2318,
+      "fim": 2343,
+      "trecho": "Regimento Interno do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

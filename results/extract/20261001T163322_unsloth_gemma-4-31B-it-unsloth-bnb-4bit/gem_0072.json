@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0072",
+  "citacoes": [
+    {
+      "inicio": 736,
+      "fim": 757,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1009,
+      "fim": 1054,
+      "trecho": "artigo 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1170,
+      "fim": 1238,
+      "trecho": "MS 34.567/DF, relatado pelo Ministro Dr. Aurélio Silva em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1518,
+      "fim": 1543,
+      "trecho": "artigo 2º da Lei 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1565,
+      "fim": 1611,
+      "trecho": "Habeas Corpus 98.765/SP, julgado em 20/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1890,
+      "fim": 1932,
+      "trecho": "Enunciado 456 do Conselho de Ética Interno",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2124,
+      "trecho": "RE 112.233/RJ sob a relatoria do Ministro Dr. Marcos Lima em 05/02/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

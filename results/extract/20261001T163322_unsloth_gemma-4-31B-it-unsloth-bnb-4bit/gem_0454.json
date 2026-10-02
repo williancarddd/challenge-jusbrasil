@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0454",
+  "citacoes": [
+    {
+      "inicio": 676,
+      "fim": 702,
+      "trecho": "art. 6º da Lei 1.1101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1292,
+      "fim": 1302,
+      "trecho": "RE 565.833",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1363,
+      "fim": 1409,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1514,
+      "fim": 1538,
+      "trecho": "art. 83 da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1700,
+      "fim": 1719,
+      "trecho": "entendimento do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2181,
+      "fim": 2205,
+      "trecho": "AgInt no AREsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2219,
+      "fim": 2236,
+      "trecho": "Súmula 123 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2258,
+      "fim": 2303,
+      "trecho": "Parecer Técnico Normativo nº 882/2023-TSE-INT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

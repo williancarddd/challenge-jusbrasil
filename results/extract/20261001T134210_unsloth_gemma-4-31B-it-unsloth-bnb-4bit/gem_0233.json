@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0233",
+  "citacoes": [
+    {
+      "inicio": 473,
+      "fim": 525,
+      "trecho": "art. 124, inciso II, alínea d, da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 854,
+      "fim": 924,
+      "trecho": "Recurso Especial nº 1.234.567/DF (Rel. Min. João Silva, j. 10/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1138,
+      "fim": 1168,
+      "trecho": "Lei de Responsabilidade Fiscal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1210,
+      "fim": 1225,
+      "trecho": "Lei nº 4.717/65",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1291,
+      "fim": 1329,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1469,
+      "fim": 1536,
+      "trecho": "Agravo Interno nº 987.654/SP (Rel. Min. Maria Costa, j. 15/08/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1873,
+      "fim": 1909,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1989,
+      "fim": 2009,
+      "trecho": "Teoria da Imprevisão",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2069,
+      "fim": 2142,
+      "trecho": "Mandado de Segurança nº 112.233/MG (Rel. Min. Pedro Rocha, j. 12/01/2024)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2324,
+      "fim": 2370,
+      "trecho": "Protocolo Interno de Padronização TSE-2024-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

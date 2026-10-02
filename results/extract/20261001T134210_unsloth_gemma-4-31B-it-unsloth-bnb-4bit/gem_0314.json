@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0314",
+  "citacoes": [
+    {
+      "inicio": 839,
+      "fim": 884,
+      "trecho": "art. 21, inciso IV, alínea a, da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1076,
+      "fim": 1088,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1351,
+      "fim": 1375,
+      "trecho": "art. 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1457,
+      "fim": 1507,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1696,
+      "fim": 1730,
+      "trecho": "informativo interno TST-REF-9921-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1894,
+      "fim": 1920,
+      "trecho": "RR-12345-67.2020.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2099,
+      "fim": 2130,
+      "trecho": "princípio da reparação integral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2197,
+      "fim": 2214,
+      "trecho": "Súmula 378 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

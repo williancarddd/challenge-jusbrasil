@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0375",
+  "citacoes": [
+    {
+      "inicio": 861,
+      "fim": 901,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1432,
+      "fim": 1496,
+      "trecho": "Superior Tribunal de Justiça no Recurso Especial nº 1.344.592/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1658,
+      "fim": 1711,
+      "trecho": "acórdão do TJSP no processo 2100456-12.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1933,
+      "fim": 1950,
+      "trecho": "Súmula 106 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2137,
+      "fim": 2161,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2248,
+      "fim": 2277,
+      "trecho": "Precedente Interno ID-99821-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2500,
+      "fim": 2525,
+      "trecho": "artigo 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2855,
+      "fim": 2887,
+      "trecho": "Regimento Interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0379",
+  "citacoes": [
+    {
+      "inicio": 248,
+      "fim": 265,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 591,
+      "fim": 633,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1045,
+      "fim": 1062,
+      "trecho": "REsp 1.823.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1198,
+      "fim": 1299,
+      "trecho": "Apelação Cível nº 5001234-56.2022.4.04.0000, relatado pelo Desembargador Ricardo Mendes em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1704,
+      "fim": 1731,
+      "trecho": "Acórdão Interno ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1897,
+      "fim": 1962,
+      "trecho": "jurisprudência do STJ sobre a retroatividade da lei mais benéfica",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2266,
+      "fim": 2291,
+      "trecho": "art. 17-C da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

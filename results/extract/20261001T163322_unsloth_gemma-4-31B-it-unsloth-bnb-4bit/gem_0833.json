@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0833",
+  "citacoes": [
+    {
+      "inicio": 458,
+      "fim": 496,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 792,
+      "fim": 805,
+      "trecho": "HC 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 938,
+      "fim": 962,
+      "trecho": "regimento interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1091,
+      "fim": 1142,
+      "trecho": "Processo Administrativo Disciplinar nº 999/2023-XYZ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1427,
+      "fim": 1465,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1554,
+      "fim": 1574,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1654,
+      "fim": 1667,
+      "trecho": "HC 456.789/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0155",
+  "citacoes": [
+    {
+      "inicio": 950,
+      "fim": 978,
+      "trecho": "artigo 62 da Lei nº 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1188,
+      "fim": 1217,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1259,
+      "fim": 1272,
+      "trecho": "RMS 12.345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1401,
+      "fim": 1443,
+      "trecho": "Regulamento Interno de Remuneração Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1610,
+      "fim": 1641,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1808,
+      "fim": 1834,
+      "trecho": "Habeas Corpus nº 98.765/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 1958,
+      "trecho": "Súmula 42 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2088,
+      "trecho": "Instrução Normativa Conjunta nº 888/2022-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2274,
+      "fim": 2289,
+      "trecho": "Lei nº 6.880/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2422,
+      "fim": 2451,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

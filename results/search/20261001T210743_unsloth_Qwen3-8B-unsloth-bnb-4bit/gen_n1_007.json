@@ -1,0 +1,110 @@
+{
+  "documento_id": "gen_n1_007",
+  "citacoes": [
+    {
+      "inicio": 531,
+      "fim": 572,
+      "trecho": "art. 93, IX, da Constituição da República",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "10626510"
+      }
+    },
+    {
+      "inicio": 807,
+      "fim": 810,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 946,
+      "fim": 968,
+      "trecho": "AgInt na Rcl 36.670/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2679568224"
+      }
+    },
+    {
+      "inicio": 1422,
+      "fim": 1483,
+      "trecho": "julgado do STF proferido em 2021 pela relatoria de Rosa Weber",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1608,
+      "fim": 1611,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1636,
+      "fim": 1652,
+      "trecho": "RHC nº 55.508/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1732,
+      "fim": 1764,
+      "trecho": "art. 261 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1902,
+      "fim": 1937,
+      "trecho": "Rcl de 2025, Rel. Min. CÁRMEN LÚCIA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2360,
+      "fim": 2426,
+      "trecho": "acórdão do STJ julgado em 2023 sob relatoria de Assusete Magalhães",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2892,
+      "fim": 2909,
+      "trecho": "REsp 1.883.715/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1915411069"
+      }
+    },
+    {
+      "inicio": 3028,
+      "fim": 3051,
+      "trecho": "Reclamação nº 11.125/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0842",
+  "citacoes": [
+    {
+      "inicio": 666,
+      "fim": 700,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1279,
+      "trecho": "RE 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Silva em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1498,
+      "fim": 1531,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1595,
+      "fim": 1611,
+      "trecho": "artigo 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1886,
+      "trecho": "HC 987.654/RJ, julgado em 14/08/2022 sob a relatoria do Ministro Dr. Carlos Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2066,
+      "fim": 2097,
+      "trecho": "Precedente Interno STF-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2341,
+      "fim": 2388,
+      "trecho": "doutrina dominante sobre competência judiciária",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2700,
+      "fim": 2717,
+      "trecho": "Súmula 363 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

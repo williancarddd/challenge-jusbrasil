@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0297",
+  "citacoes": [
+    {
+      "inicio": 343,
+      "fim": 363,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 805,
+      "fim": 821,
+      "trecho": "ARE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 950,
+      "fim": 971,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1203,
+      "fim": 1224,
+      "trecho": "Lei 8.112/90, art. 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1357,
+      "fim": 1370,
+      "trecho": "RE 890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1514,
+      "fim": 1531,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1715,
+      "fim": 1732,
+      "trecho": "Súmula 279 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1833,
+      "fim": 1869,
+      "trecho": "Código de Processo Civil, art. 1.022",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

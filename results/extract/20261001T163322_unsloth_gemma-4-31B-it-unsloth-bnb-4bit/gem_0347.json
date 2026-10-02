@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0347",
+  "citacoes": [
+    {
+      "inicio": 889,
+      "fim": 914,
+      "trecho": "artigo 1º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 965,
+      "fim": 980,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1254,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1334,
+      "fim": 1360,
+      "trecho": "AgRg no AREsp 1.987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1658,
+      "trecho": "artigo 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1797,
+      "fim": 1816,
+      "trecho": "Súmula 456 do TST-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1994,
+      "fim": 2041,
+      "trecho": "Precedente Vinculante nº 999-ABC deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2372,
+      "fim": 2417,
+      "trecho": "artigo 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

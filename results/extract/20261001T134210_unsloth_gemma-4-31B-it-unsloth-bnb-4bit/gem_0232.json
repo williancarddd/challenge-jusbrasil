@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0232",
+  "citacoes": [
+    {
+      "inicio": 619,
+      "fim": 651,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 952,
+      "fim": 960,
+      "trecho": "ADI 3395",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1246,
+      "fim": 1249,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1482,
+      "fim": 1551,
+      "trecho": "CC 154.321/DF, relatado pelo Ministro Dr. Aurélio Viana em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1647,
+      "fim": 1659,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1647,
+      "fim": 1675,
+      "trecho": "Lei 8.112/90, em seu art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1668,
+      "fim": 1675,
+      "trecho": "art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1863,
+      "fim": 1887,
+      "trecho": "Diretriz Interna TSE-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1951,
+      "fim": 2004,
+      "trecho": "Recurso Extraordinário 654.321, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2165,
+      "fim": 2212,
+      "trecho": "doutrina dominante sobre Direito Administrativo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

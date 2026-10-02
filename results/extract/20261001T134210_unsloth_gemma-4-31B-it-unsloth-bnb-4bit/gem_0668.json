@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0668",
+  "citacoes": [
+    {
+      "inicio": 531,
+      "fim": 580,
+      "trecho": "artigo 7º, inciso XXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 766,
+      "fim": 828,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1087,
+      "fim": 1113,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1370,
+      "fim": 1458,
+      "trecho": "Ag-AIRR-100200-45.2022.5.02.0000, relatado pelo Ministro Dr. Arnaldo Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1805,
+      "fim": 1831,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1926,
+      "fim": 1961,
+      "trecho": "Precedente Interno TST-Risco-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2093,
+      "fim": 2143,
+      "trecho": "RR-887766-11.2021.5.04.0000, julgado em 10/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2721,
+      "fim": 2789,
+      "trecho": "jurisprudência dominante do TST sobre acidentes de trânsito laborais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

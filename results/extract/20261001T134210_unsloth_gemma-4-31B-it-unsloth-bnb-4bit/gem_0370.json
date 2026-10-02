@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0370",
+  "citacoes": [
+    {
+      "inicio": 543,
+      "fim": 589,
+      "trecho": "art. 7º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 749,
+      "fim": 791,
+      "trecho": "art. 37, inciso X, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1034,
+      "fim": 1047,
+      "trecho": "RE 658.901/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1204,
+      "fim": 1220,
+      "trecho": "ARE 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1637,
+      "fim": 1660,
+      "trecho": "Súmula Vinculante nº 37",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1782,
+      "fim": 1794,
+      "trecho": "ADI 4.556/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1979,
+      "fim": 2018,
+      "trecho": "Instrução Normativa Interna STF-2023/X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2155,
+      "fim": 2176,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

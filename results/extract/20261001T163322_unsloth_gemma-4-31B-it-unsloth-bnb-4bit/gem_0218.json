@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0218",
+  "citacoes": [
+    {
+      "inicio": 450,
+      "fim": 475,
+      "trecho": "artigo 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 676,
+      "fim": 711,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 869,
+      "fim": 886,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1124,
+      "fim": 1169,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1473,
+      "fim": 1502,
+      "trecho": "Lei 8.429/92 em seu artigo 10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1696,
+      "fim": 1730,
+      "trecho": "Agravo Interno no AREsp 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1868,
+      "fim": 1899,
+      "trecho": "Parecer Técnico nº 445/2023-CGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2076,
+      "fim": 2121,
+      "trecho": "jurisprudência do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2554,
+      "fim": 2571,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0158",
+  "citacoes": [
+    {
+      "inicio": 953,
+      "fim": 1001,
+      "trecho": "artigo 7º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1257,
+      "fim": 1272,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1546,
+      "fim": 1560,
+      "trecho": "ARE 890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1684,
+      "fim": 1696,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2132,
+      "fim": 2144,
+      "trecho": "ADI 5.432/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

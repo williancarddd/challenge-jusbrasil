@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0614",
+  "citacoes": [
+    {
+      "inicio": 967,
+      "fim": 1012,
+      "trecho": "artigo 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1451,
+      "fim": 1479,
+      "trecho": "artigo 1º da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1605,
+      "fim": 1637,
+      "trecho": "Precedente Interno TRT3-X99-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1873,
+      "fim": 1925,
+      "trecho": "decisões do Conselho Superior da Justiça do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1991,
+      "fim": 2029,
+      "trecho": "artigo 193 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

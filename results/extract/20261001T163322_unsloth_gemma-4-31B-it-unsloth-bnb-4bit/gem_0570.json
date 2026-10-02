@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0570",
+  "citacoes": [
+    {
+      "inicio": 770,
+      "fim": 808,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1116,
+      "fim": 1133,
+      "trecho": "REsp 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1454,
+      "fim": 1480,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1737,
+      "fim": 1754,
+      "trecho": "Agravo RO 5544/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1947,
+      "fim": 1976,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2091,
+      "fim": 2105,
+      "trecho": "art. 28 do CTB",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2429,
+      "fim": 2446,
+      "trecho": "Súmula 492 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2524,
+      "fim": 2565,
+      "trecho": "Protocolo de Gestão de Frotas 2023-TSE-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2834,
+      "fim": 2866,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

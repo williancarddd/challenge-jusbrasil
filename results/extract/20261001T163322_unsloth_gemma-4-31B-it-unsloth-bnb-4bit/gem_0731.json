@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0731",
+  "citacoes": [
+    {
+      "inicio": 740,
+      "fim": 758,
+      "trecho": "Lei nº 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 760,
+      "fim": 792,
+      "trecho": "art. 1.583, § 2º do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1052,
+      "fim": 1081,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1236,
+      "trecho": "Processo TRT3-00987-2021-AGR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1249,
+      "fim": 1287,
+      "trecho": "Convenção sobre os Direitos da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1505,
+      "fim": 1521,
+      "trecho": "Súmula 15 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1880,
+      "fim": 1910,
+      "trecho": "Constituição Federal, art. 227",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2009,
+      "fim": 2053,
+      "trecho": "doutrina especializada em Direito de Família",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2163,
+      "fim": 2193,
+      "trecho": "Precedente Judicial nº 8821-MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

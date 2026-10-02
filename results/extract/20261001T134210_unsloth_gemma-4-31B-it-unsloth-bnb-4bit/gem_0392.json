@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0392",
+  "citacoes": [
+    {
+      "inicio": 1158,
+      "fim": 1184,
+      "trecho": "art. 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1292,
+      "fim": 1318,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1506,
+      "fim": 1526,
+      "trecho": "REsp nº 1.340.553/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1923,
+      "fim": 1948,
+      "trecho": "numerosos julgados do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2091,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2239,
+      "fim": 2259,
+      "trecho": "Súmula nº 108 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2414,
+      "fim": 2452,
+      "trecho": "Acórdão-Modelo 9988/XJ-2021 desta Casa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2599,
+      "fim": 2634,
+      "trecho": "jurisprudência pacífica desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

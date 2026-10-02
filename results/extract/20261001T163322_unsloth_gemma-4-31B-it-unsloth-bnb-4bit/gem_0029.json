@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0029",
+  "citacoes": [
+    {
+      "inicio": 1015,
+      "fim": 1048,
+      "trecho": "art. 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1239,
+      "fim": 1252,
+      "trecho": "HC 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1456,
+      "fim": 1492,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1722,
+      "fim": 1754,
+      "trecho": "art. 227 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1959,
+      "fim": 1976,
+      "trecho": "REsp 1.987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2149,
+      "fim": 2166,
+      "trecho": "Súmula 591 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2266,
+      "fim": 2309,
+      "trecho": "Protocolo de Proteção Infantojuvenil 2023-B",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2443,
+      "fim": 2470,
+      "trecho": "Lei da Guarda Compartilhada",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2649,
+      "fim": 2669,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0146",
+  "citacoes": [
+    {
+      "inicio": 924,
+      "fim": 960,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1429,
+      "fim": 1447,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1653,
+      "fim": 1673,
+      "trecho": "REsp nº 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2147,
+      "fim": 2175,
+      "trecho": "AgInt no AREsp nº 456.789/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2469,
+      "fim": 2499,
+      "trecho": "art. 156 da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2589,
+      "fim": 2629,
+      "trecho": "Protocolo de Gestão de Riscos STJ-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

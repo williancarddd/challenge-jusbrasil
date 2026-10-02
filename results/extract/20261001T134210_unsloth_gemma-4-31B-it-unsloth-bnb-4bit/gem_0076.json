@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0076",
+  "citacoes": [
+    {
+      "inicio": 320,
+      "fim": 360,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1171,
+      "fim": 1186,
+      "trecho": "Lei nº 8.437/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1362,
+      "fim": 1400,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1535,
+      "trecho": "Processo TST-ED-2021-998877",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1947,
+      "fim": 2008,
+      "trecho": "princípio da boa-fé objetiva previsto no ordenamento jurídico",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2079,
+      "fim": 2096,
+      "trecho": "Súmula 405 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2310,
+      "fim": 2366,
+      "trecho": "Constituição Federal no tocante ao devido processo legal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2390,
+      "fim": 2416,
+      "trecho": "RR-12345-67.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0189",
+  "citacoes": [
+    {
+      "inicio": 378,
+      "fim": 416,
+      "trecho": "artigo 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 923,
+      "fim": 955,
+      "trecho": "Recurso Especial nº 1.604.412/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1063,
+      "fim": 1100,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1257,
+      "fim": 1366,
+      "trecho": "Agravo de Instrumento nº 2204567-88.2021.8.26.0000, relatado pelo Des. Marcos Vinícius Silveira em 14/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1712,
+      "fim": 1738,
+      "trecho": "artigo 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1916,
+      "fim": 1933,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2038,
+      "fim": 2132,
+      "trecho": "Apelação Cível nº 1002345-12.2018.8.26.0100, sob relatoria da Desa. Helena Porto em 10/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2296,
+      "fim": 2344,
+      "trecho": "Protocolo Interno de Uniformização TJSP-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

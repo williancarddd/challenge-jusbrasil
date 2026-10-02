@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0525",
+  "citacoes": [
+    {
+      "inicio": 617,
+      "fim": 652,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 825,
+      "fim": 862,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1008,
+      "fim": 1106,
+      "trecho": "Apelação Cível nº 2045678-12.2022.8.26.0000, Rel. Des. Marcos Aurélio Silva, julgado em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1529,
+      "fim": 1557,
+      "trecho": "artigo 1.584 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1703,
+      "fim": 1718,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1895,
+      "fim": 1992,
+      "trecho": "Agravo de Instrumento nº 2200111-44.2023.8.26.0000, Rel. Des. Helena Souza, julgado em 10/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2088,
+      "fim": 2124,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

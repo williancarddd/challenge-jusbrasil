@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0061",
+  "citacoes": [
+    {
+      "inicio": 854,
+      "fim": 875,
+      "trecho": "norma regulamentadora",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 989,
+      "fim": 1004,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1298,
+      "fim": 1315,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1554,
+      "fim": 1595,
+      "trecho": "jurisprudência consolidada deste Regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1700,
+      "fim": 1723,
+      "trecho": "Processo TRT3-8821-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1827,
+      "fim": 1873,
+      "trecho": "art. 7º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1990,
+      "fim": 2037,
+      "trecho": "norma regulamentadora do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2245,
+      "fim": 2279,
+      "trecho": "Processo 0000123-11.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2359,
+      "fim": 2410,
+      "trecho": "diretriz interna do manual de perícias do TRT3-DX20",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

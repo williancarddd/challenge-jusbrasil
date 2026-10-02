@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0976",
+  "citacoes": [
+    {
+      "inicio": 316,
+      "fim": 356,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1072,
+      "fim": 1110,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1191,
+      "fim": 1205,
+      "trecho": "HC nº 12345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1507,
+      "fim": 1543,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 155",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1653,
+      "fim": 1737,
+      "trecho": "precedentes desta Corte que versam sobre contratos administrativos no âmbito militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1880,
+      "fim": 1895,
+      "trecho": "RMS nº 98765/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2111,
+      "trecho": "Regulamento de Licitações do Exército (RL-Ex) no artigo 42",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2256,
+      "fim": 2305,
+      "trecho": "Protocolo de Gestão de Contratos Militares 2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2421,
+      "fim": 2438,
+      "trecho": "Súmula 456 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

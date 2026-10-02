@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0688",
+  "citacoes": [
+    {
+      "inicio": 408,
+      "fim": 448,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 967,
+      "fim": 1007,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1330,
+      "fim": 1347,
+      "trecho": "Súmula 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1413,
+      "fim": 1445,
+      "trecho": "Recurso Especial nº 1.890.123/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1577,
+      "fim": 1601,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1857,
+      "fim": 1945,
+      "trecho": "norma regulamentar da AGU sobre a suspensão do prazo prescricional em casos de transação",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1995,
+      "fim": 2019,
+      "trecho": "Lei nº 6.830/80, art. 40",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

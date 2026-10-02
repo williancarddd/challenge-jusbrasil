@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0823",
+  "citacoes": [
+    {
+      "inicio": 475,
+      "fim": 506,
+      "trecho": "artigo 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 764,
+      "fim": 823,
+      "trecho": "jurisprudência deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 929,
+      "fim": 966,
+      "trecho": "Processo nº 5012345-67.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1258,
+      "fim": 1288,
+      "trecho": "Manual de Procedimentos do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1466,
+      "fim": 1505,
+      "trecho": "acórdão proferido em 15 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1811,
+      "fim": 1852,
+      "trecho": "artigo 183, § 3º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1929,
+      "fim": 1949,
+      "trecho": "Julgado TRF4-823-VAR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2146,
+      "fim": 2158,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

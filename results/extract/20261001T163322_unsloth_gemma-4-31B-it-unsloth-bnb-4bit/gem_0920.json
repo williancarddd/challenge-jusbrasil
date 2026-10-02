@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0920",
+  "citacoes": [
+    {
+      "inicio": 564,
+      "fim": 580,
+      "trecho": "art. 11-A da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 889,
+      "fim": 982,
+      "trecho": "Processo 0010234-56.2021.5.03.0000, relatado pelo Desembargador Marcos Vinícius em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1367,
+      "fim": 1388,
+      "trecho": "jurisprudência do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1514,
+      "fim": 1611,
+      "trecho": "Ag-AIRR 12345-67.2022.5.03.0000, datado de 18/08/2022 e relatado pela Desembargadora Helena Souza",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1853,
+      "fim": 1866,
+      "trecho": "normas da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2033,
+      "fim": 2070,
+      "trecho": "Protocolo de Fluxo Executório PF-99-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2214,
+      "fim": 2229,
+      "trecho": "art. 921 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2695,
+      "fim": 2713,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2720,
+      "fim": 2743,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

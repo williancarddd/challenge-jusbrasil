@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0892",
+  "citacoes": [
+    {
+      "inicio": 555,
+      "fim": 591,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 875,
+      "fim": 904,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1078,
+      "fim": 1128,
+      "trecho": "Agravo de Instrumento nº 5012345-67.2023.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1200,
+      "fim": 1226,
+      "trecho": "art. 86 da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1464,
+      "fim": 1496,
+      "trecho": "Recurso Especial nº 1.234.567/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1776,
+      "fim": 1815,
+      "trecho": "Habeas Data nº 987654-32.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1776,
+      "fim": 1855,
+      "trecho": "Habeas Data nº 987654-32.2022.4.04.0000, o Relator Desembargador Ricardo Montes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2119,
+      "fim": 2149,
+      "trecho": "Código de Defesa do Consumidor",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2243,
+      "fim": 2285,
+      "trecho": "Protocolo de Gestão Contratual TRF4-VAR892",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2675,
+      "fim": 2701,
+      "trecho": "art. 10 da Lei nº 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

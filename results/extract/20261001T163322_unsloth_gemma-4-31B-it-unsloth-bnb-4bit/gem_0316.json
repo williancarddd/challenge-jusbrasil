@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0316",
+  "citacoes": [
+    {
+      "inicio": 896,
+      "fim": 920,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1034,
+      "fim": 1059,
+      "trecho": "artigo 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1305,
+      "fim": 1322,
+      "trecho": "REsp 1.340.516/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1517,
+      "fim": 1539,
+      "trecho": "Processo TRT3-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1651,
+      "fim": 1671,
+      "trecho": "lei processual civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1733,
+      "fim": 1757,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1948,
+      "fim": 1988,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2255,
+      "fim": 2290,
+      "trecho": "entendimento do STJ sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

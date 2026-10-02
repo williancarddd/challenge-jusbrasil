@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0595",
+  "citacoes": [
+    {
+      "inicio": 536,
+      "fim": 564,
+      "trecho": "artigo 216-A da Lei 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 726,
+      "fim": 774,
+      "trecho": "artigo 5º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 984,
+      "fim": 1079,
+      "trecho": "Recurso Extraordinário nº 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1229,
+      "fim": 1279,
+      "trecho": "Habeas Corpus nº 889.990/RJ, julgado em 15/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1474,
+      "fim": 1542,
+      "trecho": "entendimento consolidado em decisões do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1652,
+      "fim": 1675,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1914,
+      "fim": 1946,
+      "trecho": "Acórdão 445-X/STF-Rel.Min. Silas",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2228,
+      "fim": 2240,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0610",
+  "citacoes": [
+    {
+      "inicio": 759,
+      "fim": 785,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 942,
+      "fim": 980,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1193,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1328,
+      "fim": 1377,
+      "trecho": "doutrina sobre a responsabilidade civil subjetiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1477,
+      "fim": 1519,
+      "trecho": "artigo 28 do Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1809,
+      "fim": 1823,
+      "trecho": "AgInt no AREsp",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1930,
+      "fim": 1946,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2111,
+      "fim": 2151,
+      "trecho": "Protocolo de Análise de Nexos Causal-X22",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2261,
+      "fim": 2294,
+      "trecho": "jurisprudência consolidada do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

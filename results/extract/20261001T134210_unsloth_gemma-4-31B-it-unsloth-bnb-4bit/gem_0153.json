@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0153",
+  "citacoes": [
+    {
+      "inicio": 808,
+      "fim": 832,
+      "trecho": "Lei nº 8.666/93, art. 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 980,
+      "fim": 1009,
+      "trecho": "jurisprudência deste Regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1169,
+      "fim": 1194,
+      "trecho": "Processo TRT3-998877-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1337,
+      "fim": 1378,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1509,
+      "fim": 1536,
+      "trecho": "Lei nº 14.133/2021, art. 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1757,
+      "fim": 1811,
+      "trecho": "Acórdão 12345-XYZ-2022 do Tribunal de Contas do Estado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1918,
+      "fim": 1935,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2106,
+      "fim": 2127,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2305,
+      "fim": 2332,
+      "trecho": "Lei nº 12.846/2013, art. 5º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

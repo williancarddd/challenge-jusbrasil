@@ -1,0 +1,23 @@
+{
+  "documento_id": "gem_0906",
+  "citacoes": [
+    {
+      "inicio": 656,
+      "fim": 680,
+      "trecho": "Lei nº 6.830/80, art. 40",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1070,
+      "fim": 1128,
+      "trecho": "REsp 1.234.567/SP (Rel. Min. Marco Aurélio, j. 12/05/2019)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

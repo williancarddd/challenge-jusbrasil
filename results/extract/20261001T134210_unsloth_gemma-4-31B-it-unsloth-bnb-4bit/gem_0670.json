@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0670",
+  "citacoes": [
+    {
+      "inicio": 450,
+      "fim": 465,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 775,
+      "fim": 803,
+      "trecho": "Lei 8.429/92, em seu art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1226,
+      "trecho": "Lei de Improbidade",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1245,
+      "fim": 1259,
+      "trecho": "REsp 1.890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1387,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1748,
+      "fim": 1781,
+      "trecho": "Lei 14.230/2021, no art. 1º, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1897,
+      "fim": 1918,
+      "trecho": "AgRg no AREsp 456.789",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2049,
+      "fim": 2073,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2729,
+      "fim": 2746,
+      "trecho": "Súmula 595 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

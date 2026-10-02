@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0393",
+  "citacoes": [
+    {
+      "inicio": 559,
+      "fim": 589,
+      "trecho": "Lei nº 13.954/2019, artigo 107",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 930,
+      "fim": 943,
+      "trecho": "RMS 45.123/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1303,
+      "fim": 1327,
+      "trecho": "Lei 8.112/90, artigo 188",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1575,
+      "fim": 1591,
+      "trecho": "Súmula 12 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1665,
+      "fim": 1686,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1920,
+      "fim": 1947,
+      "trecho": "Lei nº 6.880/80, artigo 110",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2286,
+      "fim": 2302,
+      "trecho": "Agravo 10.500/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

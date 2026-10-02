@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0820",
+  "citacoes": [
+    {
+      "inicio": 1002,
+      "fim": 1037,
+      "trecho": "artigo 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1025,
+      "fim": 1037,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1402,
+      "fim": 1429,
+      "trecho": "Habeas Corpus nº 102.450/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1538,
+      "fim": 1584,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1964,
+      "fim": 2002,
+      "trecho": "princípio do melhor interesse do menor",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2022,
+      "fim": 2062,
+      "trecho": "decisões do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2318,
+      "fim": 2352,
+      "trecho": "artigo 227 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2361,
+      "fim": 2378,
+      "trecho": "Súmula 602 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

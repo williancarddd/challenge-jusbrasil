@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0708",
+  "citacoes": [
+    {
+      "inicio": 521,
+      "fim": 561,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 888,
+      "fim": 946,
+      "trecho": "jurisprudência consolidada do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1120,
+      "fim": 1209,
+      "trecho": "Recurso Especial nº 1.234.567/SP, relatado pelo Ministro Dr. Augusto Mendes em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1347,
+      "fim": 1373,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1552,
+      "fim": 1638,
+      "trecho": "Agravo Interno nº 987.654/DF, conduzido pela Relatora Ministra Clara Luz em 10/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1912,
+      "fim": 1941,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2050,
+      "fim": 2076,
+      "trecho": "Habeas Corpus nº 11.223/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2314,
+      "fim": 2331,
+      "trecho": "Súmula 402 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2441,
+      "fim": 2477,
+      "trecho": "Protocolo de Danos Civis 2023-XPT-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

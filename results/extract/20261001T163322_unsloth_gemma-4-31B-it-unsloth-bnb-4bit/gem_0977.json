@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0977",
+  "citacoes": [
+    {
+      "inicio": 544,
+      "fim": 583,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1022,
+      "fim": 1094,
+      "trecho": "REsp nº 1.234.567/SP, relatado pelo Ministro Aurélio Silva em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1334,
+      "fim": 1406,
+      "trecho": "Acórdão nº 9988/TSE, de relatoria da Ministra Clara Mendes em 10/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1630,
+      "fim": 1645,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1751,
+      "fim": 1777,
+      "trecho": "Agravo Interno nº 456/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1945,
+      "fim": 1965,
+      "trecho": "Súmula nº 487 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2099,
+      "fim": 2153,
+      "trecho": "Protocolo de Gestão Imobiliária Partidária (PGIP-2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2667,
+      "fim": 2691,
+      "trecho": "legislação civil vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

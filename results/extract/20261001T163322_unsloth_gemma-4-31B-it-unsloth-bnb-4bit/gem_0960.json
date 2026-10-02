@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0960",
+  "citacoes": [
+    {
+      "inicio": 385,
+      "fim": 421,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1063,
+      "fim": 1080,
+      "trecho": "REsp 1.892.341/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1386,
+      "fim": 1413,
+      "trecho": "art. 156 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1426,
+      "fim": 1502,
+      "trecho": "jurisprudência deste Tribunal Superior Militar, notadamente no HCM 12.450/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1489,
+      "fim": 1502,
+      "trecho": "HCM 12.450/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1797,
+      "fim": 1814,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2096,
+      "fim": 2144,
+      "trecho": "Regulamento de Licitações do Exército (RLE-2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2422,
+      "fim": 2462,
+      "trecho": "entendimento firmado no Agravo 44.210/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

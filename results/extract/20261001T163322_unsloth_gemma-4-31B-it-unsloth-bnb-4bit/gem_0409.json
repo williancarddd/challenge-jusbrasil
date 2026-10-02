@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0409",
+  "citacoes": [
+    {
+      "inicio": 720,
+      "fim": 758,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1106,
+      "fim": 1174,
+      "trecho": "ARE 1.234.567/SP, relatado pelo Ministro Marco Aurélio em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1238,
+      "fim": 1275,
+      "trecho": "Lei nº 14.133/2021, em seu artigo 124",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1532,
+      "fim": 1549,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1642,
+      "fim": 1687,
+      "trecho": "jurisprudência do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1784,
+      "fim": 1873,
+      "trecho": "julgado RE 987.654/RJ, de relatoria do Ministro Ricardo Lewandowski, datado de 20/11/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2162,
+      "fim": 2182,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

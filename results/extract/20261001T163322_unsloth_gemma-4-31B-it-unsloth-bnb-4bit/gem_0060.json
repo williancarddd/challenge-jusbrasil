@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0060",
+  "citacoes": [
+    {
+      "inicio": 698,
+      "fim": 715,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 751,
+      "fim": 769,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 995,
+      "fim": 1031,
+      "trecho": "art. 1º, §§ 2º e 3º, da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1247,
+      "fim": 1282,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1461,
+      "fim": 1478,
+      "trecho": "REsp 1.823.456/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1588,
+      "fim": 1625,
+      "trecho": "Diploma da Improbidade Administrativa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1809,
+      "fim": 1836,
+      "trecho": "AgInt no AREsp 2.109.876/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1857,
+      "fim": 1895,
+      "trecho": "Manual de Gestão Pública do STJ-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2035,
+      "fim": 2058,
+      "trecho": "art. 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2176,
+      "fim": 2212,
+      "trecho": "informativo de jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2397,
+      "fim": 2414,
+      "trecho": "REsp 1.776.554/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

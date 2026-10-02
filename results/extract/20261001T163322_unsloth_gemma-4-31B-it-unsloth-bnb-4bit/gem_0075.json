@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0075",
+  "citacoes": [
+    {
+      "inicio": 729,
+      "fim": 762,
+      "trecho": "Lei 11.101/2005, em seu artigo 76",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1175,
+      "fim": 1247,
+      "trecho": "Agravo de Instrumento em Recurso de Revista AIRR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1380,
+      "fim": 1415,
+      "trecho": "artigo 6º, § 2º, da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1551,
+      "fim": 1597,
+      "trecho": "Constituição Federal no artigo 5º, inciso XXXV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1708,
+      "fim": 1748,
+      "trecho": "Recurso Especial REsp-998877-88.2022.STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2078,
+      "fim": 2094,
+      "trecho": "Súmula 42 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2100,
+      "fim": 2148,
+      "trecho": "protocolo interno de uniformização ID-REF-9921-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

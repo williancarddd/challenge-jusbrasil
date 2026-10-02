@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0062",
+  "citacoes": [
+    {
+      "inicio": 757,
+      "fim": 782,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 973,
+      "fim": 990,
+      "trecho": "Súmula 421 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1259,
+      "fim": 1274,
+      "trecho": "Tema 555 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1383,
+      "fim": 1395,
+      "trecho": "Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1662,
+      "fim": 1701,
+      "trecho": "Processo TST-RR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2029,
+      "fim": 2045,
+      "trecho": "Decreto 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

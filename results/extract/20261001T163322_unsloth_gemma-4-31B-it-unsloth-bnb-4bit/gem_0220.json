@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0220",
+  "citacoes": [
+    {
+      "inicio": 265,
+      "fim": 298,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 498,
+      "fim": 516,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 685,
+      "fim": 725,
+      "trecho": "artigo 1º, §§ 1º e 2º da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1054,
+      "fim": 1125,
+      "trecho": "ARE 1.122.334/SP (Rel. Min. Alexandre de Moraes, julgado em 12/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1579,
+      "fim": 1642,
+      "trecho": "RE 1.300.400/RJ (Rel. Min. Edson Fachin, julgado em 20/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1871,
+      "fim": 1899,
+      "trecho": "artigo 11 da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2085,
+      "fim": 2117,
+      "trecho": "Precedente Interno STF-9988/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2263,
+      "fim": 2280,
+      "trecho": "Súmula 595 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2562,
+      "fim": 2580,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0276",
+  "citacoes": [
+    {
+      "inicio": 549,
+      "fim": 564,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 652,
+      "fim": 680,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 908,
+      "fim": 967,
+      "trecho": "jurisprudência deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1056,
+      "fim": 1150,
+      "trecho": "Agravo de Instrumento nº 5023456-78.2022.4.04.0000, relatado pelo Desembargador Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1313,
+      "fim": 1359,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1675,
+      "fim": 1721,
+      "trecho": "Habeas Corpus Processual nº 998877-XX-TRF4-INV",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1846,
+      "fim": 1861,
+      "trecho": "Lei 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1954,
+      "fim": 1983,
+      "trecho": "Lei de Recuperação e Falência",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2023,
+      "fim": 2051,
+      "trecho": "artigo 59 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0543",
+  "citacoes": [
+    {
+      "inicio": 926,
+      "fim": 965,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1145,
+      "fim": 1174,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1276,
+      "fim": 1308,
+      "trecho": "entendimento consolidado do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1526,
+      "fim": 1553,
+      "trecho": "Habeas Corpus nº 123.456/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1543,
+      "fim": 1553,
+      "trecho": "123.456/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1614,
+      "fim": 1664,
+      "trecho": "Agravo de Instrumento nº 5008899-11.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2139,
+      "fim": 2162,
+      "trecho": "art. 59 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0655",
+  "citacoes": [
+    {
+      "inicio": 677,
+      "fim": 700,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 843,
+      "fim": 859,
+      "trecho": "Decreto 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 885,
+      "fim": 893,
+      "trecho": "anexo IV",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 954,
+      "fim": 980,
+      "trecho": "Tema Repetitivo 694 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1198,
+      "fim": 1221,
+      "trecho": "art. 11 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1465,
+      "fim": 1482,
+      "trecho": "REsp 1.567.890/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1627,
+      "fim": 1654,
+      "trecho": "AgInt no AREsp 1.234.567/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1912,
+      "trecho": "Código de Processura Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2052,
+      "fim": 2067,
+      "trecho": "Súmula 7 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2129,
+      "fim": 2169,
+      "trecho": "identificador normativo IX-2023-STJ-Prev",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2450,
+      "fim": 2479,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

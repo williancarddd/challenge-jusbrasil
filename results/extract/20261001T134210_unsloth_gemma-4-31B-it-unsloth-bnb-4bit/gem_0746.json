@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0746",
+  "citacoes": [
+    {
+      "inicio": 364,
+      "fim": 404,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 942,
+      "fim": 991,
+      "trecho": "art. 124, inciso II, alínea d, da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1308,
+      "fim": 1351,
+      "trecho": "Apelação Cível nº 1002345-12.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1564,
+      "fim": 1609,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1705,
+      "fim": 1747,
+      "trecho": "Parecer Técnico Normativo nº 9988/2023-PGM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1871,
+      "fim": 1891,
+      "trecho": "REsp nº 1.887.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2106,
+      "fim": 2123,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

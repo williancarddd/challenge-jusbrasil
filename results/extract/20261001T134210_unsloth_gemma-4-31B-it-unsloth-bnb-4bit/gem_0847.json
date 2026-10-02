@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0847",
+  "citacoes": [
+    {
+      "inicio": 350,
+      "fim": 388,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1226,
+      "fim": 1255,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1360,
+      "fim": 1383,
+      "trecho": "AgR-REspEle nº 12345/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1430,
+      "fim": 1447,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1467,
+      "fim": 1493,
+      "trecho": "art. 3º da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1685,
+      "fim": 1723,
+      "trecho": "Recurso Especial Eleitoral nº 67890/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2006,
+      "fim": 2034,
+      "trecho": "art. 30-A da Lei nº 9.504/97",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2185,
+      "fim": 2204,
+      "trecho": "Súmula nº 15 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2328,
+      "fim": 2379,
+      "trecho": "Protocolo de Integridade Administrativa PID-2022-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

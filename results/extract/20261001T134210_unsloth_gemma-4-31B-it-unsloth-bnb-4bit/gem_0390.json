@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0390",
+  "citacoes": [
+    {
+      "inicio": 938,
+      "fim": 955,
+      "trecho": "Lei nº 9.873/1999",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 980,
+      "fim": 995,
+      "trecho": "artigo 1º, § 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1231,
+      "fim": 1263,
+      "trecho": "precedente firmado no RE 600.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1481,
+      "fim": 1501,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1699,
+      "fim": 1716,
+      "trecho": "Súmula 444 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1922,
+      "fim": 1958,
+      "trecho": "Código de Processo Civil, artigo 921",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2163,
+      "fim": 2173,
+      "trecho": "HC 123.456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2277,
+      "fim": 2342,
+      "trecho": "entendimento do Protocolo de Eficiência Administrativa PEA-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2516,
+      "fim": 2554,
+      "trecho": "Lei de Processo Administrativo Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

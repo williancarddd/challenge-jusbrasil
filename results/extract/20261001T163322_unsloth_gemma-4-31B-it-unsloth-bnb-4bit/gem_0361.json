@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0361",
+  "citacoes": [
+    {
+      "inicio": 1107,
+      "fim": 1146,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1247,
+      "fim": 1285,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1445,
+      "fim": 1488,
+      "trecho": "Apelação Cível nº 0012345-67.2021.8.01.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1918,
+      "fim": 1950,
+      "trecho": "Recurso Especial nº 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2330,
+      "fim": 2347,
+      "trecho": "Súmula 451 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2475,
+      "fim": 2522,
+      "trecho": "Protocolo de Admissibilidade Judiciária-STM-99X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2850,
+      "fim": 2868,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

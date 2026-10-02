@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0815",
+  "citacoes": [
+    {
+      "inicio": 770,
+      "fim": 798,
+      "trecho": "artigo 57 da Lei nº 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1124,
+      "fim": 1139,
+      "trecho": "Lei nº 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1282,
+      "fim": 1302,
+      "trecho": "REsp nº 1.452.889/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1485,
+      "fim": 1508,
+      "trecho": "Súmula nº 44 do TSE-Adm",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1809,
+      "fim": 1850,
+      "trecho": "Protocolo de Saúde Ocupacional PSI-99-TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 1971,
+      "trecho": "AgRg no AREsp nº 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2320,
+      "fim": 2349,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

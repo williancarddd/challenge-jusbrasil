@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0151",
+  "citacoes": [
+    {
+      "inicio": 844,
+      "fim": 859,
+      "trecho": "Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1005,
+      "fim": 1043,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1380,
+      "fim": 1406,
+      "trecho": "RR-12345-67.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1644,
+      "fim": 1661,
+      "trecho": "TST-PROC-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2091,
+      "fim": 2104,
+      "trecho": "Súmula do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2295,
+      "fim": 2323,
+      "trecho": "artigo 76 da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0580",
+  "citacoes": [
+    {
+      "inicio": 729,
+      "fim": 752,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1106,
+      "fim": 1123,
+      "trecho": "REsp 1.144.732/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1500,
+      "fim": 1516,
+      "trecho": "Súmula 45 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1577,
+      "fim": 1604,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1764,
+      "fim": 1789,
+      "trecho": "Decreto 3.048/99, art. 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1850,
+      "fim": 1865,
+      "trecho": "Tema 555 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2064,
+      "fim": 2086,
+      "trecho": "Tese Jurídica 99-X-STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2301,
+      "fim": 2340,
+      "trecho": "Lei de Benefícios da Previdência Social",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

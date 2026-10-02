@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0170",
+  "citacoes": [
+    {
+      "inicio": 518,
+      "fim": 554,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 765,
+      "fim": 803,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 925,
+      "fim": 989,
+      "trecho": "HC nº 123.456/DF, julgado em 12/05/2023, Rel. Min. Marco Aurélio",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1248,
+      "fim": 1280,
+      "trecho": "decisões recentes deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1427,
+      "fim": 1497,
+      "trecho": "HC nº 987.654/SP, relatado pelo Min. Ricardo Lewandowski em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1622,
+      "fim": 1642,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1798,
+      "fim": 1845,
+      "trecho": "art. 5º, inciso LXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1998,
+      "fim": 2029,
+      "trecho": "Precedente Interno TSE-X99-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0944",
+  "citacoes": [
+    {
+      "inicio": 335,
+      "fim": 375,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1002,
+      "fim": 1017,
+      "trecho": "Lei nº 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1112,
+      "fim": 1145,
+      "trecho": "artigo 40 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1319,
+      "fim": 1336,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1434,
+      "fim": 1461,
+      "trecho": "instrução normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1609,
+      "fim": 1626,
+      "trecho": "Tema 1.102 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1752,
+      "fim": 1773,
+      "trecho": "Decreto nº 3.048/1999",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1963,
+      "fim": 2002,
+      "trecho": "jurisprudência do TSE em casos análogos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2012,
+      "fim": 2042,
+      "trecho": "Agravo Eleitoral nº 999.888/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2341,
+      "fim": 2388,
+      "trecho": "Protocolo de Convergência Previdenciária-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

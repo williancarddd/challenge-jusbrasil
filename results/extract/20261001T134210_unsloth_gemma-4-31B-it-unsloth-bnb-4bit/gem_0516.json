@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0516",
+  "citacoes": [
+    {
+      "inicio": 705,
+      "fim": 733,
+      "trecho": "artigo 3º da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1016,
+      "fim": 1084,
+      "trecho": "Tribunal de Contas da União, em decisões reiteradas sobre licitações",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1265,
+      "fim": 1308,
+      "trecho": "Apelação Cível nº 0012345-67.2020.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1556,
+      "fim": 1585,
+      "trecho": "artigo 11 da Lei nº 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1770,
+      "fim": 1809,
+      "trecho": "Código de Processo Civil, no artigo 489",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2068,
+      "fim": 2085,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2363,
+      "fim": 2402,
+      "trecho": "Recurso Especial nº 1.234.567/DF do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2548,
+      "fim": 2582,
+      "trecho": "Instrução Normativa TJSP-99/2010-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

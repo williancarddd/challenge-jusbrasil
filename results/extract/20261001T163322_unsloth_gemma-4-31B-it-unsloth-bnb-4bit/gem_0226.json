@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0226",
+  "citacoes": [
+    {
+      "inicio": 517,
+      "fim": 558,
+      "trecho": "Lei nº 14.133/2021, art. 6º, inciso LVIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1026,
+      "fim": 1052,
+      "trecho": "RR-10025-44.2022.5.02.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1171,
+      "fim": 1210,
+      "trecho": "Lei nº 8.666/1993, art. 78, inciso XIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1465,
+      "fim": 1512,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1676,
+      "fim": 1706,
+      "trecho": "Ag-AIRR-5589-12.2023.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2012,
+      "fim": 2051,
+      "trecho": "Manual de Auditoria de Contratos da CGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2183,
+      "fim": 2200,
+      "trecho": "Súmula 439 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2349,
+      "fim": 2378,
+      "trecho": "Diretriz Interna TST-2024-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

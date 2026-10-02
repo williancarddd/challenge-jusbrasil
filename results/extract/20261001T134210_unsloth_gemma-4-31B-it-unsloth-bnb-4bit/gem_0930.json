@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0930",
+  "citacoes": [
+    {
+      "inicio": 342,
+      "fim": 380,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1063,
+      "fim": 1080,
+      "trecho": "Súmula 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1263,
+      "fim": 1299,
+      "trecho": "Recurso Repetitivo REsp 1.340.553/MS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1447,
+      "fim": 1471,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1638,
+      "fim": 1664,
+      "trecho": "Acórdão TST-REF-99283/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1977,
+      "fim": 2000,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2527,
+      "fim": 2553,
+      "trecho": "art. 156, inciso V, do CTN",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

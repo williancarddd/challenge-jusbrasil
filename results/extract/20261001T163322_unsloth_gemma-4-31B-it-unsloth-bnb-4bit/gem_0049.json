@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0049",
+  "citacoes": [
+    {
+      "inicio": 684,
+      "fim": 716,
+      "trecho": "art. 125 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 973,
+      "fim": 999,
+      "trecho": "jurisprudência consolidada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1171,
+      "fim": 1256,
+      "trecho": "Habeas Corpus nº 12.345/DF, relatado pelo Ministro Dr. Alcebíades Rocha em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1550,
+      "fim": 1574,
+      "trecho": "art. 109 do Código Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1685,
+      "fim": 1706,
+      "trecho": "jurisprudência do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1912,
+      "fim": 2001,
+      "trecho": "Apelação Cr. 9876/RJ, julgado em 10/11/2022, sob a relatoria do Ministro Dr. Silas Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2260,
+      "fim": 2299,
+      "trecho": "Protocolo Normativo Interno PN-778/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2377,
+      "fim": 2394,
+      "trecho": "Súmula 438 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

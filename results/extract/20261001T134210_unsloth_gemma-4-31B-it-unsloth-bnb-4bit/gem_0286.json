@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0286",
+  "citacoes": [
+    {
+      "inicio": 714,
+      "fim": 738,
+      "trecho": "Lei nº 8.666/93, art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1296,
+      "fim": 1316,
+      "trecho": "REsp nº 1.890.123/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1491,
+      "fim": 1518,
+      "trecho": "Lei nº 14.133/2021, art. 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1637,
+      "fim": 1678,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1844,
+      "fim": 1862,
+      "trecho": "Súmula nº 7 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2036,
+      "fim": 2060,
+      "trecho": "Lei nº 8.429/92, art. 10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2386,
+      "fim": 2435,
+      "trecho": "precedente fixado no AgInt no AREsp nº 987.654/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2571,
+      "fim": 2612,
+      "trecho": "Protocolo de Auditoria Interna STJ-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

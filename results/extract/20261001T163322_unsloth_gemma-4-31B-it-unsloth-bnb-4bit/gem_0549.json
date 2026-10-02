@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0549",
+  "citacoes": [
+    {
+      "inicio": 854,
+      "fim": 883,
+      "trecho": "Lei 8.666/93, artigo 65, § 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1298,
+      "fim": 1326,
+      "trecho": "TST-AIRR-5500-2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1533,
+      "fim": 1573,
+      "trecho": "Lei 14.133/2021, artigo 6º, inciso LVIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1972,
+      "fim": 2001,
+      "trecho": "TST-Ag-RR-1200-2019.5.01.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2211,
+      "fim": 2249,
+      "trecho": "Constituição Federal, artigo 37, caput",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2481,
+      "fim": 2523,
+      "trecho": "orientações do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2608,
+      "fim": 2625,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

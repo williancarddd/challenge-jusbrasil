@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0136",
+  "citacoes": [
+    {
+      "inicio": 877,
+      "fim": 909,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1134,
+      "fim": 1166,
+      "trecho": "Processo 12345-67.2022.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1608,
+      "fim": 1644,
+      "trecho": "art. 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1989,
+      "fim": 2020,
+      "trecho": "Julgado 54321-10.2021.5.03.0011",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2540,
+      "fim": 2564,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

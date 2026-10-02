@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0338",
+  "citacoes": [
+    {
+      "inicio": 304,
+      "fim": 344,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1088,
+      "fim": 1116,
+      "trecho": "artigo 57 da Lei nº 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1270,
+      "fim": 1290,
+      "trecho": "REsp nº 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1448,
+      "fim": 1467,
+      "trecho": "Decreto nº 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1492,
+      "fim": 1501,
+      "trecho": "artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1835,
+      "fim": 1854,
+      "trecho": "Súmula nº 11 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2072,
+      "fim": 2110,
+      "trecho": "decisões recentes desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2301,
+      "fim": 2328,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2700,
+      "fim": 2728,
+      "trecho": "AgInt no AREsp nº 456.789/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0870",
+  "citacoes": [
+    {
+      "inicio": 871,
+      "fim": 906,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1054,
+      "fim": 1142,
+      "trecho": "a guarda compartilhada deve ser priorizada mesmo havendo dissidências entre os genitores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1169,
+      "fim": 1212,
+      "trecho": "Apelação Cível nº 1005566-12.2021.8.26.0100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1420,
+      "fim": 1456,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1552,
+      "fim": 1630,
+      "trecho": "Manual de Direito de Família do Prof. Dr. Hélio Venturini (Ed. Jurídica, 2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1714,
+      "fim": 1742,
+      "trecho": "artigo 1.584 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2062,
+      "fim": 2112,
+      "trecho": "Agravo de Instrumento nº 2233445-88.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

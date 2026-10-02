@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0890",
+  "citacoes": [
+    {
+      "inicio": 624,
+      "fim": 662,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 991,
+      "fim": 1018,
+      "trecho": "Habeas Corpus nº 502.123/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1523,
+      "fim": 1540,
+      "trecho": "RHC nº 145.678/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1802,
+      "fim": 1822,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2072,
+      "trecho": "Acórdão TRF4-XPT-99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2429,
+      "fim": 2466,
+      "trecho": "entendimento consolidado desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

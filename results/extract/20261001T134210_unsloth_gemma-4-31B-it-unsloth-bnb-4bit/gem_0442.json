@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0442",
+  "citacoes": [
+    {
+      "inicio": 520,
+      "fim": 556,
+      "trecho": "Lei nº 14.133/2021, em seu artigo 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 742,
+      "fim": 771,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 873,
+      "fim": 978,
+      "trecho": "Processo nº 1002345-67.2023.8.26.0000 , relatado pelo Desembargador Marcos Vinícius em 12 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1167,
+      "fim": 1194,
+      "trecho": "normas da Lei nº 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1407,
+      "fim": 1524,
+      "trecho": "Julgado nº 998877-11.2022.8.26.0100 , de relatoria do Desembargador Ricardo Alencar, datado de 15 de novembro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1683,
+      "fim": 1750,
+      "trecho": "Tribunal de Contas da União orienta sobre a definição de sobrepreço",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1931,
+      "fim": 1961,
+      "trecho": "Acórdão Interno ID-XPT-2024-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2185,
+      "fim": 2218,
+      "trecho": "artigo 37 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

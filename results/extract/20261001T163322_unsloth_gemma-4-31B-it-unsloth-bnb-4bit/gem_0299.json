@@ -1,0 +1,113 @@
+{
+  "documento_id": "gem_0299",
+  "citacoes": [
+    {
+      "inicio": 632,
+      "fim": 665,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 823,
+      "fim": 867,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 883,
+      "fim": 901,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1185,
+      "fim": 1198,
+      "trecho": "ARE 1.334.556",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1317,
+      "fim": 1332,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1544,
+      "fim": 1580,
+      "trecho": "Recurso Especial nº 1.998.776 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1568,
+      "fim": 1580,
+      "trecho": "8.776 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1641,
+      "fim": 1687,
+      "trecho": "Manual de Procedimentos Administrativos do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1792,
+      "fim": 1841,
+      "trecho": "Protocolo de Harmonização Jurisprudencial 2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2091,
+      "fim": 2108,
+      "trecho": "Súmula 595 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2195,
+      "fim": 2255,
+      "trecho": "doutrina dominante sobre a Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2331,
+      "fim": 2359,
+      "trecho": "art. 11 da Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

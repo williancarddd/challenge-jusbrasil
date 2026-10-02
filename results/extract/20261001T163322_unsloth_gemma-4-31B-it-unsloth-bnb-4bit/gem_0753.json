@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0753",
+  "citacoes": [
+    {
+      "inicio": 724,
+      "fim": 760,
+      "trecho": "art. 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1019,
+      "fim": 1108,
+      "trecho": "Recurso Especial nº 1.845.321/SP, relatado pelo Ministro Dr. Marcos Aurélio em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1456,
+      "fim": 1502,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1651,
+      "fim": 1674,
+      "trecho": "art. 59 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1928,
+      "fim": 2016,
+      "trecho": "Acórdão nº 4452/2022 do STM, sob a relatoria do Ministro Dr. Alberto Souza em 14/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2130,
+      "fim": 2156,
+      "trecho": "Tema Repetitivo 102 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2390,
+      "fim": 2402,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2556,
+      "fim": 2573,
+      "trecho": "Súmula 487 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

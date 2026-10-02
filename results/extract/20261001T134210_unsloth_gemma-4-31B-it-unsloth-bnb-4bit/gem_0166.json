@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0166",
+  "citacoes": [
+    {
+      "inicio": 1084,
+      "fim": 1110,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1464,
+      "fim": 1498,
+      "trecho": "processo 1000567-89.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1768,
+      "fim": 1812,
+      "trecho": "artigo 927, parágrafo único, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1851,
+      "fim": 1927,
+      "trecho": "jurisprudência desta Corte, conforme se observa em diversos julgados do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2159,
+      "fim": 2176,
+      "trecho": "Súmula 362 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2321,
+      "fim": 2366,
+      "trecho": "Precedente Interno PI-2024-X99 deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2496,
+      "fim": 2545,
+      "trecho": "artigo 7º, inciso XXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

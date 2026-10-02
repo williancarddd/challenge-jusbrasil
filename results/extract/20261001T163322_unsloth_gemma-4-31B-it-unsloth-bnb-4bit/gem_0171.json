@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0171",
+  "citacoes": [
+    {
+      "inicio": 521,
+      "fim": 536,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 724,
+      "fim": 745,
+      "trecho": "Lei 8.429/92, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1050,
+      "trecho": "Tema 1199",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1453,
+      "fim": 1483,
+      "trecho": "Lei 14.230/2021, art. 1º, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1588,
+      "fim": 1627,
+      "trecho": "precedente TST-RR-998877-2022-5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2024,
+      "trecho": "Súmula 435 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2088,
+      "fim": 2132,
+      "trecho": "Instrução Normativa Interna TST-Variação-171",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2474,
+      "fim": 2507,
+      "trecho": "Constituição Federal, art. 5º, LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

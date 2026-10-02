@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0403",
+  "citacoes": [
+    {
+      "inicio": 621,
+      "fim": 646,
+      "trecho": "art. 186 da Lei 10.406/02",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1022,
+      "fim": 1059,
+      "trecho": "Apelação nº 1002345-67.2021.8.26.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1320,
+      "fim": 1356,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1537,
+      "fim": 1555,
+      "trecho": "Súmula 123 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1714,
+      "fim": 1754,
+      "trecho": "decisões do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1988,
+      "fim": 2040,
+      "trecho": "Resolução Interna RT-998/2023 deste órgão judiciário",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2086,
+      "fim": 2121,
+      "trecho": "Agravo nº 2233445-11.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2425,
+      "fim": 2454,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0742",
+  "citacoes": [
+    {
+      "inicio": 329,
+      "fim": 365,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 468,
+      "fim": 530,
+      "trecho": "HC 123.456/SP (Rel. Min. Aurélio Silva, julgado em 10/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 989,
+      "fim": 1051,
+      "trecho": "HC 987.654/RJ (Rel. Min. Beatriz Costa, julgado em 12/08/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1156,
+      "fim": 1203,
+      "trecho": "art. 5º, inciso LXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1292,
+      "fim": 1354,
+      "trecho": "HC 111.222/DF (Rel. Min. Carlos Mendes, julgado em 15/01/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1438,
+      "fim": 1474,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1576,
+      "fim": 1619,
+      "trecho": "Protocolo de Direitos Humanos do STF-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2236,
+      "fim": 2315,
+      "trecho": "interpretação sistemática dos dispositivos legais e dos precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0455",
+  "citacoes": [
+    {
+      "inicio": 487,
+      "fim": 525,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 896,
+      "fim": 922,
+      "trecho": "art. 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1098,
+      "fim": 1130,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1365,
+      "fim": 1391,
+      "trecho": "Súmula Súmula nº 88 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1533,
+      "fim": 1575,
+      "trecho": "Lei de Recuperação de Empresas e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1693,
+      "fim": 1713,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1748,
+      "fim": 1781,
+      "trecho": "precedente interno deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1801,
+      "fim": 1830,
+      "trecho": "Acórdão Interno MIL-9988/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2183,
+      "fim": 2209,
+      "trecho": "art. 49 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

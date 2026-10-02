@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0741",
+  "citacoes": [
+    {
+      "inicio": 389,
+      "fim": 429,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 911,
+      "fim": 926,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 962,
+      "fim": 997,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1572,
+      "fim": 1615,
+      "trecho": "Apelação Cível nº 2011567-89.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1708,
+      "fim": 1746,
+      "trecho": "Convenção sobre os Direitos da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1833,
+      "fim": 1864,
+      "trecho": "Enunciado 612 da Súmula do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2016,
+      "fim": 2059,
+      "trecho": "Precedente Interno ID-998877-X desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2198,
+      "fim": 2227,
+      "trecho": "doutrina da proteção integral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0091",
+  "citacoes": [
+    {
+      "inicio": 680,
+      "fim": 712,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1074,
+      "fim": 1133,
+      "trecho": "REsp 1.892.341/SP (Rel. Min. Ricardo Mendes, j. 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1297,
+      "fim": 1321,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1492,
+      "fim": 1511,
+      "trecho": "CLT em seu art. 652",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1701,
+      "trecho": "AgInt no AREsp 456.789/RJ (Rel. Min. Ana Paula Costa, j. 20/10/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1948,
+      "fim": 1965,
+      "trecho": "Súmula 363 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2065,
+      "fim": 2127,
+      "trecho": "orientação de estudos doutrinários sobre a competência laboral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2183,
+      "fim": 2216,
+      "trecho": "Processo Interno Ref. 9988-X/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

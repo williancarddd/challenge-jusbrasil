@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0238",
+  "citacoes": [
+    {
+      "inicio": 709,
+      "fim": 737,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1074,
+      "fim": 1091,
+      "trecho": "Súmula 407 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1213,
+      "fim": 1263,
+      "trecho": "artigo 833, inciso IV, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1463,
+      "fim": 1510,
+      "trecho": "precedente fixado no Recurso Especial 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1730,
+      "fim": 1765,
+      "trecho": "Regulamento Interno do STM-RIC-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2008,
+      "fim": 2024,
+      "trecho": "lei de falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2060,
+      "fim": 2080,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2328,
+      "fim": 2356,
+      "trecho": "artigo 47 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

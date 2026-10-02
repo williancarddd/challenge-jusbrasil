@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0778",
+  "citacoes": [
+    {
+      "inicio": 1201,
+      "fim": 1247,
+      "trecho": "instruções normativas da Administração Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1525,
+      "fim": 1566,
+      "trecho": "artigo 7º, inciso III, da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1645,
+      "fim": 1674,
+      "trecho": "jurisprudência deste Regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1816,
+      "fim": 1845,
+      "trecho": "Processo TRT3-0098765-43/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1851,
+      "fim": 1880,
+      "trecho": "Processo TRT3-0054321-10/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1991,
+      "fim": 2036,
+      "trecho": "artigo 300, § 3º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2178,
+      "fim": 2195,
+      "trecho": "Súmula 244 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2219,
+      "fim": 2281,
+      "trecho": "Manual de Gestão de Contratos do Governo Federal (MG-Gov-2024)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2587,
+      "fim": 2619,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

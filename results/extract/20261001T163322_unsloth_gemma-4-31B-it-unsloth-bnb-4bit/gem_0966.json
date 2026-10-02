@@ -1,0 +1,113 @@
+{
+  "documento_id": "gem_0966",
+  "citacoes": [
+    {
+      "inicio": 452,
+      "fim": 467,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 521,
+      "fim": 549,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 829,
+      "fim": 871,
+      "trecho": "Lei de Recuperação de Empresas e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 875,
+      "fim": 934,
+      "trecho": "jurisprudência deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1157,
+      "fim": 1207,
+      "trecho": "Agravo de Instrumento nº 5012345-88.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1405,
+      "trecho": "artigo 83, inciso I, da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1630,
+      "trecho": "artigo 47 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1661,
+      "fim": 1678,
+      "trecho": "Súmula 441 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1824,
+      "fim": 1856,
+      "trecho": "Recurso Especial nº 1.998.776/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2035,
+      "fim": 2080,
+      "trecho": "Norma Interna de Fluxo Processual NI-TRF4-966",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2641,
+      "fim": 2669,
+      "trecho": "ordenamento jurídico vigente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2676,
+      "fim": 2699,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

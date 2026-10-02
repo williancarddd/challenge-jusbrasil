@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0112",
+  "citacoes": [
+    {
+      "inicio": 815,
+      "fim": 832,
+      "trecho": "Súmula 279 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 875,
+      "fim": 895,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1127,
+      "fim": 1151,
+      "trecho": "Lei nº 8.245/91, art. 9º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1510,
+      "fim": 1524,
+      "trecho": "REsp 1.890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1701,
+      "fim": 1714,
+      "trecho": "ARE 1.005.432",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1814,
+      "fim": 1831,
+      "trecho": "Tema 1.100 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2324,
+      "fim": 2345,
+      "trecho": "Lei 8.245/91, art. 62",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2398,
+      "fim": 2444,
+      "trecho": "Precedente Interno-Variação-112 deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

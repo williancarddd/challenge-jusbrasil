@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0871",
+  "citacoes": [
+    {
+      "inicio": 329,
+      "fim": 369,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 668,
+      "fim": 703,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1159,
+      "fim": 1176,
+      "trecho": "Súmula 456 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1388,
+      "fim": 1453,
+      "trecho": "reiterado em decisões do Supremo Tribunal Federal sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1541,
+      "fim": 1578,
+      "trecho": "precedente firmado no RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1718,
+      "fim": 1786,
+      "trecho": "Princípio da Prioridade Absoluta, insculpido na Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1967,
+      "fim": 1999,
+      "trecho": "tese fixada no Tema 890-X do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2447,
+      "fim": 2475,
+      "trecho": "dispositivo legal mencionado",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2663,
+      "fim": 2693,
+      "trecho": "norma federal e constitucional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

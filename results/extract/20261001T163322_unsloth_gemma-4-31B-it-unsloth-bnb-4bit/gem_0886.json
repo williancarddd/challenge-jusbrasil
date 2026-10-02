@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0886",
+  "citacoes": [
+    {
+      "inicio": 867,
+      "fim": 899,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1119,
+      "fim": 1163,
+      "trecho": "art. 9º da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1481,
+      "trecho": "CC 154.882/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1579,
+      "fim": 1654,
+      "trecho": "orientações do Tribunal Superior do Trabalho acerca da competência material",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1887,
+      "fim": 1904,
+      "trecho": "REsp 1.992.004/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2028,
+      "fim": 2045,
+      "trecho": "Súmula 363 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2119,
+      "fim": 2157,
+      "trecho": "Protocolo de Uniformização JUR-886-STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2294,
+      "fim": 2354,
+      "trecho": "Código de Processo Civil no que tange à competência absoluta",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

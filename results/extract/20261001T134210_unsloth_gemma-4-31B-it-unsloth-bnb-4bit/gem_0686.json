@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0686",
+  "citacoes": [
+    {
+      "inicio": 225,
+      "fim": 243,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 515,
+      "fim": 556,
+      "trecho": "artigo 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 796,
+      "fim": 840,
+      "trecho": "entendimento do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 969,
+      "fim": 1042,
+      "trecho": "REsp nº 1.842.109/SP, relatado pelo Ministro Ricardo Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1158,
+      "fim": 1196,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1218,
+      "fim": 1313,
+      "trecho": "Agravo Regimental ARE 10.442/DF, julgado em 14/08/2022 sob a relatoria da Ministra Helena Porto",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1494,
+      "fim": 1521,
+      "trecho": "legislação processual civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1828,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1859,
+      "trecho": "Código de Processo Civil, especificamente no artigo 833",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2183,
+      "fim": 2211,
+      "trecho": "Acórdão Interno ID-X9920-TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2721,
+      "fim": 2732,
+      "trecho": "lei vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

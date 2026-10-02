@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0514",
+  "citacoes": [
+    {
+      "inicio": 445,
+      "fim": 460,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 675,
+      "fim": 725,
+      "trecho": "Norma Regulamentadora 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 801,
+      "fim": 863,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1057,
+      "fim": 1139,
+      "trecho": "RR-12345-67.2022.5.02.0001, relatado pelo Ministro Dr. Alencar Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1259,
+      "fim": 1276,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1556,
+      "fim": 1568,
+      "trecho": "Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1694,
+      "fim": 1791,
+      "trecho": "Ag-AIRR-98765-43.2021.5.15.0010, datado de 20/09/2022 e relatado pelo Ministro Dr. Roberto Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2158,
+      "fim": 2189,
+      "trecho": "Diretriz Interna TST-DX-2024-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2742,
+      "fim": 2745,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

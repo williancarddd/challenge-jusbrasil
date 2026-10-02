@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0767",
+  "citacoes": [
+    {
+      "inicio": 488,
+      "fim": 503,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 700,
+      "fim": 728,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1197,
+      "fim": 1230,
+      "trecho": "AgRg-AIRR 12345-67.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1334,
+      "fim": 1365,
+      "trecho": "acórdão proferido em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1618,
+      "trecho": "Lei de Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1637,
+      "fim": 1688,
+      "trecho": "REsp 1.890.123/SP pelo Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1906,
+      "fim": 1922,
+      "trecho": "Súmula 43 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2041,
+      "fim": 2093,
+      "trecho": "Enunciado 999 do Manual de Gestão Processual do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2289,
+      "fim": 2304,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

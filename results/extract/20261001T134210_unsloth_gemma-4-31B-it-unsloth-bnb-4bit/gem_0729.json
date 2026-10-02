@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0729",
+  "citacoes": [
+    {
+      "inicio": 537,
+      "fim": 575,
+      "trecho": "art. 201, § 1º da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 844,
+      "fim": 867,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1131,
+      "fim": 1226,
+      "trecho": "Processo nº 0012345-67.2022.5.03.0000, relatado pelo Desembargador Ricardo Mendes em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1353,
+      "fim": 1369,
+      "trecho": "Súmula 82 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1483,
+      "fim": 1532,
+      "trecho": "normas regulamentadoras do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1718,
+      "fim": 1801,
+      "trecho": "Julgado 98765-43/2021-TRT3, proferido pela Relatora Dra. Helena Souza em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1978,
+      "fim": 2003,
+      "trecho": "Decreto 3.048/99, art. 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2129,
+      "fim": 2166,
+      "trecho": "Instrução Normativa 123/2024-TRT3-XYZ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2560,
+      "fim": 2594,
+      "trecho": "princípio do in dubio pro operario",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2749,
+      "fim": 2767,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2773,
+      "fim": 2812,
+      "trecho": "jurisprudência dominante deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

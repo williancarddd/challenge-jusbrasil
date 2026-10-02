@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0802",
+  "citacoes": [
+    {
+      "inicio": 999,
+      "fim": 1024,
+      "trecho": "artigo 59 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1495,
+      "fim": 1520,
+      "trecho": "processo TST-RR-8899-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1738,
+      "fim": 1776,
+      "trecho": "artigo 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2094,
+      "fim": 2109,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2271,
+      "fim": 2288,
+      "trecho": "Súmula 412 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2516,
+      "fim": 2543,
+      "trecho": "precedente TST-AG-1122-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2552,
+      "fim": 2604,
+      "trecho": "norma do Código Civil no que tange à boa-fé objetiva",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2627,
+      "fim": 2668,
+      "trecho": "Regra Interna de Procedimentos RIP-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

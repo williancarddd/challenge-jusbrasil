@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0914",
+  "citacoes": [
+    {
+      "inicio": 645,
+      "fim": 669,
+      "trecho": "art. 192 da Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 957,
+      "fim": 970,
+      "trecho": "RMS 54.321/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1197,
+      "fim": 1226,
+      "trecho": "normas do Ministério da Saúde",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1418,
+      "fim": 1446,
+      "trecho": "AC 5009876-12.2021.4.04.7100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1676,
+      "fim": 1691,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1926,
+      "fim": 1946,
+      "trecho": "Agravo 2022.000456-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2080,
+      "fim": 2097,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2272,
+      "fim": 2299,
+      "trecho": "Manual de Perícias da JF/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

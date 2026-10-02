@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0869",
+  "citacoes": [
+    {
+      "inicio": 345,
+      "fim": 385,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1200,
+      "fim": 1225,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1473,
+      "fim": 1523,
+      "trecho": "Agravo de Instrumento nº 2198765-44.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1639,
+      "fim": 1681,
+      "trecho": "Súmula 44 do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2080,
+      "fim": 2107,
+      "trecho": "Decreto 3.048/99, artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2284,
+      "fim": 2316,
+      "trecho": "Recurso Especial nº 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

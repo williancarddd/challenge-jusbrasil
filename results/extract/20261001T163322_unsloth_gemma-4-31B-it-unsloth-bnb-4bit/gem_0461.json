@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0461",
+  "citacoes": [
+    {
+      "inicio": 885,
+      "fim": 921,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1192,
+      "fim": 1235,
+      "trecho": "art. 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1458,
+      "fim": 1501,
+      "trecho": "Apelação Cível nº 5001234-11.2022.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1671,
+      "fim": 1705,
+      "trecho": "orientação jurisprudencial do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1926,
+      "fim": 1954,
+      "trecho": "Lei nº 14.133/2021, art. 156",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2171,
+      "fim": 2208,
+      "trecho": "entendimento do STJ no REsp 1.890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2452,
+      "fim": 2474,
+      "trecho": "Súmula 123-TRF4-X-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

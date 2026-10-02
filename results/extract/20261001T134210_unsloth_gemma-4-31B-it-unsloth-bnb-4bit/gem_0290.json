@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0290",
+  "citacoes": [
+    {
+      "inicio": 423,
+      "fim": 456,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 484,
+      "fim": 516,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 607,
+      "fim": 661,
+      "trecho": "jurisprudência consolidada do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 905,
+      "fim": 970,
+      "trecho": "RE 562.441/DF, relatado pelo Ministro Gilmar Mendes em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1172,
+      "fim": 1209,
+      "trecho": "Estatuto dos Militares (Lei 6.880/80)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1218,
+      "fim": 1225,
+      "trecho": "art. 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1371,
+      "fim": 1388,
+      "trecho": "Súmula 332 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1535,
+      "fim": 1607,
+      "trecho": "Acórdão 1234-X do STM, proferido em 10/02/2021 pelo Relator Min. Alencar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1722,
+      "fim": 1737,
+      "trecho": "decisões do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1902,
+      "fim": 1923,
+      "trecho": "jurisprudência do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2203,
+      "fim": 2241,
+      "trecho": "Processo Administrativo 99887/2023-MIL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0099",
+  "citacoes": [
+    {
+      "inicio": 580,
+      "fim": 602,
+      "trecho": "Código Civil, art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1013,
+      "fim": 1035,
+      "trecho": "Código Civil, art. 945",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1092,
+      "fim": 1121,
+      "trecho": "jurisprudência deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1300,
+      "fim": 1313,
+      "trecho": "RMS 45.122/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1481,
+      "fim": 1502,
+      "trecho": "Lei 8.038/90, art. 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1824,
+      "fim": 1853,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1969,
+      "fim": 1986,
+      "trecho": "REsp 1.543.210/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2440,
+      "fim": 2483,
+      "trecho": "doutrina clássica de responsabilidade civil",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

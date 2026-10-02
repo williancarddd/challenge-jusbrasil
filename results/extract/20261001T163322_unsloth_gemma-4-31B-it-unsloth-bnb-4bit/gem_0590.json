@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0590",
+  "citacoes": [
+    {
+      "inicio": 813,
+      "fim": 852,
+      "trecho": "artigo 62, inciso V, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1224,
+      "fim": 1292,
+      "trecho": "REsp nº 1.890.123/RJ, Rel. Min. Marco Aurélio, julgado em 15/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1378,
+      "fim": 1396,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1611,
+      "fim": 1686,
+      "trecho": "AgInt no AREsp nº 456.789/MG, Rel. Min. Cláudia Lima, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1806,
+      "fim": 1830,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1997,
+      "fim": 2017,
+      "trecho": "Súmula nº 450 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2157,
+      "fim": 2236,
+      "trecho": "Recurso Especial nº 987.654/DF, Rel. Min. Ricardo Mendes, julgado em 22/01/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2340,
+      "fim": 2405,
+      "trecho": "protocolo interno de conformidade jurisprudencial ID-STJ-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2691,
+      "fim": 2709,
+      "trecho": "legislação federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0846",
+  "citacoes": [
+    {
+      "inicio": 401,
+      "fim": 441,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 761,
+      "fim": 788,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1112,
+      "fim": 1143,
+      "trecho": "Instrução Normativa nº 3 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1279,
+      "fim": 1296,
+      "trecho": "TST-ED-98765/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1436,
+      "fim": 1453,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1552,
+      "fim": 1580,
+      "trecho": "artigo 7º da Lei 12.153/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1584,
+      "fim": 1629,
+      "trecho": "análogos dispositivos de suspensão processual",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1703,
+      "fim": 1726,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1898,
+      "fim": 1954,
+      "trecho": "Enunciado 44 do Conselho Superior da Justiça do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1994,
+      "fim": 2017,
+      "trecho": "RR-54321-2022-5-02-0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0485",
+  "citacoes": [
+    {
+      "inicio": 694,
+      "fim": 709,
+      "trecho": "Lei 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1186,
+      "fim": 1204,
+      "trecho": "artigo 11-A da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1394,
+      "fim": 1432,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1457,
+      "fim": 1484,
+      "trecho": "Processo TRT3-2022-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1835,
+      "fim": 1876,
+      "trecho": "decisões do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1961,
+      "fim": 1983,
+      "trecho": "RR-1000-2021-5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2140,
+      "fim": 2172,
+      "trecho": "Instrução Normativa nº 41 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2331,
+      "fim": 2348,
+      "trecho": "artigo 921 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2524,
+      "fim": 2555,
+      "trecho": "Manual de Procedimentos do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

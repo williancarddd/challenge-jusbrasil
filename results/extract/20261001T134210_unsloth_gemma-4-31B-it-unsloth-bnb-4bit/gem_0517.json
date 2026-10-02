@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0517",
+  "citacoes": [
+    {
+      "inicio": 923,
+      "fim": 961,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1218,
+      "fim": 1242,
+      "trecho": "Processo TRT3-12345/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1440,
+      "fim": 1500,
+      "trecho": "princípio da supremacia do interesse público sobre o privado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1730,
+      "fim": 1747,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1976,
+      "fim": 2005,
+      "trecho": "Lei 8.666/93 no seu artigo 78",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2425,
+      "fim": 2462,
+      "trecho": "doutrina administrativa contemporânea",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2467,
+      "fim": 2548,
+      "trecho": "jurisprudência consolidada no Agravo de Instrumento AIRR-556677-88.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0336",
+  "citacoes": [
+    {
+      "inicio": 731,
+      "fim": 763,
+      "trecho": "Emenda Constitucional nº 45/2004",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 767,
+      "fim": 799,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 958,
+      "fim": 992,
+      "trecho": "jurisprudência desta Corte Suprema",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1146,
+      "fim": 1162,
+      "trecho": "ARE 1.200.300/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1554,
+      "fim": 1578,
+      "trecho": "AgRg no AREsp 456.789/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1833,
+      "fim": 1847,
+      "trecho": "art. 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2070,
+      "fim": 2083,
+      "trecho": "RE 987.654/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2232,
+      "fim": 2272,
+      "trecho": "Precedente Interno STF-X2023-Variação336",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2717,
+      "fim": 2729,
+      "trecho": "Constituição",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

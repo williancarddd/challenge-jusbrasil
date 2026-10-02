@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0159",
+  "citacoes": [
+    {
+      "inicio": 564,
+      "fim": 581,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 950,
+      "fim": 967,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1198,
+      "fim": 1210,
+      "trecho": "NR 15 do MTE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1362,
+      "fim": 1387,
+      "trecho": "AgInt no AREsp 889.990/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1693,
+      "fim": 1710,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1890,
+      "fim": 1902,
+      "trecho": "Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2092,
+      "fim": 2120,
+      "trecho": "Tema Repetitivo 1.102 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2340,
+      "fim": 2371,
+      "trecho": "Precedente Interno STJ-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2507,
+      "fim": 2568,
+      "trecho": "diretrizes da ANVISA sobre controle de infecções hospitalares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

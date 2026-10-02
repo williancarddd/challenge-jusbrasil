@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0500",
+  "citacoes": [
+    {
+      "inicio": 271,
+      "fim": 311,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 848,
+      "fim": 875,
+      "trecho": "Lei nº 14.133/2021, art. 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1038,
+      "fim": 1079,
+      "trecho": "jurisprudência consolidada deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1123,
+      "fim": 1169,
+      "trecho": "artigo 37, inciso XXI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1486,
+      "fim": 1507,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1621,
+      "fim": 1658,
+      "trecho": "precedente fixado no ARE 1.122.333-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1763,
+      "fim": 1800,
+      "trecho": "entendimento exposto no RE 890.123-RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2146,
+      "fim": 2187,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

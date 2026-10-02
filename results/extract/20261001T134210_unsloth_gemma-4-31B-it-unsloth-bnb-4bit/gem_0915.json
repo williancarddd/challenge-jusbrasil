@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0915",
+  "citacoes": [
+    {
+      "inicio": 810,
+      "fim": 848,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1132,
+      "fim": 1145,
+      "trecho": "HC 567.890/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1315,
+      "fim": 1349,
+      "trecho": "decisões recentes sobre cautelares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1640,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1840,
+      "fim": 1871,
+      "trecho": "Precedente Interno STJ-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2151,
+      "fim": 2165,
+      "trecho": "RHC 112.233/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

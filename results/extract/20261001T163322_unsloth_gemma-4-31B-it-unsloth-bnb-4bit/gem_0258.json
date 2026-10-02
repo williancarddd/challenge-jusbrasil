@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0258",
+  "citacoes": [
+    {
+      "inicio": 555,
+      "fim": 598,
+      "trecho": "art. 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 681,
+      "fim": 717,
+      "trecho": "art. 189 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 966,
+      "fim": 1014,
+      "trecho": "jurisprudência deste Tribunal Superior Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1189,
+      "fim": 1201,
+      "trecho": "MS 22.451/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1373,
+      "fim": 1402,
+      "trecho": "decisões recentes do Plenário",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1564,
+      "fim": 1588,
+      "trecho": "Regimento Interno do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1870,
+      "fim": 1900,
+      "trecho": "Agravo Regimental no MS 30.112",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2110,
+      "fim": 2143,
+      "trecho": "Lei 13.709/2018, em seu artigo 7º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2257,
+      "fim": 2295,
+      "trecho": "protocolo de segurança SEC-TSE-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0453",
+  "citacoes": [
+    {
+      "inicio": 1431,
+      "fim": 1476,
+      "trecho": "Código Tributário Nacional, no seu artigo 174",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1653,
+      "fim": 1670,
+      "trecho": "Súmula 106 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1761,
+      "fim": 1787,
+      "trecho": "Tema Repetitivo 566 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1959,
+      "fim": 2017,
+      "trecho": "orientações do Conselho Administrativo de Recursos Fiscais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2141,
+      "fim": 2201,
+      "trecho": "Enunciado 42 do Manual de Procedimentos da Fazenda Municipal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2665,
+      "fim": 2706,
+      "trecho": "Código de Processo Civil, artigo 85, § 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

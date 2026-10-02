@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0596",
+  "citacoes": [
+    {
+      "inicio": 308,
+      "fim": 348,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1028,
+      "fim": 1069,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1091,
+      "fim": 1109,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1203,
+      "fim": 1257,
+      "trecho": "artigo 124, inciso II, alínea d, da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1458,
+      "fim": 1501,
+      "trecho": "Apelação Cível nº 5012345-88.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1686,
+      "fim": 1729,
+      "trecho": "precedentes do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1845,
+      "fim": 1875,
+      "trecho": "artigo 3º da Lei nº 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2493,
+      "fim": 2510,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0786",
+  "citacoes": [
+    {
+      "inicio": 698,
+      "fim": 711,
+      "trecho": "Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 760,
+      "fim": 784,
+      "trecho": "art. 49 da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 876,
+      "fim": 896,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 940,
+      "fim": 957,
+      "trecho": "REsp 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1369,
+      "fim": 1409,
+      "trecho": "decisões do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1505,
+      "fim": 1613,
+      "trecho": "Agravo Interno no AREsp 567.890/RJ, julgado em 15 de janeiro de 2024 pelo Ministro Relator Dr. Alberto Souza",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1682,
+      "fim": 1706,
+      "trecho": "art. 6º da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1883,
+      "fim": 1946,
+      "trecho": "doutrina especializada em estudos sobre insolvência empresarial",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2159,
+      "fim": 2221,
+      "trecho": "Enunciado 452 do Conselho Superior de Justiça Militar (CSJM-X)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

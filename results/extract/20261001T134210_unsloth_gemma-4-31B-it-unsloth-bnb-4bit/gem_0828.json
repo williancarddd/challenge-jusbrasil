@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0828",
+  "citacoes": [
+    {
+      "inicio": 1006,
+      "fim": 1020,
+      "trecho": "Lei 9.873/1999",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1054,
+      "fim": 1087,
+      "trecho": "artigo 1º, § 1º da Lei 9.873/1999",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1377,
+      "fim": 1413,
+      "trecho": "informativo de jurisprudência do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1565,
+      "fim": 1607,
+      "trecho": "Recurso Especial Eleitoral nº 1234-56.2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1775,
+      "fim": 1801,
+      "trecho": "artigo 109 da Lei 5.811/72",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2137,
+      "fim": 2170,
+      "trecho": "Acórdão no Agravo nº 9876-12.2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2320,
+      "fim": 2408,
+      "trecho": "norma interna de gestão processual prevista no Regimento Interno do TSE, Seção de Prazos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2421,
+      "fim": 2476,
+      "trecho": "protocolo de eficiência judiciária ID-TSE-2023-ALPHA-99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2689,
+      "fim": 2739,
+      "trecho": "artigo 487, inciso II, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

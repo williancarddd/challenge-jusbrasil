@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0942",
+  "citacoes": [
+    {
+      "inicio": 1027,
+      "fim": 1061,
+      "trecho": "artigo 109 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1418,
+      "fim": 1429,
+      "trecho": "HC-12345/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1766,
+      "fim": 1803,
+      "trecho": "julgado do STM no Processo-Exemplo-99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1990,
+      "fim": 2014,
+      "trecho": "Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2207,
+      "fim": 2224,
+      "trecho": "Súmula 450 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2542,
+      "fim": 2571,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2651,
+      "fim": 2677,
+      "trecho": "artigo 107 do Código Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0548",
+  "citacoes": [
+    {
+      "inicio": 278,
+      "fim": 318,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 647,
+      "fim": 662,
+      "trecho": "Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 778,
+      "fim": 798,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 844,
+      "fim": 872,
+      "trecho": "artigo 1º da Lei nº 8.009/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1245,
+      "fim": 1262,
+      "trecho": "REsp 1.555.666/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1401,
+      "fim": 1432,
+      "trecho": "artigo 59 da Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1727,
+      "fim": 1744,
+      "trecho": "Súmula 422 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2351,
+      "fim": 2377,
+      "trecho": "Caso Alpha-Beta-Gamma-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0620",
+  "citacoes": [
+    {
+      "inicio": 923,
+      "fim": 953,
+      "trecho": "artigo 9º da Lei nº 8.245/1991",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1393,
+      "fim": 1417,
+      "trecho": "Julgado TSE nº 123456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1696,
+      "fim": 1727,
+      "trecho": "Agravo Regimental ARE 987654/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2080,
+      "fim": 2127,
+      "trecho": "artigo 5º, inciso XXII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2262,
+      "fim": 2286,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2538,
+      "fim": 2571,
+      "trecho": "Precedente Interno TSE-LOG-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

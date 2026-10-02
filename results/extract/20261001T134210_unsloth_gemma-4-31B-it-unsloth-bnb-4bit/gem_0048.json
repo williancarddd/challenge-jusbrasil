@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0048",
+  "citacoes": [
+    {
+      "inicio": 554,
+      "fim": 593,
+      "trecho": "art. 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 936,
+      "fim": 959,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1420,
+      "fim": 1463,
+      "trecho": "Apelação Cível nº 2015432-11.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1612,
+      "fim": 1638,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1791,
+      "fim": 1812,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

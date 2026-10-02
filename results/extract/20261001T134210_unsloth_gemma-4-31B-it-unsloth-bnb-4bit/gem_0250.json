@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0250",
+  "citacoes": [
+    {
+      "inicio": 321,
+      "fim": 361,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 743,
+      "fim": 783,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 934,
+      "fim": 951,
+      "trecho": "REsp 1.234.567/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1127,
+      "fim": 1157,
+      "trecho": "Recurso Especial nº 888.999/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1246,
+      "fim": 1263,
+      "trecho": "Súmula 106 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1429,
+      "fim": 1478,
+      "trecho": "jurisprudência do STJ sobre prescrição tributária",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1616,
+      "fim": 1646,
+      "trecho": "Precedente Interno ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1806,
+      "fim": 1828,
+      "trecho": "Lei de Execução Fiscal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

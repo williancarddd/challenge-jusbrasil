@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0039",
+  "citacoes": [
+    {
+      "inicio": 442,
+      "fim": 460,
+      "trecho": "Lei nº 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 532,
+      "fim": 563,
+      "trecho": "artigo 216-A da Lei nº 6.015/79",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 935,
+      "fim": 976,
+      "trecho": "artigo 183, § 3º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1061,
+      "fim": 1102,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1239,
+      "fim": 1256,
+      "trecho": "Súmula 340 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1415,
+      "fim": 1470,
+      "trecho": "precedentes do STF sobre a função social da propriedade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1759,
+      "fim": 1786,
+      "trecho": "Habeas Corpus nº 12.345/STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2037,
+      "fim": 2065,
+      "trecho": "Código Civil no artigo 1.238",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2397,
+      "fim": 2429,
+      "trecho": "Recurso Especial nº 1.500.200/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2579,
+      "fim": 2608,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0337",
+  "citacoes": [
+    {
+      "inicio": 518,
+      "fim": 557,
+      "trecho": "art. 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 976,
+      "fim": 1005,
+      "trecho": "jurisprudência deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1123,
+      "fim": 1140,
+      "trecho": "Julgado 456789/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1153,
+      "fim": 1171,
+      "trecho": "Lei nº 13.465/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1409,
+      "fim": 1435,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1746,
+      "trecho": "Processo 00112233/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1981,
+      "fim": 2004,
+      "trecho": "Provimento CNJ-998/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

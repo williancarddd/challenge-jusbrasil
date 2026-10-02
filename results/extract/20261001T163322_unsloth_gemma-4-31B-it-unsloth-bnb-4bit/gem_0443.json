@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0443",
+  "citacoes": [
+    {
+      "inicio": 426,
+      "fim": 464,
+      "trecho": "artigo 619 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 922,
+      "fim": 978,
+      "trecho": "artigo 312, parágrafo único, do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1320,
+      "fim": 1347,
+      "trecho": "Habeas Corpus nº 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1479,
+      "fim": 1517,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1552,
+      "fim": 1578,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1677,
+      "fim": 1719,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 1972,
+      "trecho": "Recurso Especial nº 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2185,
+      "fim": 2210,
+      "trecho": "Regimento Interno do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2520,
+      "fim": 2585,
+      "trecho": "Protocolo de Direitos Humanos ID-9982-X adotado por este Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

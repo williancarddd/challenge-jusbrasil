@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0224",
+  "citacoes": [
+    {
+      "inicio": 548,
+      "fim": 577,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1008,
+      "fim": 1033,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1236,
+      "fim": 1301,
+      "trecho": "REsp 1.542.110/MG, relatado pelo Min. Marco Aurélio em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1572,
+      "fim": 1620,
+      "trecho": "AgInt no AREsp 987.654/RS, julgado em 20/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1832,
+      "fim": 1849,
+      "trecho": "Súmula 310 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1980,
+      "fim": 2032,
+      "trecho": "Processo Administrativo Normativo nº 445/2021-STJ-ID",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2333,
+      "fim": 2359,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

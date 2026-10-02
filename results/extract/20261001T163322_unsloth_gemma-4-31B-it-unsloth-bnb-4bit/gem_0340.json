@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0340",
+  "citacoes": [
+    {
+      "inicio": 601,
+      "fim": 627,
+      "trecho": "art. 15 da Lei nº 9.096/95",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 998,
+      "fim": 1051,
+      "trecho": "AgR-AI nº 1234-56/2021, o Relator Min. Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1246,
+      "fim": 1277,
+      "trecho": "Lei nº 14.133/21 em seu art. 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1837,
+      "trecho": "Recurso Especial nº 98765-11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1934,
+      "fim": 1975,
+      "trecho": "Norma Interna de Auditoria NI-TSE-2020/05",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2127,
+      "fim": 2151,
+      "trecho": "Regimento Interno do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2210,
+      "fim": 2296,
+      "trecho": "Processo Administrativo nº 5544-33/2023, relatado pelo Min. Sérgio Porto em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2482,
+      "fim": 2508,
+      "trecho": "Lei nº 8.666/93 no art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0853",
+  "citacoes": [
+    {
+      "inicio": 534,
+      "fim": 572,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 756,
+      "fim": 822,
+      "trecho": "HC nº 123.456/SP (Rel. Des. Marcos Aurélio, julgado em 12/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1110,
+      "fim": 1148,
+      "trecho": "artigo 282 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1390,
+      "fim": 1456,
+      "trecho": "HC nº 789.012/SP (Rel. Des. Luciana Mendes, julgado em 10/08/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1660,
+      "fim": 1691,
+      "trecho": "Recurso Especial nº 555.666/STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1715,
+      "fim": 1775,
+      "trecho": "Protocolo de Diretrizes Cautelares Internas (PDCI-TJSP-2024)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1987,
+      "fim": 2052,
+      "trecho": "HC nº 111.222/SP (Rel. Des. Ricardo Silva, julgado em 15/01/2024)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2448,
+      "fim": 2468,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

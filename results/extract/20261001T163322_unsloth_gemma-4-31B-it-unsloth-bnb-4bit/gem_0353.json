@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0353",
+  "citacoes": [
+    {
+      "inicio": 824,
+      "fim": 871,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1051,
+      "fim": 1110,
+      "trecho": "jurisprudência deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1327,
+      "fim": 1366,
+      "trecho": "Habeas Data nº 102938-45.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1488,
+      "fim": 1515,
+      "trecho": "Lei do Mandado de Segurança",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1613,
+      "fim": 1644,
+      "trecho": "artigo 1º da Lei nº 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1911,
+      "fim": 1943,
+      "trecho": "decisões recentes deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2033,
+      "fim": 2050,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2070,
+      "fim": 2098,
+      "trecho": "artigo 3º da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2171,
+      "fim": 2195,
+      "trecho": "Julgado TRF4-VAR-99821-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2290,
+      "fim": 2336,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

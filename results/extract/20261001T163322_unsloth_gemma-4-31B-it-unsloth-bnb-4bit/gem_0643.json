@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0643",
+  "citacoes": [
+    {
+      "inicio": 698,
+      "fim": 734,
+      "trecho": "Lei nº 6.015/73, em seu artigo 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1045,
+      "fim": 1105,
+      "trecho": "REsp nº 1.728.456/MG (Rel. Min. Marcos Silva, j. 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1262,
+      "fim": 1327,
+      "trecho": "AgInt no AREsp nº 987.654/RS (Rel. Min. Ana Costa, j. 20/09/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1541,
+      "fim": 1604,
+      "trecho": "Constituição Federal, especificamente o artigo 5º, inciso XXIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1691,
+      "fim": 1774,
+      "trecho": "precedente do Recurso Especial nº 1.234.567/DF (Rel. Min. Jorge Luz, j. 15/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1871,
+      "fim": 1915,
+      "trecho": "Protocolo de Eficiência Notarial nº 2024/XYZ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2063,
+      "fim": 2108,
+      "trecho": "normatização do CNJ sobre a desjudicialização",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2352,
+      "fim": 2398,
+      "trecho": "precedentes deste Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

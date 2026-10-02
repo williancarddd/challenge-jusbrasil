@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0381",
+  "citacoes": [
+    {
+      "inicio": 573,
+      "fim": 606,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 787,
+      "fim": 802,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1224,
+      "fim": 1256,
+      "trecho": "Recurso Especial nº 1.890.123/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1361,
+      "fim": 1378,
+      "trecho": "Súmula 456 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1852,
+      "fim": 1975,
+      "trecho": "acórdão proferido no Processo 0012345-88.2022.4.04.7100, relatado pelo Desembargador Dr. Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2242,
+      "fim": 2282,
+      "trecho": "Princípio do Melhor Interesse da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2766,
+      "fim": 2832,
+      "trecho": "Manual de Procedimentos Judiciais da Vara de Família - Ref. 2023/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

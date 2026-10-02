@@ -1,0 +1,95 @@
+{
+  "documento_id": "gen_n1_009_aug05",
+  "citacoes": [
+    {
+      "inicio": 622,
+      "fim": 692,
+      "trecho": "Embargos de Declaração no Recurso em Mandado de Segurança\nnº 67.101/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 916,
+      "fim": 961,
+      "trecho": "dispositivo constitucional invocado na origem",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1392,
+      "fim": 1409,
+      "trecho": "REsp 1.501.000/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1927,
+      "fim": 1940,
+      "trecho": "RHC 346037/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2455,
+      "fim": 2539,
+      "trecho": "Embargos de Declaração no Agravo Interno no Agravo em Recurso Especial nº 1904603/TO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2974,
+      "fim": 2991,
+      "trecho": "Súmula 979 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3071,
+      "fim": 3104,
+      "trecho": "AgInt nos EDcl no REsp 2144995/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3226,
+      "fim": 3241,
+      "trecho": "REsp 5672508/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3407,
+      "fim": 3471,
+      "trecho": "Agravo Interno na Suspensão\nde Liminar e de Sentença nº 2.883/MA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3609,
+      "fim": 3641,
+      "trecho": "EDcl no AgInt no REsp 1889127/SE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

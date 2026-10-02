@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0264",
+  "citacoes": [
+    {
+      "inicio": 528,
+      "fim": 562,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 929,
+      "fim": 946,
+      "trecho": "julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1083,
+      "fim": 1140,
+      "trecho": "RE 1.234.567/SP (Rel. Min. Ricardo Mendes, j. 10/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1328,
+      "fim": 1374,
+      "trecho": "artigo 3º da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1546,
+      "fim": 1595,
+      "trecho": "ADI 5.890 (Rel. Min. Helena Souza, j. 12/08/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1873,
+      "fim": 1890,
+      "trecho": "Tema 1.010 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2084,
+      "trecho": "Parecer Técnico nº 99/2023-JF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2304,
+      "fim": 2339,
+      "trecho": "Lei 13.467/2017 em seu artigo 442-B",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

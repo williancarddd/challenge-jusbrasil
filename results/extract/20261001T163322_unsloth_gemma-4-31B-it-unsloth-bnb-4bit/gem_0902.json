@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0902",
+  "citacoes": [
+    {
+      "inicio": 984,
+      "fim": 1017,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1435,
+      "fim": 1461,
+      "trecho": "RR-10234-56.2021.5.02.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1581,
+      "fim": 1626,
+      "trecho": "Convenção sobre os Direitos da Criança da ONU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1904,
+      "fim": 1921,
+      "trecho": "TST-REsp-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1994,
+      "fim": 2017,
+      "trecho": "art. 3º da Lei 8.069/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2110,
+      "fim": 2139,
+      "trecho": "doutrina da proteção integral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2220,
+      "fim": 2249,
+      "trecho": "AIRR-445566-77.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2451,
+      "fim": 2471,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

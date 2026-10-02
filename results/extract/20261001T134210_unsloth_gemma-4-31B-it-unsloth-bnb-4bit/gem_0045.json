@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0045",
+  "citacoes": [
+    {
+      "inicio": 207,
+      "fim": 224,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 727,
+      "fim": 745,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 903,
+      "fim": 938,
+      "trecho": "art. 1º, § 2º, da Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1123,
+      "fim": 1152,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1355,
+      "fim": 1372,
+      "trecho": "REsp 1.823.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1519,
+      "fim": 1539,
+      "trecho": "diversos precedentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2030,
+      "fim": 2047,
+      "trecho": "Súmula 402 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2157,
+      "fim": 2195,
+      "trecho": "Diretriz Normativa Interna DX-2023/STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2398,
+      "fim": 2445,
+      "trecho": "art. 932, inciso V, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

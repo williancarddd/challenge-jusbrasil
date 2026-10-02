@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0143",
+  "citacoes": [
+    {
+      "inicio": 437,
+      "fim": 475,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1043,
+      "fim": 1078,
+      "trecho": "Lei nº 14.133/2021, no seu art. 124",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1237,
+      "fim": 1254,
+      "trecho": "REsp 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1428,
+      "fim": 1484,
+      "trecho": "jurisprudência do Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1648,
+      "fim": 1712,
+      "trecho": "princípio da segregação de funções previsto na norma de regência",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1827,
+      "fim": 1858,
+      "trecho": "Lei nº 8.666/93, em seu art. 65",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2167,
+      "fim": 2207,
+      "trecho": "Agravo Interno 5008877-11.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2386,
+      "fim": 2430,
+      "trecho": "Protocolo de Análise de Custos PAC-TRF4-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

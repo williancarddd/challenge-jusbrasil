@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0128",
+  "citacoes": [
+    {
+      "inicio": 420,
+      "fim": 435,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 513,
+      "fim": 541,
+      "trecho": "artigo 41 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 705,
+      "fim": 722,
+      "trecho": "REsp 1.892.341/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1038,
+      "fim": 1066,
+      "trecho": "artigo 83 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1231,
+      "fim": 1313,
+      "trecho": "Habeas Corpus nº 12.904/DF, relatado pelo Ministro Dr. Alisson Viana em 14/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1737,
+      "fim": 1787,
+      "trecho": "Agravo Interno nº 88.210/RJ, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1934,
+      "fim": 1966,
+      "trecho": "acórdão paradigma 998-X/2021-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2224,
+      "fim": 2257,
+      "trecho": "jurisprudência do STJ e deste STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2681,
+      "fim": 2699,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

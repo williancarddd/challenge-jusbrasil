@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0016",
+  "citacoes": [
+    {
+      "inicio": 868,
+      "fim": 904,
+      "trecho": "Lei nº 11.101/2005, em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1230,
+      "fim": 1276,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1435,
+      "fim": 1455,
+      "trecho": "REsp nº 1.892.345/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1718,
+      "fim": 1757,
+      "trecho": "Código de Processo Civil, no artigo 833",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1894,
+      "fim": 1953,
+      "trecho": "Agravo Interno nº 4002110-12.2022.8.26.0000  deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2136,
+      "fim": 2179,
+      "trecho": "Lei de Recuperação de Empresas e Falências ",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2284,
+      "fim": 2301,
+      "trecho": "Súmula 43 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2325,
+      "fim": 2364,
+      "trecho": "Protocolo de Gestão de Ativos RJ-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

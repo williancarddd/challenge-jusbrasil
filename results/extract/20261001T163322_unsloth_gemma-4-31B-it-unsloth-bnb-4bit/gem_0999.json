@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0999",
+  "citacoes": [
+    {
+      "inicio": 647,
+      "fim": 686,
+      "trecho": "Lei nº 6.830/80, em seu artigo 40, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 817,
+      "fim": 830,
+      "trecho": "RE nº 567.890",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1089,
+      "fim": 1134,
+      "trecho": "entendimentos do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1229,
+      "fim": 1269,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1546,
+      "fim": 1566,
+      "trecho": "Súmula nº 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1645,
+      "fim": 1668,
+      "trecho": "Acórdão Paradigma 999-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2052,
+      "fim": 2072,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2349,
+      "fim": 2372,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2377,
+      "fim": 2395,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

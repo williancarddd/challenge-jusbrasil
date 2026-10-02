@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0780",
+  "citacoes": [
+    {
+      "inicio": 984,
+      "fim": 1001,
+      "trecho": "Súmula 126 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1186,
+      "fim": 1212,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2271,
+      "fim": 2316,
+      "trecho": "entendimento contido na Súmula 37 do TST-PROV",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2548,
+      "fim": 2574,
+      "trecho": "artigo 944 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2695,
+      "fim": 2721,
+      "trecho": "RR-54321-88.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

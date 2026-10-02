@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0784",
+  "citacoes": [
+    {
+      "inicio": 293,
+      "fim": 305,
+      "trecho": "Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 351,
+      "fim": 366,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 570,
+      "fim": 609,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1107,
+      "fim": 1165,
+      "trecho": "REsp 1.987.654/SP (Rel. Min. Marco Aurélio, j. 15/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1315,
+      "fim": 1384,
+      "trecho": "Apelação Cível 2021.000.123 (Rel. Des. Ricardo Mendes, j. 10/02/2024)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1630,
+      "fim": 1651,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1736,
+      "fim": 1799,
+      "trecho": "Enunciado 456 do Conselho de Ética Administrativa (ID-784-TJSP)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1949,
+      "fim": 1964,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2072,
+      "fim": 2095,
+      "trecho": "art. 17 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2456,
+      "fim": 2489,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

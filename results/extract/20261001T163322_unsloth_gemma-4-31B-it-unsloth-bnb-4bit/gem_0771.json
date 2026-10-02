@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0771",
+  "citacoes": [
+    {
+      "inicio": 876,
+      "fim": 946,
+      "trecho": "Lei 13.105/2015, em seu artigo 1.007, § 2º do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1210,
+      "fim": 1233,
+      "trecho": "Processo TRT3-8821/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1372,
+      "fim": 1389,
+      "trecho": "Súmula 245 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1657,
+      "fim": 1683,
+      "trecho": "Instrução Normativa do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1813,
+      "fim": 1857,
+      "trecho": "Consolidação dos Processos do Trabalho - CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1949,
+      "fim": 1982,
+      "trecho": "Precedente Interno TRT3-X99-Alpha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2033,
+      "fim": 2048,
+      "trecho": "Lei 12.009/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2146,
+      "fim": 2174,
+      "trecho": "Recurso Especial nº 12345/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

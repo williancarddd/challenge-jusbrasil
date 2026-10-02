@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0463",
+  "citacoes": [
+    {
+      "inicio": 885,
+      "fim": 919,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1164,
+      "fim": 1244,
+      "trecho": "Recurso Especial nº 1.234.567/MG (Rel. Des. Marcos Silva, julgado em 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1399,
+      "fim": 1415,
+      "trecho": "artigo 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1562,
+      "trecho": "Processo ID-998877-X (Rel. Des. Ana Costa, 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1778,
+      "fim": 1826,
+      "trecho": "estudos doutrinários sobre a natureza do vínculo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 2018,
+      "trecho": "Agravo de Instrumento nº 445566-12/2020 (Rel. Des. Roberto Lima, 15/08/2020)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2174,
+      "fim": 2252,
+      "trecho": "decisões do Superior Tribunal de Justiça sobre a autonomia dos contratos civis",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

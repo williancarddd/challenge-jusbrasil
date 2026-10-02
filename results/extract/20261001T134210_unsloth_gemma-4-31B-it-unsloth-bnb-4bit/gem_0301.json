@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0301",
+  "citacoes": [
+    {
+      "inicio": 1212,
+      "fim": 1229,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1250,
+      "fim": 1278,
+      "trecho": "artigo 59 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1585,
+      "fim": 1611,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1743,
+      "fim": 1773,
+      "trecho": "TST-RR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1841,
+      "fim": 1858,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2022,
+      "fim": 2059,
+      "trecho": "doutrina administrativa contemporânea",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2193,
+      "fim": 2224,
+      "trecho": "Lei 8.666/1993 no seu artigo 55",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2424,
+      "fim": 2466,
+      "trecho": "processo paradigma 98765-43.2019.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2611,
+      "fim": 2648,
+      "trecho": "estatuto jurídico do servidor público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2759,
+      "fim": 2802,
+      "trecho": "Relatório de Auditoria Interna-TST-X2023-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

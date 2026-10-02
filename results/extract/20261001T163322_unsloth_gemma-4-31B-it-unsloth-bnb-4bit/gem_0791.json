@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0791",
+  "citacoes": [
+    {
+      "inicio": 719,
+      "fim": 757,
+      "trecho": "orientação jurisprudencial consolidada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 861,
+      "fim": 894,
+      "trecho": "art. 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1038,
+      "fim": 1055,
+      "trecho": "REsp 1.654.321/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1365,
+      "fim": 1386,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1616,
+      "fim": 1642,
+      "trecho": "art. 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1718,
+      "fim": 1745,
+      "trecho": "AgInt no AREsp 1.234.567/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1895,
+      "fim": 1912,
+      "trecho": "REsp 2.001.002/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2067,
+      "fim": 2082,
+      "trecho": "diretriz do ECA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2120,
+      "fim": 2167,
+      "trecho": "art. 19 do Estatuto da Criança e do Adolescente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2253,
+      "fim": 2294,
+      "trecho": "Protocolo de Parentalidade Ativa STJ-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

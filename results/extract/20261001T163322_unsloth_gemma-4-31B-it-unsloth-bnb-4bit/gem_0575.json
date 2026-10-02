@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0575",
+  "citacoes": [
+    {
+      "inicio": 539,
+      "fim": 564,
+      "trecho": "artigo 11 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 766,
+      "fim": 806,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1121,
+      "fim": 1216,
+      "trecho": "julgado RR-12345-67.2021.5.02.0000, relatado pelo Ministro Aurélio Mendes em 14 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1377,
+      "fim": 1394,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1840,
+      "fim": 1934,
+      "trecho": "Ag-AIRR-98765-43.2019.5.15.0000, sob relatoria da Ministra Clara Luz em 10 de novembro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2079,
+      "fim": 2113,
+      "trecho": "Precedente Interno TST-EXE-2024-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2221,
+      "fim": 2248,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2595,
+      "fim": 2613,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2619,
+      "fim": 2659,
+      "trecho": "jurisprudência pacificada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

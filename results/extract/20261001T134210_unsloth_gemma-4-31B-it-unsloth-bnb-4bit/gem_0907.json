@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0907",
+  "citacoes": [
+    {
+      "inicio": 746,
+      "fim": 786,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1025,
+      "fim": 1057,
+      "trecho": "Recurso Especial nº 1.341.527/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1271,
+      "fim": 1296,
+      "trecho": "artigo 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1300,
+      "fim": 1391,
+      "trecho": "jurisprudência deste Egrégio Tribunal, conforme se extrai de decisões recentes desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1548,
+      "fim": 1598,
+      "trecho": "Agravo de Instrumento nº 2200112-11.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1714,
+      "fim": 1736,
+      "trecho": "norma processual civil",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1819,
+      "fim": 1839,
+      "trecho": "Enunciado 323 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2041,
+      "fim": 2081,
+      "trecho": "Parecer Técnico-Jurídico nº 889/2021-PGJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

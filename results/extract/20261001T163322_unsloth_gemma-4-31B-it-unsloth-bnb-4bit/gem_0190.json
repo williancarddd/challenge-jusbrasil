@@ -1,0 +1,32 @@
+{
+  "documento_id": "gem_0190",
+  "citacoes": [
+    {
+      "inicio": 813,
+      "fim": 852,
+      "trecho": "Lei nº 6.830/80, em seu artigo 40, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1175,
+      "fim": 1207,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1317,
+      "fim": 1343,
+      "trecho": "Tema Repetitivo 566 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

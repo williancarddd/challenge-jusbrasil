@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0484",
+  "citacoes": [
+    {
+      "inicio": 893,
+      "fim": 975,
+      "trecho": "Lei de Licitações e Contratos Administrativos, em seu artigo 59 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1223,
+      "fim": 1235,
+      "trecho": "Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1287,
+      "fim": 1316,
+      "trecho": "jurisprudência deste Regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1400,
+      "fim": 1434,
+      "trecho": "processo 0001234-11.2022.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1557,
+      "fim": 1574,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1794,
+      "fim": 1832,
+      "trecho": "Manual de Auditoria do TCU-TRT-MG-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2005,
+      "fim": 2025,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2116,
+      "fim": 2133,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0103",
+  "citacoes": [
+    {
+      "inicio": 388,
+      "fim": 428,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1276,
+      "fim": 1299,
+      "trecho": "Lei 8.666/93, artigo 89",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1533,
+      "trecho": "Julgado TRT3-AG-2021-9988",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1858,
+      "fim": 1883,
+      "trecho": "artigo 59 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2113,
+      "fim": 2145,
+      "trecho": "Precedente Interno TRT3-REF-X102",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2304,
+      "fim": 2321,
+      "trecho": "Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

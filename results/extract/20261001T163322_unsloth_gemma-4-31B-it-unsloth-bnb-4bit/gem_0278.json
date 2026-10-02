@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0278",
+  "citacoes": [
+    {
+      "inicio": 755,
+      "fim": 778,
+      "trecho": "Lei 8.213/91, artigo 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1051,
+      "fim": 1080,
+      "trecho": "jurisprudência deste regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1234,
+      "trecho": "Processo TRT3-0056789-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1348,
+      "fim": 1353,
+      "trecho": "NR-15",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1590,
+      "fim": 1606,
+      "trecho": "Súmula 47 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1688,
+      "fim": 1715,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1838,
+      "fim": 1869,
+      "trecho": "Julgado 12345-67.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2259,
+      "fim": 2297,
+      "trecho": "Constituição Federal, artigo 201, § 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

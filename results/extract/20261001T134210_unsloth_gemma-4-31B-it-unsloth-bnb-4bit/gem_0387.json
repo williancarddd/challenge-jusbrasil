@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0387",
+  "citacoes": [
+    {
+      "inicio": 674,
+      "fim": 721,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1162,
+      "fim": 1269,
+      "trecho": "Apelação Cível nº 1002345-12.2022.8.26.0000, relatado pelo Desembargador Marcos Aurélio Silva em 15/03/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1412,
+      "fim": 1437,
+      "trecho": "Lei Estadual nº 10.261/68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1534,
+      "fim": 1544,
+      "trecho": "artigo 121",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1772,
+      "fim": 1821,
+      "trecho": "Mandado de Segurança nº 2204567-88.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1975,
+      "fim": 1992,
+      "trecho": "Súmula 626 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2127,
+      "fim": 2152,
+      "trecho": "Regimento Interno do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2305,
+      "fim": 2355,
+      "trecho": "Agravo de Instrumento nº 5009876-44.2020.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2466,
+      "fim": 2506,
+      "trecho": "Protocolo de Gestão Interna PG-9982/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

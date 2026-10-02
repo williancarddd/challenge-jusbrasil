@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0010",
+  "citacoes": [
+    {
+      "inicio": 815,
+      "fim": 873,
+      "trecho": "jurisprudência consolidada do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1053,
+      "fim": 1086,
+      "trecho": "Lei 11.101/2005, em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1316,
+      "fim": 1353,
+      "trecho": "entendimento do STJ no REsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1547,
+      "fim": 1634,
+      "trecho": "decisões do Tribunal Superior do Trabalho sobre a natureza alimentar do crédito obreiro",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1748,
+      "fim": 1766,
+      "trecho": "CLT, no artigo 879",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1880,
+      "fim": 1951,
+      "trecho": "precedente interno deste regional, registrado sob o ID-PROC-998877-TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2074,
+      "fim": 2091,
+      "trecho": "Súmula 100 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2320,
+      "fim": 2342,
+      "trecho": "jurisprudência do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0513",
+  "citacoes": [
+    {
+      "inicio": 1383,
+      "fim": 1426,
+      "trecho": "art. 921, § 1º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1571,
+      "fim": 1588,
+      "trecho": "REsp 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1731,
+      "fim": 1761,
+      "trecho": "Enunciado 150 da Súmula do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2019,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2132,
+      "fim": 2156,
+      "trecho": "art. 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2186,
+      "fim": 2206,
+      "trecho": "Agravo 456.789-X/STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

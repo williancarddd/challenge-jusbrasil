@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0257",
+  "citacoes": [
+    {
+      "inicio": 835,
+      "fim": 858,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1133,
+      "fim": 1150,
+      "trecho": "REsp 1.340.585/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1460,
+      "fim": 1486,
+      "trecho": "Tema Repetitivo 566 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1631,
+      "fim": 1679,
+      "trecho": "estudo doutrinário sobre a prescrição tributária",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1798,
+      "fim": 1836,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1924,
+      "fim": 1976,
+      "trecho": "Enunciado 12 do Conselho Superior da Justiça Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2167,
+      "fim": 2217,
+      "trecho": "Protocolo de Gestão de Passivos Tributários 2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

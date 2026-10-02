@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0404",
+  "citacoes": [
+    {
+      "inicio": 768,
+      "fim": 807,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1108,
+      "fim": 1224,
+      "trecho": "Agravo de Instrumento nº 5012345-67.2022.4.04.0000, relatado pelo Desembargador Federal Ricardo Mendes em 15/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1407,
+      "fim": 1419,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1582,
+      "fim": 1648,
+      "trecho": "Apelação Cível nº 5098765-43.2021.4.04.7100, julgado em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1771,
+      "fim": 1788,
+      "trecho": "Súmula 427 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2051,
+      "fim": 2090,
+      "trecho": "doutrina do Direito Civil contemporâneo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2159,
+      "fim": 2205,
+      "trecho": "Processo Administrativo Interno ID-TRF4-998877",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2323,
+      "fim": 2349,
+      "trecho": "art. 59 da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0982",
+  "citacoes": [
+    {
+      "inicio": 789,
+      "fim": 827,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 969,
+      "fim": 993,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1027,
+      "fim": 1053,
+      "trecho": "art. 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1247,
+      "fim": 1273,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1455,
+      "fim": 1487,
+      "trecho": "Recurso Especial nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1615,
+      "fim": 1643,
+      "trecho": "Súmula do tribunal correlato",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1792,
+      "fim": 1832,
+      "trecho": "Agravo em Recurso Especial nº 987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1965,
+      "fim": 2033,
+      "trecho": "norma aplicável ao regime de cobrança de multas da Justiça Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2134,
+      "fim": 2187,
+      "trecho": "Protocolo Interno de Gestão Processual PI-2023-TSE-09",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

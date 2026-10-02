@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0949",
+  "citacoes": [
+    {
+      "inicio": 660,
+      "fim": 690,
+      "trecho": "Código Penal Militar, art. 125",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1329,
+      "fim": 1348,
+      "trecho": "STM, HC 12.345/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1461,
+      "fim": 1474,
+      "trecho": "CPPM, art. 12",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1701,
+      "fim": 1729,
+      "trecho": "STM, Apelação Cr 67.890/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2097,
+      "fim": 2118,
+      "trecho": "STM, REsp 11.223/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2595,
+      "fim": 2618,
+      "trecho": "STM, Agravo 44.556/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0835",
+  "citacoes": [
+    {
+      "inicio": 692,
+      "fim": 710,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 925,
+      "fim": 969,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1322,
+      "fim": 1339,
+      "trecho": "REsp 1.890.123/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1562,
+      "fim": 1589,
+      "trecho": "AgInt no AREsp 2.100.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2021,
+      "fim": 2041,
+      "trecho": "decisões desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2159,
+      "fim": 2176,
+      "trecho": "Súmula 595 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2225,
+      "fim": 2259,
+      "trecho": "precedente interno ID-STJ-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2515,
+      "fim": 2549,
+      "trecho": "dispositivos da Lei de Improbidade",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2727,
+      "fim": 2743,
+      "trecho": "Tema 1199 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

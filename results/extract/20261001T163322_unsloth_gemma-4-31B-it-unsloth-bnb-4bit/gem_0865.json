@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0865",
+  "citacoes": [
+    {
+      "inicio": 807,
+      "fim": 845,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1054,
+      "fim": 1074,
+      "trecho": "HC 123.456/SP do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1268,
+      "fim": 1306,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1393,
+      "fim": 1446,
+      "trecho": "jurisprudência deste Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1590,
+      "fim": 1607,
+      "trecho": "Súmula 440 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1825,
+      "fim": 1879,
+      "trecho": "Diretriz Interna de Liberdade 88/2022-TJSP deste órgão",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2155,
+      "fim": 2175,
+      "trecho": "lei processual penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

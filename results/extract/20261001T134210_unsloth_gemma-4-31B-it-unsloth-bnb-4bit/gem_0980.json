@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0980",
+  "citacoes": [
+    {
+      "inicio": 657,
+      "fim": 701,
+      "trecho": "artigo 927, parágrafo único, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1071,
+      "fim": 1153,
+      "trecho": "RR-12345-67.2021.5.02.0000, relatado pelo Ministro Dr. Alberto Silva em 15/03/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1576,
+      "fim": 1602,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1817,
+      "fim": 1826,
+      "trecho": "artigo 7º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1817,
+      "fim": 1866,
+      "trecho": "artigo 7º, inciso XXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1996,
+      "fim": 2036,
+      "trecho": "entendimento do TST em julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2183,
+      "fim": 2269,
+      "trecho": "Ag-AIRR-98765-43.2020.5.15.0000, julgado em 10/11/2021 pelo Ministro Dr. Carlos Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

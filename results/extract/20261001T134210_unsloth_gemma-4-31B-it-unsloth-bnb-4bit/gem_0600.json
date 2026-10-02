@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0600",
+  "citacoes": [
+    {
+      "inicio": 389,
+      "fim": 429,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 935,
+      "fim": 971,
+      "trecho": "artigo 62, inciso I, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1437,
+      "fim": 1453,
+      "trecho": "ARE 1.234.567-MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1573,
+      "fim": 1590,
+      "trecho": "Súmula 421 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1803,
+      "fim": 1824,
+      "trecho": "estatuto do inquilino",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2096,
+      "fim": 2129,
+      "trecho": "Recurso Extraordinário 987.654-RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2418,
+      "fim": 2438,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2543,
+      "fim": 2573,
+      "trecho": "norma processual civil vigente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2609,
+      "fim": 2654,
+      "trecho": "Protocolo de Eficácia Jurisdicional 2024-XPTO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

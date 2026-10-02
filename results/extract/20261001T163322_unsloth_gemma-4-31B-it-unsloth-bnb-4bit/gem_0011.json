@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0011",
+  "citacoes": [
+    {
+      "inicio": 374,
+      "fim": 412,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 609,
+      "fim": 683,
+      "trecho": "HC 123.456/SP, relatado pelo Ministro Aurélio Mendes em 12 de maio de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 926,
+      "fim": 946,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1108,
+      "fim": 1154,
+      "trecho": "Lei 13.964/2019 no artigo 316, parágrafo único",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1230,
+      "fim": 1314,
+      "trecho": "HC 987.654/RJ, de relatoria do Ministro Silas Rocha, datado de 10 de outubro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1448,
+      "fim": 1491,
+      "trecho": "Protocolo de Direitos Humanos do STF-2023/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1688,
+      "fim": 1722,
+      "trecho": "princípio do devido processo legal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1743,
+      "trecho": "Súmula 691 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2084,
+      "fim": 2162,
+      "trecho": "HC 456.789/MG, relatado pelo Ministro Lucas Veríssimo em 15 de janeiro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2465,
+      "fim": 2491,
+      "trecho": "dignidade da pessoa humana",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

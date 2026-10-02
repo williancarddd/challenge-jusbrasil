@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0816",
+  "citacoes": [
+    {
+      "inicio": 860,
+      "fim": 886,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1029,
+      "fim": 1068,
+      "trecho": "artigo 932, inciso III, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1236,
+      "fim": 1310,
+      "trecho": "Apelação Cível nº 2021.000456-12 (Rel. Des. Marcos Aurélio, j. 15/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1527,
+      "fim": 1586,
+      "trecho": "REsp 1.890.456/SP (Rel. Min. Nancy Andridge, j. 10/11/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1731,
+      "fim": 1782,
+      "trecho": "doutrina especializada sobre responsabilidade civil",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1909,
+      "fim": 1925,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

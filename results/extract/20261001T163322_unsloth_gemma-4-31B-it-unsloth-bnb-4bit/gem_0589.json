@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0589",
+  "citacoes": [
+    {
+      "inicio": 662,
+      "fim": 691,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1133,
+      "fim": 1153,
+      "trecho": "REsp nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1407,
+      "fim": 1419,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1576,
+      "fim": 1604,
+      "trecho": "AgInt no AREsp nº 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1739,
+      "fim": 1762,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2022,
+      "trecho": "Súmula 7 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

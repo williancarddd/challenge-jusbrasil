@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0261",
+  "citacoes": [
+    {
+      "inicio": 659,
+      "fim": 697,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 960,
+      "fim": 977,
+      "trecho": "Súmula 492 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1199,
+      "fim": 1211,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1438,
+      "fim": 1455,
+      "trecho": "REsp 1.842.301/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1699,
+      "fim": 1723,
+      "trecho": "AgRg no AREsp 550.211/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1969,
+      "fim": 1993,
+      "trecho": "art. 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2249,
+      "fim": 2266,
+      "trecho": "REsp 1.234.567/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2609,
+      "fim": 2641,
+      "trecho": "precedentes desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

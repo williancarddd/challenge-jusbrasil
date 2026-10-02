@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0362",
+  "citacoes": [
+    {
+      "inicio": 588,
+      "fim": 621,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1003,
+      "fim": 1030,
+      "trecho": "Habeas Corpus nº 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1304,
+      "fim": 1324,
+      "trecho": "REsp nº 1.890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1437,
+      "fim": 1452,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1755,
+      "fim": 1788,
+      "trecho": "Acórdão STD-9988-X deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1865,
+      "fim": 1897,
+      "trecho": "art. 227 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

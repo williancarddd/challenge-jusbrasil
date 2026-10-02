@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0607",
+  "citacoes": [
+    {
+      "inicio": 779,
+      "fim": 805,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 885,
+      "fim": 938,
+      "trecho": "artigo 192 da Consolidação das Leis do Trabalho (CLT)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1312,
+      "fim": 1343,
+      "trecho": "Agravo Regimental ARE 12.345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1580,
+      "fim": 1608,
+      "trecho": "Lei 8.112/90, artigo 11 a 15",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1725,
+      "fim": 1763,
+      "trecho": "Supremo Tribunal Federal no RE 564.321",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2009,
+      "fim": 2026,
+      "trecho": "Súmula 362 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2207,
+      "fim": 2252,
+      "trecho": "Manual de Gestão de Pessoal do TSE-Doc-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2353,
+      "fim": 2398,
+      "trecho": "jurisprudência do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2549,
+      "fim": 2602,
+      "trecho": "jurisprudência do TSE no Recurso Especial REsp 987/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

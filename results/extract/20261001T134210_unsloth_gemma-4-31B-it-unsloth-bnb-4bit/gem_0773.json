@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0773",
+  "citacoes": [
+    {
+      "inicio": 685,
+      "fim": 711,
+      "trecho": "Lei nº 8.666/1993, art. 45",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 964,
+      "fim": 984,
+      "trecho": "REsp nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1258,
+      "fim": 1285,
+      "trecho": "Lei nº 14.133/2021, art. 23",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1459,
+      "fim": 1479,
+      "trecho": "Súmula nº 123 do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1630,
+      "fim": 1726,
+      "trecho": "AC nº 500890-11.2021.4.04.0000, relatado pelo Desembargador Federal Ricardo Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2002,
+      "fim": 2031,
+      "trecho": "Constituição Federal, art. 37",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2168,
+      "fim": 2208,
+      "trecho": "decisões do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2630,
+      "fim": 2663,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

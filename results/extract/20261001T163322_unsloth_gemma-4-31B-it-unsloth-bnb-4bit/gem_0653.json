@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0653",
+  "citacoes": [
+    {
+      "inicio": 641,
+      "fim": 684,
+      "trecho": "art. 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 929,
+      "fim": 958,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1037,
+      "fim": 1128,
+      "trecho": "Habeas Corpus nº 0012345-67.2022.8.26.0000, relatado pelo Des. Marcos Aurélio em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1251,
+      "fim": 1285,
+      "trecho": "Lei 13.105/2015, em seu artigo 189",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1661,
+      "fim": 1759,
+      "trecho": "Agravo de Instrumento nº 2233445-88.2021.8.26.0000, julgado em 10/11/2021 pelo Des. Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1849,
+      "fim": 1861,
+      "trecho": "Lei 8.038/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1963,
+      "fim": 1984,
+      "trecho": "estatuto da advocacia",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2265,
+      "fim": 2302,
+      "trecho": "art. 7º, inciso XIII, da Lei 8.906/94",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "documento_id": "gem_0295",
+  "citacoes": [
+    {
+      "inicio": 514,
+      "fim": 539,
+      "trecho": "artigo 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 895,
+      "fim": 960,
+      "trecho": "ARE 1.234.567/SP (Rel. Min. Marco Aurélio, julgado em 12/05/2018)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1108,
+      "fim": 1176,
+      "trecho": "RE 987.654/RJ (Rel. Min. Ricardo Lewandowski, julgado em 20/11/2019)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1315,
+      "fim": 1348,
+      "trecho": "pareceres daquela Corte de Contas",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

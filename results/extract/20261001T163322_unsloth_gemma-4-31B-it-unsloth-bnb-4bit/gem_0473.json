@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0473",
+  "citacoes": [
+    {
+      "inicio": 575,
+      "fim": 604,
+      "trecho": "Lei nº 12.016/2009, artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 824,
+      "fim": 853,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1015,
+      "fim": 1107,
+      "trecho": "Apelação nº 1002345-67.2022.8.26.0000, relatado pelo Des. Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1266,
+      "fim": 1304,
+      "trecho": "Constituição Federal, artigo 37, caput",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1584,
+      "fim": 1682,
+      "trecho": "Agravo de Instrumento nº 2004567-89.2021.8.26.0000, julgado em 10/11/2021 pelo Des. Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1965,
+      "fim": 1991,
+      "trecho": "normas regimentais do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2021,
+      "fim": 2084,
+      "trecho": "precedente anexo ao Processo Administrativo Interno ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2311,
+      "fim": 2347,
+      "trecho": "Código de Processo Civil, artigo 300",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2569,
+      "fim": 2600,
+      "trecho": "entendimento consolidado do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

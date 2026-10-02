@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0133",
+  "citacoes": [
+    {
+      "inicio": 311,
+      "fim": 358,
+      "trecho": "artigo 192 da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 663,
+      "fim": 695,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 841,
+      "fim": 869,
+      "trecho": "acórdão datado de 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1095,
+      "fim": 1133,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1279,
+      "fim": 1296,
+      "trecho": "Súmula 445 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1418,
+      "fim": 1448,
+      "trecho": "Lei 8.112/90 no seu artigo 113",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1589,
+      "fim": 1666,
+      "trecho": "Agravo Interno nº 987.654/RJ, relatado pelo Min. Cláudio Mendes em 14/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1884,
+      "fim": 1922,
+      "trecho": "Princípio da Legalidade Administrativa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2124,
+      "fim": 2159,
+      "trecho": "Protocolo Normativo Interno STJ-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

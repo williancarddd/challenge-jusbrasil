@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0436",
+  "citacoes": [
+    {
+      "inicio": 900,
+      "fim": 938,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1423,
+      "fim": 1458,
+      "trecho": "Processo TRT3-998877-2022-5-02-0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1622,
+      "fim": 1655,
+      "trecho": "Lei 14.133/2021 em seu artigo 115",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1778,
+      "fim": 1842,
+      "trecho": "doutrina sobre a tutela de urgência no âmbito do direito público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2029,
+      "fim": 2064,
+      "trecho": "Processo 00112233-44.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2139,
+      "fim": 2186,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2473,
+      "fim": 2526,
+      "trecho": "Protocolo Interno de Gestão de Riscos PGR-TRT3-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2588,
+      "fim": 2626,
+      "trecho": "artigo 995 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

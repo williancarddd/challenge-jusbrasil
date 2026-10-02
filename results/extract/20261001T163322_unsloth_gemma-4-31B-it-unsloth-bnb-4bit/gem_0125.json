@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0125",
+  "citacoes": [
+    {
+      "inicio": 962,
+      "fim": 1000,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1302,
+      "fim": 1318,
+      "trecho": "ARE 1.234.567 MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1569,
+      "fim": 1589,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1704,
+      "fim": 1717,
+      "trecho": "RE 987.654 SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1841,
+      "fim": 1871,
+      "trecho": "Lei nº 14.133/2021, artigo 124",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2004,
+      "fim": 2051,
+      "trecho": "Protocolo de Gestão Administrativa 001/2023-STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2459,
+      "fim": 2483,
+      "trecho": "Regimento Interno do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

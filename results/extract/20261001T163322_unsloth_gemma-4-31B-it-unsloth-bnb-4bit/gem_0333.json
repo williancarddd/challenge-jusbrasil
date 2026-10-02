@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0333",
+  "citacoes": [
+    {
+      "inicio": 176,
+      "fim": 194,
+      "trecho": "Lei nº 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 633,
+      "fim": 662,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1114,
+      "fim": 1126,
+      "trecho": "RE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1638,
+      "fim": 1664,
+      "trecho": "art. 1º da Lei nº 8.935/94",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1823,
+      "fim": 1867,
+      "trecho": "entendimento do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2099,
+      "fim": 2116,
+      "trecho": "Súmula 340 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2351,
+      "fim": 2381,
+      "trecho": "precedente interno ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2642,
+      "fim": 2662,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0928",
+  "citacoes": [
+    {
+      "inicio": 911,
+      "fim": 936,
+      "trecho": "Lei nº 8.112/90, art. 117",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 940,
+      "fim": 969,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1225,
+      "fim": 1272,
+      "trecho": "Agravo de Instrumento 5004567-89.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1612,
+      "fim": 1652,
+      "trecho": "Constituição Federal, art. 5º, inciso LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1798,
+      "fim": 1829,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2054,
+      "fim": 2071,
+      "trecho": "Súmula 445 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2322,
+      "fim": 2359,
+      "trecho": "Instrução Normativa Interna TRF4-X928",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2615,
+      "fim": 2647,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

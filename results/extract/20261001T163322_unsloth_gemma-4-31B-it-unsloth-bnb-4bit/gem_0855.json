@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0855",
+  "citacoes": [
+    {
+      "inicio": 517,
+      "fim": 542,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 968,
+      "fim": 1042,
+      "trecho": "REsp 1.845.201/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1185,
+      "fim": 1214,
+      "trecho": "instruções normativas do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1521,
+      "fim": 1610,
+      "trecho": "AgInt no AREsp 987.654/RJ, de relatoria do Ministro Dr. Silas Rocha, datado de 10/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1761,
+      "fim": 1807,
+      "trecho": "Parecer Técnico-Jurídico STJ-Variação-855/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2051,
+      "fim": 2076,
+      "trecho": "artigo 11 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2121,
+      "fim": 2150,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2272,
+      "fim": 2307,
+      "trecho": "decisões recentes da Terceira Turma",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2502,
+      "fim": 2518,
+      "trecho": "Súmula 45 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

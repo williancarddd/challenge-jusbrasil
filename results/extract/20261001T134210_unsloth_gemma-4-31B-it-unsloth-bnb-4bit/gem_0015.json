@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0015",
+  "citacoes": [
+    {
+      "inicio": 743,
+      "fim": 777,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1224,
+      "fim": 1241,
+      "trecho": "REsp 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1578,
+      "fim": 1670,
+      "trecho": "AC 5009876-11.2022.4.04.0001, relatado pelo Desembargador Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1868,
+      "fim": 1880,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1992,
+      "fim": 2018,
+      "trecho": "artigo 593 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2118,
+      "fim": 2181,
+      "trecho": "Obra de Referência sobre Competências Processuais - ID 998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2355,
+      "fim": 2368,
+      "trecho": "RE 600.456/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

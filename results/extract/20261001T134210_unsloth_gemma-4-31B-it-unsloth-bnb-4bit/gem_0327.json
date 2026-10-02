@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0327",
+  "citacoes": [
+    {
+      "inicio": 378,
+      "fim": 418,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1085,
+      "fim": 1123,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1362,
+      "fim": 1396,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1556,
+      "fim": 1571,
+      "trecho": "TST-AG-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1743,
+      "fim": 1769,
+      "trecho": "RR-12345-67.2022.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1917,
+      "fim": 1962,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2170,
+      "fim": 2183,
+      "trecho": "Súmula do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2308,
+      "fim": 2381,
+      "trecho": "Agravo de Instrumento em Recurso de Revista AIRR-887766-55.2021.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0207",
+  "citacoes": [
+    {
+      "inicio": 919,
+      "fim": 957,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1201,
+      "fim": 1230,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1388,
+      "fim": 1420,
+      "trecho": "Recurso Especial nº 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1537,
+      "fim": 1573,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 124",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1941,
+      "fim": 1967,
+      "trecho": "Habeas Corpus nº 88.990/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2054,
+      "fim": 2098,
+      "trecho": "Princípio da Supremacia do Interesse Público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2414,
+      "fim": 2444,
+      "trecho": "Lei nº 8.666/1993 no artigo 65",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

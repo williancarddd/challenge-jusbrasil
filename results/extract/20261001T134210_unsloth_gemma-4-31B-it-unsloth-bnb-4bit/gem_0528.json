@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0528",
+  "citacoes": [
+    {
+      "inicio": 815,
+      "fim": 867,
+      "trecho": "Constituição Federal, em seu artigo 7º, inciso XXIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1380,
+      "fim": 1430,
+      "trecho": "RE 856.123, Rel. Min. Marco Aurélio, j. 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1610,
+      "fim": 1633,
+      "trecho": "normas regulamentadoras",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1678,
+      "fim": 1761,
+      "trecho": "diretrizes do Ministério do Trabalho e Emprego no que tange à segurança do trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1855,
+      "trecho": "ARE 987.456, Rel. Min. Rosa Weber, j. 20/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2033,
+      "trecho": "Lei 8.112/90, no artigo 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2199,
+      "fim": 2216,
+      "trecho": "Súmula 444 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2388,
+      "fim": 2448,
+      "trecho": "Habeas Data 10.112/DF, Rel. Min. Edson Fachin, j. 05/02/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2540,
+      "fim": 2587,
+      "trecho": "Protocolo Interno de Saúde Pública nº 2023-XPTO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2660,
+      "fim": 2704,
+      "trecho": "normas de regência do Direito Administrativo",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0315",
+  "citacoes": [
+    {
+      "inicio": 790,
+      "fim": 829,
+      "trecho": "art. 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1093,
+      "fim": 1205,
+      "trecho": "Recurso Ordinário nº 0012345-67.2022.4.04.0000, relatado pelo Desembargador Federal Ricardo Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1335,
+      "fim": 1364,
+      "trecho": "art. 5º, inciso LIV, da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1412,
+      "fim": 1430,
+      "trecho": "Lei nº 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1529,
+      "fim": 1567,
+      "trecho": "Lei do Processo Administrativo Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1673,
+      "fim": 1711,
+      "trecho": "Habeas Data nº 98765-43.2021.4.04.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1864,
+      "fim": 1881,
+      "trecho": "Súmula 633 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2229,
+      "fim": 2262,
+      "trecho": "Acórdão-Referência TRF4-V315-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

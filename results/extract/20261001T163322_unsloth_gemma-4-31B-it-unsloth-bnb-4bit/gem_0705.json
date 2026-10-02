@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0705",
+  "citacoes": [
+    {
+      "inicio": 283,
+      "fim": 318,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 599,
+      "fim": 633,
+      "trecho": "artigo 227 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 973,
+      "fim": 988,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1515,
+      "fim": 1551,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1615,
+      "fim": 1627,
+      "trecho": "HC 98.765/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1917,
+      "fim": 1934,
+      "trecho": "Súmula 402 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2090,
+      "trecho": "Protocolo de Gestão Familiar 2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2310,
+      "fim": 2338,
+      "trecho": "artigo 1.584 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

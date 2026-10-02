@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0478",
+  "citacoes": [
+    {
+      "inicio": 762,
+      "fim": 777,
+      "trecho": "Lei 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 786,
+      "fim": 814,
+      "trecho": "artigo 1.208 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 926,
+      "fim": 969,
+      "trecho": "provimentos do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1147,
+      "fim": 1181,
+      "trecho": "Recurso Especial REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1321,
+      "fim": 1335,
+      "trecho": "Lei 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1356,
+      "fim": 1397,
+      "trecho": "artigo 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1615,
+      "fim": 1693,
+      "trecho": "jurisprudência deste Tribunal, conforme se observa em acórdãos da Quinta Turma",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1824,
+      "trecho": "Súmula 345 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1935,
+      "fim": 2003,
+      "trecho": "Manual de Procedimentos Registrais da Corregedoria-Geral (MPR-772-X)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

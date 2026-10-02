@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0489",
+  "citacoes": [
+    {
+      "inicio": 758,
+      "fim": 789,
+      "trecho": "art. 216-A da Lei nº 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1205,
+      "fim": 1225,
+      "trecho": "REsp nº 1.892.341/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1559,
+      "fim": 1605,
+      "trecho": "estudos doutrinários sobre o Direito Registral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1769,
+      "fim": 1795,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1931,
+      "fim": 2016,
+      "trecho": "Agravo Interno nº 45.678/DF, relatado pelo Ministro Dr. Roberto Alencar em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2171,
+      "fim": 2194,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2809,
+      "fim": 2834,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

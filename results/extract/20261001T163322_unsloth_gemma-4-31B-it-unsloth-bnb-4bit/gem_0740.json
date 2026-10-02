@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0740",
+  "citacoes": [
+    {
+      "inicio": 610,
+      "fim": 648,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 890,
+      "fim": 908,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1285,
+      "fim": 1385,
+      "trecho": "Agravo de Instrumento nº 5012345-67.2023.4.04.0000, relatado pelo Des. Marcos Vinícius em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1532,
+      "fim": 1566,
+      "trecho": "Lei nº 8.666/1993 no seu artigo 65",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2103,
+      "fim": 2146,
+      "trecho": "REsp nº 1.987.654/RS, julgado em 20/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2163,
+      "fim": 2191,
+      "trecho": "Princípio da Boa-Fé Objetiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

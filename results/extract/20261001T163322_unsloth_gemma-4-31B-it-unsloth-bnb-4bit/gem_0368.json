@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0368",
+  "citacoes": [
+    {
+      "inicio": 1027,
+      "fim": 1074,
+      "trecho": "art. 7º, inciso XXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1337,
+      "fim": 1378,
+      "trecho": "Processo TST-ARR-554433-12.2021.5.15.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1543,
+      "fim": 1567,
+      "trecho": "art. 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1903,
+      "trecho": "Súmula 378 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2004,
+      "fim": 2077,
+      "trecho": "Orientação Jurisprudencial do TST sobre a natureza do acidente de trajeto",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2513,
+      "fim": 2557,
+      "trecho": "precedentes do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0837",
+  "citacoes": [
+    {
+      "inicio": 953,
+      "fim": 994,
+      "trecho": "Lei nº 14.133/2021, artigo 6º, inciso LVI",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1162,
+      "fim": 1182,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1616,
+      "fim": 1657,
+      "trecho": "Processo TST-AIRR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1878,
+      "fim": 1909,
+      "trecho": "princípios da Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2003,
+      "fim": 2030,
+      "trecho": "Precedente TST-Súmula-999-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2128,
+      "fim": 2152,
+      "trecho": "Código Civil, artigo 884",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2893,
+      "fim": 2917,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0732",
+  "citacoes": [
+    {
+      "inicio": 432,
+      "fim": 456,
+      "trecho": "Lei 11.101/2005, art. 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 674,
+      "fim": 684,
+      "trecho": "RE 565.824",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1097,
+      "fim": 1121,
+      "trecho": "Lei 11.101/2005, art. 49",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1277,
+      "fim": 1293,
+      "trecho": "Súmula 42 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1431,
+      "fim": 1460,
+      "trecho": "Processo Interno STF-X99-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1683,
+      "fim": 1712,
+      "trecho": "Constituição Federal, art. 7º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1915,
+      "fim": 1943,
+      "trecho": "Agravo Regimental AI 840.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2071,
+      "fim": 2102,
+      "trecho": "doutrina do STF sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

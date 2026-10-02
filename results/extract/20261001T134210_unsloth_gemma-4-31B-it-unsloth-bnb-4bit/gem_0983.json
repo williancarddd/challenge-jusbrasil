@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0983",
+  "citacoes": [
+    {
+      "inicio": 569,
+      "fim": 587,
+      "trecho": "Lei nº 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 598,
+      "fim": 613,
+      "trecho": "Lei nº 5.478/68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 618,
+      "fim": 636,
+      "trecho": "Lei nº 10.606/2002",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 754,
+      "fim": 787,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1073,
+      "fim": 1093,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1333,
+      "fim": 1406,
+      "trecho": "RE 1.234.567/SP , relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1565,
+      "fim": 1587,
+      "trecho": "AgRg no ARE 890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1715,
+      "fim": 1760,
+      "trecho": "proteção integral da criança e do adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1922,
+      "fim": 1939,
+      "trecho": "REsp 1.789.012/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2084,
+      "fim": 2119,
+      "trecho": "Protocolo de Gestão Parental 2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2564,
+      "fim": 2599,
+      "trecho": "hermenêutica constitucional vigente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

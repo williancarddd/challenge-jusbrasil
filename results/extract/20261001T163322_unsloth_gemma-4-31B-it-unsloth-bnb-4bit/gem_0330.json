@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0330",
+  "citacoes": [
+    {
+      "inicio": 162,
+      "fim": 177,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 523,
+      "fim": 562,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 870,
+      "fim": 899,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1083,
+      "fim": 1190,
+      "trecho": "Apelação Cível nº 1002345-67.2023.8.26.0000, relatado pelo Desembargador Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1380,
+      "fim": 1413,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1705,
+      "fim": 1728,
+      "trecho": "art. 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1873,
+      "fim": 1969,
+      "trecho": "Agravo de Instrumento nº 2203344-11.2022.8.26.0000, onde o Relator Ricardo Mendes, em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2064,
+      "fim": 2081,
+      "trecho": "Súmula 45 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2199,
+      "fim": 2260,
+      "trecho": "Manual de Direito Administrativo do TJSP (Ed. 2023, pág. 450)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2410,
+      "fim": 2430,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

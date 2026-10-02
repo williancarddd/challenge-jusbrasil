@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0573",
+  "citacoes": [
+    {
+      "inicio": 668,
+      "fim": 712,
+      "trecho": "art. 37, inciso XXI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 822,
+      "fim": 840,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1012,
+      "fim": 1054,
+      "trecho": "art. 6º, inciso LVI, da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1257,
+      "fim": 1302,
+      "trecho": "jurisprudência do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1475,
+      "fim": 1534,
+      "trecho": "Agravo Regimental no Recurso Especial Eleitoral nº 1.234/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1751,
+      "fim": 1814,
+      "trecho": "jurisprudência desta Corte, consolidada em decisões do Plenário",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1959,
+      "fim": 1978,
+      "trecho": "Súmula nº 42 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2096,
+      "fim": 2137,
+      "trecho": "Instrução Normativa Interna TSE-99/2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2360,
+      "fim": 2377,
+      "trecho": "Lei nº 4.737/1965",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0047",
+  "citacoes": [
+    {
+      "inicio": 563,
+      "fim": 578,
+      "trecho": "art. 300 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 996,
+      "fim": 1035,
+      "trecho": "art. 124, inciso II, da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1258,
+      "fim": 1275,
+      "trecho": "REsp 1.890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1537,
+      "fim": 1631,
+      "trecho": "jurisprudência deste Tribunal, inclusive no Agravo de Instrumento nº 5012345-67.2023.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1779,
+      "fim": 1796,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2211,
+      "fim": 2225,
+      "trecho": "Lei 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2291,
+      "fim": 2313,
+      "trecho": "jurisprudência do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2474,
+      "fim": 2517,
+      "trecho": "art. 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

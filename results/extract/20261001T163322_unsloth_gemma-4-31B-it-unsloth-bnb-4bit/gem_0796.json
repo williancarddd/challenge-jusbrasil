@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0796",
+  "citacoes": [
+    {
+      "inicio": 414,
+      "fim": 457,
+      "trecho": "art. 921, § 4º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 833,
+      "fim": 850,
+      "trecho": "REsp 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1078,
+      "fim": 1105,
+      "trecho": "AgInt no AREsp 2.100.345/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1231,
+      "fim": 1255,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1412,
+      "fim": 1443,
+      "trecho": "art. 206, § 5º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1545,
+      "fim": 1574,
+      "trecho": "Recurso Especial 1.890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1819,
+      "fim": 1839,
+      "trecho": "Enunciado 402 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1955,
+      "fim": 1972,
+      "trecho": "Súmula 150 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2084,
+      "fim": 2194,
+      "trecho": "precedente interno do Caso-ID 98765-X/2023, relatado pelo Ministro Dr. Aurélio Mendes em 12 de outubro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

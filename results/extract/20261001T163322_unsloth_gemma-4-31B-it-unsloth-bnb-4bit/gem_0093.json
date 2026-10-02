@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0093",
+  "citacoes": [
+    {
+      "inicio": 410,
+      "fim": 450,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 975,
+      "fim": 1031,
+      "trecho": "RE 1.234.567/SP (Rel. Min. Aurélio Silva, j. 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1293,
+      "fim": 1308,
+      "trecho": "julgado análogo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1533,
+      "fim": 1559,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1596,
+      "fim": 1616,
+      "trecho": "norma constitucional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1859,
+      "fim": 1921,
+      "trecho": "AgRg no ARE 987.654/RJ (Rel. Min. Clara Mendes, j. 10/11/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2337,
+      "fim": 2368,
+      "trecho": "Precedente Interno STF-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2504,
+      "fim": 2520,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

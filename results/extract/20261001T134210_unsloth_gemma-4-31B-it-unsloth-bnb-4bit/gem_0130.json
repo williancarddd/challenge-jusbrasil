@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0130",
+  "citacoes": [
+    {
+      "inicio": 1103,
+      "fim": 1150,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1256,
+      "fim": 1285,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1428,
+      "fim": 1467,
+      "trecho": "Habeas Data nº 009876-54.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1657,
+      "fim": 1687,
+      "trecho": "Lei do Processo Administrativo",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1765,
+      "fim": 1790,
+      "trecho": "artigo 48 da Lei 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1947,
+      "fim": 1988,
+      "trecho": "artigo 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2004,
+      "fim": 2046,
+      "trecho": "Apelação Cível nº 112233-44.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2152,
+      "fim": 2169,
+      "trecho": "Súmula 662 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2519,
+      "fim": 2546,
+      "trecho": "Lei do Mandado de Segurança",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

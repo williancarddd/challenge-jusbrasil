@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0530",
+  "citacoes": [
+    {
+      "inicio": 678,
+      "fim": 716,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1050,
+      "fim": 1091,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1225,
+      "fim": 1328,
+      "trecho": "Processo TRT3-0012345-67.2023.5.02.0001, relatado pelo Desembargador Marcos Aurélio Silva em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1394,
+      "fim": 1439,
+      "trecho": "artigo 7º, inciso IV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1634,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1823,
+      "trecho": "Julgado ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1853,
+      "trecho": "Julgado ID-998877-X, proferido por este colegiado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2092,
+      "fim": 2117,
+      "trecho": "artigo 4º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2192,
+      "fim": 2264,
+      "trecho": "entendimento firmado nas decisões do STJ sobre contratos administrativos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

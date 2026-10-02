@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0285",
+  "citacoes": [
+    {
+      "inicio": 746,
+      "fim": 787,
+      "trecho": "artigo 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 997,
+      "fim": 1035,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1202,
+      "fim": 1294,
+      "trecho": "Recurso Especial nº 1.234.567/DF, relatado pelo Ministro Coronel Jorge Alencar em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1425,
+      "fim": 1450,
+      "trecho": "artigo 59 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1694,
+      "fim": 1712,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1737,
+      "fim": 1827,
+      "trecho": "Habeas Corpus nº 998877/RS, sob a relatoria do Ministro General Valdir Souza em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1940,
+      "fim": 1963,
+      "trecho": "Acórdão ID-STM-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2428,
+      "fim": 2453,
+      "trecho": "artigo 62 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

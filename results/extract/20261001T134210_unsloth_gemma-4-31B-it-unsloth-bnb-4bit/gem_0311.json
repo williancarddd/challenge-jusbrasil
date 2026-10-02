@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0311",
+  "citacoes": [
+    {
+      "inicio": 957,
+      "fim": 1004,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1420,
+      "fim": 1458,
+      "trecho": "decisão proferida no RMS-1234-2021-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1657,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1926,
+      "fim": 1947,
+      "trecho": "Ag-AIRR-5544-2022-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2279,
+      "fim": 2303,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2434,
+      "fim": 2450,
+      "trecho": "MS-8877-2019-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2666,
+      "fim": 2696,
+      "trecho": "Instrução Normativa-X-2023-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

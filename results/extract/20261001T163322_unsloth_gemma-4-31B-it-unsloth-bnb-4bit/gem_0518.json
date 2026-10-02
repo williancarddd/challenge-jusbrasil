@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0518",
+  "citacoes": [
+    {
+      "inicio": 1002,
+      "fim": 1045,
+      "trecho": "art. 921, § 4º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1131,
+      "fim": 1148,
+      "trecho": "REsp 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1429,
+      "fim": 1453,
+      "trecho": "art. 109 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1586,
+      "fim": 1603,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1777,
+      "fim": 1806,
+      "trecho": "decisões recentes do Plenário",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1984,
+      "fim": 2018,
+      "trecho": "Precedente Interno STF-INF-2022-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2352,
+      "trecho": "doutrina processual contemporânea",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2512,
+      "fim": 2532,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2598,
+      "fim": 2622,
+      "trecho": "jurisprudência dominante",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0929",
+  "citacoes": [
+    {
+      "inicio": 260,
+      "fim": 307,
+      "trecho": "artigo 192 da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 858,
+      "fim": 875,
+      "trecho": "REsp 1.542.889/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1031,
+      "fim": 1056,
+      "trecho": "AgInt no AREsp 882.101/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1390,
+      "fim": 1468,
+      "trecho": "julgado RMS 44.102/MG, o relator Ministro Alvim Moreira, em 12 de maio de 2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1741,
+      "fim": 1758,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2099,
+      "fim": 2190,
+      "trecho": "processo STJ-99821-XYZ, julgado em 20 de outubro de 2021, o relator Ministro Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2548,
+      "fim": 2565,
+      "trecho": "artigo 193 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

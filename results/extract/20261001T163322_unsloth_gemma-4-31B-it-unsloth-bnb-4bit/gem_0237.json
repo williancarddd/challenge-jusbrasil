@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0237",
+  "citacoes": [
+    {
+      "inicio": 869,
+      "fim": 897,
+      "trecho": "artigo 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1083,
+      "fim": 1119,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1372,
+      "fim": 1388,
+      "trecho": "ARE 1.234.567-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1501,
+      "trecho": "Súmula 450 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1632,
+      "fim": 1664,
+      "trecho": "Teoria da Conveniência Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1910,
+      "fim": 1923,
+      "trecho": "HC 890.123/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2052,
+      "fim": 2092,
+      "trecho": "Princípio do Melhor Interesse da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2231,
+      "fim": 2272,
+      "trecho": "Protocolo de Proteção Familiar TSE-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

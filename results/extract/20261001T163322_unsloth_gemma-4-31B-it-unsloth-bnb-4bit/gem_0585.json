@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0585",
+  "citacoes": [
+    {
+      "inicio": 591,
+      "fim": 635,
+      "trecho": "art. 312 do Código de Processo Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 830,
+      "fim": 847,
+      "trecho": "julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 977,
+      "fim": 1031,
+      "trecho": "HC nº 98765/SP, Rel. Min. Silva, julgado em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1239,
+      "fim": 1252,
+      "trecho": "Lei 13.258/16",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1565,
+      "fim": 1620,
+      "trecho": "RHC nº 11223/RJ, Rel. Min. Souza, julgado em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1755,
+      "fim": 1776,
+      "trecho": "jurisprudência do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1914,
+      "trecho": "dispositivo art. 313 do CPPM",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1946,
+      "fim": 1966,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2048,
+      "fim": 2086,
+      "trecho": "precedente fixado no Acórdão-ID-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2207,
+      "fim": 2248,
+      "trecho": "entendimento do STF sobre a cautelaridade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

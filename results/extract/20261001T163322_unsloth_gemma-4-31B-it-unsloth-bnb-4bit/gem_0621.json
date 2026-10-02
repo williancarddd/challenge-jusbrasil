@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0621",
+  "citacoes": [
+    {
+      "inicio": 368,
+      "fim": 398,
+      "trecho": "Lei nº 13.105/2015, art. 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 626,
+      "fim": 650,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1021,
+      "fim": 1055,
+      "trecho": "processo 0010234-56.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1252,
+      "fim": 1281,
+      "trecho": "Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1526,
+      "trecho": "acórdão proferido em 12 de outubro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1694,
+      "fim": 1737,
+      "trecho": "Regulamento Interno de Propriedades do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1913,
+      "fim": 1955,
+      "trecho": "Constituição Federal, art. 5º, inciso XXII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2173,
+      "fim": 2190,
+      "trecho": "Súmula 364 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

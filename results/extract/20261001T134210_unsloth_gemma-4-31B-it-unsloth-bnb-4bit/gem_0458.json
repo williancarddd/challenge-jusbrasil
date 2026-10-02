@@ -1,0 +1,41 @@
+{
+  "documento_id": "gem_0458",
+  "citacoes": [
+    {
+      "inicio": 1871,
+      "fim": 1902,
+      "trecho": "Princípio da Segurança Jurídica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1988,
+      "fim": 2039,
+      "trecho": "Agravo de Instrumento AIRR-554433-22.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2231,
+      "fim": 2265,
+      "trecho": "Diretriz Operacional TRT3-2022-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2518,
+      "fim": 2568,
+      "trecho": "artigo 487, inciso II, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

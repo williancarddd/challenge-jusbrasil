@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0721",
+  "citacoes": [
+    {
+      "inicio": 946,
+      "fim": 972,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1228,
+      "fim": 1254,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1299,
+      "fim": 1334,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1524,
+      "fim": 1565,
+      "trecho": "Processo TST-AIR-554200-12.2019.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1874,
+      "fim": 1922,
+      "trecho": "doutrina da responsabilidade civil do empregador",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2028,
+      "fim": 2075,
+      "trecho": "norma regulamentadora do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2187,
+      "fim": 2204,
+      "trecho": "Súmula 378 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2442,
+      "fim": 2490,
+      "trecho": "Protocolo de Segurança Viária Interna-TST-2021-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2598,
+      "fim": 2650,
+      "trecho": "entendimento consolidado nos julgados deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

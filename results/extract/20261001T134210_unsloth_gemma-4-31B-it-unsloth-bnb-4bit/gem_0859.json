@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0859",
+  "citacoes": [
+    {
+      "inicio": 299,
+      "fim": 339,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1020,
+      "fim": 1046,
+      "trecho": "art. 2º da Lei nº 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1124,
+      "fim": 1139,
+      "trecho": "Lei nº 5.801/72",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1355,
+      "fim": 1368,
+      "trecho": "RMS 54.321/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1523,
+      "fim": 1544,
+      "trecho": "Decreto nº 9.123/2017",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1680,
+      "fim": 1698,
+      "trecho": "precedentes do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1988,
+      "fim": 2024,
+      "trecho": "art. 93, IX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

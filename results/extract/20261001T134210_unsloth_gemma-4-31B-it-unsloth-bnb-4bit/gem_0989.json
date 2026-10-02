@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0989",
+  "citacoes": [
+    {
+      "inicio": 428,
+      "fim": 466,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 863,
+      "fim": 981,
+      "trecho": "Habeas Corpus nº 2244556-12.2023.8.26.0000, relatado pelo Desembargador Marcos Vinícius Silva em 15 de outubro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1199,
+      "fim": 1255,
+      "trecho": "artigo 316, parágrafo único, do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1526,
+      "fim": 1583,
+      "trecho": "Acórdão TJSP-998877-X, proferido em 12 de janeiro de 2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1885,
+      "fim": 1983,
+      "trecho": "HC nº 1029384-55.2022.8.26.0000, relatado pelo Desembargador Ricardo Alencar em 05 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0394",
+  "citacoes": [
+    {
+      "inicio": 804,
+      "fim": 832,
+      "trecho": "art. 57 da Lei nº 8.213/1991",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1220,
+      "fim": 1237,
+      "trecho": "Lei nº 9.032/1995",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1329,
+      "fim": 1363,
+      "trecho": "precedente fixado no RE nº 564.332",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1505,
+      "fim": 1532,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1793,
+      "fim": 1810,
+      "trecho": "Tema 1.019 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 1963,
+      "trecho": "AgRg no ARE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2166,
+      "fim": 2183,
+      "trecho": "Súmula 279 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2395,
+      "fim": 2435,
+      "trecho": "Norma Interna NIST-2024-X deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

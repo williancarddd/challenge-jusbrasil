@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0309",
+  "citacoes": [
+    {
+      "inicio": 490,
+      "fim": 517,
+      "trecho": "Lei nº 14.133/2021, art. 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 708,
+      "fim": 771,
+      "trecho": "jurisprudência deste Tribunal Regional do Trabalho da 3ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 865,
+      "fim": 966,
+      "trecho": "Processo nº 0010234-56.2021.5.03.0000, relatado pelo Desembargador Marcos Aurélio Silva em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1269,
+      "fim": 1295,
+      "trecho": "Lei nº 8.666/1993, art. 44",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1580,
+      "fim": 1614,
+      "trecho": "Constituição Federal, art. 37, XXI",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1698,
+      "fim": 1718,
+      "trecho": "Súmula nº 269 do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2339,
+      "fim": 2366,
+      "trecho": "Lei nº 14.133/2021, art. 23",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

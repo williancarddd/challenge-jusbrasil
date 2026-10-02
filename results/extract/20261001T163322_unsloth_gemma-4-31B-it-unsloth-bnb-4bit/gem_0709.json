@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0709",
+  "citacoes": [
+    {
+      "inicio": 940,
+      "fim": 966,
+      "trecho": "art. 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1440,
+      "fim": 1460,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1625,
+      "fim": 1638,
+      "trecho": "RE nº 600.175",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2013,
+      "fim": 2037,
+      "trecho": "AgRg no ARE nº 1.122.334",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2136,
+      "fim": 2162,
+      "trecho": "Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2347,
+      "fim": 2364,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2502,
+      "fim": 2530,
+      "trecho": "Precedente Interno X-2023-JF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0766",
+  "citacoes": [
+    {
+      "inicio": 393,
+      "fim": 433,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 878,
+      "fim": 919,
+      "trecho": "artigo 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1194,
+      "fim": 1223,
+      "trecho": "jurisprudência deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1387,
+      "fim": 1437,
+      "trecho": "Agravo de Instrumento nº 5023456-78.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1567,
+      "fim": 1607,
+      "trecho": "decisões do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1713,
+      "fim": 1730,
+      "trecho": "Súmula 310 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2060,
+      "fim": 2120,
+      "trecho": "orientação de estudos doutrinários sobre o Direito Registral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2234,
+      "fim": 2280,
+      "trecho": "precedente do Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

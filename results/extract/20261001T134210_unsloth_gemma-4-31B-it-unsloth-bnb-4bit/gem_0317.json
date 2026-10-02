@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0317",
+  "citacoes": [
+    {
+      "inicio": 775,
+      "fim": 792,
+      "trecho": "artigo 191 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1143,
+      "fim": 1163,
+      "trecho": "Súmula nº 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1281,
+      "trecho": "artigo 7º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1412,
+      "fim": 1474,
+      "trecho": "Anexo 14 da Norma Regulamentadora 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1679,
+      "fim": 1705,
+      "trecho": "RR-10293-44.2021.5.02.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1881,
+      "fim": 1916,
+      "trecho": "diretrizes da jurisprudência do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2161,
+      "fim": 2196,
+      "trecho": "processo paradigma TST-REF-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2372,
+      "fim": 2415,
+      "trecho": "preceitos da legislação trabalhista vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2464,
+      "fim": 2481,
+      "trecho": "dispositivo legal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2485,
+      "fim": 2512,
+      "trecho": "divergência jurisprudencial",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

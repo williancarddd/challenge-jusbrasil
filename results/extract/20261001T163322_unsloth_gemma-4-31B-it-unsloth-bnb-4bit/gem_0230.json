@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0230",
+  "citacoes": [
+    {
+      "inicio": 782,
+      "fim": 822,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1337,
+      "fim": 1410,
+      "trecho": "Habeas Corpus nº 45678/SP, Rel. Min. Jorge Alencar, julgado em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1531,
+      "fim": 1562,
+      "trecho": "Código Civil, em seu artigo 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1552,
+      "fim": 1562,
+      "trecho": "artigo 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1931,
+      "fim": 2001,
+      "trecho": "REsp nº 1.234.567/DF, Rel. Min. Ana Paula Costa, julgado em 10/11/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2298,
+      "fim": 2360,
+      "trecho": "Manual de Procedimentos Operacionais do Exército, item 4.2.1-B",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2527,
+      "fim": 2551,
+      "trecho": "jurisprudência deste STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

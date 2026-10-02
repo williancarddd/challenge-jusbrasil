@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0468",
+  "citacoes": [
+    {
+      "inicio": 684,
+      "fim": 725,
+      "trecho": "artigo 201, § 1º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 975,
+      "fim": 1002,
+      "trecho": "AgInt no AREsp 1.543.210/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1199,
+      "fim": 1224,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1344,
+      "fim": 1390,
+      "trecho": "jurisprudência do STJ sobre agentes biológicos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1540,
+      "trecho": "Recurso Especial nº 1.234.567/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1928,
+      "trecho": "Súmula 44 do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2164,
+      "fim": 2176,
+      "trecho": "Lei 8.212/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2380,
+      "fim": 2422,
+      "trecho": "pacífica orientação deste Colendo Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0669",
+  "citacoes": [
+    {
+      "inicio": 451,
+      "fim": 489,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 795,
+      "fim": 839,
+      "trecho": "Recurso Ordinário nº 00123-45.2023.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1298,
+      "fim": 1334,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 115",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1338,
+      "fim": 1367,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1626,
+      "fim": 1738,
+      "trecho": "Agravo de Instrumento nº 98765-11.2022.5.03.0000, relatado pelo Desembargador Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1823,
+      "fim": 1868,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2096,
+      "fim": 2143,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2442,
+      "fim": 2489,
+      "trecho": "artigo 5º, inciso XXXV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

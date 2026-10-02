@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0883",
+  "citacoes": [
+    {
+      "inicio": 907,
+      "fim": 958,
+      "trecho": "HC 98765/SP, Rel. Min. Silva, julgado em 10/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1245,
+      "fim": 1291,
+      "trecho": "artigo 255 do Código de Processo Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1494,
+      "fim": 1532,
+      "trecho": "artigo 282 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1635,
+      "fim": 1687,
+      "trecho": "HC 54321/RS, Rel. Min. Santos, julgado em 12/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2099,
+      "fim": 2125,
+      "trecho": "Recurso Ordinário RM-999-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2214,
+      "fim": 2261,
+      "trecho": "jurisprudência do  Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2642,
+      "fim": 2660,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

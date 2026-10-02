@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0825",
+  "citacoes": [
+    {
+      "inicio": 1276,
+      "fim": 1312,
+      "trecho": "art. 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1575,
+      "fim": 1611,
+      "trecho": "Julgado nº 2245100-12.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1747,
+      "fim": 1797,
+      "trecho": "Corte Especial do STJ tem decidido sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1747,
+      "fim": 1870,
+      "trecho": "Corte Especial do STJ tem decidido sobre a matéria no sentido de que a paralisação injustificada enseja a extinção do feito",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1968,
+      "fim": 2002,
+      "trecho": "art. 206, § 5º, I, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2284,
+      "fim": 2336,
+      "trecho": "Enunciado 15 do Grupo de Estudos Processuais do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2342,
+      "fim": 2387,
+      "trecho": "Protocolo de Padronização Interna nº 882/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0671",
+  "citacoes": [
+    {
+      "inicio": 439,
+      "fim": 479,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 826,
+      "fim": 862,
+      "trecho": "art. 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1056,
+      "fim": 1073,
+      "trecho": "REsp 1.604.412/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1167,
+      "fim": 1193,
+      "trecho": "jurisprudência consolidada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1543,
+      "fim": 1570,
+      "trecho": "AgInt no AREsp 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1749,
+      "fim": 1813,
+      "trecho": "Incidente de Uniformização de Jurisprudência Interna nº 9988/STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1936,
+      "fim": 1975,
+      "trecho": "Lei 13.105/2015 no seu artigo 921, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2109,
+      "fim": 2144,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

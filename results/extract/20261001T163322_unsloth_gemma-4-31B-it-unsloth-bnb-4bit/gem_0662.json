@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0662",
+  "citacoes": [
+    {
+      "inicio": 960,
+      "fim": 1005,
+      "trecho": "artigo 114, inciso I, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1100,
+      "fim": 1129,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1301,
+      "fim": 1344,
+      "trecho": "Apelação Cível nº 2015432-11.2021.8.26.0500",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1596,
+      "fim": 1629,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1735,
+      "fim": 1751,
+      "trecho": "artigo 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1970,
+      "fim": 2031,
+      "trecho": "Recurso Extraordinário nº 765.432 do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2117,
+      "fim": 2165,
+      "trecho": "Protocolo de Competência Interjurisdicional 99-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2717,
+      "fim": 2754,
+      "trecho": "artigo 64 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

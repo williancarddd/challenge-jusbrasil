@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0227",
+  "citacoes": [
+    {
+      "inicio": 501,
+      "fim": 539,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 892,
+      "fim": 913,
+      "trecho": "jurisprudência pátria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1134,
+      "fim": 1151,
+      "trecho": "STF no RE 654.321",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1320,
+      "fim": 1344,
+      "trecho": "art. 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1524,
+      "fim": 1541,
+      "trecho": "HC 102.938 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1839,
+      "fim": 1900,
+      "trecho": "entendimento adotado por este Tribunal em julgados anteriores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2039,
+      "fim": 2109,
+      "trecho": "Acórdão Mil-998877-X, relatado pelo Ministro Dr. Alencar em 15/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2273,
+      "fim": 2296,
+      "trecho": "princípio da legalidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2433,
+      "fim": 2449,
+      "trecho": "Súmula 45 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2454,
+      "fim": 2488,
+      "trecho": "doutrina administrativista moderna",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2538,
+      "fim": 2570,
+      "trecho": "Código de Processo Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

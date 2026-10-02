@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0875",
+  "citacoes": [
+    {
+      "inicio": 544,
+      "fim": 568,
+      "trecho": "Lei nº 8.112/90, art. 37",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 810,
+      "fim": 850,
+      "trecho": "Constituição Federal, art. 5º, inciso LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1027,
+      "fim": 1099,
+      "trecho": "RMS nº 54.321/SP, relatado pelo Ministro Dr. Aurélio Silva em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1197,
+      "fim": 1216,
+      "trecho": "Súmula nº 15 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1438,
+      "fim": 1461,
+      "trecho": "princípio da eficiência",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1628,
+      "fim": 1717,
+      "trecho": "julgado no REsp nº 98.765/RJ, de 20/08/2019, sob relatoria do Ministro Dr. Cláudio Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1877,
+      "fim": 1913,
+      "trecho": "Resolução Interna nº 456/2010 do TJX",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2054,
+      "fim": 2081,
+      "trecho": "princípio da impessoalidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2197,
+      "fim": 2227,
+      "trecho": "Precedente Interno ID-887766-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

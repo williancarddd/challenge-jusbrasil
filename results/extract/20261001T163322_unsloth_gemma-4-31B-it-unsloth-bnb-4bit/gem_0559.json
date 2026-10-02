@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0559",
+  "citacoes": [
+    {
+      "inicio": 635,
+      "fim": 658,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 938,
+      "fim": 958,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1096,
+      "fim": 1170,
+      "trecho": "REsp 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1342,
+      "fim": 1359,
+      "trecho": "Súmula 362 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1503,
+      "fim": 1515,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1792,
+      "fim": 1818,
+      "trecho": "Agravo Regimental no AREsp",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1792,
+      "fim": 1888,
+      "trecho": "Agravo Regimental no AREsp 987.654/RJ, sob relatoria do Ministro Dr. Cláudio Rocha em 20/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1943,
+      "fim": 1971,
+      "trecho": "Instrução Normativa 128/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2107,
+      "fim": 2137,
+      "trecho": "Precedente Interno TSE-VAR-559",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

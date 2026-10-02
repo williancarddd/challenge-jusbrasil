@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0373",
+  "citacoes": [
+    {
+      "inicio": 740,
+      "fim": 773,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 830,
+      "fim": 868,
+      "trecho": "art. 1º, §§ 2º e 3º da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1016,
+      "fim": 1069,
+      "trecho": "jurisprudência desta Corte e dos Tribunais Superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1193,
+      "fim": 1211,
+      "trecho": "AREsp 1.928.374/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1478,
+      "fim": 1519,
+      "trecho": "entendimento do STJ sobre a Lei 14.230/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1878,
+      "fim": 1910,
+      "trecho": "Recurso Especial nº 1.855.201/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2344,
+      "fim": 2361,
+      "trecho": "Súmula 607 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2474,
+      "fim": 2497,
+      "trecho": "art. 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2567,
+      "fim": 2615,
+      "trecho": "Protocolo de Hermenêutica Administrativa 2023-XJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0053",
+  "citacoes": [
+    {
+      "inicio": 552,
+      "fim": 585,
+      "trecho": "Lei 11.101/2005, em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 853,
+      "fim": 870,
+      "trecho": "REsp 1.987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1063,
+      "fim": 1097,
+      "trecho": "Constituição Federal, no artigo 7º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1252,
+      "fim": 1291,
+      "trecho": "menção ao regime de créditos concursais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1439,
+      "fim": 1475,
+      "trecho": "Agravo Interno no AREsp 2.109.876/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1670,
+      "fim": 1716,
+      "trecho": "Protocolo de Harmonização Financeira RF-2022/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1906,
+      "fim": 1961,
+      "trecho": "princípio da máxima efetividade da execução trabalhista",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2035,
+      "fim": 2048,
+      "trecho": "HC 123.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0603",
+  "citacoes": [
+    {
+      "inicio": 743,
+      "fim": 776,
+      "trecho": "artigo 37 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1057,
+      "fim": 1100,
+      "trecho": "artigo 6º, inciso LVIII, da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1462,
+      "fim": 1494,
+      "trecho": "Agravo Regimental ARE 998.877/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2035,
+      "fim": 2064,
+      "trecho": "artigo 149 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2159,
+      "fim": 2191,
+      "trecho": "Recurso Especial REsp 456.123/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2539,
+      "fim": 2573,
+      "trecho": "normativa interna do TSE-CONF-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2645,
+      "fim": 2678,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

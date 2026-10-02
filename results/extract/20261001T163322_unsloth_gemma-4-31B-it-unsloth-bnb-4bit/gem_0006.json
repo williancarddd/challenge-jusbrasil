@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0006",
+  "citacoes": [
+    {
+      "inicio": 553,
+      "fim": 597,
+      "trecho": "Constituição Federal no seu artigo 37, caput",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 752,
+      "fim": 787,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 59",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 875,
+      "fim": 923,
+      "trecho": "jurisprudência deste Tribunal Superior Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1109,
+      "fim": 1157,
+      "trecho": "Recurso Especial Eleitoral REsp-EL nº 1.234/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1531,
+      "fim": 1567,
+      "trecho": "voto proferido em 12 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1735,
+      "fim": 1762,
+      "trecho": "Acórdão TSE-Internal-9988/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2187,
+      "fim": 2217,
+      "trecho": "Lei nº 8.429/1992 no artigo 10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

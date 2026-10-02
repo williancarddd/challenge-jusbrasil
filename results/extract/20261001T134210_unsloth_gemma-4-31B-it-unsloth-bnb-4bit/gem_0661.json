@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0661",
+  "citacoes": [
+    {
+      "inicio": 978,
+      "fim": 1002,
+      "trecho": "art. 189 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1291,
+      "fim": 1347,
+      "trecho": "Enunciado nº 15 do Manual de Instruções do INSS-TST-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1590,
+      "fim": 1616,
+      "trecho": "RR-12345-67.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2014,
+      "fim": 2050,
+      "trecho": "art. 464 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2219,
+      "fim": 2269,
+      "trecho": "Agravo de Instrumento AIRR-98765-11.2020.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2474,
+      "fim": 2507,
+      "trecho": "orientação jurisprudencial do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

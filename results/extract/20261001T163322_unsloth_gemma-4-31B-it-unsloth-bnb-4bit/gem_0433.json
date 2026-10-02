@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0433",
+  "citacoes": [
+    {
+      "inicio": 520,
+      "fim": 546,
+      "trecho": "art. 57 da Lei nº 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 768,
+      "fim": 783,
+      "trecho": "Tema 555 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1013,
+      "fim": 1120,
+      "trecho": "Processo 0010234-55.2022.5.03.0000, relatado pelo Desembargador Marcos Aurélio Silva em 12 de março de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1308,
+      "fim": 1326,
+      "trecho": "diretrizes do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1460,
+      "fim": 1475,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1597,
+      "fim": 1697,
+      "trecho": "Agravo de Instrumento AI-998877-2021, o Relator Dr. Ricardo Mendes pontuou em 05 de novembro de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1916,
+      "fim": 1952,
+      "trecho": "orientações da jurisprudência pátria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2057,
+      "fim": 2097,
+      "trecho": "Protocolo de Análise Bioquímica TRT3-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2375,
+      "fim": 2394,
+      "trecho": "Decreto nº 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0808",
+  "citacoes": [
+    {
+      "inicio": 795,
+      "fim": 818,
+      "trecho": "art. 11 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1228,
+      "fim": 1327,
+      "trecho": "julgamento do AIRR-88990-11.2022.5.04.0000, relatado pelo Ministro Dr. Cláudio Mendes em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1515,
+      "fim": 1556,
+      "trecho": "princípio da razoável duração do processo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1593,
+      "fim": 1623,
+      "trecho": "doutrina do TST sobre execução",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1733,
+      "fim": 1758,
+      "trecho": "art. 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1988,
+      "fim": 2005,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2231,
+      "fim": 2269,
+      "trecho": "Instrução Normativa nº 02/2023-TST-GAB",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2441,
+      "fim": 2472,
+      "trecho": "jurisprudência do STJ sobre LEF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2739,
+      "fim": 2787,
+      "trecho": "princípios da eficiência e da segurança jurídica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

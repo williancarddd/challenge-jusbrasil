@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0216",
+  "citacoes": [
+    {
+      "inicio": 891,
+      "fim": 932,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/1991",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1341,
+      "fim": 1367,
+      "trecho": "Habeas Corpus nº 12.345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1676,
+      "fim": 1709,
+      "trecho": "Lei nº 4.591/1964, em seu art. 32",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2114,
+      "fim": 2144,
+      "trecho": "Recurso Especial nº 567.890/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2417,
+      "fim": 2449,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

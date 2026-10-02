@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0429",
+  "citacoes": [
+    {
+      "inicio": 136,
+      "fim": 277,
+      "trecho": "acórdão proferido pelo Tribunal Regional do Trabalho da 2ª Região, sob a relatoria do Desembargador Marcos Vinícius, em 12 de outubro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 762,
+      "fim": 796,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1013,
+      "fim": 1051,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1280,
+      "fim": 1283,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1375,
+      "fim": 1401,
+      "trecho": "RR-10293-44.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1541,
+      "fim": 1573,
+      "trecho": "Ag-AIRR-556677-88.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1820,
+      "fim": 1837,
+      "trecho": "artigo 652 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2009,
+      "fim": 2026,
+      "trecho": "Súmula 363 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2233,
+      "fim": 2276,
+      "trecho": "Protocolo de Competência Interna TST-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2470,
+      "fim": 2494,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0613",
+  "citacoes": [
+    {
+      "inicio": 273,
+      "fim": 313,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 799,
+      "fim": 833,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1102,
+      "fim": 1138,
+      "trecho": "jurisprudência consolidada deste STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1204,
+      "fim": 1214,
+      "trecho": "RE 562.489",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1317,
+      "fim": 1334,
+      "trecho": "Tema 1.111 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1462,
+      "fim": 1513,
+      "trecho": "norma prevista na Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1619,
+      "fim": 1699,
+      "trecho": "HC 98.765/SP, relatado pelo Ministro Dr. Bento Carneiro em 10 de janeiro de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1827,
+      "fim": 1844,
+      "trecho": "Súmula 363 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2037,
+      "fim": 2057,
+      "trecho": "doutrina majoritária",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2323,
+      "fim": 2362,
+      "trecho": "Protocolo Interno de Competência JF-99X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

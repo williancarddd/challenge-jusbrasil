@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0946",
+  "citacoes": [
+    {
+      "inicio": 922,
+      "fim": 960,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1055,
+      "fim": 1101,
+      "trecho": "jurisprudência deste Superior Tribunal Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1243,
+      "fim": 1255,
+      "trecho": "HC 12.450/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1433,
+      "fim": 1460,
+      "trecho": "julgado recente desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1530,
+      "fim": 1568,
+      "trecho": "artigo 316 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1821,
+      "fim": 1847,
+      "trecho": "Princípio da Homogeneidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1965,
+      "fim": 1977,
+      "trecho": "HC 20.112/AM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2178,
+      "fim": 2216,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2251,
+      "fim": 2267,
+      "trecho": "Súmula 45 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2293,
+      "fim": 2327,
+      "trecho": "Protocolo de Liberdade 2023/STM-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

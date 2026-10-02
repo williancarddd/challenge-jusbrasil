@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0804",
+  "citacoes": [
+    {
+      "inicio": 764,
+      "fim": 791,
+      "trecho": "AgInt no AREsp 1.543.210/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1118,
+      "fim": 1146,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1463,
+      "fim": 1497,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1607,
+      "fim": 1631,
+      "trecho": "STJ no REsp 1.890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1782,
+      "fim": 1812,
+      "trecho": "Lei de Recuperação e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1932,
+      "fim": 1999,
+      "trecho": "Enunciado 45 do Tribunal de Conflitos de Jurisdição (TCJ-Inventado)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2243,
+      "fim": 2260,
+      "trecho": "Súmula 214 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

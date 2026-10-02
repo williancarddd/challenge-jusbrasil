@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0280",
+  "citacoes": [
+    {
+      "inicio": 741,
+      "fim": 767,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 906,
+      "fim": 935,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1184,
+      "fim": 1216,
+      "trecho": "Recurso Especial nº 1.234.567/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1389,
+      "fim": 1498,
+      "trecho": "Apelação Cível nº 5001234-89.2021.4.04.7000, relatada pelo Desembargador Federal Ricardo Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1991,
+      "fim": 2111,
+      "trecho": "Agravo Interno nº 0098765-43.2020.4.04.0000, julgado sob a relatoria do Desembargador Federal Marcos Silva em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2203,
+      "fim": 2272,
+      "trecho": "Protocolo de Uniformização de Registros Imobiliários nº 456/2018-TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

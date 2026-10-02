@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0689",
+  "citacoes": [
+    {
+      "inicio": 514,
+      "fim": 548,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1038,
+      "fim": 1102,
+      "trecho": "RE 1.234.567/SP (Rel. Min. Marco Aurélio, julgado em 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1232,
+      "fim": 1254,
+      "trecho": "normas do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1592,
+      "fim": 1652,
+      "trecho": "ADI 5.890/DF (Rel. Min. Cármen Lúcia, julgado em 18/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1866,
+      "fim": 1897,
+      "trecho": "Precedente Interno STF-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2361,
+      "fim": 2407,
+      "trecho": "artigo 5º, inciso LIV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

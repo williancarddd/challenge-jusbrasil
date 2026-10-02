@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0246",
+  "citacoes": [
+    {
+      "inicio": 989,
+      "fim": 1027,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1295,
+      "fim": 1328,
+      "trecho": "doutrina administrativa dominante",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1584,
+      "fim": 1613,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1775,
+      "fim": 1825,
+      "trecho": "Agravo de Instrumento nº 5012345-67.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1984,
+      "fim": 2016,
+      "trecho": "artigo 124 da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2471,
+      "fim": 2518,
+      "trecho": "Regimento Interno do TRF4 - Código RI-TRF4-2024",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0430",
+  "citacoes": [
+    {
+      "inicio": 529,
+      "fim": 557,
+      "trecho": "Lei nº 14.133/2021, art. 156",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 702,
+      "fim": 736,
+      "trecho": "Código de Processo Civil, art. 300",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1030,
+      "fim": 1046,
+      "trecho": "ARE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1362,
+      "fim": 1396,
+      "trecho": "doutrina do Direito Administrativo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1561,
+      "fim": 1571,
+      "trecho": "RE 800.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1825,
+      "fim": 1855,
+      "trecho": "Princípio da Proporcionalidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

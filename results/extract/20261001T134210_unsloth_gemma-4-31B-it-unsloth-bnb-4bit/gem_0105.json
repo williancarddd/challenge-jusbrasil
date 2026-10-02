@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0105",
+  "citacoes": [
+    {
+      "inicio": 451,
+      "fim": 477,
+      "trecho": "jurisprudência consolidada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 736,
+      "fim": 836,
+      "trecho": "Agravo de Instrumento nº 2204567-88.2022.8.26.0000, Rel. Des. Marcos Vinícius, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1010,
+      "fim": 1064,
+      "trecho": "artigo 29, inciso II, do Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1256,
+      "fim": 1288,
+      "trecho": "Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1519,
+      "fim": 1545,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1660,
+      "fim": 1707,
+      "trecho": "jurisprudência do  Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2009,
+      "fim": 2037,
+      "trecho": "Processo ID-998877-TJSP/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2196,
+      "fim": 2286,
+      "trecho": "Apelação Cível nº 1122334-55.2021.8.26.0100, Rel. Des. Helena Souza, julgado em 15/06/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

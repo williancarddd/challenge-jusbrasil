@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0817",
+  "citacoes": [
+    {
+      "inicio": 753,
+      "fim": 791,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 843,
+      "fim": 918,
+      "trecho": "jurisprudência consolidada deste Tribunal Regional do Trabalho da 3ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1136,
+      "fim": 1229,
+      "trecho": "HC 0001234-56.2023.5.03.0000, relatado pelo Desembargador Marcos Vinícius Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1337,
+      "fim": 1388,
+      "trecho": "Constituição Federal, em seu artigo 5º, inciso LXVI",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1648,
+      "trecho": "Lei 12.403/2011",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1818,
+      "fim": 1835,
+      "trecho": "Súmula 435 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1969,
+      "fim": 1994,
+      "trecho": "Regimento Interno do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2162,
+      "fim": 2197,
+      "trecho": "Precedente Interno ID-TRT3-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2275,
+      "fim": 2318,
+      "trecho": "Desembargador Ricardo Alencar em 20/08/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2387,
+      "fim": 2425,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

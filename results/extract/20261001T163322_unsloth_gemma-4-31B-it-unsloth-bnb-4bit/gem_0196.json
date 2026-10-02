@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0196",
+  "citacoes": [
+    {
+      "inicio": 853,
+      "fim": 868,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 891,
+      "fim": 919,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1103,
+      "fim": 1129,
+      "trecho": "RR-12345-67.2021.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1379,
+      "fim": 1409,
+      "trecho": "Lei de Recuperação e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1635,
+      "fim": 1666,
+      "trecho": "Ag-AIRR-98765-43.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1820,
+      "fim": 1836,
+      "trecho": "Súmula 12 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2187,
+      "fim": 2216,
+      "trecho": "regramento do juízo universal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2235,
+      "fim": 2273,
+      "trecho": "precedente interno ID-TST-REF-2024-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2402,
+      "fim": 2439,
+      "trecho": "jurisprudência do STJ no REsp-1234567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

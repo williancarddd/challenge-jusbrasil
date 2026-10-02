@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0642",
+  "citacoes": [
+    {
+      "inicio": 435,
+      "fim": 522,
+      "trecho": "jurisprudência pátria consolidou o entendimento de que a guarda compartilhada é a regra",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 581,
+      "fim": 616,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1025,
+      "fim": 1091,
+      "trecho": "REsp 1.622.345/SP, relatado pelo Min. Ricardo Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1104,
+      "fim": 1119,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1398,
+      "fim": 1505,
+      "trecho": "Agravo de Instrumento nº 2244556-11.2022.8.26.0000, sob relatoria do Des. Marco Aurélio Silva em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1767,
+      "fim": 1787,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1863,
+      "fim": 1899,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2206,
+      "fim": 2241,
+      "trecho": "artigo 1.584, § 4º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

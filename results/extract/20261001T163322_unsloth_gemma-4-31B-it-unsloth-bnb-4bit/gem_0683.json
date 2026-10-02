@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0683",
+  "citacoes": [
+    {
+      "inicio": 707,
+      "fim": 731,
+      "trecho": "art. 202 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1254,
+      "fim": 1269,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1461,
+      "fim": 1497,
+      "trecho": "art. 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1769,
+      "fim": 1797,
+      "trecho": "decisões desta Suprema Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1906,
+      "fim": 1941,
+      "trecho": "Agravo Regimental no ARE 890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2056,
+      "fim": 2075,
+      "trecho": "Enunciado 41 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2324,
+      "fim": 2369,
+      "trecho": "Princípio da Primazia do Julgamento de Mérito",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2496,
+      "fim": 2522,
+      "trecho": "Tema 999-STF-Intercorrente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

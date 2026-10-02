@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0451",
+  "citacoes": [
+    {
+      "inicio": 1072,
+      "fim": 1087,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1272,
+      "fim": 1303,
+      "trecho": "artigo 6º da Lei nº 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1620,
+      "fim": 1661,
+      "trecho": "Processo TST-AIRR-45678-12.2021.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1874,
+      "fim": 1912,
+      "trecho": "Lei de Recuperação Judicial e Falência",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2109,
+      "fim": 2142,
+      "trecho": "Precedente Interno TST-REF-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2254,
+      "fim": 2293,
+      "trecho": "Processo TST-RR-12345-67.2022.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2661,
+      "fim": 2689,
+      "trecho": "artigo 49 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

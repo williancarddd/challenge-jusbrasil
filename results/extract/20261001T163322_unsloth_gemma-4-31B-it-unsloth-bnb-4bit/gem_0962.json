@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0962",
+  "citacoes": [
+    {
+      "inicio": 457,
+      "fim": 495,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 845,
+      "fim": 904,
+      "trecho": "REsp 1.982.341/SP (Rel. Min. Aurélio Santos, j. 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1326,
+      "fim": 1344,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1365,
+      "fim": 1375,
+      "trecho": "artigo 115",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1680,
+      "fim": 1713,
+      "trecho": "Manual de Gestão de Riscos do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2013,
+      "fim": 2078,
+      "trecho": "AgInt no AREsp 456.789/DF (Rel. Min. Clara Mendes, j. 10/11/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2217,
+      "fim": 2261,
+      "trecho": "Princípio da Continuidade do Serviço Público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2423,
+      "fim": 2465,
+      "trecho": "Processo Administrativo Interno STJ-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2597,
+      "fim": 2657,
+      "trecho": "REsp 2.100.500/RJ (Rel. Min. Marcos Vinícius, j. 20/01/2024)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

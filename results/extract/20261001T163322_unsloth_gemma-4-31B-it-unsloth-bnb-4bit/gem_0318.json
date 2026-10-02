@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0318",
+  "citacoes": [
+    {
+      "inicio": 587,
+      "fim": 620,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 902,
+      "fim": 960,
+      "trecho": "REsp 1.234.567/SP (Rel. Min. Marco Aurélio, j. 10/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1512,
+      "fim": 1527,
+      "trecho": "Lei 12.318/2010",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1793,
+      "fim": 1829,
+      "trecho": "AgInt no AREsp 987.654/RJ (Rel. Min.",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1987,
+      "fim": 2013,
+      "trecho": "Súmula 456 do TJ-Inventado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2132,
+      "fim": 2165,
+      "trecho": "art. 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2502,
+      "fim": 2535,
+      "trecho": "jurisprudência consolidada do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

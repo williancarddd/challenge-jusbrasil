@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0664",
+  "citacoes": [
+    {
+      "inicio": 717,
+      "fim": 741,
+      "trecho": "Regimento Interno do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 867,
+      "fim": 905,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1016,
+      "fim": 1029,
+      "trecho": "RMS 12.345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1205,
+      "fim": 1230,
+      "trecho": "artigo 2º da Lei 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1384,
+      "fim": 1396,
+      "trecho": "HC 67.890/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1696,
+      "fim": 1739,
+      "trecho": "normas de regência da Administração Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1851,
+      "fim": 1889,
+      "trecho": "Protocolo de Gestão Interna SIG-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2132,
+      "fim": 2149,
+      "trecho": "Súmula 456 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

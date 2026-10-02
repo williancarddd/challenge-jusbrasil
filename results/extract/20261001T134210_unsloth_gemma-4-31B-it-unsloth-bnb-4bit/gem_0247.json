@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0247",
+  "citacoes": [
+    {
+      "inicio": 744,
+      "fim": 783,
+      "trecho": "Lei nº 6.830/80, em seu artigo 40, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 916,
+      "fim": 926,
+      "trecho": "RE 600.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1219,
+      "fim": 1240,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1403,
+      "fim": 1420,
+      "trecho": "Súmula 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1885,
+      "fim": 1935,
+      "trecho": "decisões anteriores deste Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2014,
+      "fim": 2043,
+      "trecho": "Tema 566 da Repercussão Geral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2547,
+      "fim": 2594,
+      "trecho": "Código de Processo Civil, artigo 487, inciso II",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0127",
+  "citacoes": [
+    {
+      "inicio": 1277,
+      "fim": 1315,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1585,
+      "fim": 1613,
+      "trecho": "STF já decidiu no RE 635.412",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1603,
+      "fim": 1613,
+      "trecho": "RE 635.412",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1960,
+      "fim": 1989,
+      "trecho": "artigo 137 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2080,
+      "fim": 2089,
+      "trecho": "STF-778-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2232,
+      "fim": 2242,
+      "trecho": "AI 769.102",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2455,
+      "fim": 2490,
+      "trecho": "jurisprudência do Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

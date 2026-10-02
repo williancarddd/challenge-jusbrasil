@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0910",
+  "citacoes": [
+    {
+      "inicio": 524,
+      "fim": 571,
+      "trecho": "artigo 5º, inciso LXVI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 941,
+      "fim": 1002,
+      "trecho": "HC 150.000/SP, Rel. Min. Marco Aurélio, julgado em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1226,
+      "fim": 1247,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1389,
+      "fim": 1427,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1583,
+      "fim": 1621,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1842,
+      "fim": 1900,
+      "trecho": "HC 160.000/RJ, Rel. Min. Rosa Weber, julgado em 12/08/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2107,
+      "fim": 2127,
+      "trecho": "Súmula nº 691 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2273,
+      "fim": 2355,
+      "trecho": "Processo Referencial 999.888-X/DF, Rel. Min. André Mendonça, julgado em 15/01/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

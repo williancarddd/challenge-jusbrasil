@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0943",
+  "citacoes": [
+    {
+      "inicio": 927,
+      "fim": 953,
+      "trecho": "art. 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1440,
+      "fim": 1453,
+      "trecho": "RE nº 890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1571,
+      "fim": 1616,
+      "trecho": "Convenção sobre os Direitos da Criança da ONU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1839,
+      "fim": 1875,
+      "trecho": "estatuto da criança e do adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2071,
+      "fim": 2084,
+      "trecho": "HC nº 456.789",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2243,
+      "fim": 2285,
+      "trecho": "Diretriz Interna de Família n. 88/2021-STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

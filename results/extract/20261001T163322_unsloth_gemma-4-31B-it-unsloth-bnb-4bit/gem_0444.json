@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0444",
+  "citacoes": [
+    {
+      "inicio": 527,
+      "fim": 555,
+      "trecho": "artigo 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 850,
+      "fim": 867,
+      "trecho": "REsp 1.234.567/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 969,
+      "fim": 1010,
+      "trecho": "artigo 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1314,
+      "fim": 1422,
+      "trecho": "Agravo de Instrumento nº 5009876-11.2022.4.04.0000, relatado pelo Desembargador Ricardo Montes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1649,
+      "fim": 1672,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1995,
+      "fim": 2095,
+      "trecho": "Apelação Cível nº 5004441-22.2021.4.04.7001, proferido em 10/11/2021 pelo Relator Dr. Sérgio Alencar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2392,
+      "fim": 2420,
+      "trecho": "artigo 1.242 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

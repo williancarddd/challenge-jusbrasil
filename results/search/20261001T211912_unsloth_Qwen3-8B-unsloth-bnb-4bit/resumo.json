@@ -1,0 +1,38 @@
+{
+  "name": "unsloth/Qwen3-8B-unsloth-bnb-4bit",
+  "role": "student",
+  "family": "Qwen",
+  "parameters": "8B",
+  "slug": "unsloth_Qwen3-8B-unsloth-bnb-4bit",
+  "busca": "regex",
+  "extract": "/exp/morsoleto/challenge-jusbrasil/results/extract/20261001T211235_unsloth_Qwen3-8B-unsloth-bnb-4bit",
+  "avaliacao": {
+    "score_final": 0.779808467425398,
+    "niveis": {
+      "1": {
+        "macro_f1": 0.7633009802501327,
+        "f1_por_classe": {
+          "real": 0.8444444444444444,
+          "inventada": 0.8813559322033898,
+          "incompleta": 0.5641025641025641
+        },
+        "tau": 0.0,
+        "s": 0.7633009802501327,
+        "b": 0.0,
+        "score": 0.7633009802501327
+      },
+      "2": {
+        "macro_f1": 0.7880622110130306,
+        "f1_por_classe": {
+          "real": 0.8461538461538461,
+          "inventada": 0.9180327868852459,
+          "incompleta": 0.6
+        },
+        "tau": 0.0,
+        "s": 0.7880622110130306,
+        "b": 0.0,
+        "score": 0.7880622110130306
+      }
+    }
+  }
+}

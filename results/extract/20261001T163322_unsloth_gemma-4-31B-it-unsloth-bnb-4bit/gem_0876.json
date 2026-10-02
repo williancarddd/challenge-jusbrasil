@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0876",
+  "citacoes": [
+    {
+      "inicio": 544,
+      "fim": 569,
+      "trecho": "artigo 65 da Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 807,
+      "fim": 845,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1009,
+      "fim": 1072,
+      "trecho": "RMS 12.345/DF (Rel. Min. Carlos Alberto, julgado em 10/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1447,
+      "fim": 1514,
+      "trecho": "Acórdão 98.765/MG (Rel. Min. Ricardo Mendes, julgado em 12/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1785,
+      "fim": 1813,
+      "trecho": "regulamento interno da Força",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1953,
+      "fim": 2012,
+      "trecho": "MS 44.556/RS (Rel. Min. Sérgio Luiz, julgado em 15/11/2020)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2286,
+      "fim": 2303,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

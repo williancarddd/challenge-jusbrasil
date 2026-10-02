@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0788",
+  "citacoes": [
+    {
+      "inicio": 354,
+      "fim": 394,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 862,
+      "fim": 883,
+      "trecho": "Lei 9.503/97, art. 28",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1182,
+      "fim": 1217,
+      "trecho": "Constituição Federal, art. 37, § 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1340,
+      "fim": 1372,
+      "trecho": "Recurso Especial nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1564,
+      "fim": 1582,
+      "trecho": "precedentes do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1728,
+      "fim": 1744,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1944,
+      "fim": 2000,
+      "trecho": "Manual de Procedimentos de Logística Militar - MPLM-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

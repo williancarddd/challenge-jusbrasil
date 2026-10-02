@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0779",
+  "citacoes": [
+    {
+      "inicio": 582,
+      "fim": 608,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 672,
+      "fim": 711,
+      "trecho": "art. 216-A da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1004,
+      "fim": 1096,
+      "trecho": "Processo 0004567-89.2021.5.03.0010, relatado pelo Desembargador Ricardo Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1291,
+      "fim": 1327,
+      "trecho": "dispositivos da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1346,
+      "fim": 1437,
+      "trecho": "Acórdão 98765-43/2020, de relatoria da Desembargadora Ana Paula Silva, datado de 15/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1609,
+      "fim": 1666,
+      "trecho": "Enunciado 123 do Conselho Superior da Justiça do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2094,
+      "fim": 2115,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

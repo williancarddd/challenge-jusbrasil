@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0400",
+  "citacoes": [
+    {
+      "inicio": 689,
+      "fim": 731,
+      "trecho": "Constituição Federal, art. 5º, inciso LXVI",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 928,
+      "fim": 979,
+      "trecho": "HC 98765/SP, Rel. Min. Silva, julgado em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1083,
+      "fim": 1118,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1182,
+      "fim": 1201,
+      "trecho": "Acórdão ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1344,
+      "fim": 1386,
+      "trecho": "Código de Processo Penal Militar, art. 254",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1653,
+      "trecho": "HC 54321/RJ, Rel. Min. Souza, julgado em 12/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1900,
+      "fim": 1917,
+      "trecho": "Súmula 111 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2470,
+      "fim": 2488,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

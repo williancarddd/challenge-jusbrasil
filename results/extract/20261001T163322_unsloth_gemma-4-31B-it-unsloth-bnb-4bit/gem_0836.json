@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0836",
+  "citacoes": [
+    {
+      "inicio": 367,
+      "fim": 405,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 804,
+      "fim": 836,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1064,
+      "fim": 1099,
+      "trecho": "art. 23 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1194,
+      "fim": 1237,
+      "trecho": "Princípio da Primazia da Vontade Contratual",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1371,
+      "fim": 1396,
+      "trecho": "RR-8899-12.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1523,
+      "fim": 1562,
+      "trecho": "Súmula identificadora Súmula-X-TST-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1705,
+      "fim": 1754,
+      "trecho": "Convenção de Viena sobre Contratos Internacionais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1883,
+      "fim": 1913,
+      "trecho": "Ag-AIRR-4455-66.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

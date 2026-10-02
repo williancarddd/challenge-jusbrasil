@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0320",
+  "citacoes": [
+    {
+      "inicio": 1020,
+      "fim": 1046,
+      "trecho": "Lei 12.016/2009, artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1409,
+      "fim": 1435,
+      "trecho": "RMS-1122-33.2021.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1527,
+      "fim": 1564,
+      "trecho": "Constituição Federal, artigo 5º, LXIX",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1734,
+      "fim": 1758,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1905,
+      "fim": 1941,
+      "trecho": "Código de Processo Civil, artigo 932",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2071,
+      "fim": 2088,
+      "trecho": "Súmula 267 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2107,
+      "fim": 2136,
+      "trecho": "Ag-AIR-4567-89.2022.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2158,
+      "fim": 2199,
+      "trecho": "Protocolo de Gestão Processual TST-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2358,
+      "fim": 2370,
+      "trecho": "Lei 8.036/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2375,
+      "fim": 2408,
+      "trecho": "legislação processual trabalhista",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

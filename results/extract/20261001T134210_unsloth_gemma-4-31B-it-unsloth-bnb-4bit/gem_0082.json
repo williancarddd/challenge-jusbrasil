@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0082",
+  "citacoes": [
+    {
+      "inicio": 339,
+      "fim": 379,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 984,
+      "fim": 1022,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1364,
+      "fim": 1408,
+      "trecho": "princípio da continuidade do serviço público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1493,
+      "fim": 1512,
+      "trecho": "TST-ED-2021-X99-ABC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1655,
+      "trecho": "artigo 115 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1770,
+      "fim": 1801,
+      "trecho": "AgRg-RR 12345-67.2020.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2023,
+      "fim": 2065,
+      "trecho": "Recurso de Revista 98765-43.2019.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2661,
+      "fim": 2678,
+      "trecho": "artigo 300 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

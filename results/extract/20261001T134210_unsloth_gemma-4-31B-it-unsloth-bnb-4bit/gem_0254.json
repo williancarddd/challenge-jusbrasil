@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0254",
+  "citacoes": [
+    {
+      "inicio": 514,
+      "fim": 567,
+      "trecho": "artigo 192 da Consolidação das Leis do Trabalho (CLT)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 846,
+      "fim": 935,
+      "trecho": "Recurso Especial nº 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1109,
+      "fim": 1130,
+      "trecho": "Decreto nº 3.048/1999",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1294,
+      "fim": 1340,
+      "trecho": "diretrizes do Ministério do Trabalho e Emprego",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1414,
+      "fim": 1497,
+      "trecho": "Agravo Interno nº 889.102/RJ, sob relatoria da Ministra Clara Valente em 22/09/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1878,
+      "fim": 1898,
+      "trecho": "Súmula nº 111 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2057,
+      "fim": 2101,
+      "trecho": "Habeas Data Administrativo nº 999-X-2022-STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2735,
+      "fim": 2770,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

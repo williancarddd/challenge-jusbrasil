@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0275",
+  "citacoes": [
+    {
+      "inicio": 691,
+      "fim": 715,
+      "trecho": "art. 109 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 981,
+      "fim": 1094,
+      "trecho": "precedente do Recurso Especial Eleitoral REsp-EL 1.234/SP, relatado pelo Ministro Dr. Alberto Silva em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1202,
+      "fim": 1224,
+      "trecho": "Lei Complementar 64/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1594,
+      "fim": 1708,
+      "trecho": "decisão proferida no Agravo Regimental AgR-AI 9.876/DF, de 20/11/2022, sob relatoria do Ministro Dr. Carlos Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1808,
+      "fim": 1832,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2026,
+      "fim": 2075,
+      "trecho": "Protocolo Interno de Gestão de Prazos PIGP-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2193,
+      "fim": 2217,
+      "trecho": "art. 107 do Código Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2539,
+      "fim": 2562,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2567,
+      "fim": 2585,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

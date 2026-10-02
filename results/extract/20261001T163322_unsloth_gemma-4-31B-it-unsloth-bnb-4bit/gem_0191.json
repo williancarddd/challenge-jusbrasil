@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0191",
+  "citacoes": [
+    {
+      "inicio": 42,
+      "fim": 91,
+      "trecho": "ACÓRDÃO Nº 4521/2023 DO SUPERIOR TRIBUNAL MILITAR",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 298,
+      "fim": 336,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 797,
+      "fim": 817,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 912,
+      "fim": 936,
+      "trecho": "art. 37, caput, da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1339,
+      "fim": 1350,
+      "trecho": "MS 12345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1495,
+      "fim": 1519,
+      "trecho": "Regimento Interno do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1614,
+      "fim": 1634,
+      "trecho": "art. 5º, LXIX, da CF",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1890,
+      "fim": 1911,
+      "trecho": "Habeas Corpus 9876/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2286,
+      "fim": 2337,
+      "trecho": "Manual de Procedimentos Administrativos do STM-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0932",
+  "citacoes": [
+    {
+      "inicio": 906,
+      "fim": 941,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1097,
+      "fim": 1143,
+      "trecho": "jurisprudência deste Superior Tribunal Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1319,
+      "fim": 1345,
+      "trecho": "artigo 15 da Lei 12.305/10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1433,
+      "fim": 1471,
+      "trecho": "Convenção sobre os Direitos da Criança",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1771,
+      "fim": 1784,
+      "trecho": "HC 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1861,
+      "fim": 1878,
+      "trecho": "Súmula 542 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2125,
+      "fim": 2161,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2356,
+      "fim": 2373,
+      "trecho": "REsp 1.876.543/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

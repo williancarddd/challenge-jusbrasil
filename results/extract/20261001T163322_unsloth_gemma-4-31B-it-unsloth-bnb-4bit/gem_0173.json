@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0173",
+  "citacoes": [
+    {
+      "inicio": 585,
+      "fim": 624,
+      "trecho": "art. 201, § 1º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 754,
+      "fim": 766,
+      "trecho": "Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 961,
+      "fim": 984,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1001,
+      "fim": 1064,
+      "trecho": "jurisprudência deste Tribunal Regional do Trabalho da 3ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1188,
+      "fim": 1312,
+      "trecho": "decisão proferida no Processo TRT3-0012345-67.2022.5.02.0001, relatada pelo Desembargador Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1465,
+      "fim": 1498,
+      "trecho": "estudos da Turma Recursal do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1758,
+      "fim": 1820,
+      "trecho": "Processo TRT3-9876543-21.2021.5.02.0010, julgado em 18/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2024,
+      "fim": 2055,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2452,
+      "fim": 2468,
+      "trecho": "Súmula 44 do TNU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

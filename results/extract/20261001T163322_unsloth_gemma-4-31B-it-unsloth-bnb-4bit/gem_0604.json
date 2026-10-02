@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0604",
+  "citacoes": [
+    {
+      "inicio": 734,
+      "fim": 772,
+      "trecho": "artigo 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1089,
+      "fim": 1159,
+      "trecho": "REsp 1.604.221/SP, relatado pelo Ministro Aurélio Mendes em 14/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1560,
+      "fim": 1639,
+      "trecho": "AgInt no AREsp 2.100.300/RJ, de relatoria do Ministro Silas Rocha em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1964,
+      "fim": 1981,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2090,
+      "fim": 2111,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2583,
+      "fim": 2651,
+      "trecho": "REsp 1.880.440/MG, julgado em 22/02/2023 pelo Ministro Jorge Valente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2807,
+      "fim": 2831,
+      "trecho": "normas processuais civis",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

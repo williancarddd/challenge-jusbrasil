@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0097",
+  "citacoes": [
+    {
+      "inicio": 376,
+      "fim": 404,
+      "trecho": "artigo 60 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 587,
+      "fim": 630,
+      "trecho": "Recurso Especial nº 1.234-56.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 795,
+      "fim": 828,
+      "trecho": "artigo 37 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1036,
+      "fim": 1132,
+      "trecho": "jurisprudência do Tribunal de Contas da União, em acórdãos relativos à fiscalização de contratos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1369,
+      "fim": 1396,
+      "trecho": "artigo 59 da Lei 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1523,
+      "fim": 1642,
+      "trecho": "Agravo de Instrumento AIRR-98765-2021.5.04.0000, sob a relatoria do Ministro Dr. Aurélio Silveira em 15 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1804,
+      "fim": 1842,
+      "trecho": "Instrução Normativa Interna TST-X-2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2075,
+      "fim": 2092,
+      "trecho": "Súmula 450 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2423,
+      "fim": 2456,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

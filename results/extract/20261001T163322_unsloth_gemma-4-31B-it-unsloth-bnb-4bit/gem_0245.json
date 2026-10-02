@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0245",
+  "citacoes": [
+    {
+      "inicio": 273,
+      "fim": 328,
+      "trecho": "NR-15 da Portaria nº 3.214/78 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 635,
+      "fim": 697,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 812,
+      "fim": 831,
+      "trecho": "Súmula nº 47 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1028,
+      "fim": 1126,
+      "trecho": "julgamento do RR-12345-67.2022.5.02.0001 , relatado pelo Ministro Dr. Aurélio Mendes em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1518,
+      "fim": 1533,
+      "trecho": "art. 191 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1661,
+      "fim": 1722,
+      "trecho": "diretrizes da norma regulamentadora do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1895,
+      "fim": 1983,
+      "trecho": "Ag-AIR-98765-11.2021.5.15.0000 , relatado pela Ministra Dra. Beatriz Souza em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2155,
+      "fim": 2185,
+      "trecho": "legislação trabalhista vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2267,
+      "fim": 2296,
+      "trecho": "Resolução Interna TST-VAR-245",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2645,
+      "fim": 2668,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2673,
+      "fim": 2703,
+      "trecho": "legislação infraconstitucional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

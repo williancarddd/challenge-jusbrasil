@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0772",
+  "citacoes": [
+    {
+      "inicio": 550,
+      "fim": 583,
+      "trecho": "Lei 11.101/2005, em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 918,
+      "fim": 935,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1186,
+      "fim": 1201,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1293,
+      "fim": 1321,
+      "trecho": "artigo 41 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1393,
+      "fim": 1491,
+      "trecho": "Agravo de Instrumento nº 500.123.456/RS, relatado pelo Desembargador Ricardo Fontana em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1625,
+      "fim": 1646,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1762,
+      "fim": 1784,
+      "trecho": "Enunciado 882-TRF4/INT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2168,
+      "fim": 2210,
+      "trecho": "Lei de Recuperação de Empresas e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

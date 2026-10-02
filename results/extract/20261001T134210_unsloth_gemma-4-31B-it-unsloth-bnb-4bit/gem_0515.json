@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0515",
+  "citacoes": [
+    {
+      "inicio": 456,
+      "fim": 518,
+      "trecho": "Código de Processo Civil, em seu artigo 300 da Lei 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1119,
+      "fim": 1202,
+      "trecho": "RR-10234-56.2022.5.02.0001, relatado pelo Ministro Dr. Aurélio Mendes em 14/03/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1325,
+      "fim": 1342,
+      "trecho": "artigo 459 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1660,
+      "fim": 1691,
+      "trecho": "AgRg-RR-98765-12.2021.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1903,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2004,
+      "fim": 2047,
+      "trecho": "Instrução Normativa Interna TST-X-2024-V515",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2197,
+      "fim": 2228,
+      "trecho": "jurisprudência dominante do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

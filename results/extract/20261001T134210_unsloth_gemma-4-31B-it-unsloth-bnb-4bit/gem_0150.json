@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0150",
+  "citacoes": [
+    {
+      "inicio": 471,
+      "fim": 510,
+      "trecho": "Lei nº 13.105/2015, em seu artigo 1.238",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 675,
+      "fim": 709,
+      "trecho": "Lei nº 6.015/1973, no artigo 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1044,
+      "fim": 1113,
+      "trecho": "REsp nº 1.882.334/SP (Rel. Min. Marco Aurélio, julgado em 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1429,
+      "fim": 1458,
+      "trecho": "Código Civil, no artigo 1.240",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1707,
+      "trecho": "AgInt no AREsp nº 992.101/DF (Rel. Min. Sérgio Vaz, julgado em 14/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1964,
+      "fim": 1985,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2135,
+      "fim": 2232,
+      "trecho": "precedente firmado no Habeas Corpus nº 45.112/MG (Rel. Min. Cláudio Rocha, julgado em 20/11/2020)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

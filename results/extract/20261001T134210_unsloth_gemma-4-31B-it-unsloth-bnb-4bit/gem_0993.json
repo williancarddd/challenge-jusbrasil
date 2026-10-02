@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0993",
+  "citacoes": [
+    {
+      "inicio": 520,
+      "fim": 558,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 761,
+      "fim": 789,
+      "trecho": "Processo TST-ED-2023-4455-XY",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1155,
+      "fim": 1189,
+      "trecho": "Recurso Especial REsp-1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1363,
+      "fim": 1418,
+      "trecho": "Acórdão Rel. Min. Aurélio Santos, julgado em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1628,
+      "fim": 1651,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1826,
+      "fim": 1850,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1946,
+      "fim": 1975,
+      "trecho": "Agravo Interno AgInt-98765/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2093,
+      "fim": 2141,
+      "trecho": "Protocolo Interno de Padronização TST-PR-2024-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

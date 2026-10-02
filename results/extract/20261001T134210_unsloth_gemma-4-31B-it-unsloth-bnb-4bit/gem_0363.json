@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0363",
+  "citacoes": [
+    {
+      "inicio": 578,
+      "fim": 634,
+      "trecho": "REsp 1.234.567/SP (Rel. Min. Alana Silva, j. 10/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 821,
+      "fim": 857,
+      "trecho": "art. 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1077,
+      "fim": 1101,
+      "trecho": "art. 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1294,
+      "fim": 1362,
+      "trecho": "AgInt no AREsp 987.654/RJ (Rel. Min. Carlos Drummond, j. 12/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1515,
+      "fim": 1579,
+      "trecho": "jurisprudência desta Corte, em diversos julgados sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1969,
+      "fim": 1986,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2337,
+      "fim": 2414,
+      "trecho": "precedente fixado no REsp 554.433/MG (Rel. Min. Beatriz Souza, j. 15/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

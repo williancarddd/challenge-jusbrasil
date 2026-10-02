@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0531",
+  "citacoes": [
+    {
+      "inicio": 104,
+      "fim": 137,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 457,
+      "fim": 475,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 494,
+      "fim": 524,
+      "trecho": "art. 1º, § 2º, da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 857,
+      "fim": 883,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 992,
+      "fim": 1070,
+      "trecho": "Processo TST-ED-10293/2022, relatado pelo Ministro Aurélio Viana em 14/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1282,
+      "fim": 1315,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1540,
+      "fim": 1582,
+      "trecho": "AgRg-AIRR-4455/2021, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1715,
+      "fim": 1772,
+      "trecho": "doutrina sobre a teoria do erro no Direito Administrativo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2036,
+      "fim": 2059,
+      "trecho": "art. 17 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2157,
+      "fim": 2248,
+      "trecho": "Recurso Especial Administrativo nº 772/2020, relatado pela Ministra Clara Luz em 22/01/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

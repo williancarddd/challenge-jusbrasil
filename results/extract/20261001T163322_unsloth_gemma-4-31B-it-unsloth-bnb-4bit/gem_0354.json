@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0354",
+  "citacoes": [
+    {
+      "inicio": 791,
+      "fim": 823,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1344,
+      "fim": 1356,
+      "trecho": "RE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1515,
+      "fim": 1542,
+      "trecho": "Agravo Regimental nº 98.765",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1657,
+      "fim": 1673,
+      "trecho": "Lei das Eleições",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1905,
+      "fim": 1908,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2087,
+      "fim": 2123,
+      "trecho": "Recurso Especial Eleitoral nº 44.556",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2295,
+      "fim": 2311,
+      "trecho": "Súmula 12 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2407,
+      "fim": 2438,
+      "trecho": "Protocolo Normativo TSE-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

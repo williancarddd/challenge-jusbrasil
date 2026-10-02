@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0535",
+  "citacoes": [
+    {
+      "inicio": 477,
+      "fim": 492,
+      "trecho": "Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 526,
+      "fim": 549,
+      "trecho": "art. 44 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 861,
+      "fim": 896,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1072,
+      "fim": 1140,
+      "trecho": "AgInt no REsp 1.890.123/RJ (Rel. Min. Marcos Valente, j. 10/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1500,
+      "fim": 1523,
+      "trecho": "art. 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1744,
+      "fim": 1798,
+      "trecho": "REsp 2.100.500/MG (Rel. Min. Clara Luz, j. 12/11/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1943,
+      "fim": 1966,
+      "trecho": "art. 59 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2320,
+      "fim": 2375,
+      "trecho": "REsp 1.777.888/DF (Rel. Min. Jorge Lima, j. 05/02/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

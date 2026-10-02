@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0887",
+  "citacoes": [
+    {
+      "inicio": 98,
+      "fim": 130,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 941,
+      "fim": 957,
+      "trecho": "Súmula 47 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1246,
+      "fim": 1263,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1497,
+      "fim": 1569,
+      "trecho": "Recurso Especial nº 987.654/MG (Rel. Min. Ricardo Mendes, j. 10/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1738,
+      "fim": 1769,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1953,
+      "fim": 2031,
+      "trecho": "Agravo Interno no AREsp nº 554.433/RS (Rel. Min. Cláudio Porto, j. 12/08/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2316,
+      "fim": 2354,
+      "trecho": "Protocolo de Saúde Ocupacional 2023-XJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2685,
+      "fim": 2702,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

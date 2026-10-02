@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0437",
+  "citacoes": [
+    {
+      "inicio": 709,
+      "fim": 747,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 984,
+      "fim": 1016,
+      "trecho": "Recurso Especial nº 1.360.000/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1155,
+      "fim": 1181,
+      "trecho": "art. 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1435,
+      "fim": 1526,
+      "trecho": "Acórdão nº 8877665-44/2021, relatado pelo Desembargador Marcos Vinícius Silva em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1617,
+      "fim": 1643,
+      "trecho": "Tema Repetitivo 566 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1846,
+      "fim": 1870,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1989,
+      "fim": 2013,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2077,
+      "fim": 2167,
+      "trecho": "julgado Processo ID-998877-XYZ, proferido pelo Desembargador Ricardo Alencar em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

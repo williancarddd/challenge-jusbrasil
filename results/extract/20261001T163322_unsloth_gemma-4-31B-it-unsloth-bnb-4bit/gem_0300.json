@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0300",
+  "citacoes": [
+    {
+      "inicio": 767,
+      "fim": 819,
+      "trecho": "Constituição Federal, em seu artigo 7º, inciso XXIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1007,
+      "fim": 1036,
+      "trecho": "Lei nº 8.112/90, no artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1333,
+      "fim": 1420,
+      "trecho": "Recurso Especial REsp-Mil 4567/2021, relatado pelo Ministro Jorge Alencar em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1433,
+      "fim": 1449,
+      "trecho": "Súmula 12 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1715,
+      "fim": 1759,
+      "trecho": "doutrina especializada sobre Direito Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1855,
+      "fim": 1941,
+      "trecho": "Agravo Regimental AgR-1122/2020, a Relatoria do Ministro Ricardo Mendes, em 10/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2090,
+      "fim": 2127,
+      "trecho": "Parecer Técnico Normativo PTN-99/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2215,
+      "fim": 2254,
+      "trecho": "jurisprudência dos tribunais superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

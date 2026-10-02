@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0625",
+  "citacoes": [
+    {
+      "inicio": 333,
+      "fim": 348,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 675,
+      "fim": 703,
+      "trecho": "artigo 47 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 940,
+      "fim": 985,
+      "trecho": "artigo 7º, inciso IV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1254,
+      "fim": 1268,
+      "trecho": "ARE 890.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1592,
+      "fim": 1660,
+      "trecho": "Manual de Direito Recuperacional do Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1949,
+      "fim": 1966,
+      "trecho": "Súmula 387 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2022,
+      "fim": 2052,
+      "trecho": "Recurso Especial nº 554.321/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2426,
+      "fim": 2468,
+      "trecho": "Instrução Normativa Interna nº 99/2021-STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

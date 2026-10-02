@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0282",
+  "citacoes": [
+    {
+      "inicio": 967,
+      "fim": 993,
+      "trecho": "Lei 12.016/2009, artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1300,
+      "fim": 1327,
+      "trecho": "RMS-11223-44.2021.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1516,
+      "fim": 1555,
+      "trecho": "Consolidação das Normas Internas do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1630,
+      "fim": 1666,
+      "trecho": "Código de Processo Civil, artigo 286",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1879,
+      "fim": 1921,
+      "trecho": "Constituição Federal, artigo 5º, inciso LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2082,
+      "fim": 2111,
+      "trecho": "Precedente Interno TST-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2142,
+      "fim": 2159,
+      "trecho": "Súmula 214 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2320,
+      "fim": 2337,
+      "trecho": "regimento interno",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

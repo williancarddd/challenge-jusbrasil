@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0366",
+  "citacoes": [
+    {
+      "inicio": 808,
+      "fim": 835,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1010,
+      "fim": 1043,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1163,
+      "fim": 1185,
+      "trecho": "Processo TRT3-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1304,
+      "fim": 1321,
+      "trecho": "Súmula 327 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1465,
+      "fim": 1547,
+      "trecho": "Recurso Ordinário RO-12345/2022 (Rel. Des. Marcos Vinícius, julgado em 12/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1679,
+      "fim": 1721,
+      "trecho": "Instrução Normativa do TST sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1790,
+      "fim": 1825,
+      "trecho": "Agravo de Instrumento AI-54321/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1790,
+      "fim": 1870,
+      "trecho": "Agravo de Instrumento AI-54321/2021 (Rel. Des. Ana Paula, julgado em 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2227,
+      "fim": 2245,
+      "trecho": "artigo 11-A da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

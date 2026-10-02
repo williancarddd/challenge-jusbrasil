@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0908",
+  "citacoes": [
+    {
+      "inicio": 839,
+      "fim": 879,
+      "trecho": "artigo 23-B da Lei Complementar nº 64/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1144,
+      "fim": 1179,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1286,
+      "fim": 1328,
+      "trecho": "Agravo Regimental no AREsp nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1500,
+      "fim": 1518,
+      "trecho": "Lei nº 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1835,
+      "fim": 1852,
+      "trecho": "Súmula 120 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2094,
+      "fim": 2127,
+      "trecho": "orientação jurisprudencial do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2232,
+      "fim": 2256,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2304,
+      "fim": 2335,
+      "trecho": "Recurso Especial nº 88990-12/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2375,
+      "fim": 2409,
+      "trecho": "Instrução Normativa 500-X/2022-TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

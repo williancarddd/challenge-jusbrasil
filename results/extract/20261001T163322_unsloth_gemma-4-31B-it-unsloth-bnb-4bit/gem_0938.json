@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0938",
+  "citacoes": [
+    {
+      "inicio": 691,
+      "fim": 733,
+      "trecho": "Constituição Federal, em seu art. 37, § 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1434,
+      "fim": 1462,
+      "trecho": "AC 5012345-67.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1530,
+      "fim": 1555,
+      "trecho": "Código Civil, no art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1547,
+      "fim": 1555,
+      "trecho": "art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1645,
+      "fim": 1674,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1761,
+      "fim": 1797,
+      "trecho": "TRF4 já decidiu em casos semelhantes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1917,
+      "fim": 1966,
+      "trecho": "REsp 1.234.567/SP do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2428,
+      "fim": 2440,
+      "trecho": "Lei 9.494/97",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

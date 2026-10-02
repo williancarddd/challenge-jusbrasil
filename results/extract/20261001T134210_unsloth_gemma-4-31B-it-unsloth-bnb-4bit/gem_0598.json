@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0598",
+  "citacoes": [
+    {
+      "inicio": 695,
+      "fim": 742,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 889,
+      "fim": 940,
+      "trecho": "HC 99887/SP (Rel. Min. Valdir Souza, j. 12/05/2018)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1072,
+      "fim": 1120,
+      "trecho": "RMS 4567/DF (Rel. Min. Clara Luz, j. 10/11/2020)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1223,
+      "fim": 1235,
+      "trecho": "Lei 8.255/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1333,
+      "fim": 1363,
+      "trecho": "Lei 8.255/91, em seu artigo 12",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1599,
+      "fim": 1660,
+      "trecho": "AgRg no REsp 112233/RJ (Rel. Min. Jorge Amado, j. 20/02/2019)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1717,
+      "fim": 1733,
+      "trecho": "Súmula 15 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1848,
+      "fim": 1892,
+      "trecho": "norma do Regimento Interno do STM, artigo 45",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1936,
+      "fim": 1979,
+      "trecho": "Código de Processo Penal Militar, artigo 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2158,
+      "fim": 2241,
+      "trecho": "tese fixada no Recurso Especial nº 554433-X (Rel. Min. Helena Costa, j. 05/08/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

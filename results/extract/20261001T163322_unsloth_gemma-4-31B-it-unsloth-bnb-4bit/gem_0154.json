@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0154",
+  "citacoes": [
+    {
+      "inicio": 748,
+      "fim": 790,
+      "trecho": "Consolidação das Leis do Trabalho, art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 855,
+      "fim": 887,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1144,
+      "fim": 1185,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1210,
+      "fim": 1220,
+      "trecho": "RE 606.163",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1482,
+      "fim": 1525,
+      "trecho": "decisões do STF sobre regime jurídico único",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1549,
+      "fim": 1555,
+      "trecho": "ADC 53",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1694,
+      "fim": 1742,
+      "trecho": "Protocolo de Competência Jurisdicional 2023-X-99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1983,
+      "fim": 2000,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

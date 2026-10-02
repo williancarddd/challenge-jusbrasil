@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0380",
+  "citacoes": [
+    {
+      "inicio": 562,
+      "fim": 611,
+      "trecho": "artigo 5º, inciso LXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 787,
+      "fim": 825,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 987,
+      "fim": 1035,
+      "trecho": "diversos precedentes do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1054,
+      "fim": 1097,
+      "trecho": "HC 123.456/SP (Rel. Min. Silva, 10/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1313,
+      "fim": 1370,
+      "trecho": "Processo TST-HC-98765/DF (Rel. Min. Oliveira, 12/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1458,
+      "fim": 1484,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1652,
+      "fim": 1690,
+      "trecho": "artigo 316 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1855,
+      "fim": 1908,
+      "trecho": "Protocolo Interno de Liberdade Judiciária - PILJ-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

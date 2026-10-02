@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0156",
+  "citacoes": [
+    {
+      "inicio": 594,
+      "fim": 620,
+      "trecho": "art. 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 894,
+      "fim": 977,
+      "trecho": "RR-12345-67.2022.5.00.0000, relatado pelo Ministro Dr. Aurélio Mendes em 15/03/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1145,
+      "fim": 1165,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1491,
+      "fim": 1582,
+      "trecho": "Ag-RO-98765-43.2021.5.02.0000, datado de 10/11/2021 e sob relatoria do Ministro Silas Rocha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1717,
+      "fim": 1735,
+      "trecho": "Lei nº 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1946,
+      "fim": 2010,
+      "trecho": "Protocolo Interno de Conciliação Família-Trabalho nº 45/2022-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2215,
+      "fim": 2231,
+      "trecho": "art. 7º da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2658,
+      "fim": 2696,
+      "trecho": "princípio do melhor interesse do menor",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

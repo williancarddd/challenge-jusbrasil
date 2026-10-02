@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0426",
+  "citacoes": [
+    {
+      "inicio": 829,
+      "fim": 873,
+      "trecho": "Lei nº 14.133/2021, em seu art. 11, inciso I",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1159,
+      "fim": 1174,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1413,
+      "fim": 1442,
+      "trecho": "Lei nº 8.666/1993, no art. 44",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1605,
+      "fim": 1647,
+      "trecho": "precedentes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1800,
+      "fim": 1822,
+      "trecho": "AgRg no ARE 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2078,
+      "fim": 2105,
+      "trecho": "Tese Jurídica STF-V426-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2241,
+      "fim": 2279,
+      "trecho": "Constituição Federal, no art. 37, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2369,
+      "fim": 2409,
+      "trecho": "doutrina administrativista contemporânea",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0498",
+  "citacoes": [
+    {
+      "inicio": 551,
+      "fim": 577,
+      "trecho": "art. 49 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 683,
+      "fim": 713,
+      "trecho": "Lei de Recuperação e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 821,
+      "fim": 858,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 991,
+      "fim": 1100,
+      "trecho": "Agravo de Instrumento nº 2245678-12.2022.8.26.0000, relatado pelo Desembargador Marcos Vinícius em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1369,
+      "fim": 1389,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1530,
+      "fim": 1547,
+      "trecho": "Súmula 12 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1750,
+      "fim": 1763,
+      "trecho": "Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2031,
+      "fim": 2063,
+      "trecho": "Recurso Especial nº 1.987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

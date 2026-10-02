@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0211",
+  "citacoes": [
+    {
+      "inicio": 594,
+      "fim": 609,
+      "trecho": "Lei 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 703,
+      "fim": 721,
+      "trecho": "artigo 11-A da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1255,
+      "fim": 1304,
+      "trecho": "decisão proferida no AIRR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1697,
+      "fim": 1721,
+      "trecho": "decisões recentes do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1852,
+      "fim": 1869,
+      "trecho": "TST-XYZ-9988-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1997,
+      "fim": 2022,
+      "trecho": "artigo 11-A, § 1º, da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2366,
+      "trecho": "estudo doutrinário sobre a eficácia da execução",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2508,
+      "fim": 2519,
+      "trecho": "norma legal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

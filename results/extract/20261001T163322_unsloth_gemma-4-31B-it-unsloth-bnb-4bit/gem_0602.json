@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0602",
+  "citacoes": [
+    {
+      "inicio": 562,
+      "fim": 601,
+      "trecho": "art. 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 614,
+      "fim": 685,
+      "trecho": "jurisprudência consolidada deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 917,
+      "fim": 1037,
+      "trecho": "Recurso Ordinário nº 5001234-56.2023.4.04.0000, relatado pelo Desembargador Federal Ricardo Mendes em 12 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1398,
+      "fim": 1504,
+      "trecho": "Apelação Cível nº 5012345-67.2022.4.04.7000, a Relatora Dra. Helena Souza pontuou, em 15 de agosto de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1626,
+      "fim": 1660,
+      "trecho": "norma regulamentadora NR 15 do MTE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1853,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2004,
+      "fim": 2028,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2143,
+      "fim": 2215,
+      "trecho": "diretriz interna do Manual de Procedimentos Administrativos do TRF4-V602",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2352,
+      "fim": 2367,
+      "trecho": "art. 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

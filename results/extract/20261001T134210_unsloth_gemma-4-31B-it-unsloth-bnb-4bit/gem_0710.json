@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0710",
+  "citacoes": [
+    {
+      "inicio": 811,
+      "fim": 829,
+      "trecho": "Lei nº 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 838,
+      "fim": 871,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1264,
+      "fim": 1284,
+      "trecho": "REsp nº 1.890.123/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1415,
+      "fim": 1432,
+      "trecho": "Súmula 456 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1848,
+      "fim": 1875,
+      "trecho": "AgRg no AREsp nº 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2045,
+      "fim": 2090,
+      "trecho": "Convenção sobre os Direitos da Criança da ONU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2197,
+      "fim": 2236,
+      "trecho": "Protocolo de Gestão Familiar STJ-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2333,
+      "fim": 2381,
+      "trecho": "art. 932, inciso IV, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

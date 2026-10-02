@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0096",
+  "citacoes": [
+    {
+      "inicio": 959,
+      "fim": 1007,
+      "trecho": "artigo 5º, inciso LXVII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1011,
+      "fim": 1052,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1231,
+      "fim": 1269,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1550,
+      "fim": 1571,
+      "trecho": "HC-123.456/MG do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1736,
+      "fim": 1774,
+      "trecho": "artigo 805 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1912,
+      "fim": 1950,
+      "trecho": "orientação do STJ em julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2186,
+      "fim": 2239,
+      "trecho": "Protocolo de Direitos Humanos do Trabalho (PDHT-2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2475,
+      "fim": 2501,
+      "trecho": "RR-98765-43.2021.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

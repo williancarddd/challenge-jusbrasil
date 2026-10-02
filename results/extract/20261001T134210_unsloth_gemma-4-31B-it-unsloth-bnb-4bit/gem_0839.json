@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0839",
+  "citacoes": [
+    {
+      "inicio": 831,
+      "fim": 869,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1047,
+      "fim": 1076,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1286,
+      "fim": 1329,
+      "trecho": "Apelação Cível nº 5002341-12.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1513,
+      "fim": 1549,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 156",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1745,
+      "fim": 1862,
+      "trecho": "Superior Tribunal de Justiça veda a aplicação de penalidades drásticas sem a comprovação da culpa grave do contratado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2235,
+      "fim": 2280,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2369,
+      "fim": 2419,
+      "trecho": "Agravo de Instrumento nº 5008765-43.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

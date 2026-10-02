@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0937",
+  "citacoes": [
+    {
+      "inicio": 312,
+      "fim": 352,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 756,
+      "fim": 806,
+      "trecho": "tese fixada sob a sistemática da repercussão geral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 922,
+      "fim": 948,
+      "trecho": "Lei nº 8.245/91, artigo 59",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1239,
+      "fim": 1257,
+      "trecho": "precedentes do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1400,
+      "fim": 1424,
+      "trecho": "artigo 489, § 1º, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1479,
+      "fim": 1496,
+      "trecho": "Súmula 603 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1657,
+      "fim": 1670,
+      "trecho": "ARE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1843,
+      "fim": 1858,
+      "trecho": "Tese 937 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2436,
+      "fim": 2453,
+      "trecho": "artigo 927 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

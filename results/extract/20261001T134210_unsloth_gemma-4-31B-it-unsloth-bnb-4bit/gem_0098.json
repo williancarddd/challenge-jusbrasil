@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0098",
+  "citacoes": [
+    {
+      "inicio": 429,
+      "fim": 444,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 571,
+      "fim": 597,
+      "trecho": "art. 42 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 979,
+      "fim": 996,
+      "trecho": "REsp 1.890.234/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1337,
+      "fim": 1386,
+      "trecho": "Súmula 123-RJ do Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1815,
+      "fim": 1841,
+      "trecho": "art. 59 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2060,
+      "fim": 2103,
+      "trecho": "Acórdão 55.221-X do Conselho de Recuperação",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2210,
+      "fim": 2235,
+      "trecho": "AgInt no AREsp 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

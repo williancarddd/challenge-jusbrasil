@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0654",
+  "citacoes": [
+    {
+      "inicio": 595,
+      "fim": 633,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1086,
+      "fim": 1150,
+      "trecho": "HC nº 123.456/DF, Rel. Min. Aurélio Silva, julgado em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1382,
+      "trecho": "pacote anticrime",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1507,
+      "fim": 1543,
+      "trecho": "julgados do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1878,
+      "fim": 1927,
+      "trecho": "artigo 5º, inciso LXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2108,
+      "fim": 2195,
+      "trecho": "Recurso Especial Eleitoral nº 987.654/SP, Rel. Min. Clara Mendes, acórdão de 10/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2328,
+      "fim": 2380,
+      "trecho": "Protocolo Interno de Gestão de Liberdades TSE-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2880,
+      "fim": 2918,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0985",
+  "citacoes": [
+    {
+      "inicio": 500,
+      "fim": 536,
+      "trecho": "art. 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 659,
+      "fim": 703,
+      "trecho": "art. 37, inciso XXI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1042,
+      "fim": 1112,
+      "trecho": "REsp 1.892.341/SP, relatado pelo Ministro Ricardo Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1273,
+      "fim": 1285,
+      "trecho": "Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1581,
+      "fim": 1628,
+      "trecho": "AgRg no AREsp 456.789/RJ, julgado em 20/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2047,
+      "fim": 2073,
+      "trecho": "Parecer Técnico STJ-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2183,
+      "fim": 2209,
+      "trecho": "art. 13 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2439,
+      "fim": 2506,
+      "trecho": "REsp 2.100.432/DF, relatado pelo Ministro André Lopes em 15/01/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

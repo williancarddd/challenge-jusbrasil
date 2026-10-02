@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0646",
+  "citacoes": [
+    {
+      "inicio": 286,
+      "fim": 326,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 847,
+      "fim": 888,
+      "trecho": "artigo 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1451,
+      "fim": 1471,
+      "trecho": "REsp nº 1.890.432/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1827,
+      "fim": 1846,
+      "trecho": "julgados anteriores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2050,
+      "fim": 2086,
+      "trecho": "Agravo Regimental nº AG-2021-0054321",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2197,
+      "fim": 2228,
+      "trecho": "tese fixada no ID-998877-X-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

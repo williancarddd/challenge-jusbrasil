@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0008",
+  "citacoes": [
+    {
+      "inicio": 723,
+      "fim": 761,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1491,
+      "fim": 1528,
+      "trecho": "Apelação nº 1002345-12.2021.8.26.0100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1642,
+      "fim": 1692,
+      "trecho": "jurisprudência do Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1881,
+      "fim": 1910,
+      "trecho": "artigo 124 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2206,
+      "fim": 2251,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2279,
+      "fim": 2350,
+      "trecho": "precedente fixado no Agravo de Instrumento nº 2098765-43.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2534,
+      "fim": 2594,
+      "trecho": "tese do Protocolo Interno de Gestão Contratual PG-SP-2023/01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2803,
+      "fim": 2832,
+      "trecho": "artigo 932, inciso XI, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2869,
+      "fim": 2898,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

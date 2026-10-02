@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0782",
+  "citacoes": [
+    {
+      "inicio": 245,
+      "fim": 271,
+      "trecho": "art. 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 728,
+      "fim": 738,
+      "trecho": "RE 561.125",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1027,
+      "fim": 1069,
+      "trecho": "Lei de Falências e Recuperação de Empresas",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1161,
+      "fim": 1204,
+      "trecho": "Habeas Corpus 123.456-X (ID-Inventado-2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1434,
+      "fim": 1466,
+      "trecho": "art. 100 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1667,
+      "fim": 1699,
+      "trecho": "Agravo Regimental no ARE 890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2084,
+      "fim": 2117,
+      "trecho": "Recurso Especial 1.234.567 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

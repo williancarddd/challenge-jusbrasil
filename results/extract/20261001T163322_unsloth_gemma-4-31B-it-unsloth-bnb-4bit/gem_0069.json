@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0069",
+  "citacoes": [
+    {
+      "inicio": 954,
+      "fim": 1006,
+      "trecho": "NR 15 da Portaria 3.214/78 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1010,
+      "fim": 1051,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1178,
+      "fim": 1195,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1422,
+      "fim": 1439,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1497,
+      "fim": 1531,
+      "trecho": "Processo 0001234-88.2021.5.03.0011",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1768,
+      "fim": 1818,
+      "trecho": "diretriz da norma interna de segurança do trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1875,
+      "fim": 1904,
+      "trecho": "decreto 3.048/99 no artigo 85",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2110,
+      "fim": 2185,
+      "trecho": "orientação jurisprudencial do TST sobre a eficácia da proteção respiratória",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2524,
+      "fim": 2541,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

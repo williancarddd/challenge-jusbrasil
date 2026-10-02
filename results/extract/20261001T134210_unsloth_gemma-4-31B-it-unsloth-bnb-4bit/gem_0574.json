@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0574",
+  "citacoes": [
+    {
+      "inicio": 283,
+      "fim": 323,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 803,
+      "fim": 838,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1146,
+      "fim": 1272,
+      "trecho": "Superior Tribunal de Justiça já sedimentou a compreensão de que a animosidade entre os pais não é óbice à guarda compartilhada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1330,
+      "fim": 1362,
+      "trecho": "Recurso Especial nº 1.627.675/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1625,
+      "fim": 1653,
+      "trecho": "artigo 1.584 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1866,
+      "fim": 1959,
+      "trecho": "Agravo Interno nº 5012345-88.2022.4.04.0000, relatado pelo Desembargador Federal Marcos Silva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2131,
+      "fim": 2151,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2264,
+      "fim": 2323,
+      "trecho": "Protocolo de Diretrizes Judiciais da Infância - ID 998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2685,
+      "fim": 2721,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

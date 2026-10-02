@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0967",
+  "citacoes": [
+    {
+      "inicio": 1166,
+      "fim": 1190,
+      "trecho": "Lei 12.016/2009, art. 7º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1543,
+      "fim": 1571,
+      "trecho": "MS 5012345-67.2021.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1738,
+      "fim": 1767,
+      "trecho": "Constituição Federal, art. 37",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2238,
+      "fim": 2270,
+      "trecho": "Regimento Interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2314,
+      "fim": 2345,
+      "trecho": "precedente do REsp 1.890.123/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2656,
+      "fim": 2690,
+      "trecho": "Código de Processo Civil, art. 300",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2675,
+      "fim": 2690,
+      "trecho": "Civil, art. 300",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2775,
+      "fim": 2820,
+      "trecho": "Protocolo de Gestão Estratégica PGE-2023-TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

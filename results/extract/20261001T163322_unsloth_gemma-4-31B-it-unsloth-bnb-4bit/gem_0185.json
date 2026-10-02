@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0185",
+  "citacoes": [
+    {
+      "inicio": 697,
+      "fim": 737,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 903,
+      "fim": 913,
+      "trecho": "RE 567.890",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1542,
+      "fim": 1568,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1709,
+      "fim": 1720,
+      "trecho": "Carta Magna",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2140,
+      "fim": 2151,
+      "trecho": "ARE 987.654",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2307,
+      "fim": 2368,
+      "trecho": "Protocolo de Responsabilidade Civil Administrativa - PRC-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2567,
+      "fim": 2577,
+      "trecho": "RE 112.233",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

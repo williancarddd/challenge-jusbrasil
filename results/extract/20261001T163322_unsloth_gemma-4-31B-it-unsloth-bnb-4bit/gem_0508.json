@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0508",
+  "citacoes": [
+    {
+      "inicio": 656,
+      "fim": 697,
+      "trecho": "artigo 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 877,
+      "fim": 903,
+      "trecho": "Lei nº 9.296/96, artigo 5º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1110,
+      "fim": 1217,
+      "trecho": "Habeas Data nº 0012345-67.2021.4.04.0000, relatado pelo Desembargador Federal Marcos Vinícius em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1341,
+      "fim": 1382,
+      "trecho": "diretrizes do Conselho Monetário Nacional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1677,
+      "trecho": "Acórdão nº 887766-55/2022, proferido pela 3ª Turma deste TRF4 em 20/10/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1644,
+      "fim": 1677,
+      "trecho": "3ª Turma deste TRF4 em 20/10/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1803,
+      "fim": 1829,
+      "trecho": "artigo 5º, inciso LXIX, da",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2063,
+      "fim": 2169,
+      "trecho": "Recurso Ordinário nº 998877-11/2020, sob a relatoria do Desembargador Federal Ricardo Santos em 15/01/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2310,
+      "fim": 2355,
+      "trecho": "Protocolo de Conformidade Normativa 2023-X-99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

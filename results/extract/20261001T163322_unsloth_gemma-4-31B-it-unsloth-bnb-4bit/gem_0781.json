@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0781",
+  "citacoes": [
+    {
+      "inicio": 858,
+      "fim": 891,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 998,
+      "fim": 1013,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1060,
+      "fim": 1072,
+      "trecho": "Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1097,
+      "fim": 1115,
+      "trecho": "art. 1º, § 2º e 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1432,
+      "fim": 1454,
+      "trecho": "STJ no AREsp 1.823.456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1774,
+      "fim": 1818,
+      "trecho": "Lei de Improbidade Administrativa no art. 10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2135,
+      "fim": 2188,
+      "trecho": "decisão do TRF4 no Processo 5001234-88.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2342,
+      "fim": 2385,
+      "trecho": "Constituição Federal no art. 5º, inciso LIV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2468,
+      "fim": 2513,
+      "trecho": "Código de Conduta Interno do Município X-2023",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0851",
+  "citacoes": [
+    {
+      "inicio": 1240,
+      "fim": 1258,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1372,
+      "fim": 1387,
+      "trecho": "decisões do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1700,
+      "fim": 1718,
+      "trecho": "Súmula 102 do TJMG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1910,
+      "fim": 1944,
+      "trecho": "Código de Processo Civil, art. 489",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2244,
+      "fim": 2262,
+      "trecho": "Lei de Improbidade",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2283,
+      "fim": 2309,
+      "trecho": "Diretriz Interna TRT3-v851",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0713",
+  "citacoes": [
+    {
+      "inicio": 269,
+      "fim": 309,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 911,
+      "fim": 946,
+      "trecho": "artigo 1.584, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1002,
+      "fim": 1040,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1199,
+      "fim": 1235,
+      "trecho": "Recurso Extraordinário nº 845.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1345,
+      "fim": 1381,
+      "trecho": "estatuto da criança e do adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1704,
+      "fim": 1738,
+      "trecho": "artigo 227 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1806,
+      "fim": 1823,
+      "trecho": "Súmula 450 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1953,
+      "fim": 1990,
+      "trecho": "Protocolo de Gestão Parental 713/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2155,
+      "fim": 2212,
+      "trecho": "jurisprudência do Tribunal de Justiça do Distrito Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2581,
+      "fim": 2617,
+      "trecho": "Recurso Extraordinário nº 912.456/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

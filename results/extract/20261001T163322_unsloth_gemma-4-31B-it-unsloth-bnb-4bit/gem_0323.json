@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0323",
+  "citacoes": [
+    {
+      "inicio": 336,
+      "fim": 374,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 728,
+      "fim": 812,
+      "trecho": "Recurso Especial nº 1.234.567/SP, relatado pelo Ministro Aurélio Viana em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 862,
+      "fim": 888,
+      "trecho": "art. 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1290,
+      "fim": 1384,
+      "trecho": "Agravo Interno nº 987.654/RJ, julgado em 20/11/2020 sob a relatoria do Ministro Cláudio Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1761,
+      "trecho": "Enunciado Administrativo STJ-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1875,
+      "fim": 1899,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2134,
+      "fim": 2203,
+      "trecho": "REsp nº 554.433/DF, relatado pelo Ministro Sérgio Porto em 15/03/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

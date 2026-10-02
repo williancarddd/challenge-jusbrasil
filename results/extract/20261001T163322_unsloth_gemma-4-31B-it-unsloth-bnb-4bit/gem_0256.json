@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0256",
+  "citacoes": [
+    {
+      "inicio": 893,
+      "fim": 920,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1133,
+      "fim": 1160,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1292,
+      "fim": 1317,
+      "trecho": "Processo TRT3-998877-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1425,
+      "fim": 1451,
+      "trecho": "Instrução Normativa do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1743,
+      "fim": 1769,
+      "trecho": "Processo TST-RR-12345-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2261,
+      "fim": 2295,
+      "trecho": "artigo 11-A, § 1º, da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

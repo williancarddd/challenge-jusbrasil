@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0834",
+  "citacoes": [
+    {
+      "inicio": 277,
+      "fim": 317,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1032,
+      "fim": 1066,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1345,
+      "fim": 1366,
+      "trecho": "TST-ED-998877-2022-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1527,
+      "fim": 1546,
+      "trecho": "artigo 442-B da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1760,
+      "fim": 1827,
+      "trecho": "legislação infraconstitucional sobre a natureza dos contratos civis",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2040,
+      "fim": 2079,
+      "trecho": "Súmula do Tribunal que trata da matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2117,
+      "fim": 2150,
+      "trecho": "jurisprudência consolidada do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2236,
+      "fim": 2279,
+      "trecho": "Recurso de Revista RR-554433-2021-5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2416,
+      "fim": 2440,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2488,
+      "fim": 2527,
+      "trecho": "norma interna de uniformização de teses",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2547,
+      "fim": 2599,
+      "trecho": "Protocolo de Harmonização Competencial PHC-2023-V834",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

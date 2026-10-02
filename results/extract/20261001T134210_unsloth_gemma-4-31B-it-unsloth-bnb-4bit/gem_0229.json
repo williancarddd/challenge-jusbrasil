@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0229",
+  "citacoes": [
+    {
+      "inicio": 575,
+      "fim": 598,
+      "trecho": "art. 89 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 890,
+      "fim": 914,
+      "trecho": "art. 59 da Lei 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1254,
+      "fim": 1322,
+      "trecho": "ARE 1.234.567/SP, relatado pelo Ministro Aurélio Silva em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1426,
+      "fim": 1443,
+      "trecho": "Súmula 450 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1631,
+      "fim": 1663,
+      "trecho": "doutrina do TCU sobre sobrepreço",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1886,
+      "fim": 1921,
+      "trecho": "HC 99.887/RJ, julgado em 15/08/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2120,
+      "fim": 2149,
+      "trecho": "Recurso Especial 1.112.223/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2297,
+      "fim": 2341,
+      "trecho": "Código de Conduta Administrativa Interno-X99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2438,
+      "fim": 2458,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

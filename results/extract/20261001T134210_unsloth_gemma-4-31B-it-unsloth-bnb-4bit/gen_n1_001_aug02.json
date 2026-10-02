@@ -1,0 +1,86 @@
+{
+  "documento_id": "gen_n1_001_aug02",
+  "citacoes": [
+    {
+      "inicio": 589,
+      "fim": 652,
+      "trecho": "julgado do STF proferido em 2024 pela relatoria de Dias Toffoli",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 797,
+      "fim": 820,
+      "trecho": "Reclamação nº 66.516/RO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 951,
+      "fim": 985,
+      "trecho": "AgInt 7557430-50.2018.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1398,
+      "fim": 1479,
+      "trecho": "julgado do STM proferido em 2023\npela relatoria de CARLOS AUGUSTO AMARAL OLIVEIRA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1929,
+      "fim": 1964,
+      "trecho": "APL nº\n7000449-40.2023.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2466,
+      "fim": 2511,
+      "trecho": "dispositivo constitucional invocado na origem",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2904,
+      "fim": 2917,
+      "trecho": "Rcl 88.178/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3062,
+      "fim": 3118,
+      "trecho": "precedente do STM de 2023, da relatoria de Marco Antonio",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3257,
+      "fim": 3292,
+      "trecho": "RSE nº 7000592-58.2025.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

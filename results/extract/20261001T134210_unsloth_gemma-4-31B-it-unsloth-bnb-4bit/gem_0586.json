@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0586",
+  "citacoes": [
+    {
+      "inicio": 443,
+      "fim": 481,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 780,
+      "fim": 812,
+      "trecho": "Recurso Especial nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1006,
+      "fim": 1054,
+      "trecho": "jurisprudência deste Tribunal Superior Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1252,
+      "fim": 1281,
+      "trecho": "Código Civil, em seu art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1471,
+      "fim": 1561,
+      "trecho": "Habeas Corpus nº 88.990/SP, relatado pelo Ministro Dr. Aurélio Viana em 15 de maio de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1685,
+      "fim": 1701,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1849,
+      "fim": 1891,
+      "trecho": "Protocolo de Gestão de Riscos PGR-TSE-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2013,
+      "fim": 2075,
+      "trecho": "Agravo Interno nº 45.678/RJ, decidido em 12 de outubro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

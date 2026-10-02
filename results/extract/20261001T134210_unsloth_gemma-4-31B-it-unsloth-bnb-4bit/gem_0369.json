@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0369",
+  "citacoes": [
+    {
+      "inicio": 548,
+      "fim": 577,
+      "trecho": "art. 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1064,
+      "fim": 1103,
+      "trecho": "normas da Corregedoria Geral da Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1444,
+      "fim": 1464,
+      "trecho": "REsp nº 1.842.301/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1644,
+      "fim": 1690,
+      "trecho": "art. 216-A, § 1º, da Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1842,
+      "fim": 1869,
+      "trecho": "art. 198 da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2201,
+      "fim": 2231,
+      "trecho": "AgInt no AREsp nº 1.500.200/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2500,
+      "fim": 2543,
+      "trecho": "Protocolo Interno de Padronização Reg-992/X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

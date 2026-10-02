@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0565",
+  "citacoes": [
+    {
+      "inicio": 942,
+      "fim": 968,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1450,
+      "fim": 1487,
+      "trecho": "Apelação nº 1002345-67.2022.8.26.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1761,
+      "fim": 1799,
+      "trecho": "artigo 370 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1860,
+      "fim": 1891,
+      "trecho": "entendimento sedimentado no STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2126,
+      "fim": 2142,
+      "trecho": "Súmula 37 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2572,
+      "fim": 2602,
+      "trecho": "diversos julgados desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2753,
+      "fim": 2803,
+      "trecho": "artigo 932, inciso IV, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

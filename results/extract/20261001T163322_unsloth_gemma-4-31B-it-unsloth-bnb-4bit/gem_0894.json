@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0894",
+  "citacoes": [
+    {
+      "inicio": 580,
+      "fim": 619,
+      "trecho": "Código Civil, em seu artigo 1.583, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 876,
+      "fim": 911,
+      "trecho": "jurisprudência desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1127,
+      "fim": 1153,
+      "trecho": "RR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1398,
+      "fim": 1434,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1670,
+      "fim": 1687,
+      "trecho": "TST-PROC-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1813,
+      "fim": 1825,
+      "trecho": "Constituição",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1813,
+      "fim": 1848,
+      "trecho": "Constituição Federal, no artigo 227",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2217,
+      "fim": 2245,
+      "trecho": "AIRR-54321-00.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2325,
+      "fim": 2405,
+      "trecho": "normas de Direito de Família aplicáveis subsidiariamente ao processo do trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

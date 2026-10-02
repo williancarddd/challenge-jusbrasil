@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0717",
+  "citacoes": [
+    {
+      "inicio": 579,
+      "fim": 594,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 612,
+      "fim": 651,
+      "trecho": "Lei nº 8.429/92, em seu artigo 1º, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 959,
+      "fim": 991,
+      "trecho": "Recurso Especial nº 1.823.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1156,
+      "fim": 1250,
+      "trecho": "Apelação Cível nº 5001234-11.2022.8.26.0000 , relatada pelo Des. Marcos Vinícius em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1533,
+      "trecho": "artigo 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1714,
+      "trecho": "AI nº 2233445-66.2021.8.26.0000 , de relatoria da Des. Helena Souza em 10/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1790,
+      "fim": 1829,
+      "trecho": "Código de Processo Civil, no artigo 489",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1961,
+      "fim": 1990,
+      "trecho": "Precedente Interno TJSP-717-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

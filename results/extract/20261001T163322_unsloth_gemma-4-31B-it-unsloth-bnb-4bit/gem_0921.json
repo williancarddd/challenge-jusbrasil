@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0921",
+  "citacoes": [
+    {
+      "inicio": 783,
+      "fim": 821,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1110,
+      "fim": 1174,
+      "trecho": "HC 123.456/MG (Rel. Des. Marcos Vinícius, julgado em 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1424,
+      "fim": 1515,
+      "trecho": "jurisprudência do Tribunal Superior Criminal, em decisões recentes sobre medidas cautelares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1623,
+      "fim": 1694,
+      "trecho": "Processo 987.654-32.2023.5.03.0000 (Rel. Des. Helena Souza, 10/11/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1776,
+      "fim": 1829,
+      "trecho": "Constituição Federal, em seu artigo 5º, inciso LXVIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2111,
+      "fim": 2168,
+      "trecho": "Protocolo Interno de Liberdade Cautelar - PIC-TRT3-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2343,
+      "fim": 2391,
+      "trecho": "estudos doutrinários sobre a cautelaridade penal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

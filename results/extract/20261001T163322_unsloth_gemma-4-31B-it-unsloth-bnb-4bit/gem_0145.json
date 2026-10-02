@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0145",
+  "citacoes": [
+    {
+      "inicio": 391,
+      "fim": 431,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 958,
+      "fim": 983,
+      "trecho": "artigo 59 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1163,
+      "fim": 1195,
+      "trecho": "precedentes desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1236,
+      "fim": 1253,
+      "trecho": "REsp 1.890.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1504,
+      "fim": 1530,
+      "trecho": "artigo 402 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1615,
+      "fim": 1642,
+      "trecho": "AgInt no AREsp 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1932,
+      "fim": 1959,
+      "trecho": "Recurso Especial 987.654/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2008,
+      "fim": 2061,
+      "trecho": "Protocolo Interno de Gestão de Ativos nº 889/2022-TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2325,
+      "fim": 2417,
+      "trecho": "princípio da vedação ao enriquecimento sem causa previsto no ordenamento jurídico brasileiro",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2754,
+      "fim": 2783,
+      "trecho": "legislação civil e processual",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

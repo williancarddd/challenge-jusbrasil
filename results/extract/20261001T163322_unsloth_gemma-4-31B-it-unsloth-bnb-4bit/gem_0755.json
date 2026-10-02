@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0755",
+  "citacoes": [
+    {
+      "inicio": 593,
+      "fim": 621,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 775,
+      "fim": 833,
+      "trecho": "jurisprudência consolidada do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 945,
+      "fim": 1014,
+      "trecho": "REsp 1.845.210/SP, relatado pelo Ministro Marco Aurélio em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1078,
+      "fim": 1120,
+      "trecho": "Lei de Recuperação de Empresas e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1205,
+      "fim": 1281,
+      "trecho": "AgRg no AREsp 987.654/RJ, datado de 10/11/2022, o Relator Dr. Cláudio Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1513,
+      "fim": 1541,
+      "trecho": "artigo 83 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1713,
+      "fim": 1734,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1827,
+      "fim": 1852,
+      "trecho": "Acórdão 4455/2023-TSE-SUL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2456,
+      "fim": 2506,
+      "trecho": "precedentes desta Corte e dos Tribunais Superiores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

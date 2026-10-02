@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0450",
+  "citacoes": [
+    {
+      "inicio": 654,
+      "fim": 685,
+      "trecho": "artigo 216-A da Lei 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 895,
+      "fim": 936,
+      "trecho": "artigo 183, § 3º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1464,
+      "fim": 1548,
+      "trecho": "Recurso Especial nº 1.234.567/DF, relatado pelo Ministro Aurélio Viana em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1655,
+      "fim": 1678,
+      "trecho": "Provimento nº 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1964,
+      "fim": 2031,
+      "trecho": "Acórdão nº 889-X/2022-TSE, sob relatoria da Ministra Clarice Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2158,
+      "fim": 2183,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2412,
+      "fim": 2429,
+      "trecho": "Súmula 349 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2570,
+      "fim": 2602,
+      "trecho": "Parecer Normativo nº 445/2023-GE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

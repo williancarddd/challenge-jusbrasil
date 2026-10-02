@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0140",
+  "citacoes": [
+    {
+      "inicio": 822,
+      "fim": 848,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 978,
+      "fim": 1040,
+      "trecho": "jurisprudência consolidada deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1162,
+      "fim": 1245,
+      "trecho": "RR-12345-67.2021.5.02.0000, relatado pelo Ministro Dr. Alberto Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1455,
+      "fim": 1467,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1698,
+      "fim": 1715,
+      "trecho": "Súmula 378 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1811,
+      "fim": 1831,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2101,
+      "fim": 2154,
+      "trecho": "Norma Regulamentadora NR-11 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2277,
+      "fim": 2368,
+      "trecho": "Ag-AIRR-998877-11.2020.5.15.0000, sob relatoria da Ministra Dra. Helena Souza em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2517,
+      "fim": 2566,
+      "trecho": "Protocolo de Segurança Viária Interno PSV-2022-XT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

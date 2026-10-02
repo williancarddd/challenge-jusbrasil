@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0845",
+  "citacoes": [
+    {
+      "inicio": 801,
+      "fim": 835,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 964,
+      "fim": 993,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1130,
+      "fim": 1207,
+      "trecho": "Habeas Corpus nº 123456/SP (Rel. Des. Marcos Vinícius, julgado em 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1447,
+      "fim": 1480,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1714,
+      "fim": 1792,
+      "trecho": "Recurso Especial nº 987654/MG (Rel. Min. Cláudio Silva, julgado em 10/11/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1922,
+      "fim": 1939,
+      "trecho": "Súmula 331 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2178,
+      "fim": 2216,
+      "trecho": "Parecer Técnico Interno TJSP-V845/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2355,
+      "fim": 2379,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2451,
+      "fim": 2532,
+      "trecho": "Agravo de Instrumento nº 54321/SP (Rel. Des. Helena Costa, julgado em 20/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

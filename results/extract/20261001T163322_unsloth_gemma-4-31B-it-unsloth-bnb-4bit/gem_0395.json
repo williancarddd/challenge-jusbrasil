@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0395",
+  "citacoes": [
+    {
+      "inicio": 801,
+      "fim": 835,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1007,
+      "fim": 1034,
+      "trecho": "Emenda Constitucional nº 45",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1385,
+      "fim": 1395,
+      "trecho": "RE 600.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1522,
+      "fim": 1538,
+      "trecho": "artigo 6º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1667,
+      "fim": 1698,
+      "trecho": "Tema 1.010 da Repercussão Geral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2221,
+      "fim": 2238,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2521,
+      "fim": 2552,
+      "trecho": "Precedente Interno STF-2023-XJ9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

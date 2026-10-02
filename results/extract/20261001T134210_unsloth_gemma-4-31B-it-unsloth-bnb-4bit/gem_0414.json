@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0414",
+  "citacoes": [
+    {
+      "inicio": 748,
+      "fim": 781,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 986,
+      "fim": 1017,
+      "trecho": "art. 7º da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1199,
+      "fim": 1225,
+      "trecho": "RR-10020-45.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1633,
+      "fim": 1660,
+      "trecho": "AIRR-8899-12.2019.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1935,
+      "fim": 1984,
+      "trecho": "art. 11 da Convenção sobre os Direitos da Criança",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2212,
+      "fim": 2256,
+      "trecho": "Protocolo de Conciliação Familiar TST-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

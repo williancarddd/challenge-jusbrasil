@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0972",
+  "citacoes": [
+    {
+      "inicio": 739,
+      "fim": 771,
+      "trecho": "art. 125 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 995,
+      "fim": 1053,
+      "trecho": "HC 123.456/SP, Rel. Min. João Silva, julgado em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1565,
+      "fim": 1635,
+      "trecho": "Apelação Cr. 789.101/RJ, Rel. Min. Carlos Souza, julgado em 15/08/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1822,
+      "fim": 1850,
+      "trecho": "Constituição Federal de 1988",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2039,
+      "fim": 2111,
+      "trecho": "Recurso Especial nº 554433-X, Rel. Min. Ana Costa, julgado em 20/12/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2220,
+      "fim": 2250,
+      "trecho": "Enunciado Interno STM-992/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2491,
+      "fim": 2523,
+      "trecho": "art. 127 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

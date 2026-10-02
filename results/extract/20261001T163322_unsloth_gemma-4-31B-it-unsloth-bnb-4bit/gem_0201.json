@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0201",
+  "citacoes": [
+    {
+      "inicio": 569,
+      "fim": 612,
+      "trecho": "jurisprudência do Superior Tribunal Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 761,
+      "fim": 776,
+      "trecho": "art. 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 880,
+      "fim": 895,
+      "trecho": "Lei nº 6.880/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 982,
+      "fim": 1013,
+      "trecho": "decisão proferida em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1161,
+      "fim": 1182,
+      "trecho": "Processo MS 10.452/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1513,
+      "fim": 1580,
+      "trecho": "Julgado 88721-X/STM, relatado pelo Min. Coronel Silas em 14/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1775,
+      "fim": 1806,
+      "trecho": "art. 37 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1893,
+      "fim": 1933,
+      "trecho": "Protocolo de Normas Técnicas STM-2021-V1",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2432,
+      "fim": 2479,
+      "trecho": "jurisprudência consolidada desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

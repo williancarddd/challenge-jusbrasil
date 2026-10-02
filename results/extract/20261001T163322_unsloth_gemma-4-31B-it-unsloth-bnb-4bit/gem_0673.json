@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0673",
+  "citacoes": [
+    {
+      "inicio": 292,
+      "fim": 309,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 345,
+      "fim": 363,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 563,
+      "fim": 604,
+      "trecho": "artigo 1º, §§ 1º, 2º e 3º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1021,
+      "fim": 1099,
+      "trecho": "RR-10234-56.2022.5.02.0001, relatado pelo Ministro Arnaldo Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1353,
+      "fim": 1386,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1467,
+      "fim": 1488,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1720,
+      "fim": 1737,
+      "trecho": "Súmula 412 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1890,
+      "fim": 1941,
+      "trecho": "Protocolo de Hermenêutica Administrativa TST-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2087,
+      "trecho": "orientações do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2164,
+      "fim": 2259,
+      "trecho": "precedente Ag-AIRR-887766-11.2021.5.15.0000, julgado em 20/10/2023 pelo Ministro Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2418,
+      "fim": 2443,
+      "trecho": "artigo 11 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

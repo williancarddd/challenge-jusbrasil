@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0050",
+  "citacoes": [
+    {
+      "inicio": 818,
+      "fim": 842,
+      "trecho": "Lei 12.009/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1011,
+      "fim": 1032,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1231,
+      "fim": 1244,
+      "trecho": "RMS-24.567/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1401,
+      "fim": 1425,
+      "trecho": "Lei 12.016/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1686,
+      "fim": 1721,
+      "trecho": "Regimento Interno do TRT3, art. 152",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2049,
+      "fim": 2103,
+      "trecho": "jurisprudência desta Corte, inclusive no MS-12345/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

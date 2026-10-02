@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0071",
+  "citacoes": [
+    {
+      "inicio": 553,
+      "fim": 581,
+      "trecho": "artigo 57 da Lei nº 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 841,
+      "fim": 851,
+      "trecho": "Súmula 279",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1190,
+      "fim": 1200,
+      "trecho": "RE 630.501",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1385,
+      "trecho": "Decreto nº 3.048/99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1406,
+      "fim": 1415,
+      "trecho": "artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1591,
+      "fim": 1604,
+      "trecho": "ARE 1.200.300",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1818,
+      "fim": 1842,
+      "trecho": "Regimento Interno do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1972,
+      "fim": 2006,
+      "trecho": "artigo 201 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2187,
+      "fim": 2203,
+      "trecho": "Tema 1.102-X-STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0811",
+  "citacoes": [
+    {
+      "inicio": 608,
+      "fim": 623,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 925,
+      "fim": 961,
+      "trecho": "Lei 8.429/1992, em seu art. 1º, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1064,
+      "fim": 1102,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1239,
+      "trecho": "Agravo Regimental ARE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1486,
+      "fim": 1519,
+      "trecho": "Lei 14.230/2021, no art. 1º, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1610,
+      "fim": 1624,
+      "trecho": "REsp 1.987.654",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2061,
+      "fim": 2095,
+      "trecho": "Código de Processo Civil, art. 489",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2413,
+      "fim": 2475,
+      "trecho": "jurisprudência do STJ sobre a retroatividade da norma benéfica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

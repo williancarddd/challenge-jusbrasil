@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0187",
+  "citacoes": [
+    {
+      "inicio": 512,
+      "fim": 555,
+      "trecho": "art. 921, § 4º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 954,
+      "fim": 1035,
+      "trecho": "REsp 1.604.412/SP, relatado pelo Ministro Ricardo Villas Bôas Cueva em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1148,
+      "fim": 1157,
+      "trecho": "IAC 1/STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1498,
+      "fim": 1522,
+      "trecho": "art. 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1626,
+      "fim": 1643,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1919,
+      "fim": 1943,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2239,
+      "fim": 2316,
+      "trecho": "AgInt no AREsp 1.234.567/RJ, julgado em 15/09/2020 pelo Ministro Mauro Vieira",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2633,
+      "fim": 2671,
+      "trecho": "pacífica jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "documento_id": "gen_n2_009",
+  "citacoes": [
+    {
+      "inicio": 1443,
+      "fim": 1446,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2727,
+      "fim": 2775,
+      "trecho": "precedente\nfirmado em sede de recurso repetitivo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3263,
+      "fim": 3283,
+      "trecho": "REsp Nº 1.632.479-RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3347737758"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0106",
+  "citacoes": [
+    {
+      "inicio": 764,
+      "fim": 789,
+      "trecho": "Lei nº 8.112/90, art. 115",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1032,
+      "fim": 1073,
+      "trecho": "NR-15 do Ministério do Trabalho e Emprego",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1251,
+      "fim": 1280,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1398,
+      "fim": 1426,
+      "trecho": "AC 5009876-12.2021.4.04.7100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1494,
+      "fim": 1513,
+      "trecho": "Súmula nº 80 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1853,
+      "fim": 1877,
+      "trecho": "Lei nº 8.213/91, art. 86",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2072,
+      "trecho": "REsp 1.234.567/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0774",
+  "citacoes": [
+    {
+      "inicio": 877,
+      "fim": 904,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 969,
+      "fim": 986,
+      "trecho": "artigo 887 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1183,
+      "fim": 1224,
+      "trecho": "jurisprudência consolidada deste Regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1488,
+      "fim": 1514,
+      "trecho": "RR-12345-67.2020.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1637,
+      "fim": 1681,
+      "trecho": "Incidente de Recurso Repetitivo IRT-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2069,
+      "fim": 2103,
+      "trecho": "artigo 11-A, § 1º, da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2216,
+      "fim": 2233,
+      "trecho": "Súmula 114 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0715",
+  "citacoes": [
+    {
+      "inicio": 284,
+      "fim": 322,
+      "trecho": "artigo 619 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 961,
+      "fim": 999,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1072,
+      "fim": 1089,
+      "trecho": "Súmula 440 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1260,
+      "trecho": "Habeas Corpus nº 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1362,
+      "fim": 1407,
+      "trecho": "jurisprudência desta Egrégia Corte de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1494,
+      "fim": 1557,
+      "trecho": "tese fixada no HC 555.666-X/SP (Identificador Interno TJSP-715)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1732,
+      "fim": 1770,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2400,
+      "fim": 2486,
+      "trecho": "entendimento do Supremo Tribunal Federal sobre a excepcionalidade da prisão preventiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

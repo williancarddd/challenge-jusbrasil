@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0397",
+  "citacoes": [
+    {
+      "inicio": 862,
+      "fim": 894,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1185,
+      "fim": 1218,
+      "trecho": "jurisprudência consolidada do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1455,
+      "fim": 1489,
+      "trecho": "art. 59, § 1º, IX, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1623,
+      "fim": 1640,
+      "trecho": "Súmula 126 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1857,
+      "fim": 1876,
+      "trecho": "TST-RR-4452-11-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2153,
+      "fim": 2194,
+      "trecho": "Protocolo de Gestão Judiciária PGJ-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2337,
+      "fim": 2372,
+      "trecho": "dispositivo legal ou constitucional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

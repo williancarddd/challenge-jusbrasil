@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0141",
+  "citacoes": [
+    {
+      "inicio": 408,
+      "fim": 448,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 942,
+      "fim": 973,
+      "trecho": "dispositivos da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1006,
+      "fim": 1022,
+      "trecho": "Tema 1051 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1192,
+      "trecho": "Súmula 45 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1358,
+      "fim": 1393,
+      "trecho": "artigo 6º, § 2º, da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1531,
+      "fim": 1559,
+      "trecho": "Processo TST-ED-RR-8899-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1699,
+      "fim": 1732,
+      "trecho": "jurisprudência consolidada do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1986,
+      "fim": 2003,
+      "trecho": "artigo 876 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

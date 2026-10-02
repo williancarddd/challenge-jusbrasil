@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0599",
+  "citacoes": [
+    {
+      "inicio": 125,
+      "fim": 140,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 367,
+      "fim": 406,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 783,
+      "fim": 853,
+      "trecho": "REsp 1.998.776/SP, relatado pelo Ministro Aurélio Mendes em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1125,
+      "fim": 1160,
+      "trecho": "decisões recentes da Terceira Turma",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1404,
+      "fim": 1493,
+      "trecho": "AgInt no AREsp 2.110.443/RJ, datado de 20/08/2023 e sob relatoria do Ministro Silas Rocha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1608,
+      "fim": 1637,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1937,
+      "fim": 2001,
+      "trecho": "HC 887.665/DF, julgado em 10/11/2023 pelo Ministro Jorge Alencar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2078,
+      "fim": 2102,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2203,
+      "fim": 2236,
+      "trecho": "Procedimento Interno STJ-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2415,
+      "fim": 2430,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

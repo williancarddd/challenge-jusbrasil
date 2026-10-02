@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0019",
+  "citacoes": [
+    {
+      "inicio": 733,
+      "fim": 765,
+      "trecho": "jurisprudência pátria é pacífica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 938,
+      "fim": 972,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1359,
+      "fim": 1399,
+      "trecho": "entendimento do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1428,
+      "fim": 1441,
+      "trecho": "HC 123.456/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1646,
+      "fim": 1658,
+      "trecho": "Lei 4.599/67",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1731,
+      "fim": 1763,
+      "trecho": "regimento interno deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1923,
+      "fim": 1946,
+      "trecho": "Precedente STM-X99-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2026,
+      "fim": 2042,
+      "trecho": "Súmula 15 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2381,
+      "fim": 2419,
+      "trecho": "artigo 932 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

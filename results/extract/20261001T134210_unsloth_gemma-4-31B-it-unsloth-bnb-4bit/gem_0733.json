@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0733",
+  "citacoes": [
+    {
+      "inicio": 1015,
+      "fim": 1062,
+      "trecho": "artigo 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1192,
+      "fim": 1210,
+      "trecho": "Lei nº 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1287,
+      "fim": 1328,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1354,
+      "fim": 1369,
+      "trecho": "MS-HST 45678/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1586,
+      "fim": 1618,
+      "trecho": "Precedente Interno TRT3-XYZ-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1706,
+      "fim": 1745,
+      "trecho": "Consolidação das Normas da Corregedoria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1925,
+      "fim": 1965,
+      "trecho": "normas protetivas do Direito do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2108,
+      "fim": 2146,
+      "trecho": "artigo 835 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

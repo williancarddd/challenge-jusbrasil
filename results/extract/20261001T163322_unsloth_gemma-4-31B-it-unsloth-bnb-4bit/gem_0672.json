@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0672",
+  "citacoes": [
+    {
+      "inicio": 762,
+      "fim": 785,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1245,
+      "fim": 1319,
+      "trecho": "REsp 1.890.123/SP relatado pelo Ministro Dr. Alberto Fonseca em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1747,
+      "fim": 1797,
+      "trecho": "art. 189 da Instrução Normativa PRES/INSS 128/2022",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1821,
+      "fim": 1868,
+      "trecho": "AgInt no AREsp 456.789/RS julgado em 10/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2148,
+      "fim": 2197,
+      "trecho": "normas regulamentadoras do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2367,
+      "fim": 2420,
+      "trecho": "Súmula 12 do Tribunal de Contas da União-X (ID-99821)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2675,
+      "fim": 2715,
+      "trecho": "Agravo 776.554/MG decidido em 15/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

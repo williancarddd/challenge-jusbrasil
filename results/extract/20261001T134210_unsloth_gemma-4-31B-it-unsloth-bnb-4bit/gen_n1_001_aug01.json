@@ -1,0 +1,104 @@
+{
+  "documento_id": "gen_n1_001_aug01",
+  "citacoes": [
+    {
+      "inicio": 458,
+      "fim": 487,
+      "trecho": "normas\nde regência da matéria",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 578,
+      "fim": 641,
+      "trecho": "julgado do STF proferido em 2024 pela relatoria de Dias Toffoli",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 786,
+      "fim": 809,
+      "trecho": "Reclamação nº 66.516/RO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 942,
+      "fim": 976,
+      "trecho": "AgInt 7557430-50.2018.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1315,
+      "fim": 1337,
+      "trecho": "dispositivos\ninvocados",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1389,
+      "fim": 1470,
+      "trecho": "julgado do STM proferido em 2023\npela relatoria de CARLOS AUGUSTO AMARAL OLIVEIRA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1919,
+      "fim": 1954,
+      "trecho": "APL nº\n7000449-40.2023.7.00.0000/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2454,
+      "fim": 2499,
+      "trecho": "dispositivo constitucional invocado na origem",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2893,
+      "fim": 2906,
+      "trecho": "Rcl 88.178/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3050,
+      "fim": 3106,
+      "trecho": "precedente do STM de 2023, da relatoria de Marco Antonio",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3244,
+      "fim": 3279,
+      "trecho": "RSE nº 7000592-58.2025.7.00.0000/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

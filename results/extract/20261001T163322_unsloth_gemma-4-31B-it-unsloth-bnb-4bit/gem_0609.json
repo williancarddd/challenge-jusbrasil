@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0609",
+  "citacoes": [
+    {
+      "inicio": 901,
+      "fim": 926,
+      "trecho": "artigo 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1143,
+      "fim": 1180,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1388,
+      "fim": 1493,
+      "trecho": "Apravo Cível nº 2245100-11.2021.8.26.0000, relatado pelo Desembargador Marcos Aurélio Silva em 14/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2088,
+      "fim": 2129,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2280,
+      "fim": 2306,
+      "trecho": "artigo 59 da Lei 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2416,
+      "fim": 2521,
+      "trecho": "Agravo de Instrumento nº 2098765-44.2020.8.26.0000, julgado em 10/11/2021 pelo Relator Dr. Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2628,
+      "fim": 2659,
+      "trecho": "Parecer Técnico nº 445/2023-CGE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2851,
+      "fim": 2871,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3027,
+      "fim": 3059,
+      "trecho": "Recurso Especial nº 1.887.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

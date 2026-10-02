@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0438",
+  "citacoes": [
+    {
+      "inicio": 783,
+      "fim": 843,
+      "trecho": "Constituição Federal, especificamente o art. 5º, inciso LXIX",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1139,
+      "fim": 1148,
+      "trecho": "MS 45.678",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1307,
+      "fim": 1341,
+      "trecho": "Lei nº 12.016/2009, em seu art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1510,
+      "fim": 1569,
+      "trecho": "ARE 987.654, Rel. Min. Marco Aurélio, julgado em 10/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1841,
+      "fim": 1872,
+      "trecho": "Parecer Técnico nº 438/2023-AGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2211,
+      "fim": 2240,
+      "trecho": "Lei nº 9.784/1999, no art. 50",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2466,
+      "fim": 2483,
+      "trecho": "Súmula 650 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

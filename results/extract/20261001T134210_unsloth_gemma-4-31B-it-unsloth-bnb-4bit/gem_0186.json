@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0186",
+  "citacoes": [
+    {
+      "inicio": 927,
+      "fim": 964,
+      "trecho": "Lei nº 14.133/2021, em seu art. 337-F",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1172,
+      "fim": 1201,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1358,
+      "fim": 1371,
+      "trecho": "HC 102.344/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1560,
+      "fim": 1596,
+      "trecho": "Constituição Federal, art. 37, caput",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1703,
+      "fim": 1729,
+      "trecho": "Manual de Auditoria do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 1968,
+      "trecho": "Lei nº 8.666/1993, art. 89",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2049,
+      "fim": 2069,
+      "trecho": "Acórdão 887/2019-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2283,
+      "fim": 2314,
+      "trecho": "Norma Técnica ISO-9001-MIL-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2386,
+      "fim": 2401,
+      "trecho": "julgados do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

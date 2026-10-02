@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0700",
+  "citacoes": [
+    {
+      "inicio": 620,
+      "fim": 648,
+      "trecho": "artigo 65 da Lei nº 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 929,
+      "fim": 942,
+      "trecho": "HC 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1118,
+      "fim": 1142,
+      "trecho": "diversos julgados do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1418,
+      "fim": 1437,
+      "trecho": "Decreto nº 4.307/02",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1535,
+      "fim": 1605,
+      "trecho": "Apelação Crl 789/2022 (Rel. Min. Arnaldo Silva, julgado em 12/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1931,
+      "fim": 2006,
+      "trecho": "Princípio da Dignidade da Pessoa Humana, insculpido na Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2108,
+      "fim": 2125,
+      "trecho": "REsp 1.010.202/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2242,
+      "fim": 2279,
+      "trecho": "Código de Normas Internas-STM 55/2010",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

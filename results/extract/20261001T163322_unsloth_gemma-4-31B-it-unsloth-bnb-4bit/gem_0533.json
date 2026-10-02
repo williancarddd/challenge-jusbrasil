@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0533",
+  "citacoes": [
+    {
+      "inicio": 533,
+      "fim": 565,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1155,
+      "fim": 1165,
+      "trecho": "RE 562.341",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1340,
+      "fim": 1384,
+      "trecho": "art. 3º da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1564,
+      "fim": 1610,
+      "trecho": "decisões recentes do STF sobre a terceirização",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1847,
+      "fim": 1864,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2056,
+      "fim": 2087,
+      "trecho": "Precedente Vinculante PV-9982-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2219,
+      "fim": 2271,
+      "trecho": "doutrina majoritária sobre competência jurisdicional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2477,
+      "fim": 2503,
+      "trecho": "dispositivo constitucional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

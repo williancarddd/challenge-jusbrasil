@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0107",
+  "citacoes": [
+    {
+      "inicio": 334,
+      "fim": 374,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 880,
+      "fim": 926,
+      "trecho": "artigo 5º, inciso LIV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1188,
+      "fim": 1214,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1429,
+      "fim": 1446,
+      "trecho": "Súmula 652 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1556,
+      "fim": 1591,
+      "trecho": "precedente firmado no RMS 28.910/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1735,
+      "fim": 1765,
+      "trecho": "tese fixada no RE 1.102.304/MT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1912,
+      "fim": 1935,
+      "trecho": "Art. 2º da Lei 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2268,
+      "fim": 2340,
+      "trecho": "Princípio da Eficiência Administrativa, previsto no Texto Constitucional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

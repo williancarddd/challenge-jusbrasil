@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0797",
+  "citacoes": [
+    {
+      "inicio": 227,
+      "fim": 298,
+      "trecho": "jurisprudência consolidada deste Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 593,
+      "fim": 653,
+      "trecho": "Norma Regulamentadora 15 do Ministério do Trabalho e Emprego",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 794,
+      "fim": 811,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 960,
+      "fim": 985,
+      "trecho": "jurisprudência deste TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1139,
+      "fim": 1248,
+      "trecho": "Processo nº 5001234-56.2023.4.04.7000, relatado pelo Desembargador Federal Marcos Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1395,
+      "fim": 1407,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1681,
+      "fim": 1767,
+      "trecho": "diretrizes do Conselho Federal de Medicina sobre a biossegurança em ambientes de saúde",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1780,
+      "fim": 1823,
+      "trecho": "Apelação Cível nº 0045678-12.2022.4.04.7100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1780,
+      "fim": 1878,
+      "trecho": "Apelação Cível nº 0045678-12.2022.4.04.7100, julgado em 10/11/2022 pela Relatora Dra. Helena Costa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2538,
+      "fim": 2555,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

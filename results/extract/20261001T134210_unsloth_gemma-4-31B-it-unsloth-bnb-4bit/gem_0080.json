@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0080",
+  "citacoes": [
+    {
+      "inicio": 609,
+      "fim": 638,
+      "trecho": "Lei nº 8.245/91, art. 9º, III",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 957,
+      "fim": 1000,
+      "trecho": "Apelação Cível nº 1002345-67.2023.8.26.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1261,
+      "fim": 1279,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1371,
+      "fim": 1478,
+      "trecho": "Agravo de Instrumento nº 2204567-89.2022.8.26.0000, relatado pelo Desembargador Ricardo Mello em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1614,
+      "fim": 1631,
+      "trecho": "Súmula 64 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1843,
+      "fim": 1865,
+      "trecho": "Código Civil, art. 408",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2076,
+      "fim": 2097,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

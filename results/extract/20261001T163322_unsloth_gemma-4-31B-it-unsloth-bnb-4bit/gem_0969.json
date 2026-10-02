@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0969",
+  "citacoes": [
+    {
+      "inicio": 460,
+      "fim": 475,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 903,
+      "fim": 936,
+      "trecho": "Lei 11.101/2005, em seu artigo 49",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1182,
+      "fim": 1247,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça, no REsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1425,
+      "fim": 1463,
+      "trecho": "diretrizes do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1638,
+      "fim": 1738,
+      "trecho": "entendimento do Tribunal de Justiça de São Paulo, no Agravo de Instrumento 2203456-78.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1893,
+      "fim": 1930,
+      "trecho": "doutrina especializada em insolvência",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2215,
+      "fim": 2260,
+      "trecho": "Relatório de Viabilidade Econômica RV-9982/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2415,
+      "fim": 2451,
+      "trecho": "jurisprudência pacífica desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

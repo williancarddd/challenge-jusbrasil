@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0645",
+  "citacoes": [
+    {
+      "inicio": 880,
+      "fim": 921,
+      "trecho": "artigo 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1273,
+      "fim": 1316,
+      "trecho": "Apelação Cível nº 5012345-88.2021.4.04.7000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1642,
+      "fim": 1674,
+      "trecho": "Lei nº 8.112/90 em seu artigo 13",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1911,
+      "fim": 1949,
+      "trecho": "Lei do Processo Administrativo Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2118,
+      "fim": 2155,
+      "trecho": "Precedente Administrativo TRF4-DX-998",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2427,
+      "fim": 2447,
+      "trecho": "Súmula nº 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

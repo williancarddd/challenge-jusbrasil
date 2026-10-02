@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0901",
+  "citacoes": [
+    {
+      "inicio": 518,
+      "fim": 541,
+      "trecho": "art. 2º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 967,
+      "fim": 984,
+      "trecho": "REsp 1.892.304/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1469,
+      "fim": 1559,
+      "trecho": "AgInt no AREsp 456.789/RJ, relatado pelo Ministro Dr. Aurélio Viana em 12 de março de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1781,
+      "fim": 1794,
+      "trecho": "Lei 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1885,
+      "fim": 1909,
+      "trecho": "art. 59 da Lei 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2023,
+      "fim": 2049,
+      "trecho": "Manual de Auditoria do TCU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2156,
+      "fim": 2253,
+      "trecho": "Habeas Corpus 102.345/DF, datado de 05 de agosto de 2022 e relatado pelo Ministro Dr. Silas Rocha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2471,
+      "fim": 2483,
+      "trecho": "ID-STJ-901-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

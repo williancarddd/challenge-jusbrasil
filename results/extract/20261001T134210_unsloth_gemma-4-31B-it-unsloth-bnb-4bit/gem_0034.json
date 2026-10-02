@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0034",
+  "citacoes": [
+    {
+      "inicio": 681,
+      "fim": 707,
+      "trecho": "art. 9º da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1027,
+      "fim": 1097,
+      "trecho": "ARE 851.234/SP, relatado pelo Ministro Dr. Sérgio Mendes em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1217,
+      "fim": 1241,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1409,
+      "fim": 1422,
+      "trecho": "RE 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1609,
+      "fim": 1653,
+      "trecho": "Enunciado 45 do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1854,
+      "fim": 1878,
+      "trecho": "art. 205 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2043,
+      "fim": 2088,
+      "trecho": "Acórdão 55.667/X-STF, proferido em 20/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2620,
+      "fim": 2658,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

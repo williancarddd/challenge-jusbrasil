@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0678",
+  "citacoes": [
+    {
+      "inicio": 367,
+      "fim": 407,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 846,
+      "fim": 872,
+      "trecho": "art. 7º da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1357,
+      "fim": 1404,
+      "trecho": "art. 5º, inciso LXXVII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1499,
+      "fim": 1526,
+      "trecho": "RMS-11223-44.2021.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1718,
+      "fim": 1733,
+      "trecho": "TST-PROC-9988-Z",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1835,
+      "fim": 1864,
+      "trecho": "art. 1.022, inciso II, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1988,
+      "fim": 2005,
+      "trecho": "Súmula 214 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2174,
+      "fim": 2222,
+      "trecho": "tese fixada em decisões recentes do Pleno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

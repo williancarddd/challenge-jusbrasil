@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0200",
+  "citacoes": [
+    {
+      "inicio": 639,
+      "fim": 671,
+      "trecho": "art. 125 do Código Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1212,
+      "fim": 1223,
+      "trecho": "HC 99210/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1345,
+      "fim": 1360,
+      "trecho": "decisões do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1489,
+      "fim": 1511,
+      "trecho": "art. 125, § 1º, do CPM",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1746,
+      "trecho": "Enunciado 452 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1885,
+      "fim": 1948,
+      "trecho": "Princípio da Eficiência Administrativa previsto na Constituição",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2110,
+      "fim": 2150,
+      "trecho": "Acórdão-Referência 7788/X deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2400,
+      "fim": 2432,
+      "trecho": "Código de Processo Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

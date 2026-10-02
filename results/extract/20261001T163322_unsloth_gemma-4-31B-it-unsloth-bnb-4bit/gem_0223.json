@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0223",
+  "citacoes": [
+    {
+      "inicio": 609,
+      "fim": 644,
+      "trecho": "artigo 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 936,
+      "fim": 973,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1057,
+      "fim": 1149,
+      "trecho": "Habeas Corpus nº 800123/RS, relatado pelo Desembargador Federal Marcos Aurélio em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1345,
+      "fim": 1360,
+      "trecho": "Lei 13.058/2014",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1391,
+      "fim": 1403,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1842,
+      "fim": 1885,
+      "trecho": "REsp nº 1.987.654/SP, julgado em 20/10/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2053,
+      "fim": 2100,
+      "trecho": "Tratado de Direito de Família de Maria Berenice",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2362,
+      "fim": 2398,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2464,
+      "fim": 2571,
+      "trecho": "Agravo de Instrumento nº 500.999-11/SC, sob a relatoria do Desembargador Federal Ricardo Lima em 15/01/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2721,
+      "fim": 2763,
+      "trecho": "Protocolo de Gestão Familiar 2023-TRF4-SUL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

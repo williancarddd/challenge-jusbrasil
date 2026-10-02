@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0427",
+  "citacoes": [
+    {
+      "inicio": 754,
+      "fim": 783,
+      "trecho": "Lei nº 12.016/2009, artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1122,
+      "fim": 1160,
+      "trecho": "Constituição Federal, artigo 37, caput",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1479,
+      "fim": 1516,
+      "trecho": "Apelação nº 1002345-67.2023.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1660,
+      "fim": 1675,
+      "trecho": "decisões do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1873,
+      "fim": 1912,
+      "trecho": "Habeas Data nº 998877-12.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2045,
+      "fim": 2081,
+      "trecho": "Lei Estadual nº 10.261/68, artigo 54",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2172,
+      "fim": 2203,
+      "trecho": "Parecer Técnico nº 4455/2023-RH",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2325,
+      "fim": 2352,
+      "trecho": "jurisprudência desta Câmara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2471,
+      "fim": 2501,
+      "trecho": "acórdãos desta Câmara Especial",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

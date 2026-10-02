@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0192",
+  "citacoes": [
+    {
+      "inicio": 387,
+      "fim": 425,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1042,
+      "fim": 1098,
+      "trecho": "Lei nº 14.133/2021, em seu art. 124, inciso II, alínea d",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1627,
+      "fim": 1647,
+      "trecho": "REsp nº 1.987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1897,
+      "fim": 1947,
+      "trecho": "Protocolo de Diretrizes Administrativas PDE-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2181,
+      "fim": 2233,
+      "trecho": "jurisprudência sedimentada no Agravo TSE nº 45678/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2399,
+      "fim": 2414,
+      "trecho": "Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2435,
+      "fim": 2442,
+      "trecho": "art. 65",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

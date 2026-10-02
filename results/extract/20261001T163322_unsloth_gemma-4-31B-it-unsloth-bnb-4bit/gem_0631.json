@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0631",
+  "citacoes": [
+    {
+      "inicio": 869,
+      "fim": 893,
+      "trecho": "Lei 12.009/2009, art. 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 950,
+      "fim": 991,
+      "trecho": "jurisprudência consolidada deste Regional",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1078,
+      "fim": 1111,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1211,
+      "fim": 1261,
+      "trecho": "Agravo de Instrumento AIRR-10020-88.2022.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1424,
+      "fim": 1464,
+      "trecho": "Código de Processo Civil, art. 835, § 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1878,
+      "fim": 1973,
+      "trecho": "decisões do Tribunal Superior do Trabalho em casos análogos de execuções fiscais e trabalhistas",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2017,
+      "fim": 2034,
+      "trecho": "Súmula 417 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2156,
+      "fim": 2204,
+      "trecho": "Protocolo Interno de Gestão Processual TRT3-V631",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0954",
+  "citacoes": [
+    {
+      "inicio": 868,
+      "fim": 894,
+      "trecho": "art. 57 da Lei nº 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1272,
+      "fim": 1292,
+      "trecho": "Tema Repetitivo 1031",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1407,
+      "fim": 1463,
+      "trecho": "diretrizes do Conselho de Recursos da Previdência Social",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1746,
+      "fim": 1766,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1891,
+      "fim": 1919,
+      "trecho": "art. 5º, inciso LV, da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2044,
+      "trecho": "Apelação nº 1002345-12.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2348,
+      "fim": 2377,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

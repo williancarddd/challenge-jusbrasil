@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0663",
+  "citacoes": [
+    {
+      "inicio": 653,
+      "fim": 676,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1255,
+      "fim": 1303,
+      "trecho": "precedente firmado no RR-12345-67.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1441,
+      "fim": 1494,
+      "trecho": "diretrizes do Conselho Nacional de Previdência Social",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1632,
+      "fim": 1663,
+      "trecho": "Ag-AIRR-98765-43.2022.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1872,
+      "fim": 1934,
+      "trecho": "tese jurídica do Protocolo Interno de Harmonização TST-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2222,
+      "fim": 2247,
+      "trecho": "Decreto 3.048/99, art. 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

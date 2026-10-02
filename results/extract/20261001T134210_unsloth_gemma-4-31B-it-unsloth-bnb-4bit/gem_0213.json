@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0213",
+  "citacoes": [
+    {
+      "inicio": 811,
+      "fim": 841,
+      "trecho": "Lei nº 6.830/80, art. 40, § 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1155,
+      "fim": 1172,
+      "trecho": "Súmula 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1373,
+      "fim": 1405,
+      "trecho": "Recurso Especial nº 1.542.001/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1584,
+      "fim": 1620,
+      "trecho": "Código Tributário Nacional, art. 174",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1941,
+      "fim": 1980,
+      "trecho": "TSE no Agravo Regimental ARE 204.551/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2033,
+      "fim": 2064,
+      "trecho": "Princípio da Segurança Jurídica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2134,
+      "fim": 2164,
+      "trecho": "Orientação Técnica TSE-2022-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2488,
+      "fim": 2503,
+      "trecho": "Lei nº 9.784/99",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

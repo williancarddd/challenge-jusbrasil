@@ -1,0 +1,41 @@
+{
+  "documento_id": "gem_0474",
+  "citacoes": [
+    {
+      "inicio": 1700,
+      "fim": 1742,
+      "trecho": "diretrizes do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1899,
+      "fim": 1916,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2226,
+      "fim": 2347,
+      "trecho": "Agravo de Instrumento nº 2203456-88.2023.8.26.0000, julgado em 10/11/2023 sob a relatoria da Desembargadora Helena Castro",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2466,
+      "fim": 2505,
+      "trecho": "Protocolo de Saúde Ocupacional SP-474-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

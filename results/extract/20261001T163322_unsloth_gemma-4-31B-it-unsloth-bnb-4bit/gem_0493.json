@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0493",
+  "citacoes": [
+    {
+      "inicio": 698,
+      "fim": 736,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 805,
+      "fim": 846,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 985,
+      "fim": 1047,
+      "trecho": "HC 102938/MG (Rel. Des. Marcos Aurélio, julgado em 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1178,
+      "fim": 1194,
+      "trecho": "Pacote Anticrime",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1314,
+      "fim": 1352,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1690,
+      "fim": 1773,
+      "trecho": "Recurso Ordinário RO-554432-11/2022 (Rel. Des. Helena Costa, julgado em 18/09/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2001,
+      "fim": 2018,
+      "trecho": "Súmula 691 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2138,
+      "fim": 2182,
+      "trecho": "Protocolo de Garantias Processuais TRT3-V493",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2486,
+      "fim": 2534,
+      "trecho": "medidas cautelares alternativas previstas na lei",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0973",
+  "citacoes": [
+    {
+      "inicio": 847,
+      "fim": 883,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1066,
+      "fim": 1122,
+      "trecho": "HC 123.456/DF (Rel. Min. Alencar, julgado em 12/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1355,
+      "fim": 1386,
+      "trecho": "entendimento consolidado do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1487,
+      "fim": 1545,
+      "trecho": "REsp 789.101/SP (Rel. Min. Beatriz, julgado em 10/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1660,
+      "fim": 1696,
+      "trecho": "art. 313 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1813,
+      "fim": 1846,
+      "trecho": "Informativo Jurídico 554/2021-TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2077,
+      "fim": 2097,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2136,
+      "fim": 2191,
+      "trecho": "HC 456.789/RJ (Rel. Min. Carlos, julgado em 15/08/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2396,
+      "fim": 2432,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

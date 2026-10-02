@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0541",
+  "citacoes": [
+    {
+      "inicio": 694,
+      "fim": 734,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1363,
+      "fim": 1378,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1665,
+      "fim": 1720,
+      "trecho": "precedentes do Supremo Tribunal Federal sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1960,
+      "fim": 2006,
+      "trecho": "exegese contida em normas de trânsito vigentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2135,
+      "fim": 2149,
+      "trecho": "ARE 890.123/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2287,
+      "fim": 2349,
+      "trecho": "tese firmada no Protocolo Interno de Jurisprudência PIJ-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2581,
+      "fim": 2607,
+      "trecho": "Código Civil no artigo 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

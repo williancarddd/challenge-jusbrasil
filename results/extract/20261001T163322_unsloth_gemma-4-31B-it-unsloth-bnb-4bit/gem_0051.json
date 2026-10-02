@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0051",
+  "citacoes": [
+    {
+      "inicio": 550,
+      "fim": 592,
+      "trecho": "Constituição Federal, em seu art. 37, § 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1221,
+      "trecho": "precedentes deste Tribunal Superior Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1383,
+      "fim": 1403,
+      "trecho": "REsp nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1578,
+      "fim": 1590,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1611,
+      "fim": 1619,
+      "trecho": "art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2016,
+      "fim": 2040,
+      "trecho": "Acórdão-Guia TSE-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2232,
+      "fim": 2251,
+      "trecho": "Súmula nº 45 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2450,
+      "fim": 2467,
+      "trecho": "regimento interno",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0546",
+  "citacoes": [
+    {
+      "inicio": 378,
+      "fim": 418,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1040,
+      "fim": 1057,
+      "trecho": "Súmula 37 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1147,
+      "fim": 1173,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1331,
+      "fim": 1374,
+      "trecho": "Apelação Cível nº 0001234-10.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1522,
+      "fim": 1631,
+      "trecho": "diretrizes do Conselho Nacional de Justiça acerca da simplificação processual em causas de baixa complexidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1697,
+      "fim": 1725,
+      "trecho": "precedente vinculante do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1697,
+      "fim": 1789,
+      "trecho": "precedente vinculante do STJ quanto à distribuição do ônus da prova em acidentes com vítimas",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1830,
+      "fim": 1870,
+      "trecho": "Regulamento Interno do TJSP - Norma 45-B",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2258,
+      "fim": 2284,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

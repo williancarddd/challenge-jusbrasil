@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0799",
+  "citacoes": [
+    {
+      "inicio": 1105,
+      "fim": 1129,
+      "trecho": "Lei nº 8.245/91, art. 9º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1483,
+      "fim": 1509,
+      "trecho": "RR-10020-30.2021.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1728,
+      "fim": 1748,
+      "trecho": "Súmula nº 126 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1809,
+      "fim": 1851,
+      "trecho": "Constituição Federal, art. 5º, inciso XXII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2007,
+      "fim": 2028,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2229,
+      "fim": 2254,
+      "trecho": "Norma Interna TST-NI-9982",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2377,
+      "fim": 2401,
+      "trecho": "legislação civil vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

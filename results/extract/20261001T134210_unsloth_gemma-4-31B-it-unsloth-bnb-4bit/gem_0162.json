@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0162",
+  "citacoes": [
+    {
+      "inicio": 789,
+      "fim": 806,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 831,
+      "fim": 844,
+      "trecho": "art. 1º, § 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1159,
+      "fim": 1191,
+      "trecho": "Acórdão do STJ no REsp 1.823.456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1606,
+      "fim": 1650,
+      "trecho": "art. 10 da Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1798,
+      "fim": 1829,
+      "trecho": "entendimento consolidado do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1984,
+      "fim": 2007,
+      "trecho": "princípio da legalidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2241,
+      "fim": 2258,
+      "trecho": "Súmula 50 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

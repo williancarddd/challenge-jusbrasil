@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0712",
+  "citacoes": [
+    {
+      "inicio": 323,
+      "fim": 338,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 389,
+      "fim": 426,
+      "trecho": "Lei 8.429/92, art. 1º, §§ 1º, 2º e 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 943,
+      "fim": 959,
+      "trecho": "ARE 1.345.678/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1209,
+      "fim": 1238,
+      "trecho": "decisões recentes do Plenário",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1461,
+      "fim": 1476,
+      "trecho": "RE 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1599,
+      "fim": 1632,
+      "trecho": "Constituição Federal, art. 5º, XL",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1972,
+      "fim": 2003,
+      "trecho": "Manual de Procedimentos do CNMP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2152,
+      "fim": 2176,
+      "trecho": "AgRg no AREsp 987.654/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2345,
+      "fim": 2371,
+      "trecho": "Precedente Interno STF-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

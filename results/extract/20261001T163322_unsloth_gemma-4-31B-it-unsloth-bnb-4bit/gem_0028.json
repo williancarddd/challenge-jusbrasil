@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0028",
+  "citacoes": [
+    {
+      "inicio": 762,
+      "fim": 814,
+      "trecho": "Constituição Federal, em seu artigo 7º, inciso XXIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 937,
+      "fim": 970,
+      "trecho": "artigo 39, § 2º, do mesmo diploma",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 996,
+      "fim": 1031,
+      "trecho": "precedente firmado no ARE 1.122.334",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1215,
+      "fim": 1246,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1601,
+      "fim": 1654,
+      "trecho": "jurisprudência desta Corte, notadamente no RE 854.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1644,
+      "fim": 1654,
+      "trecho": "RE 854.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1837,
+      "fim": 1852,
+      "trecho": "Tema 999 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2003,
+      "fim": 2043,
+      "trecho": "Protocolo de Saúde do Trabalho ID-998877",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2165,
+      "fim": 2182,
+      "trecho": "Súmula 445 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2588,
+      "fim": 2613,
+      "trecho": "preceitos constitucionais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2618,
+      "fim": 2656,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

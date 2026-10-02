@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0329",
+  "citacoes": [
+    {
+      "inicio": 781,
+      "fim": 817,
+      "trecho": "art. 239 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1009,
+      "fim": 1135,
+      "trecho": "a nulidade da citação deve ser declarada quando comprovada a impossibilidade de recebimento da intimação por motivo de serviço",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1161,
+      "fim": 1238,
+      "trecho": "Recurso Especial nº 45678/DF, relatado pelo Min. Carlos Alberto em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1275,
+      "fim": 1293,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1365,
+      "fim": 1401,
+      "trecho": "art. 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1634,
+      "fim": 1651,
+      "trecho": "Súmula 123 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1734,
+      "fim": 1807,
+      "trecho": "Agravo Interno nº 98765/RS, julgado em 10/11/2022 pelo Min. Roberto Souza",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2018,
+      "fim": 2053,
+      "trecho": "Regulamento Disciplinar do Exército",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2313,
+      "fim": 2334,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

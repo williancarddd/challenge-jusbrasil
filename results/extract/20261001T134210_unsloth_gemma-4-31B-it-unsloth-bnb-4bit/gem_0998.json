@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0998",
+  "citacoes": [
+    {
+      "inicio": 642,
+      "fim": 669,
+      "trecho": "art. 109 da Lei nº 8.038/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 979,
+      "fim": 1062,
+      "trecho": "Agravo Regimental ARE 12.345/SP, julgado em 12/05/2022, Rel. Min. Dr. Alberto Silva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1386,
+      "fim": 1434,
+      "trecho": "art. 5º, inciso LXXVIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1489,
+      "fim": 1530,
+      "trecho": "decisões recentes deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1758,
+      "fim": 1825,
+      "trecho": "Recurso Especial Eleitoral REsp-El 99.888/MG, Rel. Min. Dra. Helena",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2127,
+      "fim": 2155,
+      "trecho": "Lei Complementar nº 123/2010",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2187,
+      "fim": 2211,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2328,
+      "fim": 2353,
+      "trecho": "Caso Protocolo-X 2023-ABC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

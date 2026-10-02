@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0542",
+  "citacoes": [
+    {
+      "inicio": 688,
+      "fim": 715,
+      "trecho": "Lei nº 12.000/2009, art. 15",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 803,
+      "fim": 826,
+      "trecho": "precedentes desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 845,
+      "fim": 857,
+      "trecho": "MS 45.678/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1455,
+      "fim": 1479,
+      "trecho": "Lei nº 9.784/99, art. 50",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1519,
+      "fim": 1534,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1708,
+      "fim": 1748,
+      "trecho": "Constituição Federal, art. 5º, inciso LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1960,
+      "fim": 1977,
+      "trecho": "Súmula 633 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2202,
+      "fim": 2248,
+      "trecho": "Protocolo Interno de Gestão Pessoal-STM-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2543,
+      "fim": 2569,
+      "trecho": "legislação militar vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0503",
+  "citacoes": [
+    {
+      "inicio": 501,
+      "fim": 539,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 882,
+      "fim": 902,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 981,
+      "fim": 1056,
+      "trecho": "Habeas Data nº 123.456/DF, Rel. Min. Almirante Silva, julgado em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1386,
+      "fim": 1465,
+      "trecho": "Agravo Regimental nº 789.101/RS, Rel. Min. Coronel Costa, julgado em 12/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1496,
+      "fim": 1525,
+      "trecho": "artigo 137 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1670,
+      "fim": 1715,
+      "trecho": "Lei de Licitações e Contratos Administrativos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1910,
+      "fim": 1947,
+      "trecho": "Parecer Normativo nº 505/2024-AGU-MIL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2266,
+      "fim": 2344,
+      "trecho": "Recurso Especial nº 456.789/MG, Rel. Min. General Souza, julgado em 20/01/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

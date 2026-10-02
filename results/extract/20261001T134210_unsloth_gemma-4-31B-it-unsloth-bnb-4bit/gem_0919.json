@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0919",
+  "citacoes": [
+    {
+      "inicio": 255,
+      "fim": 270,
+      "trecho": "art. 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 635,
+      "fim": 666,
+      "trecho": "NR 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 855,
+      "fim": 950,
+      "trecho": "precedente firmado no REsp 1.234.567/SP, relatado pelo Ministro Dr. Aurélio Viana em 12/05/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1219,
+      "fim": 1267,
+      "trecho": "AgInt no AREsp 987.654/RJ, julgado em 20/11/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1480,
+      "fim": 1495,
+      "trecho": "art. 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1582,
+      "fim": 1599,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1877,
+      "fim": 1903,
+      "trecho": "Súmula Vinculante 4 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2495,
+      "fim": 2534,
+      "trecho": "REsp 2.110.332/MG, datado de 14/02/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

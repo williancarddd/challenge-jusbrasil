@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0472",
+  "citacoes": [
+    {
+      "inicio": 726,
+      "fim": 769,
+      "trecho": "art. 5º, inciso LX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 941,
+      "fim": 999,
+      "trecho": "REsp 1.987.654/SP (Rel. Min. Marco Aurélio, j. 15/05/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1142,
+      "fim": 1178,
+      "trecho": "art. 189 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1560,
+      "fim": 1624,
+      "trecho": "AgInt no RMS 65.432/RJ (Rel. Min. Clarice Mendes, j. 10/11/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1781,
+      "fim": 1825,
+      "trecho": "Protocolo de Transparência Judiciária 2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2056,
+      "fim": 2115,
+      "trecho": "AREsp 1.122.333/MG (Rel. Min. Roberto Silva, j. 02/02/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

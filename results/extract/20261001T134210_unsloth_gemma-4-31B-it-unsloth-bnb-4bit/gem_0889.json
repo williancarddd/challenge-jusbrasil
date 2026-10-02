@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0889",
+  "citacoes": [
+    {
+      "inicio": 822,
+      "fim": 853,
+      "trecho": "artigo 216-A da Lei nº 6.015/74",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 965,
+      "fim": 993,
+      "trecho": "artigo 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1263,
+      "fim": 1288,
+      "trecho": "Provimento CNJ nº 65/2017",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1292,
+      "fim": 1349,
+      "trecho": "jurisprudência deste Tribunal tem reiteradamente decidido",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1438,
+      "fim": 1481,
+      "trecho": "Apelação Cível nº 2011234-55.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1807,
+      "fim": 1857,
+      "trecho": "Agravo de Instrumento nº 2233445-11.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1998,
+      "fim": 2078,
+      "trecho": "norma regulamentadora do Código de Normas da Corregedoria Geral da Justiça de SP",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2293,
+      "fim": 2346,
+      "trecho": "Protocolo Interno de Verificação Imobiliária nº 998-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

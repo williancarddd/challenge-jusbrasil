@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0827",
+  "citacoes": [
+    {
+      "inicio": 725,
+      "fim": 761,
+      "trecho": "Lei nº 11.101/2005, em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 994,
+      "fim": 1004,
+      "trecho": "RE 561.713",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1068,
+      "fim": 1100,
+      "trecho": "Lei nº 11.101/2005, no artigo 49",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1422,
+      "fim": 1443,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1490,
+      "fim": 1507,
+      "trecho": "Súmula 449 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1761,
+      "fim": 1785,
+      "trecho": "AgInt no AREsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1942,
+      "fim": 1969,
+      "trecho": "Enunciado Normativo 827-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2148,
+      "fim": 2177,
+      "trecho": "Lei nº 11.101/2005, artigo 84",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2251,
+      "fim": 2283,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

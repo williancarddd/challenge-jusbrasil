@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0821",
+  "citacoes": [
+    {
+      "inicio": 1017,
+      "fim": 1044,
+      "trecho": "Lei nº 11.101/2005, art. 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1266,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1271,
+      "fim": 1318,
+      "trecho": "jurisprudência desta Corte Superior é reiterada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1569,
+      "fim": 1589,
+      "trecho": "REsp nº 1.567.890/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1844,
+      "fim": 1874,
+      "trecho": "Constituição Federal, art. 114",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2066,
+      "fim": 2096,
+      "trecho": "AgInt no AREsp nº 1.234.567/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2234,
+      "fim": 2251,
+      "trecho": "Súmula 449 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2615,
+      "fim": 2657,
+      "trecho": "Lei de Recuperação de Empresas e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2781,
+      "fim": 2808,
+      "trecho": "Processo Interno STJ-8821-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

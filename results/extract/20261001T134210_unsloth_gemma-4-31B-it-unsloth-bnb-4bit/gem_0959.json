@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0959",
+  "citacoes": [
+    {
+      "inicio": 425,
+      "fim": 451,
+      "trecho": "art. 216-A da Lei 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1047,
+      "fim": 1062,
+      "trecho": "RE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1202,
+      "fim": 1214,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1277,
+      "fim": 1302,
+      "trecho": "lei de registros públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1404,
+      "fim": 1475,
+      "trecho": "ARE 890.123/MG, relatado pelo Ministro Dr. Alisson Mendes em 15/03/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1692,
+      "fim": 1736,
+      "trecho": "Habeas Data 55.667/RJ, julgado em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1812,
+      "fim": 1847,
+      "trecho": "Princípio da Especialidade Objetiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2073,
+      "fim": 2097,
+      "trecho": "Regimento Interno do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2191,
+      "fim": 2210,
+      "trecho": "Caso ID-9988-X-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2342,
+      "fim": 2388,
+      "trecho": "art. 5º, inciso XXXIV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2651,
+      "fim": 2662,
+      "trecho": "Carta Magna",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

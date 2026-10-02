@@ -1,0 +1,52 @@
+{
+  "documento_id": "gen_n2_001",
+  "citacoes": [
+    {
+      "inicio": 544,
+      "fim": 563,
+      "trecho": "RE nº 5. 230.808-DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 828,
+      "fim": 831,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 972,
+      "fim": 989,
+      "trecho": "RCL n° 33128 (GO)",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1194,
+      "fim": 1244,
+      "trecho": "Reclamação\ndo STF, de 2024, Rel. Min. Cármen Lúcia",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1707,
+      "fim": 1742,
+      "trecho": "AgRg no Rec. Esp. n. 1.522.200 (SC)",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "192165489"
+      }
+    }
+  ]
+}

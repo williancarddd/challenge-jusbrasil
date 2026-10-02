@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0494",
+  "citacoes": [
+    {
+      "inicio": 636,
+      "fim": 660,
+      "trecho": "Lei 11.101/2005, art. 47",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1046,
+      "fim": 1063,
+      "trecho": "REsp 1.854.321/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1338,
+      "fim": 1364,
+      "trecho": "Lei 11.101/2005, art. 82-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1591,
+      "fim": 1624,
+      "trecho": "jurisprudência consolidada do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1591,
+      "fim": 1679,
+      "trecho": "jurisprudência consolidada do STJ sobre a impenhorabilidade relativa de verbas salariais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1705,
+      "fim": 1730,
+      "trecho": "AgInt no AREsp 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1962,
+      "fim": 2024,
+      "trecho": "Constituição Federal no que tange à dignidade da pessoa humana",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2358,
+      "fim": 2375,
+      "trecho": "REsp 1.234.567/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

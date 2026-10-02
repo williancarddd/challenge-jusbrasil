@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0417",
+  "citacoes": [
+    {
+      "inicio": 328,
+      "fim": 368,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 928,
+      "fim": 971,
+      "trecho": "art. 5º, inciso LV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1358,
+      "fim": 1371,
+      "trecho": "RMS 54.321/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1538,
+      "fim": 1562,
+      "trecho": "Regimento Interno do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1707,
+      "fim": 1719,
+      "trecho": "MS 98.765/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1860,
+      "fim": 1877,
+      "trecho": "Súmula 600 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2141,
+      "fim": 2167,
+      "trecho": "art. 1º da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2270,
+      "fim": 2360,
+      "trecho": "jurisprudência deste tribunal, conforme se verifica em decisões recentes da Primeira Turma",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

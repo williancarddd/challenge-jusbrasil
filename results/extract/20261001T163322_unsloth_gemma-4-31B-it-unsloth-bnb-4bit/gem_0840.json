@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0840",
+  "citacoes": [
+    {
+      "inicio": 839,
+      "fim": 864,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1351,
+      "fim": 1372,
+      "trecho": "jurisprudência pátria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1578,
+      "fim": 1624,
+      "trecho": "Superior Tribunal de Justiça no REsp 1.304.444",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1841,
+      "fim": 1874,
+      "trecho": "Decreto 3.048/99 em seu artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2093,
+      "fim": 2114,
+      "trecho": "AgRg no AREsp 456.789",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2254,
+      "fim": 2283,
+      "trecho": "Regulamento Interno do IPM-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2545,
+      "fim": 2560,
+      "trecho": "Tema 555 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

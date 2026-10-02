@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0540",
+  "citacoes": [
+    {
+      "inicio": 225,
+      "fim": 243,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 687,
+      "fim": 712,
+      "trecho": "artigo 5º da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 865,
+      "fim": 966,
+      "trecho": "Processo nº 0012345-67.2022.5.03.0001, relatado pelo Desembargador Marcos Aurélio Silva em 14/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1320,
+      "fim": 1354,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1472,
+      "fim": 1489,
+      "trecho": "Súmula 123 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1572,
+      "fim": 1622,
+      "trecho": "Agravo de Instrumento nº 9876543-21.2021.8.13.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1766,
+      "fim": 1809,
+      "trecho": "Protocolo de Normas Internas PN-TRT3-2022-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1950,
+      "fim": 1974,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2085,
+      "fim": 2088,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

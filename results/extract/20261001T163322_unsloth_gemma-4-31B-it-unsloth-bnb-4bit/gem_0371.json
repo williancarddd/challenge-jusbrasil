@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0371",
+  "citacoes": [
+    {
+      "inicio": 776,
+      "fim": 802,
+      "trecho": "artigo 1º da Lei 11.960/16",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 947,
+      "fim": 1012,
+      "trecho": "RE 987.654/SP, relatado pelo Ministro Aurélio Viana em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1297,
+      "fim": 1321,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1562,
+      "fim": 1607,
+      "trecho": "AgRg no ARE 456.789/RJ, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1647,
+      "fim": 1678,
+      "trecho": "artigo 924, inciso V, do CPC/15",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1944,
+      "fim": 2013,
+      "trecho": "HC 112.233/MT, sob a relatoria do Ministro Silas Rocha, em 15/02/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2207,
+      "fim": 2219,
+      "trecho": "Lei 8.397/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2224,
+      "fim": 2248,
+      "trecho": "jurisprudência dominante",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2390,
+      "fim": 2423,
+      "trecho": "análise do STJ em matéria análoga",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

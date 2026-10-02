@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0388",
+  "citacoes": [
+    {
+      "inicio": 427,
+      "fim": 461,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 771,
+      "fim": 853,
+      "trecho": "RR-12345-67.2022.5.02.0001, relatado pelo Ministro Dr. Arnaldo Silva em 15/03/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1070,
+      "fim": 1116,
+      "trecho": "artigo 3º da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1280,
+      "fim": 1297,
+      "trecho": "Súmula 214 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1434,
+      "fim": 1521,
+      "trecho": "Ag-AIRR-98765-43.2021.5.15.0000, julgado em 10/11/2022 pelo Ministro Dr. Roberto Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1614,
+      "fim": 1648,
+      "trecho": "normas do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1833,
+      "fim": 1893,
+      "trecho": "Variação 388 do Manual de Contratos Administrativos Internos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2067,
+      "fim": 2112,
+      "trecho": "processo TST-XX-999-Z, decidido em 05/01/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

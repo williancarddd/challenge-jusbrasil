@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0161",
+  "citacoes": [
+    {
+      "inicio": 680,
+      "fim": 713,
+      "trecho": "Regimento Interno do STF, art. 21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1401,
+      "fim": 1439,
+      "trecho": "art. 37, § 1º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1607,
+      "fim": 1619,
+      "trecho": "MS 32.450/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1761,
+      "fim": 1778,
+      "trecho": "Súmula 650 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1931,
+      "fim": 1946,
+      "trecho": "RE 1.234.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2001,
+      "fim": 2045,
+      "trecho": "Código de Processo Civil, art. 485, inciso I",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2251,
+      "fim": 2290,
+      "trecho": "Diretriz Interna DF-992/2023 desta Casa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

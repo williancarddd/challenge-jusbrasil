@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0479",
+  "citacoes": [
+    {
+      "inicio": 863,
+      "fim": 894,
+      "trecho": "art. 216-A da Lei nº 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1186,
+      "fim": 1214,
+      "trecho": "Constituição Federal de 1988",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1346,
+      "fim": 1363,
+      "trecho": "Súmula 340 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1596,
+      "fim": 1632,
+      "trecho": "julgado AC 5001234-12.2021.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1840,
+      "fim": 1857,
+      "trecho": "Lei nº 9.636/1998",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2013,
+      "fim": 2049,
+      "trecho": "Parecer Normativo AGU nº 012/2010-PF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2333,
+      "fim": 2389,
+      "trecho": "jurisprudência do Tribunal Regional Federal da 4ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2484,
+      "fim": 2516,
+      "trecho": "regimento interno deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

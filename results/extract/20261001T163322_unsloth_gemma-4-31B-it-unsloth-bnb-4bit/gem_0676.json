@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0676",
+  "citacoes": [
+    {
+      "inicio": 570,
+      "fim": 602,
+      "trecho": "Lei 11.101/2005 em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 760,
+      "fim": 873,
+      "trecho": "Agravo de Instrumento AIRR-10023-44.2022.5.03.0001, relatado pelo Desembargador Marco Aurélio Silva em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1074,
+      "fim": 1107,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1280,
+      "fim": 1307,
+      "trecho": "RR-887766-11.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1626,
+      "fim": 1655,
+      "trecho": "Lei 14.112/2020 no artigo 188",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1782,
+      "fim": 1826,
+      "trecho": "Recurso Ordinário RO-12345-67.2020.5.03.0100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1782,
+      "fim": 1881,
+      "trecho": "Recurso Ordinário RO-12345-67.2020.5.03.0100, julgado em 10/11/2021 pelo Relator Dr. Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

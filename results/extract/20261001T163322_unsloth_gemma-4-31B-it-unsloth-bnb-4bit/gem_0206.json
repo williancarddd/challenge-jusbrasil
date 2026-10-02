@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0206",
+  "citacoes": [
+    {
+      "inicio": 359,
+      "fim": 399,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 754,
+      "fim": 766,
+      "trecho": "Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 800,
+      "fim": 838,
+      "trecho": "artigo 59, § 1º, da Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1191,
+      "fim": 1213,
+      "trecho": "RR-1000-2021-5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1344,
+      "fim": 1365,
+      "trecho": "Ag-AIRR-5544-2022-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1544,
+      "fim": 1587,
+      "trecho": "precedente do STJ sobre locações comerciais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1925,
+      "fim": 1949,
+      "trecho": "artigo 489, § 1º, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

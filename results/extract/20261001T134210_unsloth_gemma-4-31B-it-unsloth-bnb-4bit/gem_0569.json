@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0569",
+  "citacoes": [
+    {
+      "inicio": 845,
+      "fim": 884,
+      "trecho": "art. 9º, inciso III, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1150,
+      "fim": 1190,
+      "trecho": "jurisprudência deste tribunal é pacífica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1289,
+      "fim": 1317,
+      "trecho": "AC 5004567-89.2021.4.04.7100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1569,
+      "fim": 1607,
+      "trecho": "diretrizes do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1831,
+      "fim": 1857,
+      "trecho": "art. 59 da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2020,
+      "fim": 2064,
+      "trecho": "entendimento do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2315,
+      "fim": 2379,
+      "trecho": "Enunciado 123 do Conselho de Administração do Patrimônio Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

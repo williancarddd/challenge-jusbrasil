@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0572",
+  "citacoes": [
+    {
+      "inicio": 437,
+      "fim": 452,
+      "trecho": "Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 565,
+      "fim": 598,
+      "trecho": "art. 1º, § 2º, da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1011,
+      "fim": 1028,
+      "trecho": "REsp 1.892.341/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1252,
+      "fim": 1297,
+      "trecho": "doutrina pátria sobre a Administração Pública",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1316,
+      "fim": 1416,
+      "trecho": "v. acórdão proferido no Habeas Corpus nº 123.456/MG, relatado pelo Ministro João Silva em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1707,
+      "fim": 1740,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1841,
+      "fim": 1872,
+      "trecho": "Parecer Técnico nº 987/2023-AGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2121,
+      "fim": 2214,
+      "trecho": "Apelação Cível nº 554433/DF, julgado em 10/11/2021 sob a relatoria do Ministro Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

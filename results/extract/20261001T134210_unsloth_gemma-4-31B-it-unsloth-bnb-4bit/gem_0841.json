@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0841",
+  "citacoes": [
+    {
+      "inicio": 398,
+      "fim": 438,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 930,
+      "fim": 1009,
+      "trecho": "princípio da primazia do julgamento de mérito previsto na legislação processual",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1055,
+      "fim": 1080,
+      "trecho": "artigo 9º da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1370,
+      "fim": 1402,
+      "trecho": "Recurso Especial nº 1.892.341/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1583,
+      "fim": 1600,
+      "trecho": "Súmula 486 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1681,
+      "fim": 1696,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1895,
+      "fim": 1934,
+      "trecho": "Agravo Interno no AREsp nº 2.100.500/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

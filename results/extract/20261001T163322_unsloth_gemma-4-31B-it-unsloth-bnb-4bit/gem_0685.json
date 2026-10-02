@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0685",
+  "citacoes": [
+    {
+      "inicio": 290,
+      "fim": 330,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1175,
+      "fim": 1206,
+      "trecho": "artigo 192 da Lei nº 8.112/1990",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1366,
+      "fim": 1398,
+      "trecho": "Recurso Especial nº 1.234.567/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1552,
+      "fim": 1598,
+      "trecho": "Súmula nº 448 do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1746,
+      "fim": 1788,
+      "trecho": "Manual de Normas Técnicas do TSE-2022-ID99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1866,
+      "fim": 1934,
+      "trecho": "jurisprudência deste Tribunal, em decisões recentes sobre servidores",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2033,
+      "fim": 2050,
+      "trecho": "Lei nº 8.213/1991",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2506,
+      "fim": 2555,
+      "trecho": "Lei de Introdução às Normas do Direito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

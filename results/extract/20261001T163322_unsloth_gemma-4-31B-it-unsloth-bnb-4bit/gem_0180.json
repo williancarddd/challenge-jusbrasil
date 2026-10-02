@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0180",
+  "citacoes": [
+    {
+      "inicio": 785,
+      "fim": 823,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1247,
+      "fim": 1346,
+      "trecho": "processo TST-RR-12345-67.2023.5.00.0000 , relatado pelo Ministro Dr. Aurélio Silveira em 12/05/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1460,
+      "fim": 1490,
+      "trecho": "Lei 8.666/93, em seu artigo 71",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1815,
+      "fim": 1832,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2035,
+      "fim": 2144,
+      "trecho": "julgado TST-AIRR-98765-43.2022.5.02.0000 , onde o Ministro Relator Dr. Marcos Vinícius decidiu, em 10/01/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2246,
+      "fim": 2302,
+      "trecho": "a doutrina especializada sobre contratos administrativos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2408,
+      "fim": 2482,
+      "trecho": "princípio da dignidade da pessoa humana , previsto na Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2559,
+      "fim": 2592,
+      "trecho": "precedente interno ID-TST-999-XYZ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

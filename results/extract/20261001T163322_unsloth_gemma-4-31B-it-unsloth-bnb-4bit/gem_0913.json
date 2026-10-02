@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0913",
+  "citacoes": [
+    {
+      "inicio": 521,
+      "fim": 549,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 908,
+      "fim": 934,
+      "trecho": "Processo TRT3-2023-88910-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1083,
+      "fim": 1161,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho, em decisões recentes da Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1435,
+      "fim": 1463,
+      "trecho": "artigo 49 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1545,
+      "fim": 1589,
+      "trecho": "Recurso Ordinário nº 00123-45-2022-5-03-0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1749,
+      "fim": 1787,
+      "trecho": "Enunciado Interno 772-TRT3-PROTOCOLO-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1913,
+      "fim": 1930,
+      "trecho": "Súmula 435 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2176,
+      "fim": 2200,
+      "trecho": "diversos julgados do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

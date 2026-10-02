@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0160",
+  "citacoes": [
+    {
+      "inicio": 262,
+      "fim": 277,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 351,
+      "fim": 377,
+      "trecho": "art. 49 da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 737,
+      "fim": 827,
+      "trecho": "Recurso Especial nº 1.892.344/SP, relatado pelo Ministro Dr. Aurélio Menezes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1164,
+      "fim": 1183,
+      "trecho": "entendimento do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1340,
+      "fim": 1377,
+      "trecho": "art. 83, inciso I, da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1529,
+      "fim": 1633,
+      "trecho": "Agravo Interno no AREsp nº 456.789/RJ, datado de 20/11/2022 e sob relatoria do Ministro Dr. Silas Fontes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2362,
+      "fim": 2382,
+      "trecho": "Súmula nº 480 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2853,
+      "fim": 2871,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

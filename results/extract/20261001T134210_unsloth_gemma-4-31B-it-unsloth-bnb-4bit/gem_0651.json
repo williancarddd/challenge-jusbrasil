@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0651",
+  "citacoes": [
+    {
+      "inicio": 554,
+      "fim": 583,
+      "trecho": "artigo 300 da Lei 13.105/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 788,
+      "fim": 838,
+      "trecho": "jurisprudência deste Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1005,
+      "fim": 1107,
+      "trecho": "Processo TST-RR-10293-2023-2.1.0000, relatado pelo Ministro Dr. Arnaldo Silveira em 14 de maio de 2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1275,
+      "fim": 1290,
+      "trecho": "Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1322,
+      "fim": 1332,
+      "trecho": "artigo 137",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1572,
+      "fim": 1619,
+      "trecho": "Manual de Gestão de Contratos Públicos da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1814,
+      "fim": 1878,
+      "trecho": "TST-AIRR-554433-2022-5.04.0000, julgado em 10 de outubro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2057,
+      "fim": 2085,
+      "trecho": "Princípio da Boa-Fé Objetiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2187,
+      "fim": 2204,
+      "trecho": "Súmula 400 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2308,
+      "fim": 2332,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2370,
+      "fim": 2442,
+      "trecho": "Precedente Interno TST-Variação-651-X, datado de 02 de fevereiro de 2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0800",
+  "citacoes": [
+    {
+      "inicio": 810,
+      "fim": 836,
+      "trecho": "art. 3º da Lei nº 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1348,
+      "fim": 1365,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1706,
+      "fim": 1825,
+      "trecho": "Tribunal de Contas da União já sedimentou a tese de que a omissão no dever de pesquisar preços constitui grave infração",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2012,
+      "fim": 2038,
+      "trecho": "art. 10 da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2066,
+      "fim": 2091,
+      "trecho": "AgInt no AREsp 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2315,
+      "fim": 2339,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2396,
+      "fim": 2436,
+      "trecho": "Protocolo de Auditoria Interna PA-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2573,
+      "fim": 2590,
+      "trecho": "Súmula 456 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

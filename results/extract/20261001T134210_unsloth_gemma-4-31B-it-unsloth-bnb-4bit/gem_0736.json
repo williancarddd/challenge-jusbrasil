@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0736",
+  "citacoes": [
+    {
+      "inicio": 497,
+      "fim": 535,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 769,
+      "fim": 779,
+      "trecho": "RE 654.321",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1073,
+      "fim": 1097,
+      "trecho": "Código Civil no art. 186",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1716,
+      "fim": 1731,
+      "trecho": "Tema 102 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2141,
+      "fim": 2158,
+      "trecho": "Súmula 492 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

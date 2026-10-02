@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0635",
+  "citacoes": [
+    {
+      "inicio": 699,
+      "fim": 732,
+      "trecho": "Lei 11.101/2005, em seu artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 904,
+      "fim": 1020,
+      "trecho": "Agravo de Instrumento nº 5001234-88.2023.4.04.0000, relatado pelo Desembargador Federal Ricardo Mendes em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1203,
+      "fim": 1249,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1485,
+      "fim": 1514,
+      "trecho": "Lei 11.101/2005, no artigo 47",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1626,
+      "fim": 1661,
+      "trecho": "Princípio da Preservação da Empresa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1917,
+      "fim": 1934,
+      "trecho": "Súmula 444 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2102,
+      "fim": 2148,
+      "trecho": "Recurso Ordinário nº 0010203-44.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2227,
+      "fim": 2253,
+      "trecho": "Lei 11.101/2005, artigo 41",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

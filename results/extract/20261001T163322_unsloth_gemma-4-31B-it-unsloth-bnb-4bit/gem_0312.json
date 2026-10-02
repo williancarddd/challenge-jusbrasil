@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0312",
+  "citacoes": [
+    {
+      "inicio": 380,
+      "fim": 406,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 676,
+      "fim": 778,
+      "trecho": "jurisprudência consolidada deste Tribunal, conforme se depreende do processo 0010234-56.2023.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1054,
+      "fim": 1080,
+      "trecho": "artigo 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1214,
+      "fim": 1302,
+      "trecho": "julgamento do processo 0000876-12.2021.5.03.0011, o Relator Dr. Marcos Vinícius Silveira",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1497,
+      "fim": 1514,
+      "trecho": "Súmula 378 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2055,
+      "fim": 2094,
+      "trecho": "artigo 932, inciso III, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2499,
+      "fim": 2580,
+      "trecho": "jurisprudência dominante deste Egrégio Tribunal Regional do Trabalho da 3ª Região",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

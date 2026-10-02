@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0826",
+  "citacoes": [
+    {
+      "inicio": 608,
+      "fim": 648,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 652,
+      "fim": 681,
+      "trecho": "jurisprudência deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 832,
+      "fim": 932,
+      "trecho": "Agravo de Instrumento nº 2233445-66.2021.8.26.0000, relatado pelo Des. Marcos Vinícius em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1088,
+      "fim": 1116,
+      "trecho": "artigo 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1194,
+      "fim": 1226,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1430,
+      "fim": 1474,
+      "trecho": "entendimento do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1703,
+      "fim": 1794,
+      "trecho": "Apelação Cível nº 998877-12.2018.8.26.0100, sob relatoria da Des. Ana Beatriz em 12/11/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1957,
+      "fim": 1998,
+      "trecho": "norma contida no Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2103,
+      "fim": 2134,
+      "trecho": "Súmula 123 do TJSP-Variação 826",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2388,
+      "fim": 2417,
+      "trecho": "artigo 487, inciso II, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

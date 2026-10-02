@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0856",
+  "citacoes": [
+    {
+      "inicio": 129,
+      "fim": 164,
+      "trecho": "Recurso Extraordinário nº 1.452.890",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 762,
+      "fim": 810,
+      "trecho": "artigo 5º, inciso LXXIV, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 900,
+      "fim": 918,
+      "trecho": "Lei nº 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1115,
+      "fim": 1131,
+      "trecho": "ARE 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1257,
+      "fim": 1277,
+      "trecho": "Súmula nº 387 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1477,
+      "fim": 1489,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1710,
+      "fim": 1736,
+      "trecho": "Acórdão 987.654-X do TJ-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1854,
+      "fim": 1899,
+      "trecho": "Protocolo de Convergência Trabalhista 2022/01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2020,
+      "fim": 2046,
+      "trecho": "artigo 47 da Lei 11.101/05",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

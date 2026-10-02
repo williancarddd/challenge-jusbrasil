@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0273",
+  "citacoes": [
+    {
+      "inicio": 610,
+      "fim": 648,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 819,
+      "fim": 884,
+      "trecho": "REsp 1.234.567/DF, Rel. Min. Marco Aurélio, julgado em 10/02/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1391,
+      "fim": 1403,
+      "trecho": "Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1426,
+      "fim": 1450,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1530,
+      "fim": 1604,
+      "trecho": "AgInt no AREsp 987.654/RS, Rel. Min. Sérgio Valentin, datado de 15/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1894,
+      "fim": 1917,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1943,
+      "fim": 1977,
+      "trecho": "Protocolo de Gestão Fiscal 2024-XJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

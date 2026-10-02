@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0529",
+  "citacoes": [
+    {
+      "inicio": 689,
+      "fim": 713,
+      "trecho": "art. 186 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 963,
+      "fim": 1005,
+      "trecho": "art. 927, parágrafo único, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1035,
+      "fim": 1154,
+      "trecho": "jurisprudência é pacífica ao reconhecer que a falha na manutenção de equipamentos de trabalho gera o dever de indenizar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1208,
+      "fim": 1300,
+      "trecho": "Processo 0000123-11.2021.5.03.0000, relatado pelo Desembargador Ricardo Mendes em 15/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1506,
+      "fim": 1541,
+      "trecho": "art. 21, inciso IV, da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1763,
+      "fim": 1801,
+      "trecho": "normas de segurança do trabalho do MTE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1909,
+      "fim": 1953,
+      "trecho": "Protocolo de Segurança Interna PSI-2022-TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2067,
+      "fim": 2114,
+      "trecho": "jurisprudência do Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2295,
+      "fim": 2386,
+      "trecho": "Processo 0000567-88.2019.5.03.0000, julgado em 10/11/2019 pelo Desembargador Carlos Alberto",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

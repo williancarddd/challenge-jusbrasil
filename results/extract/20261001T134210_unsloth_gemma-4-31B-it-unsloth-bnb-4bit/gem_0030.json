@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0030",
+  "citacoes": [
+    {
+      "inicio": 502,
+      "fim": 540,
+      "trecho": "artigo 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 757,
+      "fim": 807,
+      "trecho": "artigo 833, inciso IV, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1243,
+      "fim": 1327,
+      "trecho": "Processo TST-ED-2021-4455-SP, relatado pelo Ministro Aurélio Veríssimo em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1494,
+      "fim": 1511,
+      "trecho": "Súmula 123 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1655,
+      "trecho": "Parecer Normativo PN-778-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1647,
+      "fim": 1655,
+      "trecho": "PN-778-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2062,
+      "fim": 2159,
+      "trecho": "Agravo de Instrumento AIRR-998877-2023-MG, sob relatoria da Ministra Clarice Mendes em 10/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2761,
+      "fim": 2776,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

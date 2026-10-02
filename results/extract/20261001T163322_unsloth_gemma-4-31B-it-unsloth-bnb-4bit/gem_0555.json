@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0555",
+  "citacoes": [
+    {
+      "inicio": 491,
+      "fim": 518,
+      "trecho": "Lei nº 6.015/73, art. 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 851,
+      "fim": 887,
+      "trecho": "Constituição Federal, art. 183, § 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 988,
+      "fim": 1014,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1212,
+      "fim": 1226,
+      "trecho": "HCM 102.455/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1505,
+      "fim": 1522,
+      "trecho": "Súmula 340 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

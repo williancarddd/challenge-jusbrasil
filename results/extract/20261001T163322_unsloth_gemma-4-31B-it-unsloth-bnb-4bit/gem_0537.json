@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0537",
+  "citacoes": [
+    {
+      "inicio": 895,
+      "fim": 935,
+      "trecho": "Constituição Federal, art. 5º, inciso LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1085,
+      "fim": 1113,
+      "trecho": "Lei nº 14.133/2021, art. 156",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1459,
+      "fim": 1489,
+      "trecho": "TST-RR-98765-11.2022.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1882,
+      "fim": 1946,
+      "trecho": "entendimento do STJ, em julgados sobre contratos administrativos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2357,
+      "fim": 2384,
+      "trecho": "Lei nº 12.016/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2447,
+      "fim": 2494,
+      "trecho": "Manual de Gestão de Contratos da AGU-TST-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2799,
+      "fim": 2833,
+      "trecho": "Regimento Interno do TST, art. 214",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

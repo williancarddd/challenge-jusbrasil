@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0089",
+  "citacoes": [
+    {
+      "inicio": 42,
+      "fim": 95,
+      "trecho": "ACÓRDÃO Nº 456.789/SP DO SUPERIOR TRIBUNAL DE JUSTIÇA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 338,
+      "fim": 378,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1001,
+      "fim": 1027,
+      "trecho": "art. 62 da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1156,
+      "fim": 1194,
+      "trecho": "jurisprudência deste Tribunal Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1282,
+      "fim": 1299,
+      "trecho": "REsp 1.889.223/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1370,
+      "fim": 1387,
+      "trecho": "Súmula 410 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1670,
+      "fim": 1807,
+      "trecho": "entendimento contido em decisões recentes deste tribunal sobre a impenhorabilidade relativa do bem de família frente a dívidas locatícias",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1850,
+      "fim": 1873,
+      "trecho": "art. 3º da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2136,
+      "fim": 2203,
+      "trecho": "princípio da primazia do julgamento de mérito, previsto no CPC/2015",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

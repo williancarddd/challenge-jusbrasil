@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0113",
+  "citacoes": [
+    {
+      "inicio": 900,
+      "fim": 938,
+      "trecho": "art. 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1220,
+      "fim": 1237,
+      "trecho": "REsp 1.234.567/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1408,
+      "fim": 1442,
+      "trecho": "Recurso Repetitivo Tema 554 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1598,
+      "fim": 1634,
+      "trecho": "art. 240 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1995,
+      "fim": 2026,
+      "trecho": "Parecer Normativo PGFN nº 999-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2111,
+      "fim": 2137,
+      "trecho": "Acórdão 88776-2021 do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2457,
+      "fim": 2474,
+      "trecho": "Súmula 108 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

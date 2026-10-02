@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0331",
+  "citacoes": [
+    {
+      "inicio": 549,
+      "fim": 573,
+      "trecho": "Regimento Interno do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 686,
+      "fim": 712,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 919,
+      "fim": 935,
+      "trecho": "AgR-MS 32.104/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1090,
+      "fim": 1117,
+      "trecho": "Lei do Mandado de Segurança",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1138,
+      "fim": 1164,
+      "trecho": "art. 1º da Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1396,
+      "fim": 1415,
+      "trecho": "entendimento do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1553,
+      "fim": 1566,
+      "trecho": "RMS 25.412/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1751,
+      "fim": 1794,
+      "trecho": "art. 5º, inciso LX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2022,
+      "fim": 2056,
+      "trecho": "precedente firmado no MS 34.901/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2130,
+      "fim": 2203,
+      "trecho": "norma interna de controle, identificada como Protocolo-Sigilo-TSE-2023-V4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

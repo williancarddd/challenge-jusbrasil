@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0435",
+  "citacoes": [
+    {
+      "inicio": 421,
+      "fim": 457,
+      "trecho": "Lei nº 6.015/73, em seu artigo 216-A",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1155,
+      "fim": 1172,
+      "trecho": "Súmula 412 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1389,
+      "fim": 1417,
+      "trecho": "artigo 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1581,
+      "fim": 1598,
+      "trecho": "REsp 1.890.432/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1705,
+      "fim": 1732,
+      "trecho": "AgInt no AREsp 2.100.567/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1949,
+      "fim": 1988,
+      "trecho": "Protocolo Interno de Normas CNJ-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

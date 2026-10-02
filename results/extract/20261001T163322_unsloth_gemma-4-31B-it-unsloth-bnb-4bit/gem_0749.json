@@ -1,0 +1,104 @@
+{
+  "documento_id": "gem_0749",
+  "citacoes": [
+    {
+      "inicio": 688,
+      "fim": 703,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 808,
+      "fim": 831,
+      "trecho": "art. 37 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1004,
+      "fim": 1050,
+      "trecho": "artigo 59, § 1º, inciso IX, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1265,
+      "fim": 1302,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1442,
+      "fim": 1492,
+      "trecho": "Agravo de Instrumento nº 2154003-88.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1768,
+      "fim": 1801,
+      "trecho": "precedentes desta Câmara Especial",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1932,
+      "fim": 1975,
+      "trecho": "Apelação Cível nº 1002341-55.2021.8.26.0100",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2129,
+      "fim": 2153,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2223,
+      "fim": 2238,
+      "trecho": "lei de locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2258,
+      "fim": 2296,
+      "trecho": "Enunciado Administrativo TJSP-772/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2403,
+      "fim": 2454,
+      "trecho": "artigo 1.019, inciso I, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

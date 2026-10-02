@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0579",
+  "citacoes": [
+    {
+      "inicio": 573,
+      "fim": 618,
+      "trecho": "art. 5º, inciso LXIX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 784,
+      "fim": 808,
+      "trecho": "Regimento Interno do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1023,
+      "fim": 1049,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1238,
+      "fim": 1251,
+      "trecho": "RMS 54.321/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1491,
+      "fim": 1529,
+      "trecho": "art. 1.048 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1662,
+      "fim": 1677,
+      "trecho": "Lei 12.016/2009",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1895,
+      "fim": 1929,
+      "trecho": "Protocolo de Gestão Interna G-99-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2042,
+      "fim": 2063,
+      "trecho": "AgInt no MS 67.890/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2348,
+      "fim": 2383,
+      "trecho": "art. 21 do Regimento Interno do STJ",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

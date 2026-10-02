@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0184",
+  "citacoes": [
+    {
+      "inicio": 257,
+      "fim": 290,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 481,
+      "fim": 499,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 598,
+      "fim": 637,
+      "trecho": "Lei nº 8.429/92, em seu artigo 1º, § 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1140,
+      "fim": 1198,
+      "trecho": "REsp nº 1.987.654/SP (Rel. Min. João Silva, j. 12/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1515,
+      "fim": 1542,
+      "trecho": "artigo 17-C da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1790,
+      "fim": 1857,
+      "trecho": "AgInt no AREsp nº 2.100.300/RJ (Rel. Min. Ana Costa, j. 20/08/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1980,
+      "fim": 2011,
+      "trecho": "Princípio da Tipicidade Estrita",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2668,
+      "fim": 2728,
+      "trecho": "REsp nº 1.554.332/DF (Rel. Min. Carlos Souza, j. 10/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0640",
+  "citacoes": [
+    {
+      "inicio": 117,
+      "fim": 150,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 398,
+      "fim": 415,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 434,
+      "fim": 452,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 477,
+      "fim": 500,
+      "trecho": "art. 1º, §§ 1º, 2º e 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 829,
+      "fim": 849,
+      "trecho": "REsp nº 1.823.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 922,
+      "fim": 958,
+      "trecho": "jurisprudência consolidada deste STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 973,
+      "fim": 1042,
+      "trecho": "Habeas Corpus nº 123.456/DF, Rel. Min. Alencar, julgado em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1536,
+      "fim": 1603,
+      "trecho": "Acórdão nº 987.654-X/2024, Rel. Min. Valéria, julgado em 10/01/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1833,
+      "fim": 1852,
+      "trecho": "ADI nº 7.000/BRASIL",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2036,
+      "fim": 2073,
+      "trecho": "Protocolo de Gestão Ética STM-2023/01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

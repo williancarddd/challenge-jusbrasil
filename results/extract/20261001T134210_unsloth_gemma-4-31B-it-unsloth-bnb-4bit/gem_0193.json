@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0193",
+  "citacoes": [
+    {
+      "inicio": 587,
+      "fim": 628,
+      "trecho": "artigo 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 943,
+      "fim": 1009,
+      "trecho": "ARE 1.234.567/SP, relatado pelo Ministro Dr. Alencar em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1116,
+      "fim": 1151,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 59",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1370,
+      "fim": 1406,
+      "trecho": "RE 987.654/RJ, julgado em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1749,
+      "fim": 1799,
+      "trecho": "princípio da ampla defesa, previsto na Carta Magna",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1872,
+      "fim": 1964,
+      "trecho": "precedente interno ID-PROC-8892-X, datado de 15/01/2023 e relatado pelo Ministro Dr. Valério",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2099,
+      "fim": 2124,
+      "trecho": "artigo 10 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2454,
+      "fim": 2510,
+      "trecho": "jurisprudência pacificada deste Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

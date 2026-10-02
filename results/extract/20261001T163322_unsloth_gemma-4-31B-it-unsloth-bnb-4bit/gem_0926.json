@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0926",
+  "citacoes": [
+    {
+      "inicio": 710,
+      "fim": 755,
+      "trecho": "Lei nº 8.245/91, em seu artigo 9º, inciso III",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1067,
+      "fim": 1157,
+      "trecho": "Recurso Especial nº 1.890.123/SP , relatado pelo Ministro Dr. Alberto Mendes em 15/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1277,
+      "fim": 1298,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1676,
+      "fim": 1769,
+      "trecho": "Agravo Interno nº 445566/DF , julgado em 10/11/2022 sob a relatoria do Ministro Ricardo Souza",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1799,
+      "fim": 1824,
+      "trecho": "as normas do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2075,
+      "fim": 2103,
+      "trecho": "princípio da boa-fé objetiva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2246,
+      "fim": 2276,
+      "trecho": "Precedente Interno TSE-VAR-926",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2543,
+      "fim": 2560,
+      "trecho": "Súmula 487 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

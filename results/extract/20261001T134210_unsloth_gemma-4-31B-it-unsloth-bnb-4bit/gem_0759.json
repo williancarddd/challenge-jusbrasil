@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0759",
+  "citacoes": [
+    {
+      "inicio": 931,
+      "fim": 948,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1010,
+      "fim": 1051,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1235,
+      "fim": 1257,
+      "trecho": "Estatuto dos Militares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1294,
+      "fim": 1308,
+      "trecho": "REsp 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1646,
+      "fim": 1662,
+      "trecho": "Súmula 44 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1834,
+      "fim": 1875,
+      "trecho": "Parecer Técnico-Jurídico nº 99/X-2023-AGU",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2069,
+      "trecho": "artigo 45 da Lei 6.880/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2268,
+      "fim": 2284,
+      "trecho": "HC 88.123 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0236",
+  "citacoes": [
+    {
+      "inicio": 307,
+      "fim": 340,
+      "trecho": "Emenda Constitucional nº 103/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 711,
+      "fim": 780,
+      "trecho": "ARE 1.234.567/SP, relatado pelo Ministro Aurélio Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 926,
+      "fim": 957,
+      "trecho": "art. 40 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1020,
+      "fim": 1044,
+      "trecho": "Lei nº 8.213/91, art. 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1241,
+      "fim": 1277,
+      "trecho": "RE 987.654/RJ, julgado em 14/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1645,
+      "fim": 1667,
+      "trecho": "art. 25 da EC 103/2019",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1790,
+      "fim": 1820,
+      "trecho": "julgado do STF sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1971,
+      "fim": 1995,
+      "trecho": "Súmula Interna 402-STF-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2407,
+      "fim": 2439,
+      "trecho": "estatuto dos servidores públicos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2706,
+      "fim": 2750,
+      "trecho": "jurisprudência dominante desta Suprema Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

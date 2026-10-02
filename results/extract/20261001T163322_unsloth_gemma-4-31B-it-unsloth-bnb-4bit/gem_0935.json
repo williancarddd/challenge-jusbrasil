@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0935",
+  "citacoes": [
+    {
+      "inicio": 850,
+      "fim": 888,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1383,
+      "fim": 1410,
+      "trecho": "RR-556677-12.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1499,
+      "fim": 1552,
+      "trecho": "Constituição Federal, em seu artigo 5º, inciso LXVIII",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1535,
+      "fim": 1552,
+      "trecho": "5º, inciso LXVIII",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1791,
+      "fim": 1807,
+      "trecho": "Súmula 42 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2324,
+      "fim": 2374,
+      "trecho": "Norma Interna de Procedimentos Judiciais NI-9982-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2542,
+      "fim": 2551,
+      "trecho": "HC-123456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2715,
+      "fim": 2736,
+      "trecho": "Lei de Execução Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

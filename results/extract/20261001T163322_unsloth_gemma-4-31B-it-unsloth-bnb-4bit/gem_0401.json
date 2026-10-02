@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0401",
+  "citacoes": [
+    {
+      "inicio": 770,
+      "fim": 808,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1074,
+      "fim": 1115,
+      "trecho": "diretrizes do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1354,
+      "fim": 1459,
+      "trecho": "Agravo de Instrumento nº 2233445-11.2022.8.26.0000, Rel. Des. Marcos Aurélio Silva, julgado em 15/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1595,
+      "fim": 1649,
+      "trecho": "artigo 124, inciso II, alínea d, da Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1631,
+      "fim": 1649,
+      "trecho": "Lei nº 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1811,
+      "fim": 1837,
+      "trecho": "jurisprudência desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1937,
+      "fim": 2027,
+      "trecho": "Apelação Cível nº 5006007-88.2021.8.26.0100, Rel. Des. Helena Rocha, julgado em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2056,
+      "fim": 2092,
+      "trecho": "Precedente Interno ID-9988-TJSP-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2209,
+      "fim": 2258,
+      "trecho": "Lei de Introdução às Normas do Direito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

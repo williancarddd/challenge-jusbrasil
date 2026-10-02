@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0854",
+  "citacoes": [
+    {
+      "inicio": 997,
+      "fim": 1035,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1945,
+      "fim": 1983,
+      "trecho": "artigo 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2000,
+      "fim": 2030,
+      "trecho": "Princípio da Menor Onerosidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2153,
+      "fim": 2187,
+      "trecho": "Agravo Regimental no HC 101.202/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2330,
+      "fim": 2359,
+      "trecho": "Precedente Interno TST-8892-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

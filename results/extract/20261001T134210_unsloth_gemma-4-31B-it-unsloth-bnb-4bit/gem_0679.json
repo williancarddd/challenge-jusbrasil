@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0679",
+  "citacoes": [
+    {
+      "inicio": 406,
+      "fim": 433,
+      "trecho": "Lei nº 12.008/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 995,
+      "fim": 1077,
+      "trecho": "RMS-2023-004567-89, relatado pelo Ministro Dr. Alisson Rocha em 12 de maio de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1282,
+      "fim": 1309,
+      "trecho": "Lei nº 12.016/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1414,
+      "fim": 1434,
+      "trecho": "Súmula nº 214 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1627,
+      "fim": 1651,
+      "trecho": "Regimento Interno do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1730,
+      "fim": 1821,
+      "trecho": "Ag-AIR-98765-2021-TST, sob relatoria da Ministra Dra. Beatriz Clara em 14 de agosto de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1971,
+      "fim": 2003,
+      "trecho": "Instrução Normativa TST-XYZ-2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

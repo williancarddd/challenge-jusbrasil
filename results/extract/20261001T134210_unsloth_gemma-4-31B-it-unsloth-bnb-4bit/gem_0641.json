@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0641",
+  "citacoes": [
+    {
+      "inicio": 519,
+      "fim": 535,
+      "trecho": "artigo 3º da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 691,
+      "fim": 725,
+      "trecho": "artigo 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 903,
+      "fim": 936,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1162,
+      "fim": 1233,
+      "trecho": "REsp 1.928.374/SP, relatado pelo Ministro Dr. Alvim Rocha em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1387,
+      "fim": 1479,
+      "trecho": "AgInt no AREsp 456.789/RJ, julgado em 10/08/2022, sob relatoria do Ministro Dr. Silas Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1773,
+      "fim": 1797,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1891,
+      "fim": 1915,
+      "trecho": "Informativo 1.102 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2068,
+      "fim": 2151,
+      "trecho": "Recurso Especial 2.110.445/MG, relatado pelo Ministro Dr. Jorge Amado em 15/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2280,
+      "fim": 2334,
+      "trecho": "Protocolo de Harmonização Jurisprudencial PHJ-2023-STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

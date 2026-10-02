@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0271",
+  "citacoes": [
+    {
+      "inicio": 913,
+      "fim": 939,
+      "trecho": "Lei 11.101/2005, artigo 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1226,
+      "trecho": "Agravo de Instrumento nº 5023456-12.2022.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1441,
+      "fim": 1482,
+      "trecho": "Constituição Federal, artigo 7º, inciso X",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1625,
+      "fim": 1651,
+      "trecho": "Lei 11.101/2005, artigo 49",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1937,
+      "fim": 1980,
+      "trecho": "Apelação Cível nº 5087654-32.2021.4.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2088,
+      "fim": 2105,
+      "trecho": "Teoria da Empresa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2206,
+      "fim": 2223,
+      "trecho": "Súmula 449 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2365,
+      "fim": 2417,
+      "trecho": "Protocolo Interno de Gestão de Créditos RJ-TRF4-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2658,
+      "fim": 2673,
+      "trecho": "Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

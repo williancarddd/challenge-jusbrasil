@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0239",
+  "citacoes": [
+    {
+      "inicio": 870,
+      "fim": 895,
+      "trecho": "artigo 59 da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1080,
+      "fim": 1114,
+      "trecho": "artigo 100 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1316,
+      "fim": 1438,
+      "trecho": "Agravo de Instrumento nº 5044321-11.2022.4.04.0000, relatado pelo Desembargador Federal Marcos Aurélio Silva em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1602,
+      "fim": 1615,
+      "trecho": "Lei 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1876,
+      "fim": 1891,
+      "trecho": "decisões do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2168,
+      "fim": 2185,
+      "trecho": "Súmula 422 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2290,
+      "fim": 2398,
+      "trecho": "Recurso Especial nº 1.889.990/RS, julgado em 20/09/2023 sob relatoria do Desembargador Federal Ricardo Nunes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

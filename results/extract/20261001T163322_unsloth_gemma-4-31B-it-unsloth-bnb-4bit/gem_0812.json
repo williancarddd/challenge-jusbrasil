@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0812",
+  "citacoes": [
+    {
+      "inicio": 639,
+      "fim": 665,
+      "trecho": "Lei nº 8.250/91, artigo 4º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1016,
+      "fim": 1047,
+      "trecho": "NR-15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1421,
+      "fim": 1434,
+      "trecho": "RMS 12.345/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1447,
+      "fim": 1483,
+      "trecho": "Constituição Federal, artigo 37, §1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1661,
+      "fim": 1690,
+      "trecho": "Recurso Especial nº 88.123/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1914,
+      "fim": 1958,
+      "trecho": "Parecer Técnico-Jurídico nº 998/2022-STM-PRO",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2139,
+      "fim": 2166,
+      "trecho": "Agravo Regimental 44.102/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2201,
+      "fim": 2230,
+      "trecho": "regimento interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

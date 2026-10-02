@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0684",
+  "citacoes": [
+    {
+      "inicio": 636,
+      "fim": 672,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1096,
+      "fim": 1158,
+      "trecho": "HC 150.888/SP (Rel. Min. Marco Aurélio, julgado em 12/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1269,
+      "fim": 1323,
+      "trecho": "jurisprudência consolidada do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1461,
+      "fim": 1497,
+      "trecho": "art. 316 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1911,
+      "fim": 1979,
+      "trecho": "Acórdão-Ref-9982/STF (Rel. Min. Silvia Lopes, julgado em 09/11/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2142,
+      "fim": 2178,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2263,
+      "fim": 2309,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2440,
+      "fim": 2503,
+      "trecho": "HC 180.222/RJ (Rel. Min. Ricardo Mendes, julgado em 20/01/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

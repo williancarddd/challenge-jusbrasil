@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0044",
+  "citacoes": [
+    {
+      "inicio": 670,
+      "fim": 685,
+      "trecho": "art. 900 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 811,
+      "fim": 934,
+      "trecho": "jurisprudência pátria consolidou o entendimento de que a deserção não deve ser declarada quando o recolhimento foi efetuado",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 958,
+      "fim": 1053,
+      "trecho": "Recurso de Revista RR-10234-55.2021.5.03.0000, relatado pelo Des. Marcos Vinícius em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1102,
+      "fim": 1134,
+      "trecho": "Lei 12.016/2009 no seu artigo 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1309,
+      "fim": 1343,
+      "trecho": "normas do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1426,
+      "fim": 1497,
+      "trecho": "precedente fixado no Agravo de Instrumento AIRR-98765-11.2020.5.03.0010",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1779,
+      "fim": 1831,
+      "trecho": "protocolo interno de conformidade PROC-TRT3-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1897,
+      "fim": 1934,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2086,
+      "fim": 2181,
+      "trecho": "Mandado de Segurança MS-55443-22.2022.5.03.0000, julgado em 10/11/2022 pelo Des. Ricardo Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

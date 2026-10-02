@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0538",
+  "citacoes": [
+    {
+      "inicio": 585,
+      "fim": 621,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 811,
+      "fim": 864,
+      "trecho": "HC 123.456/SP, Rel. Min. Silva, julgado em 10/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1110,
+      "fim": 1161,
+      "trecho": "a Constituição Federal, em seu art. 5º, inciso LXVI",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1314,
+      "fim": 1374,
+      "trecho": "a custódia preventiva não pode servir como sanção antecipada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1448,
+      "fim": 1496,
+      "trecho": "MS 987/DF, Rel. Min. Souza, datado de 12/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1653,
+      "fim": 1689,
+      "trecho": "art. 319 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1796,
+      "fim": 1831,
+      "trecho": "precedente interno  ID-STM-2024-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

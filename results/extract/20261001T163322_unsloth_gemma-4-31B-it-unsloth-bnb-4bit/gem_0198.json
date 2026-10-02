@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0198",
+  "citacoes": [
+    {
+      "inicio": 385,
+      "fim": 425,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1005,
+      "fim": 1086,
+      "trecho": "a lei previdenciária assegura a proteção ao trabalhador exposto a agentes nocivos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1126,
+      "fim": 1151,
+      "trecho": "artigo 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1248,
+      "fim": 1347,
+      "trecho": "jurisprudência deste Tribunal é pacífica no sentido de que a prova material robusta deve prevalecer",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1375,
+      "fim": 1418,
+      "trecho": "Apelação Cível nº 2034567-12.2022.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1561,
+      "fim": 1594,
+      "trecho": "Decreto 3.048/99 em seu artigo 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1685,
+      "fim": 1703,
+      "trecho": "Súmula 44 do TRF-4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2109,
+      "fim": 2126,
+      "trecho": "Súmula 20 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2250,
+      "fim": 2303,
+      "trecho": "entendimento do STJ sobre a natureza do agente nocivo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

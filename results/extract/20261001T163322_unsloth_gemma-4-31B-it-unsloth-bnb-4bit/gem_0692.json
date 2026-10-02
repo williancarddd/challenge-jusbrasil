@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0692",
+  "citacoes": [
+    {
+      "inicio": 576,
+      "fim": 614,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 915,
+      "fim": 969,
+      "trecho": "HC 123.456/SP (Rel. Min. Silva, julgado em 10/05/2021)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1120,
+      "fim": 1140,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1302,
+      "fim": 1377,
+      "trecho": "Agravo Regimental no HC 987.654/RJ (Rel. Min. Costa, julgado em 12/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1483,
+      "fim": 1531,
+      "trecho": "jurisprudência deste Tribunal Superior Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1667,
+      "trecho": "artigo 282 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1904,
+      "fim": 1916,
+      "trecho": "Lei 9.504/97",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2075,
+      "trecho": "Precedente Interno TSE-2023-X92",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2199,
+      "fim": 2253,
+      "trecho": "HC 554.332/DF (Rel. Min. Souza, julgado em 15/11/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

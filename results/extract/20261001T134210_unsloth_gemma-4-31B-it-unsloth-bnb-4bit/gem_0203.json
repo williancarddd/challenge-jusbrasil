@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0203",
+  "citacoes": [
+    {
+      "inicio": 641,
+      "fim": 665,
+      "trecho": "Lei nº 8.213/91, art. 57",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1130,
+      "fim": 1150,
+      "trecho": "REsp nº 1.654.321/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1539,
+      "fim": 1567,
+      "trecho": "Decreto nº 3.048/99, art. 68",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1618,
+      "fim": 1660,
+      "trecho": "estudos da Turma Nacional de Uniformização",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1803,
+      "fim": 1831,
+      "trecho": "AgInt no AREsp nº 987.654/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1845,
+      "fim": 1896,
+      "trecho": "precedente interno catalogado sob o ID-STJ-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2100,
+      "fim": 2163,
+      "trecho": "princípio da proteção social insculpido na Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2221,
+      "fim": 2240,
+      "trecho": "Súmula nº 44 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

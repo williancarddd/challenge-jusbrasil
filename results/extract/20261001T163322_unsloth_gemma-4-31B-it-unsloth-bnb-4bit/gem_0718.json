@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0718",
+  "citacoes": [
+    {
+      "inicio": 648,
+      "fim": 682,
+      "trecho": "Lei nº 14.133/2021, em seu art. 59",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 951,
+      "fim": 988,
+      "trecho": "Manual de Auditoria de Obras Públicas",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1101,
+      "fim": 1198,
+      "trecho": "Processo nº 0004567-89.2021.5.03.0010 , relatado pelo Desembargador Marcos Vinícius em 15/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1446,
+      "fim": 1470,
+      "trecho": "Lei nº 8.666/93, art. 79",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1675,
+      "fim": 1754,
+      "trecho": "Julgado TRT3-998877-X , sob relatoria da Desembargadora Ana Paula em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2013,
+      "fim": 2058,
+      "trecho": "jurisprudência do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2320,
+      "fim": 2337,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

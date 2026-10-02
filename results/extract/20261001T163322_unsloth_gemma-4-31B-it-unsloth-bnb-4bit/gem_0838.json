@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0838",
+  "citacoes": [
+    {
+      "inicio": 310,
+      "fim": 350,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 761,
+      "fim": 799,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1134,
+      "fim": 1163,
+      "trecho": "Lei 8.666/93 no seu artigo 78",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1299,
+      "fim": 1324,
+      "trecho": "diversos julgados do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1516,
+      "fim": 1625,
+      "trecho": "precedente do Agravo de Instrumento nº 2100456-78.2022.8.26.0000, relatado pelo Desembargador Marcos Vinícius",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1739,
+      "fim": 1756,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2058,
+      "fim": 2087,
+      "trecho": "Lei 14.133/2021 no artigo 115",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2121,
+      "fim": 2154,
+      "trecho": "Parecer Normativo nº 452/2021-PGE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

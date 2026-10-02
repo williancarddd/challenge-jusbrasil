@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0376",
+  "citacoes": [
+    {
+      "inicio": 587,
+      "fim": 630,
+      "trecho": "art. 109, inciso I, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 731,
+      "fim": 763,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 847,
+      "fim": 860,
+      "trecho": "RE 567.890/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1060,
+      "fim": 1092,
+      "trecho": "Código de Processo Penal Militar",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1152,
+      "fim": 1155,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1313,
+      "fim": 1373,
+      "trecho": "HCM 12345/DF, Rel. Min. Marco Aurélio, julgado em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1386,
+      "fim": 1421,
+      "trecho": "Regulamento Disciplinar do Exército",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1499,
+      "fim": 1555,
+      "trecho": "Acórdão 9876/2023, Rel. Min. Sérgio Rocha, de 12/08/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1824,
+      "fim": 1842,
+      "trecho": "Decreto-Lei 667/69",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

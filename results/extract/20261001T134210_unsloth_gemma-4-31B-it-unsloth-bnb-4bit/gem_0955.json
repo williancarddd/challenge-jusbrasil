@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0955",
+  "citacoes": [
+    {
+      "inicio": 731,
+      "fim": 769,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1512,
+      "fim": 1558,
+      "trecho": "artigo 37, inciso XXI, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1694,
+      "fim": 1706,
+      "trecho": "Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1882,
+      "fim": 1911,
+      "trecho": "Recurso Ordinário RO-992/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2034,
+      "fim": 2079,
+      "trecho": "Protocolo de Estabilidade Contratual PCM-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

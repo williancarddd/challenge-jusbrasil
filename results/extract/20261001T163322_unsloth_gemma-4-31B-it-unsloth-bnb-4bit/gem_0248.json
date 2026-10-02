@@ -1,0 +1,41 @@
+{
+  "documento_id": "gem_0248",
+  "citacoes": [
+    {
+      "inicio": 1645,
+      "fim": 1682,
+      "trecho": "Apelação nº 2154879-12.2020.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1708,
+      "fim": 1747,
+      "trecho": "Código de Processo Civil, no artigo 489",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1888,
+      "fim": 1917,
+      "trecho": "STJ no AgInt no AREsp 1543210",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2106,
+      "fim": 2147,
+      "trecho": "Instrução Normativa Interna TJSP-X99-2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

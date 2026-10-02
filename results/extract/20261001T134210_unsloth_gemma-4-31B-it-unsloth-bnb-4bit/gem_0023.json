@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0023",
+  "citacoes": [
+    {
+      "inicio": 772,
+      "fim": 824,
+      "trecho": "NR 15 da Portaria 3.214/78 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1367,
+      "fim": 1384,
+      "trecho": "artigo 192 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1520,
+      "fim": 1557,
+      "trecho": "Apelação nº 2100543-12.2021.8.26.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1922,
+      "fim": 1970,
+      "trecho": "artigo 7º, inciso XXIII, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2163,
+      "fim": 2209,
+      "trecho": "Recurso Ordinário nº 0012345-88.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2414,
+      "fim": 2449,
+      "trecho": "normatização do Ministério da Saúde",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2644,
+      "fim": 2674,
+      "trecho": "Protocolo de Risco Bio-SP-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

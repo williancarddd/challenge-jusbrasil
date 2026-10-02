@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0242",
+  "citacoes": [
+    {
+      "inicio": 1195,
+      "fim": 1229,
+      "trecho": "precedente firmado no RE 1.234.567",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1345,
+      "fim": 1379,
+      "trecho": "diretrizes da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1448,
+      "fim": 1480,
+      "trecho": "artigo 5º, inciso XXII, da CF/88",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1756,
+      "fim": 1773,
+      "trecho": "Súmula 421 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1941,
+      "fim": 1970,
+      "trecho": "Agravo Interno no ARE 987.654",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2209,
+      "fim": 2247,
+      "trecho": "Protocolo de Hermenêutica Civil 2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2323,
+      "fim": 2360,
+      "trecho": "decisões do Tribunal de Justiça local",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

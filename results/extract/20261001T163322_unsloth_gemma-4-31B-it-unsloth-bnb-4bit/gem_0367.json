@@ -1,0 +1,41 @@
+{
+  "documento_id": "gem_0367",
+  "citacoes": [
+    {
+      "inicio": 663,
+      "fim": 703,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 893,
+      "fim": 952,
+      "trecho": "jurisprudência do STF sobre excludentes de responsabilidade",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1296,
+      "fim": 1306,
+      "trecho": "RE 567.890",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1687,
+      "fim": 1704,
+      "trecho": "Súmula 492 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

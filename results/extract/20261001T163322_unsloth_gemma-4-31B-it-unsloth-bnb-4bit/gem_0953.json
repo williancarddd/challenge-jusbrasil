@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0953",
+  "citacoes": [
+    {
+      "inicio": 278,
+      "fim": 318,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 939,
+      "fim": 965,
+      "trecho": "Lei nº 8.245/91, artigo 9º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1183,
+      "fim": 1209,
+      "trecho": "Código Civil, artigo 1.219",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1507,
+      "fim": 1525,
+      "trecho": "TST-ED-2021-9988-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1698,
+      "fim": 1730,
+      "trecho": "CPC, artigo 489, § 1º, inciso IV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1862,
+      "fim": 1900,
+      "trecho": "jurisprudência consolidada desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1935,
+      "fim": 1968,
+      "trecho": "AgRg-AIRR 12345-67.2022.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2155,
+      "fim": 2172,
+      "trecho": "Súmula 385 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

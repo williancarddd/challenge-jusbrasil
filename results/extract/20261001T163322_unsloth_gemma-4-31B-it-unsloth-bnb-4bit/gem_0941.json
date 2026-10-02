@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0941",
+  "citacoes": [
+    {
+      "inicio": 992,
+      "fim": 1015,
+      "trecho": "art. 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1368,
+      "fim": 1378,
+      "trecho": "RE 890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1474,
+      "fim": 1548,
+      "trecho": "jurisprudência desta Corte, em decisões recentes sobre a Lei de Licitações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1726,
+      "fim": 1765,
+      "trecho": "art. 37, caput, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1929,
+      "fim": 1959,
+      "trecho": "Enunciado Interno STF-X99-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2104,
+      "fim": 2123,
+      "trecho": "AgRg no ARE 765.432",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2356,
+      "fim": 2394,
+      "trecho": "estudos do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

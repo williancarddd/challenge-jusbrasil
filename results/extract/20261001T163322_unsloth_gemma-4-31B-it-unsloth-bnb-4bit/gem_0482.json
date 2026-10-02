@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0482",
+  "citacoes": [
+    {
+      "inicio": 510,
+      "fim": 543,
+      "trecho": "Consolidação das Leis do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 764,
+      "fim": 796,
+      "trecho": "art. 114 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 962,
+      "fim": 971,
+      "trecho": "ADI 3.395",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1178,
+      "fim": 1214,
+      "trecho": "art. 37, II, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1386,
+      "fim": 1432,
+      "trecho": "jurisprudência deste Tribunal Regional Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1573,
+      "fim": 1680,
+      "trecho": "Processo 5001234-88.2023.4.04.0000, relatado pelo Desembargador Federal Ricardo Mello em 15 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1789,
+      "fim": 1814,
+      "trecho": "Regimento Interno do TRF4",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1947,
+      "fim": 1963,
+      "trecho": "Súmula 15 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2226,
+      "fim": 2330,
+      "trecho": "Julgado ID-9982-X-2022, datado de 10 de outubro de 2022, sob relatoria da Desembargadora Ana Clara Silva",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

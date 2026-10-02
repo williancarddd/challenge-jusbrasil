@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0639",
+  "citacoes": [
+    {
+      "inicio": 592,
+      "fim": 630,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 833,
+      "fim": 862,
+      "trecho": "artigo 137 da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1398,
+      "fim": 1414,
+      "trecho": "ARE 1.234.567 MT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1546,
+      "fim": 1634,
+      "trecho": "jurisprudência desta Corte, consolidada em decisões do Plenário sobre contratos públicos",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1752,
+      "fim": 1785,
+      "trecho": "Recurso Extraordinário 890.123 SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2458,
+      "fim": 2475,
+      "trecho": "Súmula 456 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0594",
+  "citacoes": [
+    {
+      "inicio": 659,
+      "fim": 687,
+      "trecho": "artigo 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1302,
+      "fim": 1336,
+      "trecho": "processo 1002345-88.2022.8.13.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1465,
+      "fim": 1504,
+      "trecho": "artigo 83, inciso I, da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1845,
+      "fim": 1873,
+      "trecho": "Precedente Interno TRT3-V594",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2071,
+      "fim": 2110,
+      "trecho": "Lei de Recuperação Judicial e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

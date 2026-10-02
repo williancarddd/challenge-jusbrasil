@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0432",
+  "citacoes": [
+    {
+      "inicio": 283,
+      "fim": 311,
+      "trecho": "artigo 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 799,
+      "fim": 877,
+      "trecho": "RE 1.234.567/SP, relatado pelo Ministro Aurélio Viana em 12 de outubro de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1045,
+      "fim": 1079,
+      "trecho": "artigo 227 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1224,
+      "fim": 1237,
+      "trecho": "HC 987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1425,
+      "fim": 1461,
+      "trecho": "Estatuto da Criança e do Adolescente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1783,
+      "fim": 1800,
+      "trecho": "Súmula 543 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2423,
+      "fim": 2470,
+      "trecho": "preceitos internacionais de proteção à infância",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2475,
+      "fim": 2524,
+      "trecho": "jurisprudência consolidada deste Pretório Excelso",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0303",
+  "citacoes": [
+    {
+      "inicio": 1045,
+      "fim": 1075,
+      "trecho": "Constituição Federal, art. 114",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1244,
+      "fim": 1256,
+      "trecho": "CLT, art. 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1573,
+      "fim": 1590,
+      "trecho": "REsp 1.942.103/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1642,
+      "fim": 1666,
+      "trecho": "Lei 13.105/2015, art. 64",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1744,
+      "fim": 1776,
+      "trecho": "casos análogos por este tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2069,
+      "trecho": "AgInt no AREsp 455.122/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2296,
+      "fim": 2313,
+      "trecho": "Súmula 363 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2408,
+      "fim": 2453,
+      "trecho": "Protocolo Interno de Competências STJ-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

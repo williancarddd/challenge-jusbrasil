@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0539",
+  "citacoes": [
+    {
+      "inicio": 810,
+      "fim": 839,
+      "trecho": "artigo 109 da Lei nº 8.038/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1129,
+      "fim": 1245,
+      "trecho": "Agravo Regimental no Recurso Especial Eleitoral nº 12.345/SP, relatado pelo Ministro Dr. Aurélio Silva em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1405,
+      "fim": 1430,
+      "trecho": "Lei Complementar nº 64/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1690,
+      "fim": 1728,
+      "trecho": "decisões recentes desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1924,
+      "fim": 2011,
+      "trecho": "Acórdão nº 987.654-X, julgado em 20/09/2022 sob a relatoria da Ministra Dra. Helena Luz",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2139,
+      "fim": 2165,
+      "trecho": "artigo 107 do Código Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2365,
+      "fim": 2394,
+      "trecho": "Parecer Normativo TSE-2023-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2673,
+      "fim": 2751,
+      "trecho": "diretrizes do Conselho Nacional de Justiça sobre a gestão de acervos judiciais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

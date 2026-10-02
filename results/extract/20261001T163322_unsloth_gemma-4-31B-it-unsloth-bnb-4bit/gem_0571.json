@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0571",
+  "citacoes": [
+    {
+      "inicio": 1216,
+      "fim": 1254,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1504,
+      "fim": 1515,
+      "trecho": "ARE 890.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1796,
+      "fim": 1826,
+      "trecho": "Lei nº 14.133/2021, artigo 124",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2100,
+      "fim": 2110,
+      "trecho": "RE 654.321",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2119,
+      "fim": 2178,
+      "trecho": "orientação constante em decisões do plenário deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2407,
+      "fim": 2445,
+      "trecho": "Princípio da Legalidade Administrativa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2600,
+      "fim": 2617,
+      "trecho": "Súmula 456 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2622,
+      "fim": 2674,
+      "trecho": "norma interna do Regimento Interno do STF, artigo 12",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

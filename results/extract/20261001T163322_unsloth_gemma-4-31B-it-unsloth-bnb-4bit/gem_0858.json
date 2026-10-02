@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0858",
+  "citacoes": [
+    {
+      "inicio": 704,
+      "fim": 726,
+      "trecho": "AgInt no RMS 62.145/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 849,
+      "fim": 877,
+      "trecho": "Lei Estadual 12.345, art. 12",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1098,
+      "fim": 1134,
+      "trecho": "jurisprudência consolidada deste STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1253,
+      "fim": 1270,
+      "trecho": "Súmula 640 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1433,
+      "fim": 1472,
+      "trecho": "Regimento Interno do Tribunal de origem",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1694,
+      "fim": 1711,
+      "trecho": "REsp 1.987.654/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1828,
+      "fim": 1859,
+      "trecho": "Precedente Interno STJ-XYZ-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1983,
+      "fim": 2003,
+      "trecho": "Lei 4.320/64, art. 2",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2348,
+      "trecho": "Regimento Interno desta Corte",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

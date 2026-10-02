@@ -1,0 +1,9 @@
+{
+  "name": "unsloth/Qwen3-8B-unsloth-bnb-4bit",
+  "role": "student",
+  "family": "Qwen",
+  "parameters": "8B",
+  "slug": "unsloth_Qwen3-8B-unsloth-bnb-4bit",
+  "batch_size": 1000,
+  "lora": "Morsoleto/Qwen3-8B-cacador-lora"
+}

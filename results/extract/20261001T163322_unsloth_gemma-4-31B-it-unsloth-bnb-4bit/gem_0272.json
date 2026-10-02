@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0272",
+  "citacoes": [
+    {
+      "inicio": 312,
+      "fim": 329,
+      "trecho": "Lei nº 8.429/1992",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 366,
+      "fim": 384,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 492,
+      "fim": 536,
+      "trecho": "artigo 1º, §§ 1º, 2º e 3º da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 854,
+      "fim": 970,
+      "trecho": "Apelação Cível nº 5001234-56.2023.4.04.0000, relatado pelo Desembargador Federal Ricardo Alvim em 12 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1276,
+      "fim": 1306,
+      "trecho": "artigo 17-C da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1529,
+      "fim": 1553,
+      "trecho": "decisões recentes do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1685,
+      "fim": 1814,
+      "trecho": "Agravo de Instrumento nº 5009876-11.2022.4.04.0000, sob relatoria da Desembargadora Federal Helena Souza em 20 de outubro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1976,
+      "fim": 2000,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2224,
+      "fim": 2267,
+      "trecho": "Manual de Gestão Pública do TRF4-Doc-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

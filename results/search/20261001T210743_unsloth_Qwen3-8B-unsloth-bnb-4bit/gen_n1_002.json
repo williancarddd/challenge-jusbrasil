@@ -1,0 +1,72 @@
+{
+  "documento_id": "gen_n1_002",
+  "citacoes": [
+    {
+      "inicio": 651,
+      "fim": 709,
+      "trecho": "precedente\ndo STF de 2026, da relatoria de CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 845,
+      "fim": 898,
+      "trecho": "Reclamação\ndo STF, de 2025, Rel. Min. CRISTIANO ZANIN",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1052,
+      "fim": 1065,
+      "trecho": "Rcl 55.626/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1464,
+      "fim": 1501,
+      "trecho": "Recurso em Habeas Corpus nº 57.763/PR",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "3576055165"
+      }
+    },
+    {
+      "inicio": 1613,
+      "fim": 1643,
+      "trecho": "AgInt no AREsp nº 1.996.496/RJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "1922829498"
+      }
+    },
+    {
+      "inicio": 2750,
+      "fim": 2753,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2805,
+      "fim": 2808,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

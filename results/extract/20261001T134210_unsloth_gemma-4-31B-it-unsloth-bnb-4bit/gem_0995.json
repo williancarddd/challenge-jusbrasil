@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0995",
+  "citacoes": [
+    {
+      "inicio": 775,
+      "fim": 808,
+      "trecho": "Lei 14.133/2021, em seu artigo 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1001,
+      "fim": 1029,
+      "trecho": "Lei 8.429/1992, no artigo 10",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1288,
+      "fim": 1298,
+      "trecho": "RE 600.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1536,
+      "fim": 1557,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1722,
+      "fim": 1751,
+      "trecho": "Decreto-Lei 200/67, artigo 12",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1974,
+      "fim": 1991,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2064,
+      "fim": 2098,
+      "trecho": "Norma Técnica de Auditoria NT-99-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

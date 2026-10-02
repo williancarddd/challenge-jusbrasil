@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0622",
+  "citacoes": [
+    {
+      "inicio": 784,
+      "fim": 845,
+      "trecho": "HC 123.456/DF, Rel. Min. Aurélio Silva, julgado em 10/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 890,
+      "fim": 928,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1151,
+      "fim": 1197,
+      "trecho": "jurisprudência do STF sobre medidas cautelares",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1360,
+      "fim": 1377,
+      "trecho": "artigo 282 do CPP",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1531,
+      "fim": 1591,
+      "trecho": "HC 987.654/SP, Rel. Min. Clara Mendes, julgado em 12/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1743,
+      "fim": 1760,
+      "trecho": "Súmula 111 do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2082,
+      "trecho": "artigo 93, IX, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2101,
+      "fim": 2137,
+      "trecho": "Protocolo de Liberdade 2024-V622-TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

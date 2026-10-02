@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0205",
+  "citacoes": [
+    {
+      "inicio": 591,
+      "fim": 618,
+      "trecho": "Lei nº 11.101/2005, art. 47",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1059,
+      "fim": 1079,
+      "trecho": "REsp nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1401,
+      "fim": 1428,
+      "trecho": "Lei nº 11.101/2005, art. 6º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1509,
+      "fim": 1535,
+      "trecho": "Habeas Corpus nº 88.123/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1853,
+      "fim": 1873,
+      "trecho": "Súmula nº 441 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2103,
+      "fim": 2134,
+      "trecho": "Acórdão Interno STM-2023-XYZ-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2356,
+      "fim": 2383,
+      "trecho": "Lei nº 11.101/2005, art. 84",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2502,
+      "fim": 2560,
+      "trecho": "orientação jurisprudencial do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

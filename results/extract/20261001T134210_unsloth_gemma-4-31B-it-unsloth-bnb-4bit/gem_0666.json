@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0666",
+  "citacoes": [
+    {
+      "inicio": 303,
+      "fim": 341,
+      "trecho": "art. 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 838,
+      "fim": 855,
+      "trecho": "Lei nº 9.883/1999",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1109,
+      "fim": 1145,
+      "trecho": "art. 23 da Lei Complementar nº 64/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1237,
+      "fim": 1278,
+      "trecho": "Agravo Regimental no REsp nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1440,
+      "fim": 1461,
+      "trecho": "jurisprudência do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1651,
+      "fim": 1700,
+      "trecho": "tese fixada no Informativo Jurídico nº 999-X-2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1818,
+      "fim": 1851,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1963,
+      "fim": 2016,
+      "trecho": "precedente estabelecido no Habeas Corpus nº 88.776/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

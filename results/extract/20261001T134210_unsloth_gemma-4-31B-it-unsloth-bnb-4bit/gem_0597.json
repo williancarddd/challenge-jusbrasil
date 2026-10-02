@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0597",
+  "citacoes": [
+    {
+      "inicio": 612,
+      "fim": 636,
+      "trecho": "Lei 12.527/2011, art. 7º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 744,
+      "fim": 777,
+      "trecho": "Constituição Federal, art. 5º, LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1042,
+      "fim": 1129,
+      "trecho": "AgR-REspeletrão nº 12345/DF, relatado pelo Ministro Dr. Aurélio Meirelles em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1272,
+      "fim": 1289,
+      "trecho": "Resoluções do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1505,
+      "trecho": "jurisprudência do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1568,
+      "fim": 1605,
+      "trecho": "MS nº 98765/SP, julgado em 20/10/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1806,
+      "fim": 1830,
+      "trecho": "Lei 12.016/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1937,
+      "fim": 1983,
+      "trecho": "Protocolo Interno de Transparência TSE-2023-X9",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

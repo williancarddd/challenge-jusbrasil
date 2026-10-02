@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0496",
+  "citacoes": [
+    {
+      "inicio": 973,
+      "fim": 1011,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1376,
+      "fim": 1414,
+      "trecho": "princípio da legalidade administrativa",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1665,
+      "fim": 1692,
+      "trecho": "Processo TST-AG-2021-8899-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1994,
+      "fim": 2028,
+      "trecho": "Julgado RR-12345-67.2022.5.02.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2067,
+      "fim": 2092,
+      "trecho": "artigo 47 da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2342,
+      "fim": 2374,
+      "trecho": "Parecer Normativo TST-PN-2023-01",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

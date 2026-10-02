@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0711",
+  "citacoes": [
+    {
+      "inicio": 765,
+      "fim": 814,
+      "trecho": "art. 124, inciso II, alínea d, da Lei 14.133/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1004,
+      "fim": 1021,
+      "trecho": "REsp 1.892.341/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1275,
+      "fim": 1299,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1433,
+      "fim": 1448,
+      "trecho": "art. 300 do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1552,
+      "trecho": "AgInt no AREsp 1.234.567/RJ, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1889,
+      "fim": 1954,
+      "trecho": "Súmula identificada no sistema interno como Súmula-X-2024-STJ-ADM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2062,
+      "fim": 2076,
+      "trecho": "Lei 8.666/1993",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2126,
+      "fim": 2154,
+      "trecho": "art. 65, inciso II, alínea d",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

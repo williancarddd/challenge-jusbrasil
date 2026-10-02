@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0031",
+  "citacoes": [
+    {
+      "inicio": 817,
+      "fim": 847,
+      "trecho": "Lei 8.666/93, em seu artigo 55",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 968,
+      "fim": 994,
+      "trecho": "Lei 14.133/2021, artigo 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1314,
+      "fim": 1406,
+      "trecho": "julgamento do RR-12345-67.2022.5.02.0001, relatado pelo Ministro Aurélio Silva em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1492,
+      "fim": 1509,
+      "trecho": "Súmula 331 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1603,
+      "fim": 1636,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1972,
+      "fim": 2075,
+      "trecho": "Agravo de Instrumento AIRR-98765-43.2021.5.04.0010, decidido pelo Ministro Ricardo Mendes em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2204,
+      "fim": 2238,
+      "trecho": "Instrução Normativa IN-TST-99/2024",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

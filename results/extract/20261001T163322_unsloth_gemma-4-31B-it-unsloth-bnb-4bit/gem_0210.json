@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0210",
+  "citacoes": [
+    {
+      "inicio": 797,
+      "fim": 833,
+      "trecho": "art. 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1095,
+      "fim": 1105,
+      "trecho": "HC 123.456",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1361,
+      "fim": 1376,
+      "trecho": "art. 282 do CPP",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1646,
+      "fim": 1671,
+      "trecho": "RR-8899-10.2022.5.00.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1830,
+      "fim": 1870,
+      "trecho": "norma do Pacto de San José da Costa Rica",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1981,
+      "fim": 2034,
+      "trecho": "Protocolo Interno de Garantias Judiciais PIG-2023-TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0296",
+  "citacoes": [
+    {
+      "inicio": 658,
+      "fim": 706,
+      "trecho": "artigo 11-A da Consolidação das Leis do Trabalho",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 850,
+      "fim": 882,
+      "trecho": "Instrução Normativa nº 41 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 966,
+      "fim": 1059,
+      "trecho": "AIRR-12345-67.2021.5.02.0000, relatado pelo Ministro Dr. Aurélio Mendes em 15 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1329,
+      "fim": 1430,
+      "trecho": "Ag-AIRR-98765-43.2020.5.15.0000, sob relatoria do Ministro Dr. Cláudio Rocha em 10 de outubro de 2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1612,
+      "fim": 1645,
+      "trecho": "orientação jurisprudencial do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1947,
+      "fim": 2010,
+      "trecho": "Processo Interno-TST-X99-2023, datado de 12 de dezembro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2162,
+      "fim": 2197,
+      "trecho": "doutrina processualista trabalhista",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2391,
+      "fim": 2409,
+      "trecho": "artigo 11-A da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2748,
+      "fim": 2763,
+      "trecho": "Lei 13.467/2017",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

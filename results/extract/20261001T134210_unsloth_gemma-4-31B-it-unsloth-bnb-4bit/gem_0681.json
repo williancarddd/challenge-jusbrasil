@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0681",
+  "citacoes": [
+    {
+      "inicio": 356,
+      "fim": 396,
+      "trecho": "artigo 1.022 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 894,
+      "fim": 932,
+      "trecho": "artigo 921 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1237,
+      "fim": 1450,
+      "trecho": "Superior Tribunal de Justiça, em sede de recurso repetitivo, consolidou a tese de que a prescrição intercorrente ocorre quando o exequente deixa de promover a execução por prazo superior ao da prescrição do título",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1516,
+      "fim": 1543,
+      "trecho": "AgInt no AREsp 1.543.210/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1838,
+      "fim": 1855,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1898,
+      "fim": 1924,
+      "trecho": "artigo 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2051,
+      "fim": 2068,
+      "trecho": "REsp 1.604.477/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2203,
+      "fim": 2206,
+      "trecho": "CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2319,
+      "fim": 2362,
+      "trecho": "Apelação Cível nº 1002345-67.2020.8.26.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

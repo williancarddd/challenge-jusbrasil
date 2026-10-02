@@ -1,0 +1,43 @@
+{
+  "documento_id": "gen_n1_013",
+  "citacoes": [
+    {
+      "inicio": 293,
+      "fim": 296,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1041,
+      "fim": 1064,
+      "trecho": "Reclamação nº 22.225/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "inventada",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1532,
+      "trecho": "precedente firmado em sede de recurso repetitivo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1629,
+      "fim": 1676,
+      "trecho": "art. 1º, I, 'g', da Lei Complementar nº 64/1990",
+      "tipo": "lei",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "11304039"
+      }
+    }
+  ]
+}

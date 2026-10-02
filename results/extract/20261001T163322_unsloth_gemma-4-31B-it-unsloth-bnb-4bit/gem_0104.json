@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0104",
+  "citacoes": [
+    {
+      "inicio": 660,
+      "fim": 685,
+      "trecho": "art. 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 784,
+      "fim": 787,
+      "trecho": "CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 836,
+      "fim": 864,
+      "trecho": "jurisprudência deste E. TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1021,
+      "fim": 1104,
+      "trecho": "Processo 0000987-12.2020.5.03.0000, Rel. Des. Marcos Aurélio, julgado em 15/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1277,
+      "fim": 1331,
+      "trecho": "orientação do Conselho Superior da Justiça do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1511,
+      "fim": 1588,
+      "trecho": "Habeas Corpus Processual nº 4455/2022, Rel. Des. Sílvio Mendes, em 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1710,
+      "fim": 1756,
+      "trecho": "tese fixada pelo Tribunal Superior do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1898,
+      "fim": 1915,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2044,
+      "fim": 2130,
+      "trecho": "Recurso Ordinário 0000111-22.2018.5.03.0000, Rel. Des. Clara Luz, datado de 20/01/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2261,
+      "fim": 2294,
+      "trecho": "Instrução Normativa nº 05 do TRT3",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

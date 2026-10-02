@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0618",
+  "citacoes": [
+    {
+      "inicio": 443,
+      "fim": 466,
+      "trecho": "art. 57 da Lei 8.213/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 809,
+      "fim": 879,
+      "trecho": "REsp 1.854.321/SP, relatado pelo Ministro Aurélio Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1229,
+      "fim": 1256,
+      "trecho": "Instrução Normativa do INSS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1524,
+      "fim": 1600,
+      "trecho": "AgInt no AREsp 998.776/RS, julgado em 14/08/2023 pelo Ministro Cláudio Veras",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1786,
+      "fim": 1803,
+      "trecho": "Tema 1.018 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1904,
+      "fim": 1920,
+      "trecho": "Súmula 44 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2114,
+      "fim": 2146,
+      "trecho": "princípio do in dubio pro misero",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2222,
+      "fim": 2304,
+      "trecho": "Recurso Especial ID-99821-X, de relatoria do Ministro Jorge Silveira em 03/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2637,
+      "fim": 2669,
+      "trecho": "art. 201 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

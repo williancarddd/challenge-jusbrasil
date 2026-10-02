@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0872",
+  "citacoes": [
+    {
+      "inicio": 839,
+      "fim": 875,
+      "trecho": "Lei nº 14.133/2021, em seu artigo 11",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1266,
+      "fim": 1289,
+      "trecho": "Agravo-RO nº 987.654/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1445,
+      "fim": 1492,
+      "trecho": "Lei nº 8.666/1993, especificamente no artigo 45",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1616,
+      "fim": 1656,
+      "trecho": "Recurso Especial Eleitoral nº 456.789/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1995,
+      "fim": 2048,
+      "trecho": "protocolo interno de controle interno TSE-CONT-2023-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2182,
+      "fim": 2220,
+      "trecho": "jurisprudência do STJ sobre licitações",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

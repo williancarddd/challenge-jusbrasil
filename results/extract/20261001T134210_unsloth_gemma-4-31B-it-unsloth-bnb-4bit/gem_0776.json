@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0776",
+  "citacoes": [
+    {
+      "inicio": 797,
+      "fim": 828,
+      "trecho": "art. 37 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1066,
+      "fim": 1095,
+      "trecho": "jurisprudência deste tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1258,
+      "fim": 1287,
+      "trecho": "Habeas Data nº 998877-12/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1452,
+      "fim": 1464,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1686,
+      "fim": 1756,
+      "trecho": "entendimento do STF sobre a proteção da confiança legítima do servidor",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1786,
+      "fim": 1810,
+      "trecho": "precedente RMS 54.321/RS",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1970,
+      "fim": 1987,
+      "trecho": "Súmula 473 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2350,
+      "fim": 2466,
+      "trecho": "jurisprudência administrativa deve convergir para a máxima eficácia dos direitos fundamentais do trabalhador público",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0994",
+  "citacoes": [
+    {
+      "inicio": 525,
+      "fim": 563,
+      "trecho": "art. 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1105,
+      "fim": 1148,
+      "trecho": "jurisprudência do Superior Tribunal Militar",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1309,
+      "fim": 1327,
+      "trecho": "HCM 1.204/2019-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1487,
+      "fim": 1504,
+      "trecho": "STF no RE 597.123",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1631,
+      "fim": 1675,
+      "trecho": "Lei 9.503/97 (Código de Trânsito Brasileiro)",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1737,
+      "fim": 1763,
+      "trecho": "art. 29, inciso II, do CTB",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1867,
+      "fim": 1922,
+      "trecho": "Manual de Procedimentos de Trânsito Militar (MPTM-2010)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2063,
+      "fim": 2075,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2151,
+      "fim": 2229,
+      "trecho": "AI 8872/2021-STM, relatado pelo Ministro Jorge Alencar em 12 de agosto de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

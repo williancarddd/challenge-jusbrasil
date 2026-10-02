@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0550",
+  "citacoes": [
+    {
+      "inicio": 796,
+      "fim": 826,
+      "trecho": "artigo 216-A da Lei 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 990,
+      "fim": 1073,
+      "trecho": "RE 1.234.567/SP, sob a relatoria do Ministro Aurélio Mendes, em 15 de março de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1465,
+      "fim": 1489,
+      "trecho": "decisões recentes do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1656,
+      "fim": 1673,
+      "trecho": "Súmula 450 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1980,
+      "fim": 2004,
+      "trecho": "AgRg no AREsp 887.766/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2121,
+      "fim": 2146,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

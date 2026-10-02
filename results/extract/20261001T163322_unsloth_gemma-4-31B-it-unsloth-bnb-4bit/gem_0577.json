@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0577",
+  "citacoes": [
+    {
+      "inicio": 734,
+      "fim": 761,
+      "trecho": "artigo 11-A da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 827,
+      "fim": 844,
+      "trecho": "artigo 889 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1184,
+      "fim": 1210,
+      "trecho": "Processo TRT3-AG-2021-8872",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1383,
+      "fim": 1425,
+      "trecho": "Instrução Normativa do TST sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1730,
+      "fim": 1754,
+      "trecho": "Lei de Execuções Fiscais",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1801,
+      "fim": 1827,
+      "trecho": "RR-12345-67.2020.5.03.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1943,
+      "fim": 1981,
+      "trecho": "Manual de Procedimentos do TRT3-ID-99X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

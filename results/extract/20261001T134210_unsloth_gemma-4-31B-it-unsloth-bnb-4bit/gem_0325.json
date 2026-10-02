@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0325",
+  "citacoes": [
+    {
+      "inicio": 727,
+      "fim": 767,
+      "trecho": "artigo 174 do Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1021,
+      "fim": 1113,
+      "trecho": "Apelação Cível nº 2021.000567-89.8.26.0000, Rel. Des. Marcos Vinícius, julgado em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1370,
+      "fim": 1403,
+      "trecho": "Recurso Especial nº 1.234.567/STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1455,
+      "fim": 1533,
+      "trecho": "orientações do Superior Tribunal de Justiça acerca da prescrição intercorrente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1824,
+      "fim": 1852,
+      "trecho": "artigo 40 da Lei nº 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1898,
+      "fim": 1915,
+      "trecho": "Súmula 314 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1990,
+      "fim": 2088,
+      "trecho": "Agravo de Instrumento nº 22003344-55.2020.8.26.0000, Rel. Des. Helena Souza, julgado em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2223,
+      "fim": 2267,
+      "trecho": "Protocolo de Eficiência Tributária SP-2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2366,
+      "fim": 2388,
+      "trecho": "Lei de Execução Fiscal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2582,
+      "fim": 2632,
+      "trecho": "artigo 487, inciso II, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

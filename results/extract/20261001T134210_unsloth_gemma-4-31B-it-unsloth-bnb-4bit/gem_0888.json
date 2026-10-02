@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0888",
+  "citacoes": [
+    {
+      "inicio": 656,
+      "fim": 690,
+      "trecho": "artigo 109 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1157,
+      "fim": 1226,
+      "trecho": "Apelação Cm 12345/2022, Rel. Min. Augusto Vale, julgado em 15/03/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1353,
+      "fim": 1395,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1554,
+      "fim": 1588,
+      "trecho": "artigo 125 da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1759,
+      "fim": 1775,
+      "trecho": "Súmula 45 do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1890,
+      "fim": 1960,
+      "trecho": "Habeas Corpus n. 9876/2021, Rel. Min. Clara Luz, julgado em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2107,
+      "fim": 2146,
+      "trecho": "Manual de Procedimentos Internos do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2246,
+      "fim": 2258,
+      "trecho": "Lei 8.112/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

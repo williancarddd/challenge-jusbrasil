@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0486",
+  "citacoes": [
+    {
+      "inicio": 839,
+      "fim": 868,
+      "trecho": "artigo 186 da Lei 10.406/2002",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1338,
+      "fim": 1431,
+      "trecho": "Apelação Cível nº 5001234-11.2022.8.26.0000, Rel. Des. Marcos Vinícius, julgado em 10/02/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1513,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1799,
+      "fim": 1896,
+      "trecho": "Agravo de Instrumento nº 2204567-88.2021.8.26.0000, Rel. Des. Helena Souza, julgado em 15/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2096,
+      "fim": 2122,
+      "trecho": "artigo 927 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2190,
+      "fim": 2217,
+      "trecho": "Acórdão nº 998877-X-2023-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2816,
+      "fim": 2906,
+      "trecho": "Apelação Cível nº 3005566-22.2020.8.26.0000, Rel. Des. Ricardo Lima, julgado em 20/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

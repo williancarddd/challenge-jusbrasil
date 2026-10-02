@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0524",
+  "citacoes": [
+    {
+      "inicio": 147,
+      "fim": 212,
+      "trecho": "jurisprudência consolidada deste Tribunal de Justiça de São Paulo",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 684,
+      "fim": 729,
+      "trecho": "artigo 921, § 4º, do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 979,
+      "fim": 1023,
+      "trecho": "norma prevista no artigo 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1282,
+      "fim": 1399,
+      "trecho": "Agravo de Instrumento nº 2204581-12.2023.8.26.0000, relatado pelo Desembargador Marcos Vinícius Alencar em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1587,
+      "fim": 1630,
+      "trecho": "orientações do Conselho Nacional de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1587,
+      "fim": 1691,
+      "trecho": "orientações do Conselho Nacional de Justiça sobre a celeridade processual e a vedação ao processo eterno",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1834,
+      "fim": 1941,
+      "trecho": "Apelação Cível nº 1005432-88.2022.8.26.0100, julgado em 10/11/2023 pela Relatora Dra. Beatriz Helena Salles",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2107,
+      "fim": 2124,
+      "trecho": "Súmula 150 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2487,
+      "fim": 2500,
+      "trecho": "art. 921, CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2760,
+      "fim": 2778,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

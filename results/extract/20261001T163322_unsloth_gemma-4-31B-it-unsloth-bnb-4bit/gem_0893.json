@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0893",
+  "citacoes": [
+    {
+      "inicio": 606,
+      "fim": 621,
+      "trecho": "Lei 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 770,
+      "fim": 809,
+      "trecho": "Lei 8.429/92, artigo 1º, §§ 1º, 2º e 3º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1095,
+      "fim": 1136,
+      "trecho": "jurisprudência consolidada deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1275,
+      "fim": 1350,
+      "trecho": "AC 5009876-12.2022.4.04.0000, Rel. Des. Marcos Rocha, julgado em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1441,
+      "fim": 1458,
+      "trecho": "Súmula 123 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1707,
+      "fim": 1725,
+      "trecho": "Lei de Improbidade",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1877,
+      "fim": 1894,
+      "trecho": "REsp 1.999.888/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1980,
+      "fim": 2014,
+      "trecho": "Protocolo de Gestão Pública 2024-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2211,
+      "fim": 2295,
+      "trecho": "Agravo Interno 5004433-22.2023.4.04.0000, Rel. Des. Ana Costa, julgado em 10/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0522",
+  "citacoes": [
+    {
+      "inicio": 471,
+      "fim": 494,
+      "trecho": "art. 3º da Lei 8.666/93",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1007,
+      "fim": 1024,
+      "trecho": "REsp 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1138,
+      "fim": 1151,
+      "trecho": "Lei 14.133/21",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1428,
+      "fim": 1470,
+      "trecho": "orientações do Tribunal de Contas da União",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1634,
+      "fim": 1716,
+      "trecho": "AgInt no AREsp 987.654/RJ, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1912,
+      "fim": 1935,
+      "trecho": "art. 10 da Lei 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2221,
+      "fim": 2261,
+      "trecho": "Súmula 123-STJ-X (Identificador Interno)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2556,
+      "fim": 2586,
+      "trecho": "entendimento pacificado do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0389",
+  "citacoes": [
+    {
+      "inicio": 616,
+      "fim": 642,
+      "trecho": "art. 216-A da Lei 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 880,
+      "fim": 906,
+      "trecho": "art. 1.238 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1104,
+      "fim": 1190,
+      "trecho": "AC 5001234-88.2021.4.04.0001, relatado pelo Desembargador Ricardo Mendes em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1331,
+      "fim": 1351,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1379,
+      "fim": 1396,
+      "trecho": "REsp 1.998.776/SC",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1556,
+      "fim": 1597,
+      "trecho": "decisão proferida no Processo ID-998877-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1907,
+      "fim": 1999,
+      "trecho": "Agravo 5005544-11.2020.4.04.0000, de relatoria do Desembargador Carlos Alberto em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

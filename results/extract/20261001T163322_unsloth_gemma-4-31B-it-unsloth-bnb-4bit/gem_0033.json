@@ -1,0 +1,32 @@
+{
+  "documento_id": "gem_0033",
+  "citacoes": [
+    {
+      "inicio": 835,
+      "fim": 874,
+      "trecho": "Constituição Federal, no seu artigo 227",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1443,
+      "fim": 1474,
+      "trecho": "TST-ARR-45678-12.2021.5.04.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2162,
+      "fim": 2210,
+      "trecho": "Súmula Interna de Proteção Parental SIP-TST-99-X",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

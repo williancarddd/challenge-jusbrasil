@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0505",
+  "citacoes": [
+    {
+      "inicio": 384,
+      "fim": 407,
+      "trecho": "art. 40 da Lei 6.830/80",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 987,
+      "fim": 1065,
+      "trecho": "REsp 1.234.567/SP sob a relatoria do Ministro Dr. Aurélio Mendes em 15/03/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1082,
+      "fim": 1108,
+      "trecho": "Código Tributário Nacional",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1213,
+      "fim": 1230,
+      "trecho": "Súmula 123 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1508,
+      "fim": 1587,
+      "trecho": "AgInt no AREsp 987.654/RJ julgado em 10/11/2022 pelo Ministro Dr. Cláudio Rocha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1716,
+      "fim": 1740,
+      "trecho": "art. 206 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1883,
+      "fim": 1913,
+      "trecho": "Enunciado Interno 405-STJ/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2032,
+      "fim": 2056,
+      "trecho": "regimento interno do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2662,
+      "fim": 2708,
+      "trecho": "jurisprudência pacificada desta Corte Superior",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0440",
+  "citacoes": [
+    {
+      "inicio": 140,
+      "fim": 182,
+      "trecho": "Agravo em Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 671,
+      "fim": 727,
+      "trecho": "Lei nº 14.133/2021, em seu art. 124, inciso II, alínea d",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 928,
+      "fim": 991,
+      "trecho": "AgInt no AREsp 888.999/RJ (Rel. Min. João Silva, j. 10/05/2023)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1275,
+      "fim": 1299,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1444,
+      "fim": 1496,
+      "trecho": "REsp 555.444/DF (Rel. Min. Ana Costa, j. 12/08/2022)",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1609,
+      "fim": 1658,
+      "trecho": "Lei nº 8.666/1993 no art. 65, inciso II, alínea d",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1756,
+      "fim": 1773,
+      "trecho": "Súmula 400 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2075,
+      "fim": 2109,
+      "trecho": "Acórdão ID-998877-X deste Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

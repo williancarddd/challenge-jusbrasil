@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0925",
+  "citacoes": [
+    {
+      "inicio": 666,
+      "fim": 693,
+      "trecho": "Lei nº 12.032/2009, art. 2º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 891,
+      "fim": 918,
+      "trecho": "Lei nº 12.016/2009, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1322,
+      "fim": 1358,
+      "trecho": "Agravo Regimental no MS nº 28.451/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1501,
+      "trecho": "Constituição Federal, art. 5º, LV",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1787,
+      "fim": 1826,
+      "trecho": "Recurso Especial Eleitoral nº 15.200/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1954,
+      "fim": 2000,
+      "trecho": "doutrina especializada sobre Direito Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2137,
+      "fim": 2154,
+      "trecho": "Súmula 421 do STF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2347,
+      "fim": 2404,
+      "trecho": "Protocolo Interno de Gestão Administrativa - PIGA-2023-04",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2545,
+      "fim": 2566,
+      "trecho": "jurisprudência do TSE",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0167",
+  "citacoes": [
+    {
+      "inicio": 755,
+      "fim": 793,
+      "trecho": "artigo 312 do Código de Processo Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1051,
+      "fim": 1112,
+      "trecho": "HC 543.210/MG, Rel. Min. Marco Aurélio, julgado em 10/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1468,
+      "fim": 1488,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1545,
+      "fim": 1615,
+      "trecho": "julgado RHC 98.765/RJ, Rel. Min. Sérgio Jardine, julgado em 12/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1852,
+      "fim": 1867,
+      "trecho": "Lei 13.964/2019",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1967,
+      "fim": 1998,
+      "trecho": "Precedente Interno STJ-2023-XPT",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2182,
+      "fim": 2199,
+      "trecho": "Súmula 442 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

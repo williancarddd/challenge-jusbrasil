@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0194",
+  "citacoes": [
+    {
+      "inicio": 351,
+      "fim": 381,
+      "trecho": "artigo 216-A da Lei 6.015/1973",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1007,
+      "fim": 1078,
+      "trecho": "REsp 1.892.304/SP, relatado pelo Ministro Aurélio Valente em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1374,
+      "fim": 1412,
+      "trecho": "artigo 384 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1543,
+      "fim": 1596,
+      "trecho": "jurisprudência do Tribunal de Justiça de Minas Gerais",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1681,
+      "fim": 1718,
+      "trecho": "Agravo de Instrumento 1.000.456-12/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1916,
+      "fim": 1936,
+      "trecho": "Provimento 65 do CNJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2149,
+      "fim": 2186,
+      "trecho": "Instrução Normativa Interna 88-X/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2466,
+      "fim": 2479,
+      "trecho": "lei registral",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2484,
+      "fim": 2505,
+      "trecho": "jurisprudência pátria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2699,
+      "fim": 2711,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

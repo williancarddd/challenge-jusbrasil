@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0726",
+  "citacoes": [
+    {
+      "inicio": 661,
+      "fim": 676,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 814,
+      "fim": 848,
+      "trecho": "art. 62, inciso V, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1231,
+      "fim": 1304,
+      "trecho": "REsp 1.234.567/SP, relatado pelo Ministro Dr. Alberto Silva em 15/03/2018",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1795,
+      "fim": 1887,
+      "trecho": "AgInt no AREsp 987.654/RJ, julgado em 10/11/2020 sob relatoria do Ministro Dr. Carlos Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2008,
+      "fim": 2029,
+      "trecho": "jurisprudência do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2147,
+      "fim": 2183,
+      "trecho": "art. 523 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2498,
+      "fim": 2580,
+      "trecho": "Recurso Especial 555.444/MG, relatado pelo Ministro Dr. João Pereira em 22/06/2019",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2954,
+      "fim": 2972,
+      "trecho": "legislação vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

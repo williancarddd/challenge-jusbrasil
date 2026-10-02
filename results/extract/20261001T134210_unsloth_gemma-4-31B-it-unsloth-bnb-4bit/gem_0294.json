@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0294",
+  "citacoes": [
+    {
+      "inicio": 592,
+      "fim": 618,
+      "trecho": "art. 1.583 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1040,
+      "fim": 1066,
+      "trecho": "RR-12345-67.2022.5.02.0001",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1216,
+      "fim": 1236,
+      "trecho": "Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1459,
+      "fim": 1490,
+      "trecho": "Ag-AIRR-98765-43.2021.5.15.0000",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1671,
+      "fim": 1695,
+      "trecho": "Lei 13.058/2014, art. 1º",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1843,
+      "fim": 1930,
+      "trecho": "decisão recorrida, sob a relatoria do Ministro Dr. Alencar Silva, em 12 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2032,
+      "fim": 2067,
+      "trecho": "Precedente Interno TST-XPTO-2023-09",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2181,
+      "fim": 2205,
+      "trecho": "normas protetivas do ECA",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

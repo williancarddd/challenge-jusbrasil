@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0756",
+  "citacoes": [
+    {
+      "inicio": 320,
+      "fim": 351,
+      "trecho": "artigo 216-A da Lei nº 6.015/73",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 669,
+      "fim": 697,
+      "trecho": "artigo 1.198 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1065,
+      "fim": 1151,
+      "trecho": "RR-12345-67.2022.5.00.0000, relatado pelo Ministro Aurélio Silva em 12 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1342,
+      "fim": 1367,
+      "trecho": "Lei de Registros Públicos",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1494,
+      "fim": 1590,
+      "trecho": "Processo TST-XPTO-999, julgado em 20 de agosto de 2021, sob a relatoria da Ministra Clara Mendes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1666,
+      "fim": 1692,
+      "trecho": "jurisprudência consolidada",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1861,
+      "fim": 1878,
+      "trecho": "Súmula 375 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2158,
+      "fim": 2182,
+      "trecho": "legislação civil vigente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

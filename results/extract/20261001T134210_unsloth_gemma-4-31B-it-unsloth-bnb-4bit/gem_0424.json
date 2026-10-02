@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0424",
+  "citacoes": [
+    {
+      "inicio": 368,
+      "fim": 383,
+      "trecho": "Lei de Locações",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 456,
+      "fim": 489,
+      "trecho": "art. 59, § 1º, da Lei nº 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 605,
+      "fim": 625,
+      "trecho": "art. 37 da mesma lei",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 644,
+      "fim": 718,
+      "trecho": "REsp 1.892.341/SP, relatado pelo Ministro Dr. Aurélio Mendes em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 907,
+      "fim": 942,
+      "trecho": "art. 62, inciso II, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1045,
+      "fim": 1087,
+      "trecho": "jurisprudência do STJ em julgados recentes",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1214,
+      "fim": 1293,
+      "trecho": "AgInt no AREsp 456.789/RJ, decidido em 14/08/2022 pelo Ministro Dr. Silas Rocha",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1482,
+      "fim": 1511,
+      "trecho": "Parecer Técnico STJ-V424-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1696,
+      "fim": 1720,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1891,
+      "fim": 1962,
+      "trecho": "REsp 2.101.554/MG, julgado em 10/01/2024 pelo Ministro Dr. Hugo Valente",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

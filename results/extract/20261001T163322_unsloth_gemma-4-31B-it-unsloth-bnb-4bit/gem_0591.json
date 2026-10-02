@@ -1,0 +1,50 @@
+{
+  "documento_id": "gem_0591",
+  "citacoes": [
+    {
+      "inicio": 359,
+      "fim": 397,
+      "trecho": "artigo 300 do Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 883,
+      "fim": 975,
+      "trecho": "Processo 0001234-56.2023.5.03.0000, relatado pelo Desembargador Marcos Aurélio em 15/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1226,
+      "fim": 1262,
+      "trecho": "Lei nº 14.133/2021 em seu artigo 124",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1590,
+      "fim": 1688,
+      "trecho": "Julgado 98765-43.2022.5.03.0010, de relatoria da Desembargadora Helena Silva, datado de 10/11/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2198,
+      "fim": 2222,
+      "trecho": "artigo 300, § 3º, do CPC",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

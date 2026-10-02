@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0747",
+  "citacoes": [
+    {
+      "inicio": 524,
+      "fim": 542,
+      "trecho": "Lei nº 14.230/2021",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 603,
+      "fim": 636,
+      "trecho": "art. 1º, § 2º, da Lei nº 8.429/92",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 856,
+      "fim": 945,
+      "trecho": "Recurso Especial nº 1.234.567/MG, relatado pelo Ministro Dr. Alisson Montez em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1237,
+      "fim": 1258,
+      "trecho": "jurisprudência do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1367,
+      "fim": 1477,
+      "trecho": "Processo Administrativo Disciplinar nº 987/2022-TST-SP, julgado em 14/08/2023 pela Relatora Dra. Beatriz Clara",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1604,
+      "fim": 1637,
+      "trecho": "Lei de Improbidade Administrativa",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1767,
+      "fim": 1823,
+      "trecho": "Agravo de Instrumento nº 55.443/RS, datado de 20/11/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "documento_id": "gen_n2_012",
+  "citacoes": [
+    {
+      "inicio": 1910,
+      "fim": 1913,
+      "trecho": "and",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3158,
+      "fim": 3174,
+      "trecho": "RMS Nº  67109-TO",
+      "tipo": "jurisprudencia",
+      "classificacao": "real",
+      "confianca": null,
+      "resolucao": {
+        "id_canonico": "2675221299"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0951",
+  "citacoes": [
+    {
+      "inicio": 664,
+      "fim": 697,
+      "trecho": "art. 1.583, § 2º, do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 966,
+      "fim": 992,
+      "trecho": "Habeas Corpus nº 99.887/DF",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1379,
+      "fim": 1426,
+      "trecho": "art. 19 do Estatuto da Criança e do Adolescente",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1545,
+      "fim": 1647,
+      "trecho": "Apelação Cível nº 4567890-12.2022.8.00.0000, relatado pelo Ministro Dr. Alisson Ferreira em 14/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1937,
+      "fim": 1985,
+      "trecho": "Protocolo de Gestão Familiar Militar nº 2024-X91",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2112,
+      "fim": 2142,
+      "trecho": "Recurso Especial nº 1234567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2272,
+      "fim": 2338,
+      "trecho": "princípio da prioridade absoluta, previsto na Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

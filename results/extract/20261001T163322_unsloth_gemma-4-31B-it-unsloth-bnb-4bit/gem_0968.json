@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0968",
+  "citacoes": [
+    {
+      "inicio": 714,
+      "fim": 751,
+      "trecho": "Código Penal Militar, em seu art. 125",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 970,
+      "fim": 1028,
+      "trecho": "jurisprudência consolidada do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1206,
+      "fim": 1219,
+      "trecho": "HC 123.456/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1350,
+      "fim": 1380,
+      "trecho": "Recurso Especial nº 789.101/MG",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1805,
+      "fim": 1859,
+      "trecho": "Processo Administrativo Disciplinar nº 5544-X/2022-STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1994,
+      "fim": 2018,
+      "trecho": "art. 107 do Código Penal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2432,
+      "fim": 2456,
+      "trecho": "Regimento Interno do STM",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documento_id": "gem_0073",
+  "citacoes": [
+    {
+      "inicio": 749,
+      "fim": 775,
+      "trecho": "art. 6º da Lei 11.101/2005",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1233,
+      "fim": 1330,
+      "trecho": "Processo 0001234-56.2021.5.03.0000, sob relatoria do Desembargador Marcos Vinícius, em 12/05/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1476,
+      "fim": 1514,
+      "trecho": "Agravo de Instrumento AIRR-100200-2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1856,
+      "fim": 1885,
+      "trecho": "Lei de Recuperação e Falência",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2006,
+      "fim": 2023,
+      "trecho": "REsp 1.500.400/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2168,
+      "fim": 2192,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "documento_id": "gem_0148",
+  "citacoes": [
+    {
+      "inicio": 641,
+      "fim": 677,
+      "trecho": "art. 9º, inciso III, da Lei 8.245/91",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 830,
+      "fim": 848,
+      "trecho": "Lei do Inquilinato",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1209,
+      "fim": 1302,
+      "trecho": "Apelação Cível nº 1002345-67.2023.8.26.0001, relatado pelo Des. Marcos Vinícius em 12/05/2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1495,
+      "fim": 1531,
+      "trecho": "art. 3º, inciso VII, da Lei 8.009/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1544,
+      "fim": 1590,
+      "trecho": "jurisprudência do Superior Tribunal de Justiça",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1832,
+      "fim": 1856,
+      "trecho": "art. 422 do Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2154,
+      "fim": 2171,
+      "trecho": "Súmula 421 do STJ",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

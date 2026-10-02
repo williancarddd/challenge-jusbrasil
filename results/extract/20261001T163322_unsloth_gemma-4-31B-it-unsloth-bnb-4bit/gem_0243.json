@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0243",
+  "citacoes": [
+    {
+      "inicio": 536,
+      "fim": 582,
+      "trecho": "Constituição Federal, em seu art. 7º, inciso X",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 976,
+      "fim": 1059,
+      "trecho": "RR-10293-84.2021.5.02.0001 , relatado pelo Ministro Dr. Aurélio Silva em 15/03/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1203,
+      "trecho": "Lei 11.101/2005, no art. 47",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1378,
+      "fim": 1408,
+      "trecho": "Lei de Recuperação e Falências",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1522,
+      "fim": 1617,
+      "trecho": "Ag-AIRR-556677-12.2020.5.04.0000 , sob a relatoria do Ministro Dr. Cláudio Mendes em 10/11/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1763,
+      "fim": 1787,
+      "trecho": "Código de Processo Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1930,
+      "fim": 1964,
+      "trecho": "Precedente Interno TST-RJ-2023-X99",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2318,
+      "fim": 2369,
+      "trecho": "RR-998877-44.2019.5.15.0000 , julgado em 22/06/2020",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

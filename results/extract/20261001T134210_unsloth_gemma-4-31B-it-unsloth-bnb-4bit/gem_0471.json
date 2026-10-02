@@ -1,0 +1,86 @@
+{
+  "documento_id": "gem_0471",
+  "citacoes": [
+    {
+      "inicio": 589,
+      "fim": 629,
+      "trecho": "artigo 37, § 6º, da Constituição Federal",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 863,
+      "fim": 895,
+      "trecho": "Recurso Especial nº 1.234.567/SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1307,
+      "fim": 1336,
+      "trecho": "Código de Trânsito Brasileiro",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1484,
+      "fim": 1521,
+      "trecho": "artigo 29, inciso II, da Lei 9.503/97",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1578,
+      "fim": 1691,
+      "trecho": "Apelação Cível nº 0001234-56.2022.8.26.0000, relatado pelo Desembargador Marcos Vinícius em 10 de outubro de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1828,
+      "fim": 1840,
+      "trecho": "Código Civil",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1879,
+      "fim": 1906,
+      "trecho": "artigo 186 da Lei 10.406/02",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2115,
+      "fim": 2133,
+      "trecho": "Súmula 451 do TJSP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2226,
+      "fim": 2276,
+      "trecho": "Protocolo de Análise de Riscos Viários PRV-2023-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

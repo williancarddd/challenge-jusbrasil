@@ -1,0 +1,95 @@
+{
+  "documento_id": "gem_0422",
+  "citacoes": [
+    {
+      "inicio": 615,
+      "fim": 632,
+      "trecho": "artigo 189 da CLT",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 922,
+      "fim": 959,
+      "trecho": "jurisprudência deste Egrégio Tribunal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1176,
+      "fim": 1240,
+      "trecho": "entendimento do Tribunal de Justiça de São Paulo sobre a matéria",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1353,
+      "fim": 1482,
+      "trecho": "julgamento da Apelação Cível nº 1004567-89.2022.8.26.0000, relatada pelo Desembargador Marcos Aurélio Silva em 15 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1426,
+      "fim": 1482,
+      "trecho": "Desembargador Marcos Aurélio Silva em 15 de maio de 2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1908,
+      "fim": 1925,
+      "trecho": "Súmula 448 do TST",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2052,
+      "fim": 2102,
+      "trecho": "Norma Regulamentadora 15 do Ministério do Trabalho",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2352,
+      "fim": 2443,
+      "trecho": "Acórdão nº 998877-X-2021, de relatoria da Desa. Helena Vasconcelos em 10 de outubro de 2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2603,
+      "fim": 2646,
+      "trecho": "Diretriz Administrativa Interna DAI-2024-SP",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 3115,
+      "fim": 3140,
+      "trecho": "Lei Orgânica do Município",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}

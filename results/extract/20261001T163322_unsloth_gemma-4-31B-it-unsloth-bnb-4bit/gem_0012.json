@@ -1,0 +1,77 @@
+{
+  "documento_id": "gem_0012",
+  "citacoes": [
+    {
+      "inicio": 599,
+      "fim": 637,
+      "trecho": "art. 23-B da Lei Complementar nº 64/90",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 907,
+      "fim": 962,
+      "trecho": "entendimento consolidado do Tribunal Superior Eleitoral",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1131,
+      "fim": 1212,
+      "trecho": "precedente AgR-AI nº 12345-67/DF, Rel. Min. Octávio Mendes, julgado em 12/05/2021",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1499,
+      "fim": 1585,
+      "trecho": "Recurso Especial Eleitoral nº 98765-43/SP, Rel. Min. Clara Luz, decidido em 18/08/2022",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1738,
+      "fim": 1765,
+      "trecho": "art. 107 da Lei nº 4.737/65",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 1917,
+      "fim": 1959,
+      "trecho": "jurisprudência do Supremo Tribunal Federal",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2126,
+      "fim": 2156,
+      "trecho": "Instrução Normativa TSE-X-2023",
+      "tipo": "jurisprudencia",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    },
+    {
+      "inicio": 2443,
+      "fim": 2471,
+      "trecho": "Constituição Federal de 1988",
+      "tipo": "lei",
+      "classificacao": "incompleta",
+      "confianca": null,
+      "resolucao": null
+    }
+  ]
+}
