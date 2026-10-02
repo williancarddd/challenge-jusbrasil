@@ -9,6 +9,14 @@ def main() -> None:
     imprimir_avaliacao(resultados)
     salvar_avaliacao(resultados)
 
+def main_compat() -> None:
+    pastas = extrair()
+    resultados = buscar(pastas)
+    imprimir_avaliacao(resultados)
+    salvar_avaliacao(resultados)
+
+    return resultados
+
 
 if __name__ == "__main__":
     main()

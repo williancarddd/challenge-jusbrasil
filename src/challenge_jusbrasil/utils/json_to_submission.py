@@ -29,6 +29,26 @@ def encode(doc: dict) -> str:
     return "|".join(partes) if partes else "-"   # "-" = sem citações (Kaggle rejeita célula vazia)
 
 
+def converter(pasta: Path, destino: str | None = None) -> None:
+    # if len(sys.argv) < 2:
+        # sys.exit("uso: python json_to_submission.py <pasta_com_jsons> [submission.csv]")
+    # pasta = Path(sys.argv[1])
+    destino = Path("submission.csv") if destino is None > 2 else Path(destino)
+    arquivos = sorted(pasta.glob("*.json"))
+    if not arquivos:
+        sys.exit(f"nenhum .json encontrado em {pasta}")
+    linhas = []
+    for arq in arquivos:
+        doc = json.loads(arq.read_text(encoding="utf-8"))
+        documento_id = doc.get("documento_id") or arq.stem
+        linhas.append((documento_id, encode(doc)))
+    with destino.open("w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["documento_id", "citacoes"])
+        w.writerows(linhas)
+    print(f"{destino}: {len(linhas)} documentos.")
+
+
 def main() -> None:
     if len(sys.argv) < 2:
         sys.exit("uso: python json_to_submission.py <pasta_com_jsons> [submission.csv]")

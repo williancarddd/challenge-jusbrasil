@@ -5,7 +5,8 @@ from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parents[2]
-TXT_DIR = ROOT / "data" / "txt"
+# TXT_DIR = ROOT / "data" / "txt"
+TXT_DIR = Path(os.getenv('TXT_DIR'))
 LORA_BASE = "unsloth/Qwen3-8B-unsloth-bnb-4bit"
 LORA_REPO = "Morsoleto/Qwen3-8B-cacador-lora"
 GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
@@ -87,9 +88,7 @@ STUDENTS: list[dict[str, Any]] = [
 
 MODELS: list[dict[str, Any]] = [
     {**teacher, "role": "teacher"} for teacher in TEACHERS
-] + [
-    {**student, "role": "student"} for student in STUDENTS
-]
+] + [{**student, "role": "student"} for student in STUDENTS]
 
 for _model in MODELS:
     extra = dict(_model.get("vllm") or {})
