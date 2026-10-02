@@ -7,8 +7,8 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[2]
 # TXT_DIR = ROOT / "data" / "txt"
 TXT_DIR = Path(os.getenv('TXT_DIR'))
-LORA_BASE = "unsloth/Qwen3-8B-unsloth-bnb-4bit"
-LORA_REPO = "Morsoleto/Qwen3-8B-cacador-lora"
+LORA_BASE = os.getenv("LORA_BASE", "/app/models/Qwen3-8B")
+LORA_REPO = os.getenv("LORA_REPO", "results/train/adapter")
 GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
 RESULTS_DIR = ROOT / "results"
 
@@ -69,7 +69,7 @@ STUDENTS: list[dict[str, Any]] = [
         "role": "student",
     },
     {
-        "name": "unsloth/Qwen3-8B-unsloth-bnb-4bit",
+        "name": LORA_BASE,
         "family": "Qwen",
         "parameters": "8B",
         "quantization": "bnb-4bit",
@@ -162,19 +162,19 @@ def teacher_model() -> dict[str, Any]:
 
 def modelo_padrao() -> dict[str, Any]:
     for modelo in MODELS:
-        if "Qwen3-8B" in modelo["name"]:
+        if modelo["name"] == LORA_BASE or "Qwen3-8B" in modelo["name"]:
             return modelo
     raise SystemExit("modelo padrão ausente: Qwen3-8B")
 
 
 def lora_dir() -> str:
-    bruto = os.environ.get("LORA_PATH", "").strip()
-    if not bruto:
-        return LORA_REPO
+    bruto = os.environ.get("LORA_PATH", "").strip() or os.environ.get("LORA_REPO", "").strip() or LORA_REPO
     caminho = Path(bruto)
-    if not (caminho / "adapter_config.json").is_file():
-        raise SystemExit(f"adaptador LoRA ausente: {caminho}")
-    return str(caminho)
+    if caminho.exists() and caminho.is_dir():
+        if not (caminho / "adapter_config.json").is_file():
+            raise SystemExit(f"adaptador LoRA ausente: {caminho}")
+        return str(caminho)
+    return bruto
 
 
 def engine_kwargs(model: dict[str, Any]) -> dict[str, Any]:
