@@ -19,7 +19,7 @@ def modelo_aluno() -> dict[str, Any]:
     for modelo in MODELS:
         if "Qwen3-8B" in modelo["name"]:
             return modelo
-    raise SystemExit("modelo gemma 12b ausente em settings")
+    raise SystemExit("modelo Qwen3-8B ausente em settings")
 
 
 def ler_jsonl(path: Path) -> list[dict[str, Any]]:

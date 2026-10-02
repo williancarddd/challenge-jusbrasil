@@ -6,8 +6,8 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[2]
 TXT_DIR = ROOT / "data" / "txt"
-LORA_BASE = "unsloth/gemma-3-12b-it-unsloth-bnb-4bit"
-LORA_REPO = "williancarddd/gemma-3-12b-it-cacador-lora"
+LORA_BASE = "unsloth/Qwen3-8B-unsloth-bnb-4bit"
+LORA_REPO = "Morsoleto/Qwen3-8B-cacador-lora"
 GOLDENSET_PATH = ROOT / "data" / "goldenset.csv"
 RESULTS_DIR = ROOT / "results"
 
